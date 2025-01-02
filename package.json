@@ -4,7 +4,7 @@
 	"type": "module",
 	"scripts": {
 		"fix-website": "tsx tooling/index.ts",
-		"format-html": "prettier ./website/html --write",
+		"format-html": "prettier \"website/**/*.html\" --write",
 		"localhost": "npx http-server ./website -p 9000"
 	},
 	"devDependencies": {
