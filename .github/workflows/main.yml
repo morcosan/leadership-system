@@ -1,0 +1,40 @@
+name: main
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  Check_Branch:
+    runs-on: ubuntu-latest
+    steps:
+      - if: ${{ github.ref_name != 'main' }}
+        run: |
+          echo "Pipeline can only run on main"
+          exit 1
+
+  #-------------------------------------------#
+
+  Create_Pages:
+    needs: [Check_Branch]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: website
+
+  Deploy_Pages:
+    needs: [Create_Pages]
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.Deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: Deployment
