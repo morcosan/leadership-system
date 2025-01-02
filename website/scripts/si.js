@@ -1,25 +1,11 @@
 
   const FuseSearchData = [
   {
-    "text": "For demo purposes, these docs will use a hypothetical SaaS company that tries to embody the free spirit of capitalism. ",
-    "type": "contentBlock",
-    "pageName": "Leadership System",
-    "category": "Leadership System",
-    "url": "../html/leadership-system-cnI1ov97-cnI1ov97#search-fe307ead-6de3-4f38-b9ad-4f56fb5b58f8"
-  },
-  {
-    "text": "The structure of these docs is what really matter, not the hypothetical content.",
-    "type": "contentBlock",
-    "pageName": "Leadership System",
-    "category": "Leadership System",
-    "url": "../html/leadership-system-cnI1ov97-cnI1ov97#search-35ab358d-e80c-4da9-90ab-ea5a2e83b876"
-  },
-  {
     "text": "",
     "type": "contentBlock",
     "pageName": "Leadership System",
     "category": "Leadership System",
-    "url": "../html/leadership-system-cnI1ov97-cnI1ov97#search-f178c61b-5059-48b2-ae18-183ba7c5de2e"
+    "url": "../html/leadership-system-cnI1ov97-cnI1ov97#search-40f274ca-1814-48fb-92d6-d5a7e6728175"
   },
   {
     "text": "Leadership System",
