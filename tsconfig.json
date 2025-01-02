@@ -1,0 +1,37 @@
+{
+	// https://www.typescriptlang.org/tsconfig
+	"compilerOptions": {
+		// Type Checking
+		"strict": true,
+		"strictNullChecks": true,
+
+		// Modules
+		"baseUrl": ".",
+		"module": "esnext",
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"types": ["node", "resize-observer-browser"],
+		"paths": {},
+
+		// Emit
+		"importHelpers": true,
+		"sourceMap": true,
+
+		// JavaScript Support
+		"allowJs": true,
+
+		// Interop Constraints
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true,
+
+		// Language and Environment
+		"jsx": "preserve",
+		"target": "esnext",
+		"lib": ["esnext", "dom", "dom.iterable", "scripthost"],
+
+		// Completeness
+		"skipLibCheck": true
+	},
+	"include": ["./**/*.ts"],
+	"exclude": ["node_modules"]
+}

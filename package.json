@@ -1,0 +1,15 @@
+{
+	"name": "change-system",
+	"version": "1.0.0",
+	"type": "module",
+	"scripts": {
+		"fix-website": "tsx tooling/index.ts",
+		"format-html": "prettier ./website/html --write",
+		"localhost": "npx http-server ./website -p 9000"
+	},
+	"devDependencies": {
+		"@types/node": "^20.8.7",
+		"prettier": "^3.0.3",
+		"tsx": "^3.14.0"
+	}
+}
