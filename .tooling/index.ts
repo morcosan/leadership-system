@@ -3,9 +3,13 @@ import { getFilePathsFromDir } from './_utils'
 
 const fixHtml = () => {
 	const filePaths = [...getFilePathsFromDir('./website/html'), './website/index.html']
+	let homePath = ''
 
 	filePaths.forEach((path: string) => {
-		const dots = path.includes('index.html') ? '.' : '..'
+		if (path.includes('/html/leadership-system')) {
+			homePath = path.replace(/.*?\/html\//, './html/')
+		}
+
 		let code = fs.readFileSync(path, 'utf8')
 
 		code = code // Fix Supernova code
@@ -18,7 +22,11 @@ const fixHtml = () => {
 			.replace(/\sloadSandboxes\(sandboxConfigUrl\)/g, `//loadSandboxes(sandboxConfigUrl)`)
 
 		code = code // Fix WebPageDownloader paths
-			.replace(/href="\/css2"/g, `href="${dots}/styles/css2.css"`)
+			.replace(/href="\/css2"/g, `href="../styles/css2.css"`)
+
+		if (path.includes('index.html')) {
+			code = code.replace(/window.location.href = ''/, `window.location.href = '${homePath}'`)
+		}
 
 		fs.writeFileSync(path, code)
 	})
@@ -30,8 +38,8 @@ const fixJs = () => {
 		let code = fs.readFileSync(path, 'utf8')
 
 		code = code // Fix WebPageDownloader paths
-			.replace(/\/latest\/leadership-system/g, '/leadership-system')
-			.replace(/\/latest\/.*?\//g, '/html/')
+			.replace(/\/latest\/leadership-system/g, '../html/leadership-system')
+			.replace(/\/latest\/.*?\//g, '../html/')
 
 		fs.writeFileSync(path, code)
 	}
@@ -61,7 +69,7 @@ const copyAssets = () => {
 	})
 }
 
+copyAssets()
+renameFiles()
 fixHtml()
 fixJs()
-renameFiles()
-copyAssets()
