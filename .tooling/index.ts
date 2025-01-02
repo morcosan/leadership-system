@@ -5,6 +5,7 @@ const fixHtml = () => {
 	const filePaths = [...getFilePathsFromDir('./website/html'), './website/index.html']
 
 	filePaths.forEach((path: string) => {
+		const dots = path.includes('index.html') ? '.' : '..'
 		let code = fs.readFileSync(path, 'utf8')
 
 		code = code // Fix Supernova code
@@ -17,7 +18,7 @@ const fixHtml = () => {
 			.replace(/\sloadSandboxes\(sandboxConfigUrl\)/g, `//loadSandboxes(sandboxConfigUrl)`)
 
 		code = code // Fix WebPageDownloader paths
-			.replaceAll(`href="/css2"`, `href="/styles/css2.css"`)
+			.replace(/href="\/css2"/g, `href="${dots}/styles/css2.css"`)
 
 		fs.writeFileSync(path, code)
 	})
@@ -40,6 +41,7 @@ const fixJs = () => {
 
 		code = code // Fix Supernova code
 			.replace(/window.sandboxEngine.listener/g, 'window.sandboxEngine')
+			.replace(/\r\n?/g, '\n') // Fix LF
 
 		fs.writeFileSync(path, code)
 	}
@@ -52,10 +54,10 @@ const renameFiles = () => {
 }
 
 const copyAssets = () => {
-	const filePaths = getFilePathsFromDir('./tooling/assets')
+	const filePaths = getFilePathsFromDir('./.tooling/assets')
 
 	filePaths.forEach((path: string) => {
-		fs.copyFile(path, path.replace('tooling/assets', 'website'), () => {})
+		fs.copyFile(path, path.replace('.tooling/assets', 'website'), () => {})
 	})
 }
 

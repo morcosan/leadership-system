@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"type": "module",
 	"scripts": {
-		"fix-website": "tsx tooling/index.ts",
+		"fix-website": "tsx .tooling/index.ts",
 		"format-html": "prettier \"website/**/*.html\" --write",
 		"localhost": "npx http-server ./website -p 9000"
 	},
