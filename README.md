@@ -1,7 +1,9 @@
-This project is based on Supernova docs.
+Demo: https://morco.ro/leadership-system
 
-Due to bugs in their own exporter, this website is downloaded using
+---
+
+This project is based on [Supernova](https://www.supernova.io/) editor.
+
+The content is exported using
 [WebPageDownloader](https://chromewebstore.google.com/detail/web-page-downloader/aeojmgngnebhbjpncamiplkimkbnmpmk)
 extension.
-
-`!important` WebPageDownloader must be run from the homepage to generate the correct index
