@@ -20,6 +20,8 @@ const fixHtml = () => {
 			.replace(/\sloadVersions\(versionUrl\)/g, `//loadVersions(versionUrl)`)
 			.replace(/\sconst sandboxConfigUrl =/g, `//const sandboxConfigUrl =`)
 			.replace(/\sloadSandboxes\(sandboxConfigUrl\)/g, `//loadSandboxes(sandboxConfigUrl)`)
+			.replace(/\s\| Made with Supernova/g, ``)
+			.replace(/Design system documentation, made with ❤️ using Supernova/g, `Made with Supernova`)
 
 		code = code // Fix WebPageDownloader paths
 			.replace(/href="\/css2"/g, `href="../styles/css2.css"`)
