@@ -135,21 +135,56 @@
     "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-0c2d81fd-7afe-4ac7-b113-398437676f94-7"
   },
   {
-    "text": "Leadership",
+    "text": "Communication",
+    "type": "sectionHeader",
+    "pageName": "Intro",
+    "category": "Intro",
+    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-322c0d9e-a47c-4344-aaa5-f1d210553307"
+  },
+  {
+    "text": "Trust is very much based on our interaction and communication.",
+    "type": "contentBlock",
+    "pageName": "Intro",
+    "category": "Intro",
+    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-23253f24-0839-4f58-bcfa-9aa65bc83772"
+  },
+  {
+    "text": "Communication is a complex topic that includes multiple aspects.",
+    "type": "contentBlock",
+    "pageName": "Intro",
+    "category": "Intro",
+    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-23253f24-0839-4f58-bcfa-9aa65bc83772-1"
+  },
+  {
+    "text": "We must understand the different styles of communication that exist.",
+    "type": "contentBlock",
+    "pageName": "Intro",
+    "category": "Intro",
+    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-23253f24-0839-4f58-bcfa-9aa65bc83772-2"
+  },
+  {
+    "text": "We must also understand feedback, appreciation and also apology.",
+    "type": "contentBlock",
+    "pageName": "Intro",
+    "category": "Intro",
+    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-23253f24-0839-4f58-bcfa-9aa65bc83772-3"
+  },
+  {
+    "text": "Coordination",
     "type": "sectionHeader",
     "pageName": "Intro",
     "category": "Intro",
     "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-5d8729ef-3051-470a-a391-dc52f6734b21"
   },
   {
-    "text": "Once we know who and how to trust, we can start moving.",
+    "text": "Once we can manage trust and communication, we can start moving together.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
     "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d"
   },
   {
-    "text": "But to move together, we need to know how. We need to have a leadership.",
+    "text": "That means to coordinate. Fist, we need to decide on our style of leadership.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
@@ -177,34 +212,6 @@
     "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-4"
   },
   {
-    "text": "Communication",
-    "type": "sectionHeader",
-    "pageName": "Intro",
-    "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-944c85ed-b7b9-4474-8539-e473bdbda923"
-  },
-  {
-    "text": "When we say “we must talk”, we must know how to communicate.",
-    "type": "contentBlock",
-    "pageName": "Intro",
-    "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-41f19d8c-4000-4932-8b07-83524b748405"
-  },
-  {
-    "text": "Communication is a complex topic that includes multiple aspects.",
-    "type": "contentBlock",
-    "pageName": "Intro",
-    "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-41f19d8c-4000-4932-8b07-83524b748405-1"
-  },
-  {
-    "text": "It includes feedback, appreciation and also apology.",
-    "type": "contentBlock",
-    "pageName": "Intro",
-    "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-41f19d8c-4000-4932-8b07-83524b748405-2"
-  },
-  {
     "text": "Culture",
     "type": "sectionHeader",
     "pageName": "Intro",
@@ -212,7 +219,7 @@
     "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-358f4288-41c5-4c3d-bd39-31a1f7acb470"
   },
   {
-    "text": "When people have leadership and communication, they create a group culture.",
+    "text": "When there is coordination and communication, there is a group culture.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
@@ -10297,73 +10304,6 @@
     "url": "../html/cognitive-biases-z8CHTXxT"
   },
   {
-    "text": "Leadership = the ability to guide, influence, and inspire individuals or groups toward achieving shared goals or objectives, often through effective communication, decision-making, and fostering collaboration.",
-    "type": "contentBlock",
-    "pageName": "Leadership",
-    "category": "Leadership / Leadership",
-    "url": "../html/leadership-jYlRH09J#search-9f842e95-c1fc-445b-a8f6-19524e696479"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Leadership",
-    "category": "Leadership / Leadership",
-    "url": "../html/leadership-jYlRH09J#search-c98a5efc-f301-485f-8711-3a450e082d09"
-  },
-  {
-    "text": "Leadership",
-    "type": "pageTitle",
-    "pageName": "Leadership",
-    "category": "Leadership / Leadership",
-    "keywords": "Leadership / Leadership",
-    "url": "../html/leadership-jYlRH09J"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Leadership Styles",
-    "category": "Leadership / Leadership Styles",
-    "url": "../html/leadership-styles-NDI1PWik#search-6f109c59-14c8-4243-9b93-091e99a23b24"
-  },
-  {
-    "text": "Leadership Styles",
-    "type": "pageTitle",
-    "pageName": "Leadership Styles",
-    "category": "Leadership / Leadership Styles",
-    "keywords": "Leadership / Leadership Styles",
-    "url": "../html/leadership-styles-NDI1PWik"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Decision Making",
-    "category": "Leadership / Decision Making",
-    "url": "../html/decision-making-7UZRL0TU#search-e85a9c69-2f4e-4414-9a5e-56df0848cd6e"
-  },
-  {
-    "text": "Decision Making",
-    "type": "pageTitle",
-    "pageName": "Decision Making",
-    "category": "Leadership / Decision Making",
-    "keywords": "Leadership / Decision Making",
-    "url": "../html/decision-making-7UZRL0TU"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Sources of Authority",
-    "category": "Leadership / Sources of Authority",
-    "url": "../html/sources-of-authority-bXxId2Xm#search-06e186cc-544f-41fd-8a9e-adff7403d747"
-  },
-  {
-    "text": "Sources of Authority",
-    "type": "pageTitle",
-    "pageName": "Sources of Authority",
-    "category": "Leadership / Sources of Authority",
-    "keywords": "Leadership / Sources of Authority",
-    "url": "../html/sources-of-authority-bXxId2Xm"
-  },
-  {
     "text": "Communication = the exchange of information, ideas, or emotions between individuals or groups through verbal, nonverbal, written, or digital means, aiming to achieve understanding and connection.",
     "type": "contentBlock",
     "pageName": "Communication",
@@ -10384,6 +10324,1358 @@
     "category": "Communication / Communication",
     "keywords": "Communication / Communication",
     "url": "../html/communication-I2tzu1zx"
+  },
+  {
+    "text": "Thinker Style (Analytical)",
+    "type": "sectionHeader",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9bec1750-2184-4638-8cbe-0d13a4a86e54"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-d7df1f34-3330-4137-b1b1-444473038e51"
+  },
+  {
+    "text": "Persister Style (Principled)",
+    "type": "sectionHeader",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-1981381e-f23c-4e6f-b33e-b706ca3d2f60"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-11573f3d-677a-415c-b771-786eff6bccb7"
+  },
+  {
+    "text": "Promoter Style (Actionable)",
+    "type": "sectionHeader",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-7c8a9e71-9166-4755-b09a-aa1ef2764808"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-b5a38c12-4345-40cc-b3c6-35f4039627ab"
+  },
+  {
+    "text": "Harmonizer Style (Relational)",
+    "type": "sectionHeader",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0fe40841-e879-452f-9ac9-e6f5636d3284"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-41539346-1628-4cee-9e53-9b9dd7abf6e2"
+  },
+  {
+    "text": "Imaginer Style (Reflective)",
+    "type": "sectionHeader",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4b4eea7c-11a3-42eb-9607-ec8d4b081b90"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0b12a95c-68aa-4e17-b219-b83b045c0cbb"
+  },
+  {
+    "text": "Rebel Style (Playful)",
+    "type": "sectionHeader",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-d69b30cf-f470-40a8-b6dd-c406f69bfe14"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-341fe800-1691-41fe-847b-2e1f344485d2"
+  },
+  {
+    "text": "Thinker Style = the communication style characterized by logic, precision, and organization. It emphasizes clear, structured, and factual exchanges, focusing on providing and receiving information in a logical and methodical way.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-31af61fa-172c-493e-bf20-b440844eba5f"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-8fe2061e-d50b-45c9-9f6a-fc506ff7b4f6"
+  },
+  {
+    "text": "We prioritize data-driven decision making and clear metrics for success in all initiatives.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78"
+  },
+  {
+    "text": "We structure our communication channels to maximize efficiency and clarity of information flow.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-1"
+  },
+  {
+    "text": "We encourage precise and methodical approaches to project management and execution.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-2"
+  },
+  {
+    "text": "We maintain clear documentation and structured processes for all major operations.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-3"
+  },
+  {
+    "text": "We utilize data visualization and clear reporting structures to communicate complex information.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-4"
+  },
+  {
+    "text": "We implement rigorous quality control measures in our communication protocols.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-5"
+  },
+  {
+    "text": "We maintain organized knowledge bases for efficient information sharing.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-6"
+  },
+  {
+    "text": "We value clear, concise communication that drives measurable results.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-7"
+  },
+  {
+    "text": "We implement structured feedback systems for continuous improvement.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-8"
+  },
+  {
+    "text": "Healthy behaviors:",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-0"
+  },
+  {
+    "text": "Delivering clear and concise information.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-0"
+  },
+  {
+    "text": "Organizing ideas in a logical sequence.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-1"
+  },
+  {
+    "text": "Asking thoughtful and relevant questions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-2"
+  },
+  {
+    "text": "Staying focused on facts and data.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-3"
+  },
+  {
+    "text": "Breaking complex topics into manageable steps.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-4"
+  },
+  {
+    "text": "Using precise and accurate language.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-5"
+  },
+  {
+    "text": "Sticking to the main topic during discussions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-6"
+  },
+  {
+    "text": "Prioritizing efficiency in communication.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-7"
+  },
+  {
+    "text": "Avoiding unnecessary tangents or distractions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-8"
+  },
+  {
+    "text": "Stress-induced behaviors:",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-0"
+  },
+  {
+    "text": "Overloading conversations with excessive details.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-0"
+  },
+  {
+    "text": "Focusing too much on minor issues.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-1"
+  },
+  {
+    "text": "Criticizing others for lack of precision.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-2"
+  },
+  {
+    "text": "Overanalyzing situations, leading to indecision.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-3"
+  },
+  {
+    "text": "Interrupting to correct small inaccuracies.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-4"
+  },
+  {
+    "text": "Using overly complex language unnecessarily.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-5"
+  },
+  {
+    "text": "Repeating points to ensure understanding.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-6"
+  },
+  {
+    "text": "Being overly formal or impersonal.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-7"
+  },
+  {
+    "text": "Losing patience with abstract or emotional input.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-8"
+  },
+  {
+    "text": "Persister Style = the communication style focused on sharing values, principles, and purpose. It emphasizes conviction, dedication, and meaningful dialogue, with a preference for exchanges that align with beliefs and values while seeking recognition for commitment and loyalty.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0f559d67-88c7-4c7d-ad0f-c335d50eb802"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9a285a58-d96d-4625-8901-b0545275c479"
+  },
+  {
+    "text": "We create a culture where values and principles guide decision-making and strategic priorities.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c"
+  },
+  {
+    "text": "We recognize and reward loyalty while maintaining focus on measurable results and outcomes.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-1"
+  },
+  {
+    "text": "We create clear frameworks for ethical business practices that drive sustainable growth.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-2"
+  },
+  {
+    "text": "We appreciate team members who demonstrate commitment to our profit-driven objectives.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-3"
+  },
+  {
+    "text": "We recognize dedication through performance-based rewards and advancement opportunities.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-4"
+  },
+  {
+    "text": "We value team members who show consistent commitment to excellence and results.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-5"
+  },
+  {
+    "text": "We maintain high ethical standards while aggressively pursuing market opportunities.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-6"
+  },
+  {
+    "text": "We appreciate team members who consistently deliver on their commitments.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-7"
+  },
+  {
+    "text": "Healthy behaviors:",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-0"
+  },
+  {
+    "text": "Expressing strong and clear convictions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-0"
+  },
+  {
+    "text": "Acknowledging the contributions of others.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-1"
+  },
+  {
+    "text": "Asking purposeful and meaningful questions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-2"
+  },
+  {
+    "text": "Focusing on shared principles and goals.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-3"
+  },
+  {
+    "text": "Demonstrating respect for differing opinions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-4"
+  },
+  {
+    "text": "Providing constructive criticism with care.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-5"
+  },
+  {
+    "text": "Recognizing and appreciating loyalty in others.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-6"
+  },
+  {
+    "text": "Ensuring clarity of purpose in discussions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-7"
+  },
+  {
+    "text": "Maintaining focus on the bigger picture.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-8"
+  },
+  {
+    "text": "Stress-induced behaviors:",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-0"
+  },
+  {
+    "text": "Becoming overly critical of differing values.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-0"
+  },
+  {
+    "text": "Judging others harshly for perceived lack of dedication.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-1"
+  },
+  {
+    "text": "Lecturing instead of engaging in dialogue.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-2"
+  },
+  {
+    "text": "Overloading conversations with moral reasoning.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-3"
+  },
+  {
+    "text": "Becoming overly defensive when challenged.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-4"
+  },
+  {
+    "text": "Showing intolerance for ambiguity in decision-making.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-5"
+  },
+  {
+    "text": "Struggling to adapt to pragmatic solutions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-6"
+  },
+  {
+    "text": "Dismissing input not aligned with personal priorities.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-7"
+  },
+  {
+    "text": "Promoter Style = the communication style characterized by energy, enthusiasm, and persuasion. It emphasizes adaptability, charm, and quick thinking, often focusing on results and influencing others to take action through engaging and dynamic interactions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4caa5e66-e99e-4162-acf2-1bc6abc524d7"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-fb298cd4-3e3f-481d-9764-f43e2f80e1cc"
+  },
+  {
+    "text": "We reward those who can quickly close deals and influence stakeholders through charismatic leadership.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612"
+  },
+  {
+    "text": "We create competitive environments where persuasive communication directly ties to compensation and advancement.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-1"
+  },
+  {
+    "text": "We maintain a fast-paced culture where quick thinking and adaptability are essential survival skills.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-2"
+  },
+  {
+    "text": "We structure our meetings to be action-oriented, focusing on solutions rather than dwelling on problems.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-3"
+  },
+  {
+    "text": "We value those who can rally teams around profit-driven objectives without getting bogged down in emotional discussions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-4"
+  },
+  {
+    "text": "We implement training programs that enhance persuasive communication and negotiation skills.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-5"
+  },
+  {
+    "text": "We prioritize results-focused dialogue over consensus-building conversations.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-6"
+  },
+  {
+    "text": "We design our office spaces to facilitate impromptu interactions and quick decision-making discussions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-7"
+  },
+  {
+    "text": "We recognize and promote individuals who consistently demonstrate the ability to influence and drive action.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-8"
+  },
+  {
+    "text": "We maintain an environment where enthusiasm and high energy are seen as indicators of commitment to success.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-9"
+  },
+  {
+    "text": "Healthy behaviors:",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-0"
+  },
+  {
+    "text": "Speaking directly and clearly.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-0"
+  },
+  {
+    "text": "Speaking with confidence and enthusiasm.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-1"
+  },
+  {
+    "text": "Adapting communication to fit the audience.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-2"
+  },
+  {
+    "text": "Inspiring action with persuasive language.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-3"
+  },
+  {
+    "text": "Maintaining a positive and energetic tone.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-4"
+  },
+  {
+    "text": "Keeping conversations focused on solutions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-5"
+  },
+  {
+    "text": "Encouraging collaboration and teamwork.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-6"
+  },
+  {
+    "text": "Using humor and charm to build rapport.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-7"
+  },
+  {
+    "text": "Highlighting benefits and opportunities.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-8"
+  },
+  {
+    "text": "Stress-induced behaviors:",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-0"
+  },
+  {
+    "text": "Dominating conversations with a forceful tone.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-0"
+  },
+  {
+    "text": "Becoming overly pushy or aggressive in persuasion.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-1"
+  },
+  {
+    "text": "Ignoring the input or opinions of others.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-2"
+  },
+  {
+    "text": "Interrupting or talking over others.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-3"
+  },
+  {
+    "text": "Using charm manipulatively to achieve objectives.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-4"
+  },
+  {
+    "text": "Becoming impatient with slower-paced interactions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-5"
+  },
+  {
+    "text": "Over-promising and under-delivering.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-6"
+  },
+  {
+    "text": "Seeking constant attention or recognition.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-7"
+  },
+  {
+    "text": "Harmonizer Style = the communication style characterized by warmth, empathy, and a focus on emotional connections. It emphasizes building relationships, fostering harmony, and creating a supportive and inclusive environment where everyone feels valued and understood.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-a67b8f33-452f-4fd0-bc8c-cc95c167bf65"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e4bcdf91-675a-49aa-82c0-9d9ef0b61179"
+  },
+  {
+    "text": "We train our leaders to balance warmth with accountability in their communication style.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43"
+  },
+  {
+    "text": "We create structured frameworks for providing supportive feedback that drives performance.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-1"
+  },
+  {
+    "text": "We value emotional awareness as a tool for building high-performing teams and increasing productivity.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-2"
+  },
+  {
+    "text": "We foster psychological safety while maintaining our competitive edge and drive for success.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-3"
+  },
+  {
+    "text": "We leverage emotional intelligence to negotiate better deals and create win-win situations.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-4"
+  },
+  {
+    "text": "We invest in relationship-building activities that have clear ROI for our bottom line.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-5"
+  },
+  {
+    "text": "We channel emotional awareness into better customer understanding and market positioning.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-6"
+  },
+  {
+    "text": "We support harmonious team dynamics that enhance productivity and efficiency.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-7"
+  },
+  {
+    "text": "We utilize emotional intelligence as a strategic tool for closing deals and driving growth.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-8"
+  },
+  {
+    "text": "Healthy behaviors:",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-0"
+  },
+  {
+    "text": "Expressing warmth and kindness in conversations.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-0"
+  },
+  {
+    "text": "Listening actively and with genuine empathy.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-1"
+  },
+  {
+    "text": "Offering supportive and encouraging feedback.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-2"
+  },
+  {
+    "text": "Validating the feelings and experiences of others.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-3"
+  },
+  {
+    "text": "Resolving conflicts with sensitivity and fairness.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-4"
+  },
+  {
+    "text": "Using inclusive language to foster connection.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-5"
+  },
+  {
+    "text": "Focusing on maintaining harmony in group dynamics.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-6"
+  },
+  {
+    "text": "Offering reassurance in stressful situations.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-7"
+  },
+  {
+    "text": "Showing gratitude and appreciation consistently.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-8"
+  },
+  {
+    "text": "Stress-induced behaviors:",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-0"
+  },
+  {
+    "text": "Avoiding difficult conversations to prevent conflict.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-0"
+  },
+  {
+    "text": "Becoming overly focused on pleasing others.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-1"
+  },
+  {
+    "text": "Becoming overly emotional or reactive in discussions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-2"
+  },
+  {
+    "text": "Resenting others for not reciprocating care.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-3"
+  },
+  {
+    "text": "Feeling overwhelmed by others' emotions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-4"
+  },
+  {
+    "text": "Taking on excessive responsibility for group harmony.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-5"
+  },
+  {
+    "text": "Becoming passive-aggressive when needs are unmet.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-6"
+  },
+  {
+    "text": "Over-apologizing to avoid perceived conflict.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-7"
+  },
+  {
+    "text": "Becoming overly sentimental or nostalgic.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-8"
+  },
+  {
+    "text": "Imaginer Style = the communication style characterized by introspection, imagination, and a reflective approach. It emphasizes thoughtful and creative ideas, often preferring to step back, observe, and contribute through deep, independent reflection rather than direct interaction or immediate responses.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-d2580ede-5bf7-4356-ab8a-ed326063e4f1"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-56df83ea-3cf2-44d4-aea4-7cdefd13540f"
+  },
+  {
+    "text": "We foster an environment that values deep reflection and encourages employees to share their creative insights at their own pace.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9"
+  },
+  {
+    "text": "We provide flexible communication channels, including asynchronous methods like email or project management tools, to accommodate reflective thinkers.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-1"
+  },
+  {
+    "text": "We actively create spaces for introspection, such as quiet work areas or time blocks for uninterrupted thinking.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-2"
+  },
+  {
+    "text": "We prioritize substance in discussions, focusing on meaningful contributions over quick responses.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-3"
+  },
+  {
+    "text": "We encourage using visual or imaginative storytelling to communicate complex ideas effectively.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-4"
+  },
+  {
+    "text": "We provide training on effective articulation to help team members express their insights with clarity and confidence.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-5"
+  },
+  {
+    "text": "We design brainstorming sessions to include time for independent thought before group collaboration.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-6"
+  },
+  {
+    "text": "We encourage collaboration by pairing introspective thinkers with action-oriented teammates for balanced project execution.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-7"
+  },
+  {
+    "text": "Healthy behaviors:",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-0"
+  },
+  {
+    "text": "Offering thoughtful and reflective insights.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-0"
+  },
+  {
+    "text": "Taking time to carefully consider responses.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-1"
+  },
+  {
+    "text": "Observing and analyzing situations before engaging.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-2"
+  },
+  {
+    "text": "Using vivid imagery to explain concepts.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-3"
+  },
+  {
+    "text": "Demonstrating patience in conversations.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-4"
+  },
+  {
+    "text": "Maintaining a calm and composed demeanor.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-5"
+  },
+  {
+    "text": "Offering alternative viewpoints constructively.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-6"
+  },
+  {
+    "text": "Contributing quietly but meaningfully to discussions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-7"
+  },
+  {
+    "text": "Stress-induced behaviors:",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-0"
+  },
+  {
+    "text": "Withdrawing completely from conversations.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-0"
+  },
+  {
+    "text": "Becoming overly passive or unresponsive.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-1"
+  },
+  {
+    "text": "Losing focus on practical or immediate needs.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-2"
+  },
+  {
+    "text": "Ignoring pressing issues to focus on abstract ideas.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-3"
+  },
+  {
+    "text": "Struggling to articulate thoughts clearly.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-4"
+  },
+  {
+    "text": "Withholding valuable input out of hesitation.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-5"
+  },
+  {
+    "text": "Avoiding conflict by retreating into silence.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-6"
+  },
+  {
+    "text": "Struggling to adapt to fast-paced environments.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-7"
+  },
+  {
+    "text": "Rebel Style = the communication style characterized by playfulness, creativity, and spontaneity. It emphasizes engaging interactions, quick-witted responses, and an ability to think outside the box, often using humor and enthusiasm to build connections and inspire action.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-274d50f1-a035-4990-bfd5-97ebf350d02c"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-ece0c804-8d27-4f25-8a61-8ed14910323d"
+  },
+  {
+    "text": "We value creativity and originality, integrating these traits into structured processes to drive innovative business outcomes.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16"
+  },
+  {
+    "text": "We provide clear frameworks for brainstorming sessions, allowing spontaneous ideas to be refined into actionable strategies.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-1"
+  },
+  {
+    "text": "We highlight contributions that bring energy and enthusiasm to achieving measurable results.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-2"
+  },
+  {
+    "text": "We design collaborative spaces where creative thinkers can contribute meaningfully within a focused context.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-3"
+  },
+  {
+    "text": "We ensure humor is used appropriately to maintain professionalism while reducing stress in high-pressure situations.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-4"
+  },
+  {
+    "text": "We offer training to help team members balance playfulness with professionalism in client and stakeholder interactions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-5"
+  },
+  {
+    "text": "We provide mentorship to help integrate creative and dynamic styles into structured, goal-oriented workflows.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-6"
+  },
+  {
+    "text": "We recognize and reward individuals who balance creativity with a results-driven mindset.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-7"
+  },
+  {
+    "text": "We protect time for strategic exploration, ensuring innovative ideas contribute to competitive advantages.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-8"
+  },
+  {
+    "text": "Healthy behaviors:",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-0"
+  },
+  {
+    "text": "Encouraging fun and enjoyment in conversations.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-0"
+  },
+  {
+    "text": "Using humor to diffuse tension.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-1"
+  },
+  {
+    "text": "Responding quickly and adaptively to changes.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-2"
+  },
+  {
+    "text": "Offering fresh perspectives in discussions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-3"
+  },
+  {
+    "text": "Encouraging a relaxed and informal atmosphere.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-4"
+  },
+  {
+    "text": "Using quick wit to keep conversations engaging.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-5"
+  },
+  {
+    "text": "Bringing energy and excitement to group dynamics.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-6"
+  },
+  {
+    "text": "Balancing fun with productive contributions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-7"
+  },
+  {
+    "text": "Stress-induced behaviors:",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-0"
+  },
+  {
+    "text": "Becoming overly sarcastic or dismissive.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-0"
+  },
+  {
+    "text": "Using humor to avoid serious discussions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-1"
+  },
+  {
+    "text": "Overusing humor, leading to misunderstandings.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-2"
+  },
+  {
+    "text": "Disregarding rules or norms to provoke reactions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-3"
+  },
+  {
+    "text": "Struggling to focus on tasks or goals.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-4"
+  },
+  {
+    "text": "Ignoring others’ emotions or concerns.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-5"
+  },
+  {
+    "text": "Becoming defensive when faced with criticism.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-6"
+  },
+  {
+    "text": "Struggling to maintain consistency in communication.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-7"
+  },
+  {
+    "text": "Expressing frustration with exaggerated drama.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-8"
+  },
+  {
+    "text": "Styles of Communication",
+    "type": "pageTitle",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "keywords": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr"
   },
   {
     "text": "",
@@ -10429,6 +11721,73 @@
     "category": "Communication / Styles of Apology",
     "keywords": "Communication / Styles of Apology",
     "url": "../html/styles-of-apology-mVPWwbHo"
+  },
+  {
+    "text": "Coordination = the organized arrangement of activities, efforts, or resources to ensure they work effectively together to achieve a common goal or objective.",
+    "type": "contentBlock",
+    "pageName": "Coordination",
+    "category": "Coordination / Coordination",
+    "url": "../html/coordination-jYlRH09J#search-9f842e95-c1fc-445b-a8f6-19524e696479"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Coordination",
+    "category": "Coordination / Coordination",
+    "url": "../html/coordination-jYlRH09J#search-c98a5efc-f301-485f-8711-3a450e082d09"
+  },
+  {
+    "text": "Coordination",
+    "type": "pageTitle",
+    "pageName": "Coordination",
+    "category": "Coordination / Coordination",
+    "keywords": "Coordination / Coordination",
+    "url": "../html/coordination-jYlRH09J"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6f109c59-14c8-4243-9b93-091e99a23b24"
+  },
+  {
+    "text": "Styles of Leadership",
+    "type": "pageTitle",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "keywords": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Decision Making",
+    "category": "Coordination / Decision Making",
+    "url": "../html/decision-making-7UZRL0TU#search-e85a9c69-2f4e-4414-9a5e-56df0848cd6e"
+  },
+  {
+    "text": "Decision Making",
+    "type": "pageTitle",
+    "pageName": "Decision Making",
+    "category": "Coordination / Decision Making",
+    "keywords": "Coordination / Decision Making",
+    "url": "../html/decision-making-7UZRL0TU"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Sources of Authority",
+    "category": "Coordination / Sources of Authority",
+    "url": "../html/sources-of-authority-bXxId2Xm#search-06e186cc-544f-41fd-8a9e-adff7403d747"
+  },
+  {
+    "text": "Sources of Authority",
+    "type": "pageTitle",
+    "pageName": "Sources of Authority",
+    "category": "Coordination / Sources of Authority",
+    "keywords": "Coordination / Sources of Authority",
+    "url": "../html/sources-of-authority-bXxId2Xm"
   },
   {
     "text": "Culture = the shared beliefs, values, behaviors, customs, and traditions of a group, society, or organization that shape its identity and influence its ways of life, interactions, and decision-making.",
@@ -10705,18 +12064,18 @@
     "url": "../html/trust-6kG0MOYN"
   },
   {
-    "text": "Leadership",
-    "type": "groupTitle",
-    "pageName": "Leadership",
-    "category": "Leadership",
-    "url": "../html/leadership-jYlRH09J"
-  },
-  {
     "text": "Communication",
     "type": "groupTitle",
     "pageName": "Communication",
     "category": "Communication",
     "url": "../html/communication-I2tzu1zx"
+  },
+  {
+    "text": "Coordination",
+    "type": "groupTitle",
+    "pageName": "Coordination",
+    "category": "Coordination",
+    "url": "../html/coordination-jYlRH09J"
   },
   {
     "text": "Culture",
