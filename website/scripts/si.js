@@ -1,6 +1,13 @@
 
   const FuseSearchData = [
   {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Leadership System",
+    "category": "Leadership System",
+    "url": "../html/leadership-system-cnI1ov97-cnI1ov97#search-34c15efd-1359-4b9d-abd5-b5189046f40e"
+  },
+  {
     "text": "",
     "type": "contentBlock",
     "pageName": "Leadership System",
@@ -16,11 +23,18 @@
     "url": "../html/leadership-system-cnI1ov97-cnI1ov97"
   },
   {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Intro",
+    "category": "Intro",
+    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-9f405f0f-8c00-48f2-a3d2-3f5a5642a601"
+  },
+  {
     "text": "To talk about leadership, we must talk about a lot of things, one by one.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-158ab4b7-4fc0-46da-9019-e338328818fd"
+    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-f3c0e8f3-77a4-4e52-80ca-9e024d4d20f1"
   },
   {
     "text": "",
@@ -375,6 +389,13 @@
     "url": "../html/direction-XwCn7Zx7"
   },
   {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Purpose",
+    "category": "Direction / Purpose",
+    "url": "../html/purpose-pqEhxCLq#search-fed89ad7-a395-4d24-97b0-169ca729241d"
+  },
+  {
     "text": "\n",
     "type": "contentBlock",
     "pageName": "Purpose",
@@ -551,6 +572,13 @@
     "url": "../html/purpose-pqEhxCLq"
   },
   {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Vision",
+    "category": "Direction / Vision",
+    "url": "../html/vision-o2QwCyiE#search-1dbcf272-4298-4340-8e99-a3dae6da30b1"
+  },
+  {
     "text": "",
     "type": "contentBlock",
     "pageName": "Vision",
@@ -718,6 +746,13 @@
     "category": "Direction / Vision",
     "keywords": "Direction / Vision",
     "url": "../html/vision-o2QwCyiE"
+  },
+  {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Strategy",
+    "category": "Direction / Strategy",
+    "url": "../html/strategy-8eTXA3kS#search-498fe218-13dd-4f1e-ade3-b94a45c49993"
   },
   {
     "text": "",
@@ -896,6 +931,13 @@
     "url": "../html/strategy-8eTXA3kS"
   },
   {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Trust",
+    "category": "Trust / Trust",
+    "url": "../html/trust-6kG0MOYN#search-978a26ab-7e91-4f41-8a87-218f38b48cd5"
+  },
+  {
     "text": "Trust = the firm belief in the reliability, truth, ability, or integrity of someone or something, fostering confidence and emotional security in relationships or decisions.",
     "type": "contentBlock",
     "pageName": "Trust",
@@ -916,6 +958,13 @@
     "category": "Trust / Trust",
     "keywords": "Trust / Trust",
     "url": "../html/trust-6kG0MOYN"
+  },
+  {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Types of Trust",
+    "category": "Trust / Types of Trust",
+    "url": "../html/types-of-trust-vj2K3mU6#search-0582b3da-3174-43d2-81ae-219da9c44df0"
   },
   {
     "text": "Interpersonal",
@@ -2179,6 +2228,13 @@
     "url": "../html/types-of-trust-vj2K3mU6"
   },
   {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Stages of Trust",
+    "category": "Trust / Stages of Trust",
+    "url": "../html/stages-of-trust-VVQhiEK6#search-5b195e7e-6ae5-4aaf-84ca-316b1d11c2e5"
+  },
+  {
     "text": "Stage 1: Baseline Trust",
     "type": "sectionHeader",
     "pageName": "Stages of Trust",
@@ -3258,6 +3314,27 @@
     "url": "../html/stages-of-trust-VVQhiEK6"
   },
   {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "States of Mind",
+    "category": "Trust / States of Mind",
+    "url": "../html/states-of-mind-p5KXrGTp#search-497a7098-7fa7-460a-9e29-632fcbefdc8d"
+  },
+  {
+    "text": "State of mind = the mental or emotional condition of an individual at a particular time, influenced by thoughts, feelings, attitudes, and perceptions.",
+    "type": "contentBlock",
+    "pageName": "States of Mind",
+    "category": "Trust / States of Mind",
+    "url": "../html/states-of-mind-p5KXrGTp#search-e71af7b6-4eaa-456d-b399-bf0a7d1f2f9c"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "States of Mind",
+    "category": "Trust / States of Mind",
+    "url": "../html/states-of-mind-p5KXrGTp#search-25d5dae4-c405-4880-bc0c-4c1d950b83d0"
+  },
+  {
     "text": "Positive States",
     "type": "sectionHeader",
     "pageName": "States of Mind",
@@ -3265,11 +3342,18 @@
     "url": "../html/states-of-mind-p5KXrGTp#search-ac81d463-96ee-49c5-a2c6-9eede05ef26a"
   },
   {
-    "text": "",
+    "text": "Is our mind clear?",
     "type": "contentBlock",
     "pageName": "States of Mind",
     "category": "Trust / States of Mind",
     "url": "../html/states-of-mind-p5KXrGTp#search-def38b6e-3e71-41b7-b378-c5af051005e3"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "States of Mind",
+    "category": "Trust / States of Mind",
+    "url": "../html/states-of-mind-p5KXrGTp#search-3ce6b8cf-ebb0-42a7-bdf7-42dc90aeac1e"
   },
   {
     "text": "Analytical Mind",
@@ -3356,11 +3440,18 @@
     "url": "../html/states-of-mind-p5KXrGTp#search-55c3712b-b747-4688-af4a-4159b43f23a2"
   },
   {
-    "text": "",
+    "text": "Is our mind clouded?",
     "type": "contentBlock",
     "pageName": "States of Mind",
     "category": "Trust / States of Mind",
     "url": "../html/states-of-mind-p5KXrGTp#search-3792d607-095c-4b14-8a74-7ea62530e912"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "States of Mind",
+    "category": "Trust / States of Mind",
+    "url": "../html/states-of-mind-p5KXrGTp#search-f1a805cf-db68-47b5-8107-c29a188c459d"
   },
   {
     "text": "Avoidant Mind",
@@ -5184,6 +5275,13 @@
     "url": "../html/states-of-mind-p5KXrGTp"
   },
   {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Types of Safety",
+    "category": "Trust / Types of Safety",
+    "url": "../html/types-of-safety-Am2tbrMd#search-1051d83c-c788-416c-8845-feec84a747d4"
+  },
+  {
     "text": "Physical Safety",
     "type": "sectionHeader",
     "pageName": "Types of Safety",
@@ -6536,6 +6634,13 @@
     "url": "../html/types-of-safety-Am2tbrMd"
   },
   {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Types of Boundaries",
+    "category": "Trust / Types of Boundaries",
+    "url": "../html/types-of-boundaries-jO9ipYXj#search-b0ae3703-fdca-4e77-85b5-33bbce8e82fb"
+  },
+  {
     "text": "Physical Boundaries",
     "type": "sectionHeader",
     "pageName": "Types of Boundaries",
@@ -7809,6 +7914,34 @@
     "category": "Trust / Types of Boundaries",
     "keywords": "Trust / Types of Boundaries",
     "url": "../html/types-of-boundaries-jO9ipYXj"
+  },
+  {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Cognitive Biases",
+    "category": "Trust / Cognitive Biases",
+    "url": "../html/cognitive-biases-z8CHTXxT#search-fb9e50b8-2528-41a6-8699-c5d84c717df8"
+  },
+  {
+    "text": "Cognitive Bias = the tendency of individuals to think in ways that deviate from logical reasoning or objective standards, leading to distorted perceptions, flawed judgments, or illogical conclusions due to mental shortcuts, heuristics, or pre-existing beliefs.",
+    "type": "contentBlock",
+    "pageName": "Cognitive Biases",
+    "category": "Trust / Cognitive Biases",
+    "url": "../html/cognitive-biases-z8CHTXxT#search-687ac3b7-23e7-4f18-95da-6075a5d9032d"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Cognitive Biases",
+    "category": "Trust / Cognitive Biases",
+    "url": "../html/cognitive-biases-z8CHTXxT#search-9edf8be3-8488-47f6-985d-7d4395763f60"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Cognitive Biases",
+    "category": "Trust / Cognitive Biases",
+    "url": "../html/cognitive-biases-z8CHTXxT#search-263f4e5a-ae9c-41a8-9b50-e56060c887b9"
   },
   {
     "text": "Attentional Bias",
@@ -10304,6 +10437,13 @@
     "url": "../html/cognitive-biases-z8CHTXxT"
   },
   {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Communication",
+    "category": "Communication / Communication",
+    "url": "../html/communication-I2tzu1zx#search-02b5ad86-bf6f-4175-8ccb-241ab86366d1"
+  },
+  {
     "text": "Communication = the exchange of information, ideas, or emotions between individuals or groups through verbal, nonverbal, written, or digital means, aiming to achieve understanding and connection.",
     "type": "contentBlock",
     "pageName": "Communication",
@@ -10324,6 +10464,34 @@
     "category": "Communication / Communication",
     "keywords": "Communication / Communication",
     "url": "../html/communication-I2tzu1zx"
+  },
+  {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-23b6d64f-b15a-48b2-97c2-caf600f45d1d"
+  },
+  {
+    "text": "PCM (Process Communication Model) = the psychological framework developed by Dr. Taibi Kahler in the late 1970s, focusing on the dynamics of effective communication by identifying and addressing different communication styles and preferences to enhance understanding and interaction.",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0b805347-0df0-4f3a-a41e-262b83c687d1"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4dca2eff-66df-4010-a13f-267245c185a4"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Communication",
+    "category": "Communication / Styles of Communication",
+    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-59b5c0a1-e3f2-4da8-bed5-061556c9091f"
   },
   {
     "text": "Thinker Style (Analytical)",
@@ -11678,11 +11846,3203 @@
     "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr"
   },
   {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-6b68f946-6797-4dc5-bdbe-405345984ef5"
+  },
+  {
+    "text": "Feedback = the process of providing information, opinions, or evaluations regarding performance, behavior, or outcomes, often to encourage improvement, development, or confirmation of actions.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c44d088b-3ee8-4acf-a84e-e804a77e2e28"
+  },
+  {
     "text": "",
     "type": "contentBlock",
     "pageName": "Types of Feedback",
     "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-85af303e-4351-4fa4-8811-710d1e431b0f"
+  },
+  {
+    "text": "By Intent",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
     "url": "../html/types-of-feedback-cOLxKXQn#search-3b7d7f3d-6333-469f-85c6-23c121458d9d"
+  },
+  {
+    "text": "Why is the feedback given?",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-26f3173c-acff-4210-9bf5-e10fd2dd57a9"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e18ab35f-2ab1-4f04-9f8d-f49c84880399"
+  },
+  {
+    "text": "Positive Feedback",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-7c6eac9e-2fba-4675-9f02-9633baa59f8f"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2d145cbc-4cce-4072-95bf-2fc92bd21e92"
+  },
+  {
+    "text": "Constructive Feedback",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-762022b0-c918-45b8-81b5-9a2df3ff2eb6"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e43fe2ef-e05a-411f-83e4-5ee4c77f0c8a"
+  },
+  {
+    "text": "By Focus",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2e8bd144-9e27-4c90-a5e8-21e74aadcee0"
+  },
+  {
+    "text": "What is the feedback about?",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-7e333b7a-a368-4f0b-9450-bd76ec587dec"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-95deb1e4-fc46-4d24-b409-4a70d5e89cbf"
+  },
+  {
+    "text": "Performance Feedback",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c3f72002-e2c5-43f8-b513-3d6720962511"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-afd767d2-d3ac-4eb1-967d-94a652e52595"
+  },
+  {
+    "text": "Behavioral Feedback",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-660f63ed-cd4a-4744-807c-8db92f66dd9a"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b25e0d87-acab-4309-b2f1-790eb777d887"
+  },
+  {
+    "text": "By Method",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-d0739c77-bf23-48f3-8e02-1c603517c066"
+  },
+  {
+    "text": "How is the feedback phrased?",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-34982e44-659a-4909-b5f8-642529a93ae0"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-bcb2dc7b-9bf4-4c17-bf5c-a0975a2840db"
+  },
+  {
+    "text": "Directive Feedback",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-34e61813-2a81-430a-bc58-9cd6096a2c5a"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e70f6996-b356-4047-ba94-181a84342785"
+  },
+  {
+    "text": "Reflective Feedback",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-18f6e07f-f191-489d-879d-9814e2a24bdb"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-d8fdf14d-130f-46a5-ae0e-fbef76e015d3"
+  },
+  {
+    "text": "By Approach",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c19f7fd4-4e91-4d43-8930-3f463a0f165b"
+  },
+  {
+    "text": "How is the feedback given?",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-4114b2a3-5e93-4868-adec-417f26e6c9a7"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2afc2463-2440-4dd4-a986-c9d9e4dc7d49"
+  },
+  {
+    "text": "Direct Feedback",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-6529c526-fe8e-4842-8906-2f0a2a8e6ba5"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-056b588e-e8c6-4687-863f-03c3322e84ad"
+  },
+  {
+    "text": "Indirect Feedback",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-920d9916-95e0-4df7-8f6b-3ae470888688"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-13537ca1-033e-4841-a94e-31e31443167d"
+  },
+  {
+    "text": "By Tone",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e73ccaba-51de-4493-bb4d-7bbf2ebd7d41"
+  },
+  {
+    "text": "How is the feedback presented?",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-bd4951ab-09d1-4d47-bc02-3b3761c5a3e9"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c027589d-ac30-4e1d-b8dc-d18d31d811d6"
+  },
+  {
+    "text": "Formal Feedback",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-27d4d701-67aa-48db-ac06-b20183d04019"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-a38cda13-00e6-4e79-ac30-aae176b87394"
+  },
+  {
+    "text": "Casual Feedback",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2f61e9ee-d982-4ef0-ac8a-5842b5bd54b3"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-93caf36d-c14e-4939-8aa0-4ac382069438"
+  },
+  {
+    "text": "By Phase",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-f5331d93-778f-4758-879b-d849d681fb7d"
+  },
+  {
+    "text": "In which phase is the feedback given?",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-7ec9db23-dbd9-40fe-9ebf-a6d211128a90"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b03c3ca8-ef00-4c4d-8b02-0b570998a01f"
+  },
+  {
+    "text": "Formative Feedback",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5a372d1e-2a9d-42e0-a228-f648bb2ccae1"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-00775a61-4b80-4686-bee6-138e919bc7e7"
+  },
+  {
+    "text": "Summative Feedback",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-33129427-e34a-4eff-ad78-119682d17c55"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5fa23cce-18db-4be1-b946-70bcf0ec6bc2"
+  },
+  {
+    "text": "By Timing",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-788266a6-a725-425b-b6c1-0c5e6d0121c8"
+  },
+  {
+    "text": "When is the feedback given?",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e426bda8-5537-461f-b40e-0a9a64e2b284"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c917b9ed-b46b-4457-aa77-db09d010dc22"
+  },
+  {
+    "text": "Immediate Feedback",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-761269a2-2b8b-4b24-a664-24efdeee0cc7"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-98aed8c1-96ad-4d3a-8051-e257a61305f3"
+  },
+  {
+    "text": "Delayed Feedback",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-261d9387-0b72-4480-9c90-bf1404830c73"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-83d66fe3-8447-42b0-b79f-f7665deb04c8"
+  },
+  {
+    "text": "By Source",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b06728db-84b2-45f7-80f9-cd899de33700"
+  },
+  {
+    "text": "Where is the feedback coming from?",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8359fd83-8773-4201-ab0e-30836a481cdb"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-f69deb4b-97a3-4061-ad6f-24ffeab29b45"
+  },
+  {
+    "text": "Single-Source Feedback",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-6140a803-2614-4629-b3b5-3fdc39e83cbd"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-7a469eef-198a-4a68-9d77-7ca7fc480ee1"
+  },
+  {
+    "text": "Multi-Source Feedback",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-3fcc78c7-8672-498e-88b1-d1f54b1461da"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-dec5da29-c35f-430a-98f3-7fa8f0f8e5be"
+  },
+  {
+    "text": "By Scope",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e8895661-89aa-4d87-880c-2114f23178de"
+  },
+  {
+    "text": "To whom is the feedback given?",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-67b73a0b-78fa-4811-b4c0-fe2e2a0d66fe"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c788a0cd-855c-4727-b273-9f3785f071c8"
+  },
+  {
+    "text": "Individual Feedback",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-fef37d43-1a43-4033-bd98-c524268c2f8d"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-17580951-4fbf-471f-ad30-c5d3630083ff"
+  },
+  {
+    "text": "Group Feedback",
+    "type": "sectionHeader",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-f0052cbd-4b85-4b63-8a7d-6fcdad9e2e91"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-715c63be-999c-4df0-8882-7c5f1184b146"
+  },
+  {
+    "text": "Positive Feedback = the type of feedback that reinforces desired behaviors or actions by recognizing and emphasizing strengths, achievements, or successes to encourage their continuation.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-0b3173b2-09e1-4651-9c86-f0c94856d686"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-31be350a-258c-4eaf-a32e-8c193f631364"
+  },
+  {
+    "text": "We celebrate individual and team achievements with public recognition.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2935080a-eef8-4391-956a-2205b1afc2ee"
+  },
+  {
+    "text": "We ensure successes are shared across the company to inspire others.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2935080a-eef8-4391-956a-2205b1afc2ee-1"
+  },
+  {
+    "text": "We tie positive feedback to the broader company vision to show impact.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2935080a-eef8-4391-956a-2205b1afc2ee-2"
+  },
+  {
+    "text": "We reward desired behaviors through incentives and career growth opportunities.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2935080a-eef8-4391-956a-2205b1afc2ee-3"
+  },
+  {
+    "text": "We provide platforms for peer-to-peer recognition, fostering a culture of appreciation.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2935080a-eef8-4391-956a-2205b1afc2ee-4"
+  },
+  {
+    "text": "We focus on the \"why\" behind success to reinforce the behaviors leading to it.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2935080a-eef8-4391-956a-2205b1afc2ee-5"
+  },
+  {
+    "text": "We recognize consistent effort, not just big wins, to sustain motivation.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2935080a-eef8-4391-956a-2205b1afc2ee-6"
+  },
+  {
+    "text": "We use storytelling to spotlight achievements, making feedback memorable.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2935080a-eef8-4391-956a-2205b1afc2ee-7"
+  },
+  {
+    "text": "Ideal for:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ea1b33c9-cb5b-48bb-b840-5cf18819b3bb-0-0"
+  },
+  {
+    "text": "Recognizing achievements to boost morale.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ea1b33c9-cb5b-48bb-b840-5cf18819b3bb-0-1-0"
+  },
+  {
+    "text": "Celebrating milestones or progress toward goals.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ea1b33c9-cb5b-48bb-b840-5cf18819b3bb-0-1-1"
+  },
+  {
+    "text": "Reinforcing desired behaviors in training sessions.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ea1b33c9-cb5b-48bb-b840-5cf18819b3bb-0-1-2"
+  },
+  {
+    "text": "Building a positive work environment and culture.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ea1b33c9-cb5b-48bb-b840-5cf18819b3bb-0-1-3"
+  },
+  {
+    "text": "Motivating team members during challenging projects.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ea1b33c9-cb5b-48bb-b840-5cf18819b3bb-0-1-4"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ea1b33c9-cb5b-48bb-b840-5cf18819b3bb-1-0"
+  },
+  {
+    "text": "Offering vague praise without specific examples.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ea1b33c9-cb5b-48bb-b840-5cf18819b3bb-1-1-0"
+  },
+  {
+    "text": "Overusing positive feedback to the point of insincerity.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ea1b33c9-cb5b-48bb-b840-5cf18819b3bb-1-1-1"
+  },
+  {
+    "text": "Ignoring areas for improvement, creating complacency.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ea1b33c9-cb5b-48bb-b840-5cf18819b3bb-1-1-2"
+  },
+  {
+    "text": "Delivering feedback inconsistently across team members.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ea1b33c9-cb5b-48bb-b840-5cf18819b3bb-1-1-3"
+  },
+  {
+    "text": "Using generic phrases without personalizing the recognition.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ea1b33c9-cb5b-48bb-b840-5cf18819b3bb-1-1-4"
+  },
+  {
+    "text": "Constructive Feedback = the type of feedback that provides specific, actionable guidance aimed at improving performance or behavior, delivered in a respectful and supportive manner to promote growth.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-3323886d-0f5f-484e-bbf2-320f324611b1"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-6434f371-3454-482b-b7a6-69628b44fb07"
+  },
+  {
+    "text": "We frame feedback as a tool for growth, not criticism.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b2d8f7e0-0619-4d91-aa50-af5eaa3cf49f"
+  },
+  {
+    "text": "We ensure feedback is specific, actionable, and focused on behavior, not personality.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b2d8f7e0-0619-4d91-aa50-af5eaa3cf49f-1"
+  },
+  {
+    "text": "We train managers to deliver feedback respectfully and with empathy.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b2d8f7e0-0619-4d91-aa50-af5eaa3cf49f-2"
+  },
+  {
+    "text": "We schedule regular one-on-ones to create a safe space for feedback discussions.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b2d8f7e0-0619-4d91-aa50-af5eaa3cf49f-3"
+  },
+  {
+    "text": "We align feedback with professional development goals to show long-term value.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b2d8f7e0-0619-4d91-aa50-af5eaa3cf49f-4"
+  },
+  {
+    "text": "We encourage two-way dialogue to make feedback collaborative, not one-sided.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b2d8f7e0-0619-4d91-aa50-af5eaa3cf49f-5"
+  },
+  {
+    "text": "We balance constructive feedback with positive reinforcement to maintain morale.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b2d8f7e0-0619-4d91-aa50-af5eaa3cf49f-6"
+  },
+  {
+    "text": "We document feedback for clarity and to track progress over time.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b2d8f7e0-0619-4d91-aa50-af5eaa3cf49f-7"
+  },
+  {
+    "text": "We follow up on feedback to ensure changes are supported and recognized.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b2d8f7e0-0619-4d91-aa50-af5eaa3cf49f-8"
+  },
+  {
+    "text": "Ideal for:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2d999c83-ac43-4591-b6c9-d1da37f8ab2b-0-0"
+  },
+  {
+    "text": "Offering guidance on how to improve specific skills.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2d999c83-ac43-4591-b6c9-d1da37f8ab2b-0-1-0"
+  },
+  {
+    "text": "Navigating conflicts or misunderstandings in teams.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2d999c83-ac43-4591-b6c9-d1da37f8ab2b-0-1-1"
+  },
+  {
+    "text": "Clarifying expectations for roles and responsibilities.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2d999c83-ac43-4591-b6c9-d1da37f8ab2b-0-1-2"
+  },
+  {
+    "text": "Addressing recurring mistakes or inefficiencies.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2d999c83-ac43-4591-b6c9-d1da37f8ab2b-0-1-3"
+  },
+  {
+    "text": "Supporting personal development plans.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2d999c83-ac43-4591-b6c9-d1da37f8ab2b-0-1-4"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2d999c83-ac43-4591-b6c9-d1da37f8ab2b-1-0"
+  },
+  {
+    "text": "Focusing on personal criticism rather than behavior or actions.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2d999c83-ac43-4591-b6c9-d1da37f8ab2b-1-1-0"
+  },
+  {
+    "text": "Focusing only on negatives without acknowledging positives.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2d999c83-ac43-4591-b6c9-d1da37f8ab2b-1-1-1"
+  },
+  {
+    "text": "Being unclear, leaving the recipient unsure how to improve.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2d999c83-ac43-4591-b6c9-d1da37f8ab2b-1-1-2"
+  },
+  {
+    "text": "Delivering feedback in an overly harsh or confrontational tone.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2d999c83-ac43-4591-b6c9-d1da37f8ab2b-1-1-3"
+  },
+  {
+    "text": "Ignoring the recipient's perspective or feelings.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2d999c83-ac43-4591-b6c9-d1da37f8ab2b-1-1-4"
+  },
+  {
+    "text": "Failing to follow up, leaving progress and improvement untracked.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2d999c83-ac43-4591-b6c9-d1da37f8ab2b-1-1-5"
+  },
+  {
+    "text": "Performance Feedback = the type of feedback that evaluates an individual’s work-related results, skills, and achievements to improve productivity and align efforts with goals.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e4879bea-c256-44a1-a176-57337576bde7"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-6b7b0daa-f7fd-44d7-adf4-2781c2388a44"
+  },
+  {
+    "text": "We set clear expectations and metrics to ensure feedback is aligned with goals.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2c7a0e5c-4240-4317-bcc0-2c2ace2886ac"
+  },
+  {
+    "text": "We conduct regular performance reviews to provide structured evaluations.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2c7a0e5c-4240-4317-bcc0-2c2ace2886ac-1"
+  },
+  {
+    "text": "We use data and measurable outcomes to make performance feedback objective.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2c7a0e5c-4240-4317-bcc0-2c2ace2886ac-2"
+  },
+  {
+    "text": "We tie feedback directly to company priorities to reinforce alignment with business goals.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2c7a0e5c-4240-4317-bcc0-2c2ace2886ac-3"
+  },
+  {
+    "text": "We use dashboards and performance tools to give employees real-time insights.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2c7a0e5c-4240-4317-bcc0-2c2ace2886ac-4"
+  },
+  {
+    "text": "We connect performance feedback to career progression opportunities.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2c7a0e5c-4240-4317-bcc0-2c2ace2886ac-5"
+  },
+  {
+    "text": "We encourage managers to give ongoing, informal feedback, not just during reviews.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2c7a0e5c-4240-4317-bcc0-2c2ace2886ac-6"
+  },
+  {
+    "text": "Ideal for:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b3259d81-0362-42ae-905e-e71ab1777c97-0-0"
+  },
+  {
+    "text": "Evaluating productivity or output in work-related tasks.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b3259d81-0362-42ae-905e-e71ab1777c97-0-1-0"
+  },
+  {
+    "text": "Addressing missed targets or deadlines.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b3259d81-0362-42ae-905e-e71ab1777c97-0-1-1"
+  },
+  {
+    "text": "Setting expectations for future tasks or projects.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b3259d81-0362-42ae-905e-e71ab1777c97-0-1-2"
+  },
+  {
+    "text": "Assessing skills required for promotions or role changes.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b3259d81-0362-42ae-905e-e71ab1777c97-0-1-3"
+  },
+  {
+    "text": "Identifying areas for professional skill development.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b3259d81-0362-42ae-905e-e71ab1777c97-0-1-4"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b3259d81-0362-42ae-905e-e71ab1777c97-1-0"
+  },
+  {
+    "text": "Overemphasizing minor details while neglecting major outcomes.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b3259d81-0362-42ae-905e-e71ab1777c97-1-1-0"
+  },
+  {
+    "text": "Ignoring progress and focusing only on shortcomings.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b3259d81-0362-42ae-905e-e71ab1777c97-1-1-1"
+  },
+  {
+    "text": "Being too general, leaving employees unclear about next steps.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b3259d81-0362-42ae-905e-e71ab1777c97-1-1-2"
+  },
+  {
+    "text": "Focusing only on outcomes, ignoring the process or effort.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b3259d81-0362-42ae-905e-e71ab1777c97-1-1-3"
+  },
+  {
+    "text": "Overlooking external factors affecting performance.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b3259d81-0362-42ae-905e-e71ab1777c97-1-1-4"
+  },
+  {
+    "text": "Behavioral Feedback = the type of feedback that addresses an individual’s actions, attitudes, or interpersonal conduct to foster a positive and respectful environment.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9aab6524-e1b6-44f9-8c4d-7f3de1bb6fd3"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5a1f10bb-ce9c-4995-b51e-04d1566716fc"
+  },
+  {
+    "text": "We promote open communication to make behavioral feedback less intimidating.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-adcb33c2-52e2-44a3-a151-f9260a2da223"
+  },
+  {
+    "text": "We emphasize the importance of interpersonal skills in team success.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-adcb33c2-52e2-44a3-a151-f9260a2da223-1"
+  },
+  {
+    "text": "We address behavior issues early to prevent escalation.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-adcb33c2-52e2-44a3-a151-f9260a2da223-2"
+  },
+  {
+    "text": "We deliver feedback in private to maintain respect and trust.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-adcb33c2-52e2-44a3-a151-f9260a2da223-3"
+  },
+  {
+    "text": "We encourage managers to model the behaviors they want to see in their teams.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-adcb33c2-52e2-44a3-a151-f9260a2da223-4"
+  },
+  {
+    "text": "We provide training on emotional intelligence and conflict resolution.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-adcb33c2-52e2-44a3-a151-f9260a2da223-5"
+  },
+  {
+    "text": "We tie behavioral feedback to company values to show its broader importance.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-adcb33c2-52e2-44a3-a151-f9260a2da223-6"
+  },
+  {
+    "text": "We celebrate positive behaviors to encourage their continuation.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-adcb33c2-52e2-44a3-a151-f9260a2da223-7"
+  },
+  {
+    "text": "We support employees in making behavioral changes through coaching and mentorship.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-adcb33c2-52e2-44a3-a151-f9260a2da223-8"
+  },
+  {
+    "text": "Ideal for:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-efd6632b-653e-47ad-b6fc-84b90d7b4a6a-0-0"
+  },
+  {
+    "text": "Addressing interpersonal issues or conflicts in the workplace.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-efd6632b-653e-47ad-b6fc-84b90d7b4a6a-0-1-0"
+  },
+  {
+    "text": "Highlighting inappropriate workplace behavior.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-efd6632b-653e-47ad-b6fc-84b90d7b4a6a-0-1-1"
+  },
+  {
+    "text": "Navigating cultural or social misunderstandings.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-efd6632b-653e-47ad-b6fc-84b90d7b4a6a-0-1-2"
+  },
+  {
+    "text": "Supporting emotional intelligence and self-awareness.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-efd6632b-653e-47ad-b6fc-84b90d7b4a6a-0-1-3"
+  },
+  {
+    "text": "Helping adapt to organizational values or cultural norms.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-efd6632b-653e-47ad-b6fc-84b90d7b4a6a-0-1-4"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-efd6632b-653e-47ad-b6fc-84b90d7b4a6a-1-0"
+  },
+  {
+    "text": "Focusing on personality traits instead of observable behavior.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-efd6632b-653e-47ad-b6fc-84b90d7b4a6a-1-1-0"
+  },
+  {
+    "text": "Delivering feedback in an accusatory or confrontational tone.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-efd6632b-653e-47ad-b6fc-84b90d7b4a6a-1-1-1"
+  },
+  {
+    "text": "Providing feedback without context or specific examples.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-efd6632b-653e-47ad-b6fc-84b90d7b4a6a-1-1-2"
+  },
+  {
+    "text": "Failing to offer constructive steps to improve behavior.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-efd6632b-653e-47ad-b6fc-84b90d7b4a6a-1-1-3"
+  },
+  {
+    "text": "Not considering cultural or individual differences in behavior.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-efd6632b-653e-47ad-b6fc-84b90d7b4a6a-1-1-4"
+  },
+  {
+    "text": "Avoiding follow-up, leaving unresolved issues or uncertainty.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-efd6632b-653e-47ad-b6fc-84b90d7b4a6a-1-1-5"
+  },
+  {
+    "text": "Directive Feedback = the type of feedback that provides clear, specific instructions or solutions to address an issue or improve performance, often guiding immediate action.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-cdd4161e-094d-4afd-a727-2068ba87248c"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c047581f-e4e9-4b02-9dff-ff5592ba2be7"
+  },
+  {
+    "text": "We use directive feedback during critical projects to maintain focus and efficiency.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9c15db11-4943-49a9-8722-d1ecf1d494be"
+  },
+  {
+    "text": "We train managers to deliver instructions with clarity and confidence.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9c15db11-4943-49a9-8722-d1ecf1d494be-1"
+  },
+  {
+    "text": "We pair directive feedback with timelines to create a sense of urgency.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9c15db11-4943-49a9-8722-d1ecf1d494be-2"
+  },
+  {
+    "text": "We offer step-by-step guidance to ensure employees understand the required actions.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9c15db11-4943-49a9-8722-d1ecf1d494be-3"
+  },
+  {
+    "text": "We document directives to prevent misunderstandings and provide a reference.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9c15db11-4943-49a9-8722-d1ecf1d494be-4"
+  },
+  {
+    "text": "We reinforce the importance of compliance with directives by tying them to outcomes.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9c15db11-4943-49a9-8722-d1ecf1d494be-5"
+  },
+  {
+    "text": "We follow up to confirm that actions have been taken and results achieved.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9c15db11-4943-49a9-8722-d1ecf1d494be-6"
+  },
+  {
+    "text": "We balance direct instructions with encouragement to maintain motivation.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9c15db11-4943-49a9-8722-d1ecf1d494be-7"
+  },
+  {
+    "text": "Ideal for:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-79e4925e-f516-458e-8428-f0b62c7cf788-0-0"
+  },
+  {
+    "text": "Addressing urgent issues requiring immediate correction.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-79e4925e-f516-458e-8428-f0b62c7cf788-0-1-0"
+  },
+  {
+    "text": "Offering step-by-step guidance on new tasks or processes.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-79e4925e-f516-458e-8428-f0b62c7cf788-0-1-1"
+  },
+  {
+    "text": "Teaching specific skills during training sessions.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-79e4925e-f516-458e-8428-f0b62c7cf788-0-1-2"
+  },
+  {
+    "text": "Correcting repeated mistakes with precise solutions.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-79e4925e-f516-458e-8428-f0b62c7cf788-0-1-3"
+  },
+  {
+    "text": "Providing direction during high-stakes situations.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-79e4925e-f516-458e-8428-f0b62c7cf788-0-1-4"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-79e4925e-f516-458e-8428-f0b62c7cf788-1-0"
+  },
+  {
+    "text": "Being overly controlling, leaving no room for creativity.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-79e4925e-f516-458e-8428-f0b62c7cf788-1-1-0"
+  },
+  {
+    "text": "Offering vague or incomplete instructions.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-79e4925e-f516-458e-8428-f0b62c7cf788-1-1-1"
+  },
+  {
+    "text": "Using a condescending or authoritarian tone.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-79e4925e-f516-458e-8428-f0b62c7cf788-1-1-2"
+  },
+  {
+    "text": "Failing to explain the rationale behind the guidance.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-79e4925e-f516-458e-8428-f0b62c7cf788-1-1-3"
+  },
+  {
+    "text": "Overloading with too much information at once.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-79e4925e-f516-458e-8428-f0b62c7cf788-1-1-4"
+  },
+  {
+    "text": "Neglecting to follow up on the given directions.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-79e4925e-f516-458e-8428-f0b62c7cf788-1-1-5"
+  },
+  {
+    "text": "Reflective Feedback = the type of feedback that encourages self-assessment and introspection, helping individuals identify areas for improvement and develop their own solutions.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-91cf26d2-ff08-4cbe-bdf9-19cd48c4c12e"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-bc6ba25d-b371-4926-9b51-b7e292ef615f"
+  },
+  {
+    "text": "We encourage employees to share their perspective before offering feedback.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5a808a59-fd04-49eb-9b60-63e57c75f296"
+  },
+  {
+    "text": "We use open-ended questions to prompt self-assessment and deeper thinking.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5a808a59-fd04-49eb-9b60-63e57c75f296-1"
+  },
+  {
+    "text": "We emphasize reflection during post-project debriefs to evaluate outcomes.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5a808a59-fd04-49eb-9b60-63e57c75f296-2"
+  },
+  {
+    "text": "We provide tools and frameworks to help employees analyze their own performance.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5a808a59-fd04-49eb-9b60-63e57c75f296-3"
+  },
+  {
+    "text": "We pair reflective feedback with long-term development goals.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5a808a59-fd04-49eb-9b60-63e57c75f296-4"
+  },
+  {
+    "text": "We promote self-awareness as a key to personal and professional growth.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5a808a59-fd04-49eb-9b60-63e57c75f296-5"
+  },
+  {
+    "text": "We recognize insights gained through reflection to reinforce the value of the process.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5a808a59-fd04-49eb-9b60-63e57c75f296-6"
+  },
+  {
+    "text": "Ideal for:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e08603b5-9be2-42da-84ce-10c9ff9a2bc8-0-0"
+  },
+  {
+    "text": "Encouraging personal growth and self-awareness.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e08603b5-9be2-42da-84ce-10c9ff9a2bc8-0-1-0"
+  },
+  {
+    "text": "Fostering ownership of learning and improvement.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e08603b5-9be2-42da-84ce-10c9ff9a2bc8-0-1-1"
+  },
+  {
+    "text": "Guiding long-term development rather than short-term fixes.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e08603b5-9be2-42da-84ce-10c9ff9a2bc8-0-1-2"
+  },
+  {
+    "text": "Promoting emotional intelligence, empathy and critical thinking.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e08603b5-9be2-42da-84ce-10c9ff9a2bc8-0-1-3"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e08603b5-9be2-42da-84ce-10c9ff9a2bc8-1-0"
+  },
+  {
+    "text": "Providing no guidance, leaving the individual feeling unsupported.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e08603b5-9be2-42da-84ce-10c9ff9a2bc8-1-1-0"
+  },
+  {
+    "text": "Posing overly vague or complex questions for reflection.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e08603b5-9be2-42da-84ce-10c9ff9a2bc8-1-1-1"
+  },
+  {
+    "text": "Ignoring the need for actionable solutions when necessary.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e08603b5-9be2-42da-84ce-10c9ff9a2bc8-1-1-2"
+  },
+  {
+    "text": "Expecting immediate results from a reflective process.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e08603b5-9be2-42da-84ce-10c9ff9a2bc8-1-1-3"
+  },
+  {
+    "text": "Not addressing pressing issues that require clear solutions.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e08603b5-9be2-42da-84ce-10c9ff9a2bc8-1-1-4"
+  },
+  {
+    "text": "Direct Feedback = the type of feedback that communicates specific observations, suggestions, or evaluations clearly and straightforwardly to the individual concerned.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-4cb4a4f7-d2e9-46f3-ad84-7886d781476a"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-cc0eaaa8-0040-415a-a495-345ac94dbe9d"
+  },
+  {
+    "text": "We prioritize open, honest communication to make direct feedback the norm.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-688d5d58-77c6-4fb2-92ba-032341d90f3c"
+  },
+  {
+    "text": "We encourage managers to address issues promptly and clearly with the individuals involved.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-688d5d58-77c6-4fb2-92ba-032341d90f3c-1"
+  },
+  {
+    "text": "We train employees to deliver direct feedback respectfully and constructively.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-688d5d58-77c6-4fb2-92ba-032341d90f3c-2"
+  },
+  {
+    "text": "We use direct feedback to address urgent or critical matters efficiently.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-688d5d58-77c6-4fb2-92ba-032341d90f3c-3"
+  },
+  {
+    "text": "We promote a culture where giving and receiving direct feedback is viewed as a positive exchange.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-688d5d58-77c6-4fb2-92ba-032341d90f3c-4"
+  },
+  {
+    "text": "We encourage regular check-ins to normalize straightforward conversations about performance.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-688d5d58-77c6-4fb2-92ba-032341d90f3c-5"
+  },
+  {
+    "text": "We provide templates and guidelines to help employees structure direct feedback.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-688d5d58-77c6-4fb2-92ba-032341d90f3c-6"
+  },
+  {
+    "text": "We celebrate individuals who respond well to direct feedback to reinforce its value.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-688d5d58-77c6-4fb2-92ba-032341d90f3c-7"
+  },
+  {
+    "text": "Ideal for:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-06440454-a1c6-491a-84f1-c580529120d2-0-0"
+  },
+  {
+    "text": "Addressing performance or behavioral issues promptly and clearly.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-06440454-a1c6-491a-84f1-c580529120d2-0-1-0"
+  },
+  {
+    "text": "Providing specific instructions or actionable advice.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-06440454-a1c6-491a-84f1-c580529120d2-0-1-1"
+  },
+  {
+    "text": "Delivering feedback in time-sensitive situations.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-06440454-a1c6-491a-84f1-c580529120d2-0-1-2"
+  },
+  {
+    "text": "Ensuring there is no ambiguity about expectations or outcomes.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-06440454-a1c6-491a-84f1-c580529120d2-0-1-3"
+  },
+  {
+    "text": "Offering praise or recognition directly to build morale.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-06440454-a1c6-491a-84f1-c580529120d2-0-1-4"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-06440454-a1c6-491a-84f1-c580529120d2-1-0"
+  },
+  {
+    "text": "Using overly blunt or harsh language that can feel personal.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-06440454-a1c6-491a-84f1-c580529120d2-1-1-0"
+  },
+  {
+    "text": "Delivering feedback publicly, causing embarrassment.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-06440454-a1c6-491a-84f1-c580529120d2-1-1-1"
+  },
+  {
+    "text": "Offering feedback without considering cultural or personality differences.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-06440454-a1c6-491a-84f1-c580529120d2-1-1-2"
+  },
+  {
+    "text": "Delivering feedback without sufficient context, making it abrupt.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-06440454-a1c6-491a-84f1-c580529120d2-1-1-3"
+  },
+  {
+    "text": "Failing to follow up to check on progress or understanding.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-06440454-a1c6-491a-84f1-c580529120d2-1-1-4"
+  },
+  {
+    "text": "Indirect Feedback = the type of feedback that conveys observations, suggestions, or evaluations subtly, often using hints, examples, or general statements rather than addressing the individual directly.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5508a531-0046-4f7b-a58c-755aec664a34"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8dee94e1-4c82-44e6-8fcb-c465d8550d61"
+  },
+  {
+    "text": "We use team discussions to introduce general observations that employees can apply individually.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5dbace05-066b-4324-b8a4-4ed7f90a8f99"
+  },
+  {
+    "text": "We incorporate feedback into training sessions to subtly address common challenges.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5dbace05-066b-4324-b8a4-4ed7f90a8f99-1"
+  },
+  {
+    "text": "We use storytelling and examples to convey feedback without singling out individuals.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5dbace05-066b-4324-b8a4-4ed7f90a8f99-2"
+  },
+  {
+    "text": "We encourage leaders to model desired behaviors as a form of indirect guidance.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5dbace05-066b-4324-b8a4-4ed7f90a8f99-3"
+  },
+  {
+    "text": "We use performance trends and aggregate data to provide feedback indirectly.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5dbace05-066b-4324-b8a4-4ed7f90a8f99-4"
+  },
+  {
+    "text": "We create content like newsletters or tip sheets to address areas needing improvement subtly.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5dbace05-066b-4324-b8a4-4ed7f90a8f99-5"
+  },
+  {
+    "text": "We use group recognition to reinforce positive behaviors without isolating specific individuals.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5dbace05-066b-4324-b8a4-4ed7f90a8f99-6"
+  },
+  {
+    "text": "We encourage reflection by posing general questions that invite employees to self-assess.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5dbace05-066b-4324-b8a4-4ed7f90a8f99-7"
+  },
+  {
+    "text": "Ideal for:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-cb7ec34a-e45d-488e-881e-caf5c3f32613-0-0"
+  },
+  {
+    "text": "Offering subtle guidance to encourage self-discovery and growth.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-cb7ec34a-e45d-488e-881e-caf5c3f32613-0-1-0"
+  },
+  {
+    "text": "Giving feedback in settings where directness isn't appreciated.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-cb7ec34a-e45d-488e-881e-caf5c3f32613-0-1-1"
+  },
+  {
+    "text": "Addressing minor issues that don’t require immediate correction.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-cb7ec34a-e45d-488e-881e-caf5c3f32613-0-1-2"
+  },
+  {
+    "text": "Sharing feedback in a group setting without singling anyone out.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-cb7ec34a-e45d-488e-881e-caf5c3f32613-0-1-3"
+  },
+  {
+    "text": "Navigating sensitive topics where diplomacy is essential.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-cb7ec34a-e45d-488e-881e-caf5c3f32613-0-1-4"
+  },
+  {
+    "text": "Motivating change without causing defensiveness.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-cb7ec34a-e45d-488e-881e-caf5c3f32613-0-1-5"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-cb7ec34a-e45d-488e-881e-caf5c3f32613-1-0"
+  },
+  {
+    "text": "Being too vague, leaving the recipient unsure of the message.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-cb7ec34a-e45d-488e-881e-caf5c3f32613-1-1-0"
+  },
+  {
+    "text": "Avoiding directness when the situation demands clarity.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-cb7ec34a-e45d-488e-881e-caf5c3f32613-1-1-1"
+  },
+  {
+    "text": "Assuming the recipient will pick up on subtle cues or hints.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-cb7ec34a-e45d-488e-881e-caf5c3f32613-1-1-2"
+  },
+  {
+    "text": "Making general statements that feel impersonal or irrelevant.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-cb7ec34a-e45d-488e-881e-caf5c3f32613-1-1-3"
+  },
+  {
+    "text": "Using indirect feedback to avoid uncomfortable conversations.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-cb7ec34a-e45d-488e-881e-caf5c3f32613-1-1-4"
+  },
+  {
+    "text": "Overusing this approach, which may undermine trust or transparency.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-cb7ec34a-e45d-488e-881e-caf5c3f32613-1-1-5"
+  },
+  {
+    "text": "Formal Feedback = the type of feedback provided in a structured and organized manner, often documented and delivered through established processes such as reviews, evaluations, or official meetings.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c6595c5c-f195-4b85-9491-b0cd7da79a90"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9d1465f7-da3e-4465-89cd-06b412f9a540"
+  },
+  {
+    "text": "We conduct regular performance reviews with clear criteria and documentation.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-656316af-0334-4990-917e-7c06a47ddb64"
+  },
+  {
+    "text": "We establish structured processes for feedback during project evaluations.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-656316af-0334-4990-917e-7c06a47ddb64-1"
+  },
+  {
+    "text": "We ensure all formal feedback is aligned with organizational goals and individual objectives.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-656316af-0334-4990-917e-7c06a47ddb64-2"
+  },
+  {
+    "text": "We provide managers with tools and templates to deliver consistent, thorough feedback.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-656316af-0334-4990-917e-7c06a47ddb64-3"
+  },
+  {
+    "text": "We document formal feedback to track progress and inform future decisions.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-656316af-0334-4990-917e-7c06a47ddb64-4"
+  },
+  {
+    "text": "We tie formal feedback to compensation, promotions, and professional development opportunities.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-656316af-0334-4990-917e-7c06a47ddb64-5"
+  },
+  {
+    "text": "We use key performance indicators (KPIs) to make formal feedback objective and measurable.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-656316af-0334-4990-917e-7c06a47ddb64-6"
+  },
+  {
+    "text": "Ideal for:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2b41f220-5a57-4569-9e90-8bacbda7f3f2-0-0"
+  },
+  {
+    "text": "Addressing significant issues that require a formal record.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2b41f220-5a57-4569-9e90-8bacbda7f3f2-0-1-0"
+  },
+  {
+    "text": "Documenting progress toward long-term goals.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2b41f220-5a57-4569-9e90-8bacbda7f3f2-0-1-1"
+  },
+  {
+    "text": "Setting clear expectations for roles and responsibilities.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2b41f220-5a57-4569-9e90-8bacbda7f3f2-0-1-2"
+  },
+  {
+    "text": "Ensuring consistent feedback across an organization.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2b41f220-5a57-4569-9e90-8bacbda7f3f2-0-1-3"
+  },
+  {
+    "text": "Resolving recurring or critical issues in a professional manner.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2b41f220-5a57-4569-9e90-8bacbda7f3f2-0-1-4"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2b41f220-5a57-4569-9e90-8bacbda7f3f2-1-0"
+  },
+  {
+    "text": "Focusing too much on formality, making the feedback impersonal.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2b41f220-5a57-4569-9e90-8bacbda7f3f2-1-1-0"
+  },
+  {
+    "text": "Using overly complex language that confuses the recipient.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2b41f220-5a57-4569-9e90-8bacbda7f3f2-1-1-1"
+  },
+  {
+    "text": "Overloading the session with too much feedback at once.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2b41f220-5a57-4569-9e90-8bacbda7f3f2-1-1-2"
+  },
+  {
+    "text": "Being rigid, leaving no room for discussion or clarification.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2b41f220-5a57-4569-9e90-8bacbda7f3f2-1-1-3"
+  },
+  {
+    "text": "Turning the session into a one-sided lecture.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-2b41f220-5a57-4569-9e90-8bacbda7f3f2-1-1-4"
+  },
+  {
+    "text": "Casual Feedback = the type of feedback delivered informally and spontaneously, typically in everyday interactions, focusing on immediate observations or encouragement without a structured format.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ed443dfe-c3c9-491d-8a6f-a69e841e5106"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b786dde7-a292-4e63-85af-3a5f926c1104"
+  },
+  {
+    "text": "We foster a culture where casual feedback is a natural part of daily interactions.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e344a7f9-00cb-4118-83f3-044ccae57234"
+  },
+  {
+    "text": "We use informal check-ins to provide timely, relevant observations.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e344a7f9-00cb-4118-83f3-044ccae57234-1"
+  },
+  {
+    "text": "We create opportunities for informal discussions, such as during team huddles or coffee breaks.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e344a7f9-00cb-4118-83f3-044ccae57234-2"
+  },
+  {
+    "text": "We train employees to give constructive casual feedback respectfully and succinctly.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e344a7f9-00cb-4118-83f3-044ccae57234-3"
+  },
+  {
+    "text": "We encourage leaders to use casual feedback to reinforce behaviors in the moment.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e344a7f9-00cb-4118-83f3-044ccae57234-4"
+  },
+  {
+    "text": "We integrate feedback into everyday tools like chat platforms for quick exchanges.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e344a7f9-00cb-4118-83f3-044ccae57234-5"
+  },
+  {
+    "text": "We promote an open-door policy where employees feel comfortable giving and receiving feedback anytime.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e344a7f9-00cb-4118-83f3-044ccae57234-6"
+  },
+  {
+    "text": "Ideal for:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8931b575-53cf-4f71-90bd-da6f98ca6e74-0-0"
+  },
+  {
+    "text": "Offering quick encouragement or recognition for good work.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8931b575-53cf-4f71-90bd-da6f98ca6e74-0-1-0"
+  },
+  {
+    "text": "Addressing minor mistakes or misunderstandings immediately.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8931b575-53cf-4f71-90bd-da6f98ca6e74-0-1-1"
+  },
+  {
+    "text": "Building rapport and trust with team members.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8931b575-53cf-4f71-90bd-da6f98ca6e74-0-1-2"
+  },
+  {
+    "text": "Providing guidance during day-to-day interactions.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8931b575-53cf-4f71-90bd-da6f98ca6e74-0-1-3"
+  },
+  {
+    "text": "Maintaining an ongoing culture of feedback and improvement.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8931b575-53cf-4f71-90bd-da6f98ca6e74-0-1-4"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8931b575-53cf-4f71-90bd-da6f98ca6e74-1-0"
+  },
+  {
+    "text": "Being overly casual, making the feedback seem unimportant.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8931b575-53cf-4f71-90bd-da6f98ca6e74-1-1-0"
+  },
+  {
+    "text": "Delivering feedback in public when it should be private.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8931b575-53cf-4f71-90bd-da6f98ca6e74-1-1-1"
+  },
+  {
+    "text": "Ignoring the recipient’s readiness or receptiveness to feedback.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8931b575-53cf-4f71-90bd-da6f98ca6e74-1-1-2"
+  },
+  {
+    "text": "Not following up on casual feedback when needed.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8931b575-53cf-4f71-90bd-da6f98ca6e74-1-1-3"
+  },
+  {
+    "text": "Using casual feedback to address serious or complex issues.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8931b575-53cf-4f71-90bd-da6f98ca6e74-1-1-4"
+  },
+  {
+    "text": "Formative Feedback = the type of feedback given during a process or activity, focusing on ongoing improvement and providing guidance to help achieve better outcomes.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-0af894ee-87e4-4737-82a9-9e508f571a6d"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ae1c9e52-374b-40b4-a31f-77e7fad35cd0"
+  },
+  {
+    "text": "We prioritize real-time feedback to address issues as they arise.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8a774297-f893-4934-abca-ecd48b606f58"
+  },
+  {
+    "text": "We create structured checkpoints during projects to provide timely guidance.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8a774297-f893-4934-abca-ecd48b606f58-1"
+  },
+  {
+    "text": "We train managers to deliver feedback consistently throughout a task or process.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8a774297-f893-4934-abca-ecd48b606f58-2"
+  },
+  {
+    "text": "We provide digital tools for instant feedback, enabling quick course corrections.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8a774297-f893-4934-abca-ecd48b606f58-3"
+  },
+  {
+    "text": "We integrate mentorship into workflows, making formative feedback a natural part of the process.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8a774297-f893-4934-abca-ecd48b606f58-4"
+  },
+  {
+    "text": "We use pilot projects to test approaches and refine strategies through feedback.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8a774297-f893-4934-abca-ecd48b606f58-5"
+  },
+  {
+    "text": "We host workshops where employees can test ideas and receive feedback from colleagues.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8a774297-f893-4934-abca-ecd48b606f58-6"
+  },
+  {
+    "text": "Ideal for:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-04c78390-33a9-45dd-9dc0-25f02713198f-0-0"
+  },
+  {
+    "text": "Providing feedback on drafts or preliminary work.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-04c78390-33a9-45dd-9dc0-25f02713198f-0-1-0"
+  },
+  {
+    "text": "Offering suggestions during the early stages of a project.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-04c78390-33a9-45dd-9dc0-25f02713198f-0-1-1"
+  },
+  {
+    "text": "Guiding learners during a training or educational process.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-04c78390-33a9-45dd-9dc0-25f02713198f-0-1-2"
+  },
+  {
+    "text": "Adjusting approaches before final evaluations or deadlines.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-04c78390-33a9-45dd-9dc0-25f02713198f-0-1-3"
+  },
+  {
+    "text": "Promoting experimentation and risk-taking without fear of failure.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-04c78390-33a9-45dd-9dc0-25f02713198f-0-1-4"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-04c78390-33a9-45dd-9dc0-25f02713198f-1-0"
+  },
+  {
+    "text": "Overloading with too much feedback at once.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-04c78390-33a9-45dd-9dc0-25f02713198f-1-1-0"
+  },
+  {
+    "text": "Being overly critical during early stages, discouraging effort.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-04c78390-33a9-45dd-9dc0-25f02713198f-1-1-1"
+  },
+  {
+    "text": "Not tailoring feedback to the individual’s current level of expertise.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-04c78390-33a9-45dd-9dc0-25f02713198f-1-1-2"
+  },
+  {
+    "text": "Waiting too long to provide feedback, missing the opportunity for improvement.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-04c78390-33a9-45dd-9dc0-25f02713198f-1-1-3"
+  },
+  {
+    "text": "Summative Feedback = the type of feedback provided after a process or activity has been completed, offering an evaluation of performance or results based on predefined criteria.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-87fefa8f-d436-46ae-9a38-763d27c08618"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-60ec82e3-bb4e-40cb-8959-3a154212c181"
+  },
+  {
+    "text": "We conduct thorough evaluations at the end of projects to measure success.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-26acf8d1-ca75-4312-9481-6f0c5c47f52b"
+  },
+  {
+    "text": "We provide a written summary of feedback for employees to reflect on and reference.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-26acf8d1-ca75-4312-9481-6f0c5c47f52b-1"
+  },
+  {
+    "text": "We ensure feedback sessions are comprehensive, covering all aspects of performance.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-26acf8d1-ca75-4312-9481-6f0c5c47f52b-2"
+  },
+  {
+    "text": "We document lessons learned to inform best practices for future projects.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-26acf8d1-ca75-4312-9481-6f0c5c47f52b-3"
+  },
+  {
+    "text": "We use summative feedback to evaluate team collaboration and identify areas for improvement.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-26acf8d1-ca75-4312-9481-6f0c5c47f52b-4"
+  },
+  {
+    "text": "We use anonymized case studies to analyze team or individual performance collectively.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-26acf8d1-ca75-4312-9481-6f0c5c47f52b-5"
+  },
+  {
+    "text": "We introduce \"future-focused\" reviews to convert insights into actionable strategies.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-26acf8d1-ca75-4312-9481-6f0c5c47f52b-6"
+  },
+  {
+    "text": "We create visual performance dashboards that summarize feedback dynamically for clarity.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-26acf8d1-ca75-4312-9481-6f0c5c47f52b-7"
+  },
+  {
+    "text": "Ideal for:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5bad4965-73b3-4cf5-9111-b906f3624ba6-0-0"
+  },
+  {
+    "text": "Evaluating final projects or completed tasks.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5bad4965-73b3-4cf5-9111-b906f3624ba6-0-1-0"
+  },
+  {
+    "text": "Providing closure and insights at the conclusion of a project.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5bad4965-73b3-4cf5-9111-b906f3624ba6-0-1-1"
+  },
+  {
+    "text": "Measuring success against predefined goals or criteria.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5bad4965-73b3-4cf5-9111-b906f3624ba6-0-1-2"
+  },
+  {
+    "text": "Comparing outcomes across individuals or teams.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5bad4965-73b3-4cf5-9111-b906f3624ba6-0-1-3"
+  },
+  {
+    "text": "Delivering results for certifications, exams, or assessments.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5bad4965-73b3-4cf5-9111-b906f3624ba6-0-1-4"
+  },
+  {
+    "text": "Establishing benchmarks for future performance.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5bad4965-73b3-4cf5-9111-b906f3624ba6-0-1-5"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5bad4965-73b3-4cf5-9111-b906f3624ba6-1-0"
+  },
+  {
+    "text": "Being overly focused on outcomes, overlooking effort and process.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5bad4965-73b3-4cf5-9111-b906f3624ba6-1-1-0"
+  },
+  {
+    "text": "Failing to include constructive suggestions for future development.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5bad4965-73b3-4cf5-9111-b906f3624ba6-1-1-1"
+  },
+  {
+    "text": "Delivering feedback in a way that feels overly critical or final.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5bad4965-73b3-4cf5-9111-b906f3624ba6-1-1-2"
+  },
+  {
+    "text": "Using inconsistent criteria for similar tasks or individuals.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5bad4965-73b3-4cf5-9111-b906f3624ba6-1-1-3"
+  },
+  {
+    "text": "Overlooking the opportunity to use summative feedback as a learning tool.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5bad4965-73b3-4cf5-9111-b906f3624ba6-1-1-4"
+  },
+  {
+    "text": "Immediate Feedback = the type of feedback given right after an action or behavior, enabling quick reinforcement or correction to promote timely learning and adjustments.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-8b9fc425-b7ad-4bb0-8ab3-a16c1106a867"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-7c840ef4-db03-4677-be8b-565df38e3e12"
+  },
+  {
+    "text": "We train managers to address actions or behaviors as soon as they occur for maximum relevance.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-dca74ee2-3b98-4e8f-8fa1-a5d3d66451b5"
+  },
+  {
+    "text": "We leverage collaboration tools like chat platforms for real-time feedback delivery.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-dca74ee2-3b98-4e8f-8fa1-a5d3d66451b5-1"
+  },
+  {
+    "text": "We use performance tracking tools to deliver instant feedback on metrics and KPIs.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-dca74ee2-3b98-4e8f-8fa1-a5d3d66451b5-2"
+  },
+  {
+    "text": "We create opportunities for employees to receive feedback during daily check-ins or stand-ups.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-dca74ee2-3b98-4e8f-8fa1-a5d3d66451b5-3"
+  },
+  {
+    "text": "We use gamified elements in tasks, providing instant performance insights and rewards.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-dca74ee2-3b98-4e8f-8fa1-a5d3d66451b5-4"
+  },
+  {
+    "text": "We encourage peer-to-peer feedback during collaborative activities for rapid learning.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-dca74ee2-3b98-4e8f-8fa1-a5d3d66451b5-5"
+  },
+  {
+    "text": "We make feedback a part of informal moments, like during casual conversations.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-dca74ee2-3b98-4e8f-8fa1-a5d3d66451b5-6"
+  },
+  {
+    "text": "Ideal for:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ec6cdb4e-8c3f-4ec6-b010-7fedb32827a7-0-0"
+  },
+  {
+    "text": "Reinforcing correct actions or behaviors in real-time.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ec6cdb4e-8c3f-4ec6-b010-7fedb32827a7-0-1-0"
+  },
+  {
+    "text": "Addressing errors or mistakes before they escalate.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ec6cdb4e-8c3f-4ec6-b010-7fedb32827a7-0-1-1"
+  },
+  {
+    "text": "Supporting hands-on training or practice sessions.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ec6cdb4e-8c3f-4ec6-b010-7fedb32827a7-0-1-2"
+  },
+  {
+    "text": "Guiding teamwork in collaborative or dynamic settings.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ec6cdb4e-8c3f-4ec6-b010-7fedb32827a7-0-1-3"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ec6cdb4e-8c3f-4ec6-b010-7fedb32827a7-1-0"
+  },
+  {
+    "text": "Offering impulsive feedback without careful thought or analysis.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ec6cdb4e-8c3f-4ec6-b010-7fedb32827a7-1-1-0"
+  },
+  {
+    "text": "Interrupting a task, disrupting focus or flow.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ec6cdb4e-8c3f-4ec6-b010-7fedb32827a7-1-1-1"
+  },
+  {
+    "text": "Giving frequent feedback that feels excessive or micromanaging.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ec6cdb4e-8c3f-4ec6-b010-7fedb32827a7-1-1-2"
+  },
+  {
+    "text": "Providing feedback without considering the full context or background.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ec6cdb4e-8c3f-4ec6-b010-7fedb32827a7-1-1-3"
+  },
+  {
+    "text": "Overlooking the need for follow-up to ensure sustained improvement.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ec6cdb4e-8c3f-4ec6-b010-7fedb32827a7-1-1-4"
+  },
+  {
+    "text": "Delayed Feedback = the type of feedback provided after a period of time has passed, allowing for reflection and deeper analysis before offering insights or evaluations.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-d48e7ce6-59be-4296-acc7-1200223d0144"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b328cc6e-4b62-413d-90c6-49f7db572cdd"
+  },
+  {
+    "text": "We schedule regular debriefs or reviews to allow for thoughtful reflection before giving feedback.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-dd997110-a418-4da4-92d9-ac6a9998cf1c"
+  },
+  {
+    "text": "We encourage employees to journal their experiences, using these notes for a more comprehensive discussion later.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-dd997110-a418-4da4-92d9-ac6a9998cf1c-1"
+  },
+  {
+    "text": "We conduct feedback sessions post-project to evaluate overall success and lessons learned.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-dd997110-a418-4da4-92d9-ac6a9998cf1c-2"
+  },
+  {
+    "text": "We encourage teams to reflect on group dynamics and collaboration in retrospective sessions.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-dd997110-a418-4da4-92d9-ac6a9998cf1c-3"
+  },
+  {
+    "text": "We encourage employees to detach emotionally from events, promoting objective analysis.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-dd997110-a418-4da4-92d9-ac6a9998cf1c-4"
+  },
+  {
+    "text": "We allow employees to process results or outcomes independently before discussing feedback.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-dd997110-a418-4da4-92d9-ac6a9998cf1c-5"
+  },
+  {
+    "text": "We pair feedback with market trend reports, helping employees connect their work to broader impacts.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-dd997110-a418-4da4-92d9-ac6a9998cf1c-6"
+  },
+  {
+    "text": "Ideal for:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c5ffde55-e8a5-45b8-b1e8-faa6ad0fc907-0-0"
+  },
+  {
+    "text": "Providing detailed insights after reviewing results or outcomes.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c5ffde55-e8a5-45b8-b1e8-faa6ad0fc907-0-1-0"
+  },
+  {
+    "text": "Allowing emotions to cool before addressing sensitive topics.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c5ffde55-e8a5-45b8-b1e8-faa6ad0fc907-0-1-1"
+  },
+  {
+    "text": "Addressing recurring patterns rather than isolated incidents.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c5ffde55-e8a5-45b8-b1e8-faa6ad0fc907-0-1-2"
+  },
+  {
+    "text": "Offering strategic guidance for long-term improvement.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c5ffde55-e8a5-45b8-b1e8-faa6ad0fc907-0-1-3"
+  },
+  {
+    "text": "Reviewing complex or creative work that requires detailed evaluation.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c5ffde55-e8a5-45b8-b1e8-faa6ad0fc907-0-1-4"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c5ffde55-e8a5-45b8-b1e8-faa6ad0fc907-1-0"
+  },
+  {
+    "text": "Delaying too long, reducing feedback's relevance and impact.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c5ffde55-e8a5-45b8-b1e8-faa6ad0fc907-1-1-0"
+  },
+  {
+    "text": "Failing to deliver feedback due to prolonged delays.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c5ffde55-e8a5-45b8-b1e8-faa6ad0fc907-1-1-1"
+  },
+  {
+    "text": "Letting unresolved issues build up and become more complex.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c5ffde55-e8a5-45b8-b1e8-faa6ad0fc907-1-1-2"
+  },
+  {
+    "text": "Allowing the delay to signal that the issue is unimportant.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c5ffde55-e8a5-45b8-b1e8-faa6ad0fc907-1-1-3"
+  },
+  {
+    "text": "Creating anxiety by not clarifying when feedback will be given.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-c5ffde55-e8a5-45b8-b1e8-faa6ad0fc907-1-1-4"
+  },
+  {
+    "text": "Single-Source Feedback = the type of feedback provided by one individual, offering insights based solely on their direct observations and experiences with the recipient.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-a3b5f099-cad3-48eb-ac45-e310f68439ed"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-24e61a83-8b32-4711-93bc-2b508e70c0ee"
+  },
+  {
+    "text": "We encourage employees to provide feedback directly to their peers based on specific interactions.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b5912a46-7200-423c-addb-6c461e7b5f4b"
+  },
+  {
+    "text": "We create spaces for individuals to reflect on their observations and share them one-on-one.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b5912a46-7200-423c-addb-6c461e7b5f4b-1"
+  },
+  {
+    "text": "We support mentorship programs where feedback flows from personal experiences and guidance.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b5912a46-7200-423c-addb-6c461e7b5f4b-2"
+  },
+  {
+    "text": "We empower project leads to give input based on their direct involvement with the team.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b5912a46-7200-423c-addb-6c461e7b5f4b-3"
+  },
+  {
+    "text": "We encourage individuals to seek feedback from someone who has closely observed their work.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b5912a46-7200-423c-addb-6c461e7b5f4b-4"
+  },
+  {
+    "text": "We incorporate feedback opportunities into collaborative tools like shared documents or chat apps.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b5912a46-7200-423c-addb-6c461e7b5f4b-5"
+  },
+  {
+    "text": "We use workshops or small group discussions where individuals can offer targeted feedback.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-b5912a46-7200-423c-addb-6c461e7b5f4b-6"
+  },
+  {
+    "text": "Ideal for:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ecb4c4ad-567e-469c-9a89-01d6a73b30fc-0-0"
+  },
+  {
+    "text": "Providing timely input without requiring coordination with others.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ecb4c4ad-567e-469c-9a89-01d6a73b30fc-0-1-0"
+  },
+  {
+    "text": "Evaluating short-term tasks or isolated incidents.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ecb4c4ad-567e-469c-9a89-01d6a73b30fc-0-1-1"
+  },
+  {
+    "text": "Strengthening the relationship between the giver and recipient.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ecb4c4ad-567e-469c-9a89-01d6a73b30fc-0-1-2"
+  },
+  {
+    "text": "Addressing private or sensitive issues in a controlled environment.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ecb4c4ad-567e-469c-9a89-01d6a73b30fc-0-1-3"
+  },
+  {
+    "text": "Providing highly personalized coaching or mentoring.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ecb4c4ad-567e-469c-9a89-01d6a73b30fc-0-1-4"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ecb4c4ad-567e-469c-9a89-01d6a73b30fc-1-0"
+  },
+  {
+    "text": "Limiting feedback to one viewpoint, missing other insights.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ecb4c4ad-567e-469c-9a89-01d6a73b30fc-1-1-0"
+  },
+  {
+    "text": "Allowing personal biases to influence the feedback.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ecb4c4ad-567e-469c-9a89-01d6a73b30fc-1-1-1"
+  },
+  {
+    "text": "Creating overdependence on one person’s evaluation.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ecb4c4ad-567e-469c-9a89-01d6a73b30fc-1-1-2"
+  },
+  {
+    "text": "Providing feedback that feels too subjective or narrowly focused.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ecb4c4ad-567e-469c-9a89-01d6a73b30fc-1-1-3"
+  },
+  {
+    "text": "Not clarifying that the feedback is one perspective, not a consensus.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-ecb4c4ad-567e-469c-9a89-01d6a73b30fc-1-1-4"
+  },
+  {
+    "text": "Multi-Source Feedback = the type of feedback collected from multiple individuals, combining diverse perspectives to create a well-rounded evaluation of performance or behavior.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9ca7da6a-3cbe-4176-88e0-6ac1f2de2865"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-79aa51c7-33a3-47d3-a362-a8ea65737cac"
+  },
+  {
+    "text": "We establish group feedback sessions where everyone shares insights on collective performance.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-22a5c3c5-f1ac-41c5-9d67-1a5015c2a5f3"
+  },
+  {
+    "text": "We use feedback forms to gather diverse input anonymously from team members.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-22a5c3c5-f1ac-41c5-9d67-1a5015c2a5f3-1"
+  },
+  {
+    "text": "We integrate peer-to-peer evaluations into project debriefs for collaborative learning.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-22a5c3c5-f1ac-41c5-9d67-1a5015c2a5f3-2"
+  },
+  {
+    "text": "We organize retrospective meetings where all team members can provide their viewpoints.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-22a5c3c5-f1ac-41c5-9d67-1a5015c2a5f3-3"
+  },
+  {
+    "text": "We encourage gathering feedback from stakeholders, clients, or customers involved in a project.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-22a5c3c5-f1ac-41c5-9d67-1a5015c2a5f3-4"
+  },
+  {
+    "text": "We analyze patterns in feedback collected from various sources to identify recurring themes.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-22a5c3c5-f1ac-41c5-9d67-1a5015c2a5f3-5"
+  },
+  {
+    "text": "We reward individuals who actively seek and apply input from a wide range of sources.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-22a5c3c5-f1ac-41c5-9d67-1a5015c2a5f3-6"
+  },
+  {
+    "text": "Ideal for:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9b17d18c-65f4-4643-9922-c5b95342a799-0-0"
+  },
+  {
+    "text": "Gaining a broad understanding from diverse perspectives.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9b17d18c-65f4-4643-9922-c5b95342a799-0-1-0"
+  },
+  {
+    "text": "Evaluating leadership by including subordinate feedback.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9b17d18c-65f4-4643-9922-c5b95342a799-0-1-1"
+  },
+  {
+    "text": "Identifying patterns or trends across multiple interactions.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9b17d18c-65f4-4643-9922-c5b95342a799-0-1-2"
+  },
+  {
+    "text": "Reducing bias by incorporating various viewpoints.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9b17d18c-65f4-4643-9922-c5b95342a799-0-1-3"
+  },
+  {
+    "text": "Aligning individual contributions with team or organizational goals.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9b17d18c-65f4-4643-9922-c5b95342a799-0-1-4"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9b17d18c-65f4-4643-9922-c5b95342a799-1-0"
+  },
+  {
+    "text": "Overcomplicating the process with too many contributors.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9b17d18c-65f4-4643-9922-c5b95342a799-1-1-0"
+  },
+  {
+    "text": "Focusing on quantity over quality of feedback.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9b17d18c-65f4-4643-9922-c5b95342a799-1-1-1"
+  },
+  {
+    "text": "Failing to address conflicting feedback or clarify discrepancies.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9b17d18c-65f4-4643-9922-c5b95342a799-1-1-2"
+  },
+  {
+    "text": "Ignoring the context behind specific feedback points.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9b17d18c-65f4-4643-9922-c5b95342a799-1-1-3"
+  },
+  {
+    "text": "Overloading the recipient with too much information at once.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9b17d18c-65f4-4643-9922-c5b95342a799-1-1-4"
+  },
+  {
+    "text": "Failing to prepare contributors, resulting in vague or unhelpful feedback.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-9b17d18c-65f4-4643-9922-c5b95342a799-1-1-5"
+  },
+  {
+    "text": "Individual Feedback = the type of feedback focused exclusively on one person, addressing their specific actions, behaviors, or performance to provide personalized insights and guidance.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-aa2ab985-5c75-44d9-a9db-6feb744b89c2"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-7700cd3f-1f9a-4a53-981b-21872446ad88"
+  },
+  {
+    "text": "We create dedicated one-on-one feedback sessions to ensure personalized attention.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5c6d37b5-5312-4bc2-be3f-bd983649f471"
+  },
+  {
+    "text": "We encourage employees to actively seek feedback tailored to their specific roles and goals.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5c6d37b5-5312-4bc2-be3f-bd983649f471-1"
+  },
+  {
+    "text": "We use digital tools to track individual contributions and provide focused feedback.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5c6d37b5-5312-4bc2-be3f-bd983649f471-2"
+  },
+  {
+    "text": "We tie individual feedback to personal development plans for clear growth trajectories.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5c6d37b5-5312-4bc2-be3f-bd983649f471-3"
+  },
+  {
+    "text": "We celebrate personal achievements publicly while delivering more nuanced feedback privately.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5c6d37b5-5312-4bc2-be3f-bd983649f471-4"
+  },
+  {
+    "text": "We foster a culture where asking for personal feedback is seen as a strength, not a weakness.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5c6d37b5-5312-4bc2-be3f-bd983649f471-5"
+  },
+  {
+    "text": "We use role-specific benchmarks to evaluate and provide focused feedback.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-5c6d37b5-5312-4bc2-be3f-bd983649f471-6"
+  },
+  {
+    "text": "Ideal for:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-af403fc2-89b9-48e4-a812-4eaf040edf75-0-0"
+  },
+  {
+    "text": "Correcting sensitive or behavioral issues discreetly.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-af403fc2-89b9-48e4-a812-4eaf040edf75-0-1-0"
+  },
+  {
+    "text": "Offering personalized guidance tailored to the recipient’s needs.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-af403fc2-89b9-48e4-a812-4eaf040edf75-0-1-1"
+  },
+  {
+    "text": "Supporting personal growth and career development plans.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-af403fc2-89b9-48e4-a812-4eaf040edf75-0-1-2"
+  },
+  {
+    "text": "Building trust through one-on-one mentoring or coaching.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-af403fc2-89b9-48e4-a812-4eaf040edf75-0-1-3"
+  },
+  {
+    "text": "Encouraging accountability for specific actions or results.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-af403fc2-89b9-48e4-a812-4eaf040edf75-0-1-4"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-af403fc2-89b9-48e4-a812-4eaf040edf75-1-0"
+  },
+  {
+    "text": "Over-focusing on individual feedback, neglecting team dynamics.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-af403fc2-89b9-48e4-a812-4eaf040edf75-1-1-0"
+  },
+  {
+    "text": "Bringing up another team member’s performance in a one-on-one.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-af403fc2-89b9-48e4-a812-4eaf040edf75-1-1-1"
+  },
+  {
+    "text": "Addressing personal feedback publicly, leading to embarrassment.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-af403fc2-89b9-48e4-a812-4eaf040edf75-1-1-2"
+  },
+  {
+    "text": "Using a one-size-fits-all approach, ignoring personal differences.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-af403fc2-89b9-48e4-a812-4eaf040edf75-1-1-3"
+  },
+  {
+    "text": "Comparing the individual’s performance to that of a peer, creating resentment or competition.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-af403fc2-89b9-48e4-a812-4eaf040edf75-1-1-4"
+  },
+  {
+    "text": "Group Feedback = the type of feedback directed at a team or group, emphasizing collective performance, shared responsibilities, or overall dynamics to foster improvement and collaboration.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-37683f37-1b18-4efd-a224-20a486b04240"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-dbf86abf-237f-4561-b196-24eaf9898173"
+  },
+  {
+    "text": "We use retrospectives to analyze group dynamics and identify areas for improvement.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-0ec4284e-ed26-4cbb-bd5d-58c4f462c4ad"
+  },
+  {
+    "text": "We provide shared performance dashboards to visualize team contributions and outcomes.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-0ec4284e-ed26-4cbb-bd5d-58c4f462c4ad-1"
+  },
+  {
+    "text": "We facilitate team workshops to address feedback on collaboration and communication.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-0ec4284e-ed26-4cbb-bd5d-58c4f462c4ad-2"
+  },
+  {
+    "text": "We use anonymous surveys to gather honest insights about group performance.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-0ec4284e-ed26-4cbb-bd5d-58c4f462c4ad-3"
+  },
+  {
+    "text": "We recognize team achievements to reinforce positive behaviors and dynamics.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-0ec4284e-ed26-4cbb-bd5d-58c4f462c4ad-4"
+  },
+  {
+    "text": "We evaluate cross-functional teamwork by gathering feedback from all departments involved.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-0ec4284e-ed26-4cbb-bd5d-58c4f462c4ad-5"
+  },
+  {
+    "text": "We analyze recurring patterns in group feedback to improve overall team structures.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-0ec4284e-ed26-4cbb-bd5d-58c4f462c4ad-6"
+  },
+  {
+    "text": "Ideal for:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e2b26b78-2797-41f5-a452-8c91e698df63-0-0"
+  },
+  {
+    "text": "Addressing collective achievements or challenges within a team.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e2b26b78-2797-41f5-a452-8c91e698df63-0-1-0"
+  },
+  {
+    "text": "Discussing group performance on shared tasks or projects.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e2b26b78-2797-41f5-a452-8c91e698df63-0-1-1"
+  },
+  {
+    "text": "Reinforcing team goals, values, or expectations.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e2b26b78-2797-41f5-a452-8c91e698df63-0-1-2"
+  },
+  {
+    "text": "Promoting a culture of shared responsibility and accountability.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e2b26b78-2797-41f5-a452-8c91e698df63-0-1-3"
+  },
+  {
+    "text": "Resolving conflicts or misunderstandings affecting the whole group.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e2b26b78-2797-41f5-a452-8c91e698df63-0-1-4"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e2b26b78-2797-41f5-a452-8c91e698df63-1-0"
+  },
+  {
+    "text": "Generalizing feedback, leaving individuals unsure of their contributions.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e2b26b78-2797-41f5-a452-8c91e698df63-1-1-0"
+  },
+  {
+    "text": "Ignoring individual efforts while focusing only on group outcomes.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e2b26b78-2797-41f5-a452-8c91e698df63-1-1-1"
+  },
+  {
+    "text": "Allowing one person’s issues to overshadow team feedback.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e2b26b78-2797-41f5-a452-8c91e698df63-1-1-2"
+  },
+  {
+    "text": "Delivering feedback that creates conflict within the group.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e2b26b78-2797-41f5-a452-8c91e698df63-1-1-3"
+  },
+  {
+    "text": "Allowing dominant voices to overshadow quieter team members.",
+    "type": "contentBlock",
+    "pageName": "Types of Feedback",
+    "category": "Communication / Types of Feedback",
+    "url": "../html/types-of-feedback-cOLxKXQn#search-e2b26b78-2797-41f5-a452-8c91e698df63-1-1-4"
   },
   {
     "text": "Types of Feedback",
@@ -11691,6 +15051,21 @@
     "category": "Communication / Types of Feedback",
     "keywords": "Communication / Types of Feedback",
     "url": "../html/types-of-feedback-cOLxKXQn"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Advice",
+    "category": "Communication / Types of Advice",
+    "url": "../html/types-of-advice-m5hjKbQn-m5hjKbQn#search-3d277ace-f477-476b-9bf9-7df90995bbd8"
+  },
+  {
+    "text": "Types of Advice",
+    "type": "pageTitle",
+    "pageName": "Types of Advice",
+    "category": "Communication / Types of Advice",
+    "keywords": "Communication / Types of Advice",
+    "url": "../html/types-of-advice-m5hjKbQn-m5hjKbQn"
   },
   {
     "text": "",
@@ -11790,6 +15165,13 @@
     "url": "../html/sources-of-authority-bXxId2Xm"
   },
   {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Culture",
+    "category": "Culture / Culture",
+    "url": "../html/culture-ygIzJARC#search-bf4894a8-b8ae-4deb-abb9-5d375048dd22"
+  },
+  {
     "text": "Culture = the shared beliefs, values, behaviors, customs, and traditions of a group, society, or organization that shape its identity and influence its ways of life, interactions, and decision-making.",
     "type": "contentBlock",
     "pageName": "Culture",
@@ -11840,6 +15222,13 @@
     "category": "Culture / Practices",
     "keywords": "Culture / Practices",
     "url": "../html/practices-ZZ83dyna"
+  },
+  {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Diversity",
+    "category": "Diversity / Diversity",
+    "url": "../html/diversity-0lx6vmgm#search-435954fb-6379-432b-825f-899b0f4ee045"
   },
   {
     "text": "Diversity = the presence and inclusion of a wide range of differences among people, such as those related to race, ethnicity, gender, age, ability, religion, socioeconomic status, and perspectives, enriching experiences and fostering creativity and innovation.",
@@ -11922,6 +15311,13 @@
     "category": "Diversity / Inclusivity",
     "keywords": "Diversity / Inclusivity",
     "url": "../html/inclusivity-Hg6eJE0Z"
+  },
+  {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Maturity",
+    "category": "Maturity / Maturity",
+    "url": "../html/maturity-K5iTpK04-K5iTpK04#search-0e62f319-c7d5-4d3f-916e-85cbfe50ef8b"
   },
   {
     "text": "Maturity = the state of having developed the mental, emotional, or physical qualities associated with adulthood, characterized by sound judgment, self-control, and the ability to respond to situations with responsibility and understanding.",
@@ -12019,6 +15415,13 @@
     "category": "Maturity / Learning",
     "keywords": "Maturity / Learning",
     "url": "../html/learning-DouzVjjC"
+  },
+  {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Change",
+    "category": "Change / Change",
+    "url": "../html/change-nFs4aQLq#search-81db2743-935c-4673-8b91-fc798d9ad5ae"
   },
   {
     "text": "Change = the process of becoming different, involving transformation, adaptation, or replacement, often occurring in response to internal or external factors and leading to new conditions or states.",

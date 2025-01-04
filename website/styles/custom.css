@@ -28,6 +28,13 @@
 
 /* Advanced theme configuration */
 :root {
+  
+}
+
+
+
+ /* Custom CSS overrides */
+:root {
     --contentFontBase: 15px;
     --headingLevel1Size: 1.75rem;
     --headingLevel2Size: 1.75rem;
@@ -35,11 +42,14 @@
     --headingLevel4Size: 1.25rem;
     --headingLevel5Size: 1rem;
     --shortcutCol4TopImageSize: 160px;
+    --calloutDangerInk: var(--colorWhite);
+    --calloutDangerInkSecondary: var(--colorWhite);
+    --calloutDangerBackground: var(--colorRed400);
+    --calloutWarningInk: #6D2D00;
+    --calloutWarningInkSecondary: #6D2D00;
+    --calloutWarningBackground: #FDDDBB;
 }
 
-
-
- /* Custom CSS overrides */
 .site-logo-wrapper {
     padding-top: 12px;
     gap: 12px;
@@ -146,6 +156,15 @@
 
     & .content-block--image p.caption {
         text-align: center;
+    }
+
+    & .content-block--callout {
+        align-items: center;
+        margin-bottom: calc(2 * var(--contentBlockGap));
+        border-radius: 99px;
+        font-size: unset;
+        font-weight: var(--fontWeightSemibold);
+        line-height: unset;
     }
 
     & .content-block--guidelines {
