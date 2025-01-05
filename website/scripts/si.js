@@ -170,18 +170,25 @@
     "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-23253f24-0839-4f58-bcfa-9aa65bc83772-1"
   },
   {
-    "text": "We must understand the different styles of communication that exist.",
+    "text": "We must understand the different styles of communication that people use.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
     "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-23253f24-0839-4f58-bcfa-9aa65bc83772-2"
   },
   {
-    "text": "We must also understand feedback, appreciation and also apology.",
+    "text": "We must also understand what types of feedback we can give and receive.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
     "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-23253f24-0839-4f58-bcfa-9aa65bc83772-3"
+  },
+  {
+    "text": "And also, what styles of appreciation and apology people prefer. ",
+    "type": "contentBlock",
+    "pageName": "Intro",
+    "category": "Intro",
+    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-23253f24-0839-4f58-bcfa-9aa65bc83772-4"
   },
   {
     "text": "Coordination",
@@ -15053,26 +15060,1026 @@
     "url": "../html/types-of-feedback-cOLxKXQn"
   },
   {
-    "text": "",
+    "text": "Note: This is demo content for a fictional SaaS company.",
     "type": "contentBlock",
-    "pageName": "Types of Advice",
-    "category": "Communication / Types of Advice",
-    "url": "../html/types-of-advice-m5hjKbQn-m5hjKbQn#search-3d277ace-f477-476b-9bf9-7df90995bbd8"
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-78c41afb-636b-4d67-9dfa-b0de4ff8b267"
   },
   {
-    "text": "Types of Advice",
-    "type": "pageTitle",
-    "pageName": "Types of Advice",
-    "category": "Communication / Types of Advice",
-    "keywords": "Communication / Types of Advice",
-    "url": "../html/types-of-advice-m5hjKbQn-m5hjKbQn"
+    "text": "Appreciation = the act of recognizing and valuing the worth, quality, or significance of someone or something, often expressed through gratitude, admiration, or respect.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-362a06e2-8302-4edd-814d-ce5bc3b3346d"
+  },
+  {
+    "text": "Languages of Appreciation = the various ways individuals prefer to give and receive recognition and gratitude, emphasizing personalized communication to build stronger relationships. Introduced by Dr. Gary Chapman and Dr. Paul White in 2011, this framework is designed to enhance workplace culture and interpersonal understanding.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-4654c8f7-9702-4f18-aeed-801dc51a769d"
   },
   {
     "text": "",
     "type": "contentBlock",
     "pageName": "Styles of Appreciation",
     "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-fd3c5110-3899-4019-920f-0f36442d4159"
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-9d5fc5b8-b702-4631-9340-42eb658e2c1b"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-2fcf2c43-fb4a-4492-b060-9647eaf69b21"
+  },
+  {
+    "text": "Words of Affirmation",
+    "type": "sectionHeader",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-3f83e66f-212a-4d37-bf32-be4c6f09cf8d"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-c47f03b3-5c85-451b-af52-d10c8fd2e516"
+  },
+  {
+    "text": "Acts of Service",
+    "type": "sectionHeader",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-b20fc2f4-9106-41b9-8b9a-800ca7576d63"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-dc4cce79-2d94-4a5f-a3c2-ee6da2331080"
+  },
+  {
+    "text": "Quality Time",
+    "type": "sectionHeader",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a994cbbc-6aa9-43f1-8fd1-e90bf9f24448"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-597246fd-4022-4d50-93d7-068638e41446"
+  },
+  {
+    "text": "Tangible Gifts",
+    "type": "sectionHeader",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-8cbc20db-f22a-446a-b622-c13bc5eb7b6d"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-777b59b9-20ea-4062-9e61-0de8cb1e5697"
+  },
+  {
+    "text": "Physical Touch",
+    "type": "sectionHeader",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-b390aa62-f28f-40a1-aeef-3d57191f6cb4"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-61f79b98-959a-4720-a455-55fde9a86b8d"
+  },
+  {
+    "text": "Words of Affirmation = the expression of appreciation, encouragement, or praise through spoken or written words, used to convey value, recognition, or gratitude to others. It can include compliments, acknowledgments, or encouraging statements that affirm the recipient's efforts or qualities.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-b88ed76c-7fd0-4383-96c0-b95eb903276d"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-31350f09-2ce4-4fa2-92bf-6909b8b8ee23"
+  },
+  {
+    "text": "We recognize and celebrate the achievements of our team members through regular praise during meetings and in written communications.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a"
+  },
+  {
+    "text": "We make a habit of acknowledging individual and team milestones with personalized messages of appreciation.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-1"
+  },
+  {
+    "text": "We ensure that managers are trained to give constructive and affirming feedback frequently.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-2"
+  },
+  {
+    "text": "We publicly recognize exceptional performance to inspire and motivate others.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-3"
+  },
+  {
+    "text": "We highlight employee contributions in company-wide newsletters or announcements.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-4"
+  },
+  {
+    "text": "We provide leaders with tools and templates to help them articulate meaningful appreciation effectively.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-5"
+  },
+  {
+    "text": "We empower managers to celebrate small wins with words of encouragement to maintain morale and momentum.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-6"
+  },
+  {
+    "text": "We use company events as a platform to share stories of individual and team successes.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-7"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-0"
+  },
+  {
+    "text": "Praising someone for their effort on a recent task.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-0"
+  },
+  {
+    "text": "Writing a personalized thank-you email for a contribution.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-1"
+  },
+  {
+    "text": "Highlighting someone’s achievement in a team discussion.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-2"
+  },
+  {
+    "text": "Acknowledging an individual’s unique skills during a meeting.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-3"
+  },
+  {
+    "text": "Sending a thoughtful note recognizing hard work.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-4"
+  },
+  {
+    "text": "Sharing appreciation for someone’s supportive attitude.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-5"
+  },
+  {
+    "text": "Verbalizing gratitude during a team celebration or milestone event.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-0"
+  },
+  {
+    "text": "Giving vague praise that lacks detail or sincerity.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-0"
+  },
+  {
+    "text": "Using repetitive phrases that feel robotic or scripted.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-1"
+  },
+  {
+    "text": "Using flattery that feels superficial or excessive.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-2"
+  },
+  {
+    "text": "Praising only results without acknowledging effort.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-3"
+  },
+  {
+    "text": "Failing to acknowledge key contributions in a group setting.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-4"
+  },
+  {
+    "text": "Combining praise with criticism, undermining the positive impact.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-5"
+  },
+  {
+    "text": "Praising one individual repeatedly while ignoring others.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-6"
+  },
+  {
+    "text": "Failing to notice or recognize quieter contributors.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-7"
+  },
+  {
+    "text": "Acts of Service = the expression of appreciation or care through practical actions that help, support, or ease the burden of others. It involves taking initiative to assist with tasks or responsibilities, demonstrating value and consideration through tangible efforts.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-977788fb-28c0-43f6-b927-749451a4fdd5"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-2d3d9bd9-7976-49cd-8e20-1228a285bfe5"
+  },
+  {
+    "text": "We support professional development by covering logistical burdens, such as arranging training or certifications.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8"
+  },
+  {
+    "text": "We encourage collaboration by fostering a culture where teammates actively support each other on projects.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-1"
+  },
+  {
+    "text": "We proactively address pain points in workflows and remove obstacles to ensure smoother operations.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-2"
+  },
+  {
+    "text": "We take initiative to offer assistance when employees face personal challenges, showing care through actionable support.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-3"
+  },
+  {
+    "text": "We empower managers to step in and lead by example, taking on tasks when teams are stretched thin.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-4"
+  },
+  {
+    "text": "We celebrate accomplishments by handling the details of recognition events, allowing employees to simply enjoy the moment.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-5"
+  },
+  {
+    "text": "We maintain a dedicated team to support employee initiatives, from innovation projects to community service events.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-6"
+  },
+  {
+    "text": "We regularly check in with employees to identify specific needs and provide tailored assistance where it’s most impactful.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-7"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-0"
+  },
+  {
+    "text": "Helping a colleague meet a tight deadline by sharing workload.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-0"
+  },
+  {
+    "text": "Handling routine tasks to free a team member for priority work.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-1"
+  },
+  {
+    "text": "Volunteering to cover for someone who is unwell or on leave.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-2"
+  },
+  {
+    "text": "Volunteering to take on extra responsibilities during busy periods.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-3"
+  },
+  {
+    "text": "Assisting with setting up or cleaning after an event.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-4"
+  },
+  {
+    "text": "Preparing coffee or snacks for a busy team.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-5"
+  },
+  {
+    "text": "Taking meeting notes and sharing them with the team.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-0"
+  },
+  {
+    "text": "Helping without asking, which may disrupt someone’s workflow.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-0"
+  },
+  {
+    "text": "Assuming someone needs help instead of communicating first.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-1"
+  },
+  {
+    "text": "Offering help but not following through on the commitment.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-2"
+  },
+  {
+    "text": "Offering services that are unwanted or unhelpful.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-3"
+  },
+  {
+    "text": "Expecting acknowledgment or repayment for every act.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-4"
+  },
+  {
+    "text": "Taking on tasks reluctantly or with visible frustration.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-5"
+  },
+  {
+    "text": "Providing inconsistent or half-hearted support.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-6"
+  },
+  {
+    "text": "Quality Time = the expression of appreciation or care by giving undivided attention and being fully present in shared moments, fostering connection and mutual understanding through meaningful interactions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-05744ad2-df52-4ca6-ad6b-d0d7a3671011"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-245db9ab-3666-424e-9d60-8f95927283aa"
+  },
+  {
+    "text": "We hold regular one-on-one meetings where leaders give employees their undivided attention to discuss goals, challenges, and growth opportunities.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb"
+  },
+  {
+    "text": "We host team retreats or offsite events focused on meaningful collaboration and connection beyond daily work tasks.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-1"
+  },
+  {
+    "text": "We create dedicated time in meetings for open dialogue, ensuring everyone’s voice is heard and valued.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-2"
+  },
+  {
+    "text": "We organize workshops and brainstorming sessions where employees can engage deeply with peers and leadership.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-3"
+  },
+  {
+    "text": "We encourage team lunches or coffee breaks to build camaraderie and foster quality conversations.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-4"
+  },
+  {
+    "text": "We offer flexible time for mentorship sessions, allowing employees and mentors to connect deeply and without interruptions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-5"
+  },
+  {
+    "text": "We host town halls or all-hands meetings where leadership dedicates time to answering employee questions and engaging in dialogue.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-6"
+  },
+  {
+    "text": "We actively create moments for teams to bond through shared activities like volunteer days or collaborative projects.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-7"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-0"
+  },
+  {
+    "text": "Scheduling one-on-one meetings to connect with a colleague.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-0"
+  },
+  {
+    "text": "Actively listening during conversations without distractions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-1"
+  },
+  {
+    "text": "Spending time brainstorming or problem-solving together.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-2"
+  },
+  {
+    "text": "Setting aside time to mentor or coach someone.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-3"
+  },
+  {
+    "text": "Attending important events or presentations to show support.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-4"
+  },
+  {
+    "text": "Spending time to provide constructive feedback in person.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-5"
+  },
+  {
+    "text": "Showing up early or staying late to work alongside someone.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-0"
+  },
+  {
+    "text": "Being distracted by phones or emails during interactions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-0"
+  },
+  {
+    "text": "Rushing through or interrupting meetings and conversations.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-1"
+  },
+  {
+    "text": "Cancelling or rescheduling time together without valid reasons.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-2"
+  },
+  {
+    "text": "Focusing on tasks rather than the person during shared time.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-3"
+  },
+  {
+    "text": "Making shared time feel transactional or obligatory.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-4"
+  },
+  {
+    "text": "Failing to show genuine interest in the other person’s perspective.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-5"
+  },
+  {
+    "text": "Neglecting to follow up after a meaningful discussion.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-6"
+  },
+  {
+    "text": "Assuming brief interactions suffice for meaningful engagement.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-7"
+  },
+  {
+    "text": "Tangible Gifts = the expression of appreciation or care through physical items that convey thoughtfulness, value, or recognition. These gifts are chosen to reflect the recipient’s preferences, needs, or interests, emphasizing the sentiment behind the gesture rather than the item's monetary value.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-5c172244-81b8-41ce-8213-ef30eeefd143"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-81e816f6-983d-457e-ba57-4c67a4c715d8"
+  },
+  {
+    "text": "We provide personalized gifts to celebrate employee milestones such as work anniversaries, promotions, or achievements.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c"
+  },
+  {
+    "text": "We recognize special occasions like birthdays with thoughtful gifts tailored to each individual’s preferences.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-1"
+  },
+  {
+    "text": "We create care packages for employees during busy seasons or challenging projects, showing support through tangible gestures.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-2"
+  },
+  {
+    "text": "We distribute customized holiday gifts to demonstrate appreciation and spread goodwill.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-3"
+  },
+  {
+    "text": "We reward exceptional performance with meaningful items that reflect the individual’s contributions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-4"
+  },
+  {
+    "text": "We offer surprise gifts during company-wide initiatives to acknowledge collective effort and foster excitement.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-5"
+  },
+  {
+    "text": "We create “welcome kits” for new hires, featuring thoughtful items that help them feel part of the team.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-6"
+  },
+  {
+    "text": "We send thank-you packages to employees after major projects, acknowledging their hard work in a tangible way.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-7"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-0"
+  },
+  {
+    "text": "Giving a personalized gift tailored to one’s hobbies or interests.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-1-0"
+  },
+  {
+    "text": "Surprising a team member with their favorite coffee or snack.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-1-1"
+  },
+  {
+    "text": "Celebrating milestones with thoughtful items, like flowers or treats.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-1-2"
+  },
+  {
+    "text": "Creating a thoughtful gift bundle for stressful times.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-1-3"
+  },
+  {
+    "text": "Gifting event tickets to something they are passionate about.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-1-4"
+  },
+  {
+    "text": "Sending holiday-themed gifts during festive seasons.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-1-5"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-0"
+  },
+  {
+    "text": "Choosing generic or impersonal gifts that lack thought.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-0"
+  },
+  {
+    "text": "Focusing on the monetary value rather than the sentiment.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-1"
+  },
+  {
+    "text": "Giving items unrelated to the recipient’s preferences or interests.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-2"
+  },
+  {
+    "text": "Overlooking cultural or personal sensitivities in gift choices.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-3"
+  },
+  {
+    "text": "Failing to acknowledge special occasions with appropriate gifts.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-4"
+  },
+  {
+    "text": "Giving items that require significant maintenance or cost to use.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-5"
+  },
+  {
+    "text": "Offering identical gifts to everyone without personalization.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-6"
+  },
+  {
+    "text": "Choosing overly extravagant gifts that might cause discomfort.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-7"
+  },
+  {
+    "text": "Physical Touch = the expression of care or appreciation through appropriate and consensual physical gestures, such as handshakes, pats on the back, or hugs, to convey warmth, encouragement, or connection.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-fdd33fc4-3be2-4fbc-b4ef-f95cd4b17ad9"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-b83e1442-b954-45f7-b8d7-f2d2c0d6eaf9"
+  },
+  {
+    "text": "We encourage handshakes as a professional and warm greeting to foster connection in in-person interactions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe"
+  },
+  {
+    "text": "We celebrate team successes with high-fives or fist bumps as symbols of camaraderie and shared achievement.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-1"
+  },
+  {
+    "text": "We provide guidelines to ensure all physical interactions align with cultural norms and individual comfort levels.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-2"
+  },
+  {
+    "text": "We encourage celebratory gestures, such as clapping or standing ovations, to add an element of shared enthusiasm.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-3"
+  },
+  {
+    "text": "We create opportunities for team-building activities that involve non-intrusive physical collaboration, such as games or sports.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-4"
+  },
+  {
+    "text": "We foster a culture of inclusivity where physical gestures are seen as one of many ways to express care and appreciation.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-5"
+  },
+  {
+    "text": "We celebrate personal milestones with optional gestures, such as hugs for those who are comfortable.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-6"
+  },
+  {
+    "text": "We educate managers on reading body language to determine when physical touch is appropriate and welcomed.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-7"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-0"
+  },
+  {
+    "text": "Offering a firm handshake as a greeting or farewell.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-1-0"
+  },
+  {
+    "text": "Giving a congratulatory pat on the back.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-1-1"
+  },
+  {
+    "text": "Offering a high-five to celebrate a success.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-1-2"
+  },
+  {
+    "text": "Providing a warm, appropriate hug when comfort is needed.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-1-3"
+  },
+  {
+    "text": "Resting a hand on someone’s arm briefly to show encouragement.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-1-4"
+  },
+  {
+    "text": "Offering a gentle tap on the arm to get someone’s attention.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-1-5"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-0"
+  },
+  {
+    "text": "Offering physical gestures without ensuring consent or comfort.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-0"
+  },
+  {
+    "text": "Ignoring personal or cultural boundaries regarding touch.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-1"
+  },
+  {
+    "text": "Using touch in situations where it feels forced or inappropriate.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-2"
+  },
+  {
+    "text": "Overusing physical gestures, making them lose their meaning.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-3"
+  },
+  {
+    "text": "Using overly casual or intimate gestures that feel unprofessional.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-4"
+  },
+  {
+    "text": "Being too forceful or awkward with gestures like handshakes.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-5"
+  },
+  {
+    "text": "Offering physical gestures that may be misunderstood or misinterpreted.",
+    "type": "contentBlock",
+    "pageName": "Styles of Appreciation",
+    "category": "Communication / Styles of Appreciation",
+    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-6"
   },
   {
     "text": "Styles of Appreciation",
@@ -15083,11 +16090,1082 @@
     "url": "../html/styles-of-appreciation-zdHfQpUM"
   },
   {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-d39fe597-14ec-45eb-9a12-1f532dccf09e"
+  },
+  {
+    "text": "Apology = the acknowledgment of a mistake, wrongdoing, or offense, accompanied by an expression of regret and a willingness to make amends or restore trust.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-36e58b58-dee6-414c-b8a4-7067915c2928"
+  },
+  {
+    "text": "Languages of Apology = the distinct ways individuals prefer to express and receive apologies, focusing on the elements that make the apology feel genuine and effective. Introduced by Dr. Gary Chapman and Dr. Jennifer Thomas in 2006, it helps foster meaningful reconciliation and restore trust in relationships.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1e61b24e-9f79-4214-91a2-6069bd26f8f3"
+  },
+  {
     "text": "",
     "type": "contentBlock",
     "pageName": "Styles of Apology",
     "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-717386b8-0066-4a48-9a15-02d2bb13b682"
+    "url": "../html/styles-of-apology-mVPWwbHo#search-25fa44b8-2954-4854-8f76-b55aded1b584"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-9a2181c0-0b17-4a08-92d1-5212dbbc2d40"
+  },
+  {
+    "text": "Expressing Regret",
+    "type": "sectionHeader",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3584a11d-bb45-4239-8eaf-a98d837f8748"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-56fbc8be-e0d3-4f8a-ab03-944bf2193db9"
+  },
+  {
+    "text": "Accepting Responsibility",
+    "type": "sectionHeader",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-061f73ab-d7cb-447c-a2b8-a1d4455c6f42"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-dac72c65-e7cf-4217-b77f-96a39c2f996c"
+  },
+  {
+    "text": "Making Restitution",
+    "type": "sectionHeader",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-85d8fac5-7eb6-49c1-8429-ab22e4f1b26b"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-c536d707-163f-4544-b001-65838646efa0"
+  },
+  {
+    "text": "Planned Change",
+    "type": "sectionHeader",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-42a0e647-8fa8-444f-96df-123fc6e89ede"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-754d8c86-080c-4991-842f-1ace829b45fc"
+  },
+  {
+    "text": "Requesting Forgiveness",
+    "type": "sectionHeader",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-b3fb1e09-7c59-4a30-b0bc-d72d4174f77a"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-b5d6a860-6f2f-4aa2-8684-44cf2fa2fb80"
+  },
+  {
+    "text": "Expressing Regret = the act of acknowledging a mistake or wrongdoing and conveying genuine sorrow or remorse for the hurt or harm caused, emphasizing empathy and emotional sincerity.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-8b40be0a-5a11-4753-8d02-7fa7cb34afae"
+  },
+  {
+    "text": "How we support this:",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-690e752e-c594-431a-8521-2c902ea169d0"
+  },
+  {
+    "text": "We create a culture where acknowledging mistakes is seen as a strength, not a weakness.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7"
+  },
+  {
+    "text": "We train leaders to express regret genuinely and empathetically when addressing issues with employees or customers.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-1"
+  },
+  {
+    "text": "We incorporate “reflection moments” in meetings where teams can discuss lessons learned and express regret if needed.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-2"
+  },
+  {
+    "text": "We empower employees to apologize sincerely to peers or customers when errors occur, fostering accountability.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-3"
+  },
+  {
+    "text": "We provide managers with the tools to navigate difficult conversations and express regret effectively.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-4"
+  },
+  {
+    "text": "We design communication templates for written apologies to ensure clarity, empathy, and professionalism.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-5"
+  },
+  {
+    "text": "We use role-playing scenarios in training sessions to practice delivering sincere apologies in various situations.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-6"
+  },
+  {
+    "text": "We use company-wide communications to address significant errors, offering transparent apologies and updates.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-7"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-0"
+  },
+  {
+    "text": "Saying “I am truly sorry” with sincerity.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-0"
+  },
+  {
+    "text": "Admitting fault directly without deflection.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-1"
+  },
+  {
+    "text": "Expressing regret in person for added authenticity.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-2"
+  },
+  {
+    "text": "Writing a personal note that focuses on their feelings.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-3"
+  },
+  {
+    "text": "Taking time to express empathy for their experience.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-4"
+  },
+  {
+    "text": "Acknowledging specific actions that caused harm.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-5"
+  },
+  {
+    "text": "Avoiding excuses and focusing solely on the hurt caused.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-0"
+  },
+  {
+    "text": "Adding excuses or justifications to the apology.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-0"
+  },
+  {
+    "text": "Using vague language like “I’m sorry if you feel hurt.”",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-1"
+  },
+  {
+    "text": "Using conditional language like “I’m sorry, but...”",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-2"
+  },
+  {
+    "text": "Failing to acknowledge the specific action that caused harm.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-3"
+  },
+  {
+    "text": "Over-apologizing in a way that shifts the focus to yourself.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-4"
+  },
+  {
+    "text": "Apologizing in a way that seems forced or obligatory.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-5"
+  },
+  {
+    "text": "Delaying the apology, making it seem less meaningful.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-6"
+  },
+  {
+    "text": "Accepting Responsibility = the act of acknowledging and taking ownership of one’s actions, mistakes, or oversights, recognizing their impact, and demonstrating accountability without shifting blame or making excuses.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3330d5ab-1e4a-4412-b842-c7485f81a11c"
+  },
+  {
+    "text": "How we support this:",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-a5905933-8774-403a-88b4-69297db3c98c"
+  },
+  {
+    "text": "We foster a culture where taking responsibility is viewed as a strength and a key to personal and professional growth.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d"
+  },
+  {
+    "text": "We train leaders to model accountability by openly owning their decisions and their outcomes.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-1"
+  },
+  {
+    "text": "We provide clear guidelines on how to acknowledge errors constructively and without defensiveness.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-2"
+  },
+  {
+    "text": "We encourage team members to share lessons learned from their mistakes to promote a culture of continuous improvement.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-3"
+  },
+  {
+    "text": "We include accountability as a core value in our mission statement and operational principles.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-4"
+  },
+  {
+    "text": "We train employees to focus on solutions rather than excuses when addressing challenges or failures.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-5"
+  },
+  {
+    "text": "We create structured processes for reporting and addressing mistakes, ensuring they are handled constructively.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-6"
+  },
+  {
+    "text": "We recognize and reward individuals and teams who demonstrate accountability in difficult situations.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-7"
+  },
+  {
+    "text": "We discourage a blame culture by focusing on collective responsibility and shared success.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-8"
+  },
+  {
+    "text": "We provide coaching to help employees improve their ability to accept responsibility gracefully and effectively.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-9"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-0"
+  },
+  {
+    "text": "Clearly stating, “I made a mistake” without deflection.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-0"
+  },
+  {
+    "text": "Acknowledging your role in the situation without blaming others.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-1"
+  },
+  {
+    "text": "Explaining the specific actions you are accountable for.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-2"
+  },
+  {
+    "text": "Taking ownership of the consequences caused by your behavior.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-3"
+  },
+  {
+    "text": "Apologizing directly for the harm caused by your actions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-4"
+  },
+  {
+    "text": "Taking responsibility publicly when appropriate.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-5"
+  },
+  {
+    "text": "Ensuring your behavior reflects your commitment to accountability.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-0"
+  },
+  {
+    "text": "Shifting blame to others or external circumstances.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-0"
+  },
+  {
+    "text": "Using phrases like “I didn’t mean to” to deflect accountability.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-1"
+  },
+  {
+    "text": "Offering vague statements such as “Mistakes were made.”",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-2"
+  },
+  {
+    "text": "Minimizing the impact of your actions on others.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-3"
+  },
+  {
+    "text": "Apologizing without explicitly admitting fault.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-4"
+  },
+  {
+    "text": "Focusing on your intentions instead of the actual consequences.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-5"
+  },
+  {
+    "text": "Providing excuses that overshadow the apology.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-6"
+  },
+  {
+    "text": "Waiting too long to admit your mistake.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-7"
+  },
+  {
+    "text": "Admitting fault only partially to avoid full accountability.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-8"
+  },
+  {
+    "text": "Making Restitution = the act of repairing or compensating for the harm or damage caused by one’s actions, demonstrating a commitment to restoring trust and fairness in the relationship or situation.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3013f596-3079-4e6e-8cda-d66ff0d2a9f6"
+  },
+  {
+    "text": "How we support this:",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-57fc424e-00c4-4ea1-af9b-5d04e3afca75"
+  },
+  {
+    "text": "We emphasize the importance of making amends as part of our accountability framework.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524"
+  },
+  {
+    "text": "We train employees to identify the impact of their actions and take appropriate steps to address any harm caused.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-1"
+  },
+  {
+    "text": "We establish protocols for resolving mistakes by offering meaningful reparations to affected parties.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-2"
+  },
+  {
+    "text": "We empower employees to take initiative in correcting their errors without waiting for external directives.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-3"
+  },
+  {
+    "text": "We promote a culture where resolving mistakes goes beyond apologies to include tangible corrective actions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-4"
+  },
+  {
+    "text": "We track incidents and resolutions to ensure follow-through and accountability at all levels.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-5"
+  },
+  {
+    "text": "We celebrate stories where restitution successfully repaired trust and strengthened relationships.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-6"
+  },
+  {
+    "text": "We provide financial or operational support to employees when restitution requires additional resources.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-7"
+  },
+  {
+    "text": "We include restitution in leadership training, emphasizing its role in effective conflict resolution.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-8"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-0"
+  },
+  {
+    "text": "Paying for damages or inconveniences you caused.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-0"
+  },
+  {
+    "text": "Providing additional help or support to mitigate the harm caused.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-1"
+  },
+  {
+    "text": "Compensating for someone’s lost time by taking on extra work.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-2"
+  },
+  {
+    "text": "Asking what you can do to make things right for the other person.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-3"
+  },
+  {
+    "text": "Volunteering time to help rebuild trust or resolve an issue.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-4"
+  },
+  {
+    "text": "Publicly correcting a misstatement or misinformation you spread.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-5"
+  },
+  {
+    "text": "Assisting in resolving the ripple effects caused by the mistake.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-0"
+  },
+  {
+    "text": "Offering restitution without considering the affected party's needs.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-0"
+  },
+  {
+    "text": "Making minimal effort that doesn’t fully address the harm caused.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-1"
+  },
+  {
+    "text": "Delaying restitution to the point where it feels insincere.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-2"
+  },
+  {
+    "text": "Assuming restitution is unnecessary because you apologized.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-3"
+  },
+  {
+    "text": "Carrying out restitution reluctantly or with evident resentment.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-4"
+  },
+  {
+    "text": "Making restitution a one-time action without ongoing follow-up.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-5"
+  },
+  {
+    "text": "Expecting forgiveness or gratitude just for making restitution.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-6"
+  },
+  {
+    "text": "Overcompensating, leading to the other party's discomfort.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-7"
+  },
+  {
+    "text": "Planned Change = the act of demonstrating sincerity in an apology by committing to specific, actionable steps to alter behavior, prevent recurrence, and rebuild trust, emphasizing a proactive approach to self-improvement.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-df84d995-148b-4376-a848-0e1f549dd2b6"
+  },
+  {
+    "text": "How we support this:",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-eb582e4c-f9f3-4dbc-a5e1-49f699d5d0d0"
+  },
+  {
+    "text": "We create detailed action plans to address mistakes, ensuring transparency and accountability in the resolution process.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0"
+  },
+  {
+    "text": "We ensure leaders communicate clear steps the company will take to address significant issues or oversights.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-1"
+  },
+  {
+    "text": "We create timelines for implementation of corrective measures, keeping everyone informed of progress.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-2"
+  },
+  {
+    "text": "We implement systems to track changes made after an error, reinforcing accountability and long-term improvement.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-3"
+  },
+  {
+    "text": "We empower employees to suggest and implement process improvements when problems arise.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-4"
+  },
+  {
+    "text": "We document lessons learned from mistakes and share them with teams to promote collective growth.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-5"
+  },
+  {
+    "text": "We communicate updates on progress after an apology, showing genuine commitment to making amends.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-6"
+  },
+  {
+    "text": "We use apology templates for written communication that explicitly state the planned changes to rebuild trust.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-7"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-0"
+  },
+  {
+    "text": "Outlining a clear plan to address the mistake and its impact.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-1-0"
+  },
+  {
+    "text": "Asking for feedback on how to improve and taking it seriously.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-1-1"
+  },
+  {
+    "text": "Setting measurable goals to improve behavior moving forward.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-1-2"
+  },
+  {
+    "text": "Seeking training or education to address the mistake.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-1-3"
+  },
+  {
+    "text": "Regularly checking in with the affected party to show progress.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-1-4"
+  },
+  {
+    "text": "Taking proactive measures to avoid triggering similar issues.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-1-5"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-0"
+  },
+  {
+    "text": "Making vague promises without specific steps or timelines.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-0"
+  },
+  {
+    "text": "Not following through on commitments made during the apology.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-1"
+  },
+  {
+    "text": "Overcommitting to unrealistic changes, leading to failure.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-2"
+  },
+  {
+    "text": "Ignoring the affected party's feedback on the needed changes.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-3"
+  },
+  {
+    "text": "Implementing superficial changes that don’t address the root problem.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-4"
+  },
+  {
+    "text": "Getting defensive when reminded of the commitment to change.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-5"
+  },
+  {
+    "text": "Neglecting to provide updates on progress to the affected party.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-6"
+  },
+  {
+    "text": "Abandoning the commitment after some initial efforts.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-7"
+  },
+  {
+    "text": "Requesting Forgiveness = the act of humbly asking the offended party for their forgiveness, acknowledging their autonomy in deciding whether to grant it, and demonstrating genuine remorse while being open to rebuilding trust at their pace.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-a8ed704b-fb7e-4f7d-b255-a730a64a8a02"
+  },
+  {
+    "text": "How we support this:",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-e9e227a5-047e-4370-beb1-d1e8f1238cac"
+  },
+  {
+    "text": "We encourage employees to seek forgiveness directly, acknowledging the harmed party’s autonomy in their response.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd"
+  },
+  {
+    "text": "We teach employees to frame forgiveness requests as invitations, not demands, respecting the other party’s decision.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-1"
+  },
+  {
+    "text": "We provide guidance on how to communicate sincere apologies without pressuring the recipient for immediate resolution.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-2"
+  },
+  {
+    "text": "We include forgiveness as a key concept in our conflict resolution and mediation practices.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-3"
+  },
+  {
+    "text": "We foster an environment where asking for forgiveness is seen as a strength and a step toward rebuilding trust.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-4"
+  },
+  {
+    "text": "We encourage follow-up after an apology, demonstrating continued commitment to making things right over time.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-5"
+  },
+  {
+    "text": "We provide coaching to help employees navigate situations where forgiveness is not immediately granted, teaching resilience and understanding.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-6"
+  },
+  {
+    "text": "We share examples of situations where seeking forgiveness led to stronger relationships and personal growth.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-7"
+  },
+  {
+    "text": "We train leaders to model the process of humbly requesting forgiveness when they make mistakes, setting a cultural standard.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-8"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-0"
+  },
+  {
+    "text": "Asking directly, “Will you forgive me?” with sincerity.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-0"
+  },
+  {
+    "text": "Allowing the offended party time and space to respond.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-1"
+  },
+  {
+    "text": "Making clear that forgiveness is their choice, without pressure.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-2"
+  },
+  {
+    "text": "Offering to answer any questions they have about the situation.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-3"
+  },
+  {
+    "text": "Expressing empathy for their pain while requesting forgiveness.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-4"
+  },
+  {
+    "text": "Following up to reiterate your openness to reconciliation.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-5"
+  },
+  {
+    "text": "Respecting their decision if they choose not to forgive.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-0"
+  },
+  {
+    "text": "Demanding forgiveness rather than requesting it.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-0"
+  },
+  {
+    "text": "Rushing the process and not allowing time for healing.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-1"
+  },
+  {
+    "text": "Treating forgiveness as an obligation rather than a choice.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-2"
+  },
+  {
+    "text": "Using guilt to pressure the offended party into forgiving.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-3"
+  },
+  {
+    "text": "Failing to show genuine remorse before asking for forgiveness.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-4"
+  },
+  {
+    "text": "Ignoring the importance of rebuilding trust alongside the request.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-5"
+  },
+  {
+    "text": "Using vague language that downplays the harm caused.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-6"
+  },
+  {
+    "text": "Using forgiveness to escape consequences of the mistake.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-7"
+  },
+  {
+    "text": "Assuming forgiveness will restore the relationship effortlessly.",
+    "type": "contentBlock",
+    "pageName": "Styles of Apology",
+    "category": "Communication / Styles of Apology",
+    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-8"
   },
   {
     "text": "Styles of Apology",
@@ -15133,6 +17211,112 @@
     "category": "Coordination / Styles of Leadership",
     "keywords": "Coordination / Styles of Leadership",
     "url": "../html/styles-of-leadership-NDI1PWik"
+  },
+  {
+    "text": "Counseling",
+    "type": "contentBlock",
+    "pageName": "Types of Assistance",
+    "category": "Coordination / Types of Assistance",
+    "url": "../html/types-of-assistance-m5hjKbQn#search-3d277ace-f477-476b-9bf9-7df90995bbd8"
+  },
+  {
+    "text": "Consulting",
+    "type": "contentBlock",
+    "pageName": "Types of Assistance",
+    "category": "Coordination / Types of Assistance",
+    "url": "../html/types-of-assistance-m5hjKbQn#search-ff6469da-a369-4965-bec3-76582978de38"
+  },
+  {
+    "text": "Mentoring",
+    "type": "contentBlock",
+    "pageName": "Types of Assistance",
+    "category": "Coordination / Types of Assistance",
+    "url": "../html/types-of-assistance-m5hjKbQn#search-e4a14ad3-ff97-4f23-b779-1028b9df7a87"
+  },
+  {
+    "text": "Coaching",
+    "type": "contentBlock",
+    "pageName": "Types of Assistance",
+    "category": "Coordination / Types of Assistance",
+    "url": "../html/types-of-assistance-m5hjKbQn#search-51c9671e-6106-4e64-8148-86764f00ef82"
+  },
+  {
+    "text": "Training",
+    "type": "contentBlock",
+    "pageName": "Types of Assistance",
+    "category": "Coordination / Types of Assistance",
+    "url": "../html/types-of-assistance-m5hjKbQn#search-2a7dccb6-cb42-4a2d-bfe8-b56087f01f48"
+  },
+  {
+    "text": "Teaching",
+    "type": "contentBlock",
+    "pageName": "Types of Assistance",
+    "category": "Coordination / Types of Assistance",
+    "url": "../html/types-of-assistance-m5hjKbQn#search-b38228cb-9dc1-430a-b003-0ee5e4516350"
+  },
+  {
+    "text": "Facilitation",
+    "type": "contentBlock",
+    "pageName": "Types of Assistance",
+    "category": "Coordination / Types of Assistance",
+    "url": "../html/types-of-assistance-m5hjKbQn#search-aef2debc-3932-44a9-907a-8a6343ba51bd"
+  },
+  {
+    "text": "Supervision",
+    "type": "contentBlock",
+    "pageName": "Types of Assistance",
+    "category": "Coordination / Types of Assistance",
+    "url": "../html/types-of-assistance-m5hjKbQn#search-b0420739-bd23-4dc2-b872-2a8174d38266"
+  },
+  {
+    "text": "Advising",
+    "type": "contentBlock",
+    "pageName": "Types of Assistance",
+    "category": "Coordination / Types of Assistance",
+    "url": "../html/types-of-assistance-m5hjKbQn#search-009a3f7a-e99f-4d6b-84ac-b0d6ca67d4c7"
+  },
+  {
+    "text": "Mediation",
+    "type": "contentBlock",
+    "pageName": "Types of Assistance",
+    "category": "Coordination / Types of Assistance",
+    "url": "../html/types-of-assistance-m5hjKbQn#search-e30b290d-cdf2-472e-938a-49653948044a"
+  },
+  {
+    "text": "Sponsorship",
+    "type": "contentBlock",
+    "pageName": "Types of Assistance",
+    "category": "Coordination / Types of Assistance",
+    "url": "../html/types-of-assistance-m5hjKbQn#search-38239715-734b-420d-8c9c-738c144e1389"
+  },
+  {
+    "text": "Peer Support",
+    "type": "contentBlock",
+    "pageName": "Types of Assistance",
+    "category": "Coordination / Types of Assistance",
+    "url": "../html/types-of-assistance-m5hjKbQn#search-91a69dda-1839-4350-9682-8ac22fbb8055"
+  },
+  {
+    "text": "Advocacy",
+    "type": "contentBlock",
+    "pageName": "Types of Assistance",
+    "category": "Coordination / Types of Assistance",
+    "url": "../html/types-of-assistance-m5hjKbQn#search-4c773884-6548-4fc3-bb4b-67a191bece44"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Assistance",
+    "category": "Coordination / Types of Assistance",
+    "url": "../html/types-of-assistance-m5hjKbQn#search-7a04cfc0-f579-4b27-a4f5-dc4a49a0ac98"
+  },
+  {
+    "text": "Types of Assistance",
+    "type": "pageTitle",
+    "pageName": "Types of Assistance",
+    "category": "Coordination / Types of Assistance",
+    "keywords": "Coordination / Types of Assistance",
+    "url": "../html/types-of-assistance-m5hjKbQn"
   },
   {
     "text": "",

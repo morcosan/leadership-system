@@ -35,7 +35,7 @@
 
  /* Custom CSS overrides */
 :root {
-    --contentFontBase: 15px;
+    --contentFontBase: 0.94rem;
     --headingLevel1Size: 1.75rem;
     --headingLevel2Size: 1.75rem;
     --headingLevel3Size: 1.5rem;
