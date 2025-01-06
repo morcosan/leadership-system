@@ -1,13 +1,6 @@
 
   const FuseSearchData = [
   {
-    "text": "Note: This is demo content for a fictional SaaS company.",
-    "type": "contentBlock",
-    "pageName": "Leadership System",
-    "category": "Leadership System",
-    "url": "../html/leadership-system-cnI1ov97-cnI1ov97#search-34c15efd-1359-4b9d-abd5-b5189046f40e"
-  },
-  {
     "text": "",
     "type": "contentBlock",
     "pageName": "Leadership System",
@@ -11851,6 +11844,1106 @@
     "category": "Communication / Styles of Communication",
     "keywords": "Communication / Styles of Communication",
     "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr"
+  },
+  {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c21f70b2-f426-448a-9883-ce2c206c9159"
+  },
+  {
+    "text": "Listening = the active process of receiving, constructing meaning from, and responding to spoken or nonverbal messages, involving attention, understanding, and interpretation.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-5853cbeb-d6dc-4879-bf21-b6d12411f6f1"
+  },
+  {
+    "text": "Active Listening = the intentional practice of fully concentrating, understanding, responding, and remembering what is being communicated, often involving verbal and nonverbal cues to show engagement and empathy.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-d800d7be-5219-4641-a954-2d369ba3f376"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-19511439-b8a9-4a9d-971b-ef1da52cc885"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-1a8f065c-c390-4564-bba1-85bd5e0aefec"
+  },
+  {
+    "text": "Being Attentive",
+    "type": "sectionHeader",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-9070a84f-aa23-46bd-bfb0-f57d24705242"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-235fc4df-5018-42f3-a39b-1f67d4785877"
+  },
+  {
+    "text": "Deferring Judgment",
+    "type": "sectionHeader",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-7f96c4f8-9305-4175-a991-212651756e46"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-45aafc19-750f-461a-a1fe-c0aead6fa9b5"
+  },
+  {
+    "text": "Conveying Understanding",
+    "type": "sectionHeader",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bb967edd-0d36-46c1-a207-cfb1d761585b"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-d6bb3972-783a-4c17-b05e-4b694d9e03cf"
+  },
+  {
+    "text": "Clarifying Ambiguities",
+    "type": "sectionHeader",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3cfa4049-113b-43ed-9570-885e697272f0"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-72f2f123-7dc4-4cbc-a841-1c555d5b2e83"
+  },
+  {
+    "text": "Adding Perspectives",
+    "type": "sectionHeader",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-9c1b0992-24a9-4659-ac8a-5d7392128561"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-8a1a4f75-b334-485a-a472-c9a510ad5a56"
+  },
+  {
+    "text": "Being Attentive = the focused and conscious act of giving undivided attention to the speaker, ensuring that their message is received and understood without distraction or interruption.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-774493b2-16df-4ce5-946d-8cd2187d6432"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-a6134ec1-1eaa-47cd-b68b-ce57ddf2d3e3"
+  },
+  {
+    "text": "We train our team to prioritize undivided attention during all interactions, both internal and external.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2"
+  },
+  {
+    "text": "We encourage structured meetings with clear agendas to reduce unnecessary distractions.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-1"
+  },
+  {
+    "text": "We set expectations for avoiding multitasking during conversations, especially in virtual meetings.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-2"
+  },
+  {
+    "text": "We foster a culture of curiosity by encouraging open-ended questions that deepen discussions.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-3"
+  },
+  {
+    "text": "We remind teams to focus on intent, not just words, to grasp the full meaning of a message.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-4"
+  },
+  {
+    "text": "We promote mindfulness practices to help employees stay present and engaged in conversations.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-5"
+  },
+  {
+    "text": "We ensure team leaders model attentive behavior as an example for others to follow.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-6"
+  },
+  {
+    "text": "We implement post-meeting reviews to assess and improve active listening skills collectively.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-7"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-0"
+  },
+  {
+    "text": "Maintaining consistent eye contact with the speaker.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-0"
+  },
+  {
+    "text": "Nodding or giving small affirmations like \"I see\".",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-1"
+  },
+  {
+    "text": "Leaning slightly forward to signal engagement.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-2"
+  },
+  {
+    "text": "Eliminating distractions and avoiding multitasking.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-3"
+  },
+  {
+    "text": "Keeping the focus on the speaker rather than oneself.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-4"
+  },
+  {
+    "text": "Allowing the speaker to finish their thoughts.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-5"
+  },
+  {
+    "text": "Taking mental or physical notes during discussion.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-6"
+  },
+  {
+    "text": "Waiting for natural pauses in the conversation to engage.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-7"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-0"
+  },
+  {
+    "text": "Interrupting the speaker before they finish their point.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-0"
+  },
+  {
+    "text": "Avoiding eye contact or frequently looking around the room.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-1"
+  },
+  {
+    "text": "Dismissing or minimizing the speaker's emotions.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-2"
+  },
+  {
+    "text": "Displaying boredom or disinterest through body language.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-3"
+  },
+  {
+    "text": "Focusing on preparing a response rather than fully listening.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-4"
+  },
+  {
+    "text": "Talking over the speaker or dominating the conversation.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-5"
+  },
+  {
+    "text": "Rushing to fill silences instead of letting the speaker continue.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-6"
+  },
+  {
+    "text": "Deferring Judgment = the act of suspending personal opinions, biases, and immediate evaluations to fully understand and respect the speaker's perspective without interrupting or dismissing their thoughts.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-65809af7-4c59-4d7c-8809-b780df9de01d"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-d05dfa5d-93b7-4482-9a27-574bf7ea591b"
+  },
+  {
+    "text": "We train employees to approach every conversation with an open mind, free from preconceived notions.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c"
+  },
+  {
+    "text": "We promote the use of neutral language to maintain objectivity in discussions.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-1"
+  },
+  {
+    "text": "We establish ground rules for discussions, including no interruptions or premature conclusions.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-2"
+  },
+  {
+    "text": "We encourage a \"seek first to understand\" mindset before forming opinions or responding.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-3"
+  },
+  {
+    "text": "We offer workshops on recognizing and managing unconscious biases that may influence judgment.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-4"
+  },
+  {
+    "text": "We emphasize the importance of empathy in understanding diverse viewpoints.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-5"
+  },
+  {
+    "text": "We coach leaders to model active listening by withholding judgment and encouraging honest dialogue.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-6"
+  },
+  {
+    "text": "We provide role-playing exercises to practice suspending immediate reactions in challenging scenarios.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-7"
+  },
+  {
+    "text": "We reward behaviors that demonstrate patience, open-mindedness, and thoughtful responses in conversations.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-8"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-0"
+  },
+  {
+    "text": "Listening without interrupting, even in cases of disagreement.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-0"
+  },
+  {
+    "text": "Allowing the speaker to finish their point before responding.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-1"
+  },
+  {
+    "text": "Staying neutral in facial expressions and body language.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-2"
+  },
+  {
+    "text": "Silently acknowledging the speaker’s right to their perspective.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-3"
+  },
+  {
+    "text": "Acknowledging the speaker’s feelings as valid, even if not shared.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-4"
+  },
+  {
+    "text": "Maintaining a calm tone, even when the topic is challenging.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-5"
+  },
+  {
+    "text": "Allowing the conversation to flow naturally without rushing conclusions.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-0"
+  },
+  {
+    "text": "Interrupting to challenge or criticize the speaker’s viewpoint.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-0"
+  },
+  {
+    "text": "Rolling eyes or showing other dismissive body language.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-1"
+  },
+  {
+    "text": "Jumping to conclusions without hearing the full message.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-2"
+  },
+  {
+    "text": "Reacting defensively instead of focusing on understanding.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-3"
+  },
+  {
+    "text": "Mentally labeling the speaker’s statements as “right” or “wrong.”",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-4"
+  },
+  {
+    "text": "Focusing on flaws in their argument instead of the overall intent.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-5"
+  },
+  {
+    "text": "Quickly offering solutions without understanding the full context.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-6"
+  },
+  {
+    "text": "Ignoring the emotional aspect of the speaker’s message.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-7"
+  },
+  {
+    "text": "Overanalyzing minor details instead of focusing on the main point.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-8"
+  },
+  {
+    "text": "Conveying Understanding = the act of demonstrating to the speaker that their message has been heard and interpreted accurately through verbal and nonverbal cues, ensuring mutual clarity and fostering trust.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-43a8f9d8-6a54-4549-875e-ccf498f6b54e"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b1da6d3d-3477-4198-98c2-8eaca93b41c6"
+  },
+  {
+    "text": "We coach employees to acknowledge emotions in the message, fostering empathy and connection.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671"
+  },
+  {
+    "text": "We teach employees to use reflective language, mirroring the tone and phrasing of the message to build rapport.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-1"
+  },
+  {
+    "text": "We promote active engagement through nodding, maintaining eye contact, and other supportive gestures.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-2"
+  },
+  {
+    "text": "We encourage validation of concerns by explicitly recognizing them before offering solutions.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-3"
+  },
+  {
+    "text": "We teach the importance of identifying and addressing key themes or patterns in ongoing conversations.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-4"
+  },
+  {
+    "text": "We coach leaders to model behaviors that demonstrate understanding in one-on-one and group settings.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-5"
+  },
+  {
+    "text": "We discourage dismissive behaviors, such as abruptly changing the topic or providing canned responses.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-6"
+  },
+  {
+    "text": "We implement role-playing exercises to practice conveying understanding in real-world scenarios.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-7"
+  },
+  {
+    "text": "We use simulation software to test and improve employees’ skills in interpreting and responding to nuanced messages.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-8"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-0"
+  },
+  {
+    "text": "Paraphrasing the speaker’s key points to confirm comprehension.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-0"
+  },
+  {
+    "text": "Using phrases like “So, you’re saying…” or “I hear you saying…”",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-1"
+  },
+  {
+    "text": "Nodding to signal alignment with the speaker’s message.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-2"
+  },
+  {
+    "text": "Reflecting the underlying emotion in the speaker’s words.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-3"
+  },
+  {
+    "text": "Showing empathy by validating the speaker's feelings verbally.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-4"
+  },
+  {
+    "text": "Reflecting on the speaker’s concerns or needs before responding.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-5"
+  },
+  {
+    "text": "Summarizing complex points to ensure mutual clarity.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-6"
+  },
+  {
+    "text": "Identifying and acknowledging key themes or patterns.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-7"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-0"
+  },
+  {
+    "text": "Responding with generic phrases that come across as insincere.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-0"
+  },
+  {
+    "text": "Responding with unrelated anecdotes, derailing the conversation.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-1"
+  },
+  {
+    "text": "Failing to acknowledge the speaker’s emotions or concerns.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-2"
+  },
+  {
+    "text": "Misreading nonverbal cues and reacting inappropriately.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-3"
+  },
+  {
+    "text": "Overemphasizing minor details and ignoring the broader point.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-4"
+  },
+  {
+    "text": "Being overly critical of the speaker’s choice of words or phrasing.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-5"
+  },
+  {
+    "text": "Using humor inappropriately, minimizing the speaker’s concerns.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-6"
+  },
+  {
+    "text": "Ending the conversation prematurely without ensuring mutual understanding.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-7"
+  },
+  {
+    "text": "Clarifying Ambiguities = the act of addressing unclear or vague aspects of a speaker's message by asking questions, seeking elaboration, and verifying meaning to ensure accurate understanding and effective communication.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-fe162ef8-c471-48d8-adb2-609271161094"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-9cfb272b-3308-443c-a400-095b3a8f3228"
+  },
+  {
+    "text": "We train our employees to repeat or paraphrase statements to confirm mutual understanding and prevent miscommunication.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5"
+  },
+  {
+    "text": "We emphasize the importance of seeking specific examples or explanations to clarify abstract or complex ideas in discussions.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-1"
+  },
+  {
+    "text": "We provide tools and frameworks to help team members reframe ambiguous points into actionable insights.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-2"
+  },
+  {
+    "text": "We hold workshops that highlight the importance of clarifying assumptions or implied meanings to avoid potential misunderstandings.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-3"
+  },
+  {
+    "text": "We actively promote the validation of emotional or tonal cues to ensure alignment between words and intent.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-4"
+  },
+  {
+    "text": "We integrate active listening techniques, including clarification, into onboarding and professional development programs.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-5"
+  },
+  {
+    "text": "We encourage leaders to model behavior by consistently clarifying and verifying during meetings and conversations.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-6"
+  },
+  {
+    "text": "We recognize that clarifying ambiguities is a skill, and we invest in ongoing training to refine this aspect of active listening.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-7"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-0"
+  },
+  {
+    "text": "Asking open-ended questions to explore unclear points.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-0"
+  },
+  {
+    "text": "Repeating ambiguous statements to verify understanding.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-1"
+  },
+  {
+    "text": "Requesting examples or specifics to clarify abstract concepts.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-2"
+  },
+  {
+    "text": "Encouraging the speaker to expand on key ideas or terms.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-3"
+  },
+  {
+    "text": "Gently probing with follow-up questions to gain deeper clarity.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-4"
+  },
+  {
+    "text": "Reframing unclear points to make them more specific.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-5"
+  },
+  {
+    "text": "Seeking clarification on assumptions or implied meanings.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-6"
+  },
+  {
+    "text": "Confirming the emotion or tone behind ambiguous statements.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-7"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-0"
+  },
+  {
+    "text": "Assuming the meaning of unclear statements without verifying.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-0"
+  },
+  {
+    "text": "Skipping clarification and expecting the context to emerge later.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-1"
+  },
+  {
+    "text": "Interrupting the speaker too early or too often to seek clarification.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-2"
+  },
+  {
+    "text": "Asking leading questions that influence the speaker’s response.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-3"
+  },
+  {
+    "text": "Complicating the conversation with off-topic questions.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-4"
+  },
+  {
+    "text": "Ignoring nonverbal cues that indicate confusion or hesitation.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-5"
+  },
+  {
+    "text": "Rephrasing incorrectly, distorting the speaker’s original message.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-6"
+  },
+  {
+    "text": "Adding Perspectives = the act of introducing new thoughts, viewpoints, or experiences into a conversation to expand its scope, deepen understanding, and provide additional context or insight.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ba5d3e35-7268-42ad-b906-03761d1cd22a"
+  },
+  {
+    "text": "How we encourage it:",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3a6bb752-bcb6-4160-b8f7-0c5058dc0395"
+  },
+  {
+    "text": "We cultivate a culture where sharing personal perspectives is viewed as a strength, not a vulnerability.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da"
+  },
+  {
+    "text": "We promote constructive expression of agreement or disagreement to facilitate respectful and productive exchanges.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-1"
+  },
+  {
+    "text": "We celebrate instances of building on others' ideas to demonstrate teamwork and collaborative growth.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-2"
+  },
+  {
+    "text": "We encourage leaders to acknowledge and validate diverse perspectives, even when they differ from their own.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-3"
+  },
+  {
+    "text": "We incorporate reflective practices like summarizing and rephrasing to ensure mutual understanding and alignment.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-4"
+  },
+  {
+    "text": "We reward openness and vulnerability in sharing ideas and experiences as part of professional growth.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-5"
+  },
+  {
+    "text": "We train employees to listen actively before sharing their perspectives to ensure a constructive flow of ideas.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-6"
+  },
+  {
+    "text": "We integrate storytelling as a tool for employees to effectively communicate their insights and experiences.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-7"
+  },
+  {
+    "text": "We include exercises in team-building activities to practice sharing and respecting diverse perspectives.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-8"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-0"
+  },
+  {
+    "text": "Encouraging dialogue by sharing relevant insights.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-0"
+  },
+  {
+    "text": "Offering alternative viewpoints without imposing them.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-1"
+  },
+  {
+    "text": "Expressing agreement or disagreement constructively.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-2"
+  },
+  {
+    "text": "Building on what the other person has shared.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-3"
+  },
+  {
+    "text": "Summarizing or rephrasing to confirm mutual understanding.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-4"
+  },
+  {
+    "text": "Sharing insights or lessons learned from personal experiences.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-5"
+  },
+  {
+    "text": "Highlighting shared values or areas of agreement.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-0"
+  },
+  {
+    "text": "Interrupting the other person to impose one’s own viewpoint.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-0"
+  },
+  {
+    "text": "Speaking without first fully understanding the other person.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-1"
+  },
+  {
+    "text": "Overloading the conversation with too much personal detail.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-2"
+  },
+  {
+    "text": "Failing to adapt one’s tone or words to the context.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-3"
+  },
+  {
+    "text": "Minimizing or invalidating the other person’s perspective.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-4"
+  },
+  {
+    "text": "Shifting focus to oneself, making the conversation self-centered.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-5"
+  },
+  {
+    "text": "Sharing perspectives unrelated to the conversation’s topic.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-6"
+  },
+  {
+    "text": "Using comparisons that diminish the other person’s experience.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-7"
+  },
+  {
+    "text": "Ignoring the cultural or social context of the conversation.",
+    "type": "contentBlock",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-8"
+  },
+  {
+    "text": "Factors of Active Listening",
+    "type": "pageTitle",
+    "pageName": "Factors of Active Listening",
+    "category": "Communication / Factors of Active Listening",
+    "keywords": "Communication / Factors of Active Listening",
+    "url": "../html/factors-of-active-listening-SnOJbMBe"
   },
   {
     "text": "Note: This is demo content for a fictional SaaS company.",
