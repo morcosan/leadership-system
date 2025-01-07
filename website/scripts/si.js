@@ -18291,11 +18291,1852 @@
     "url": "../html/coordination-jYlRH09J"
   },
   {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-161e0211-7f3a-48f7-8d13-b018ac87c023"
+  },
+  {
+    "text": "Style of Leadership = the distinct approach or method a leader uses to guide, influence, and manage a group or organization, shaped by their personality, values, and situational demands, to achieve specific goals and foster team dynamics.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b0f61a25-4387-4fc2-abf4-d2cdc9273f40"
+  },
+  {
     "text": "",
     "type": "contentBlock",
     "pageName": "Styles of Leadership",
     "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6f109c59-14c8-4243-9b93-091e99a23b24"
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b0c4a508-32db-4748-9927-47f9110e0663"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-06e76091-ede3-4fd6-93da-fd0960a83848"
+  },
+  {
+    "text": "Autocratic Leadership",
+    "type": "sectionHeader",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a4d18f54-5692-430e-8e9a-601d72baeb00"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-c73838f5-a274-42bc-a92e-00e27e34b002"
+  },
+  {
+    "text": "Bureaucratic Leadership",
+    "type": "sectionHeader",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-0e4081be-54a7-4155-89a9-b1f91d4cfbb6"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-c6d73634-1fe8-41c9-bb74-164929d2fccb"
+  },
+  {
+    "text": "Charismatic Leadership",
+    "type": "sectionHeader",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-0f686151-ff2b-426e-a092-3af47cee49ff"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-18dde99c-d9ea-4067-aa71-7aa28717ede9"
+  },
+  {
+    "text": "Coaching Leadership",
+    "type": "sectionHeader",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-7ef2b5c4-674f-4b09-a193-a50ca8d7f820"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-1bac039b-faad-42b3-9a28-a7760e0e1311"
+  },
+  {
+    "text": "Democratic Leadership",
+    "type": "sectionHeader",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-8430be4d-89d0-4ca3-b011-8af715e4067d"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-cacdb704-69c2-4e8c-a2bd-28e1e22ca618"
+  },
+  {
+    "text": "Laissez-Faire Leadership",
+    "type": "sectionHeader",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-39e9445b-aeb7-4adf-b5f1-6a25060578be"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-fb553252-4bac-4122-a301-7749a992bc29"
+  },
+  {
+    "text": "Servant Leadership",
+    "type": "sectionHeader",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e573697c-2692-4a4c-9bb9-a02c398d7f0b"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b60ed686-0909-4815-b358-e124fcb74173"
+  },
+  {
+    "text": "Transactional Leadership",
+    "type": "sectionHeader",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-5fe46bf3-db7f-4af4-b247-ec6231075df7"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-90136461-5bc0-4879-af15-bae6f41e715a"
+  },
+  {
+    "text": "Transformational Leadership",
+    "type": "sectionHeader",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-cd2fee80-b580-4b23-8a45-d5fcca2dbece"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-cc82a90f-e225-4d09-8599-3536f1fda002"
+  },
+  {
+    "text": "Autocratic Leadership = the leadership style where the leader exercises complete control over decision-making, directs tasks with little or no input from team members, and emphasizes strict adherence to rules, authority, and organizational structure to achieve objectives.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a5004c0d-83a0-4f29-ab00-ccd715809db4"
+  },
+  {
+    "text": "How we apply this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-5204818b-1509-4566-9328-a57c81af3af7"
+  },
+  {
+    "text": "We use autocratic leadership in situations where rapid decision-making is critical and time is of the essence",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2"
+  },
+  {
+    "text": "We use this style for high-stakes negotiations, where a singular vision and authority are essential for success",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-1"
+  },
+  {
+    "text": "We rely on autocratic leadership in crisis management scenarios to ensure a unified and immediate response.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-2"
+  },
+  {
+    "text": "We apply this style in our operations and logistics teams to maintain consistency and efficiency in day-to-day tasks.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-3"
+  },
+  {
+    "text": "We enforce autocratic leadership in quality control to meet rigorous standards without room for deviation.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-4"
+  },
+  {
+    "text": "We deploy this approach in high-risk areas, such as cybersecurity, to mitigate threats with precise, authoritative action.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-5"
+  },
+  {
+    "text": "We rely on this leadership style during large-scale product launches to coordinate efforts across departments seamlessly.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-6"
+  },
+  {
+    "text": "We apply autocratic leadership in sales-driven campaigns with tight deadlines to meet aggressive targets.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-7"
+  },
+  {
+    "text": "We maintain autocratic control in our financial department to ensure strict budget adherence and prevent overspending.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-8"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-0"
+  },
+  {
+    "text": "It enables quick decision-making due to centralized authority.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-0"
+  },
+  {
+    "text": "It establishes clear rules and expectations for the team.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-1"
+  },
+  {
+    "text": "It fosters consistency in processes and decisions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-2"
+  },
+  {
+    "text": "It allows rapid implementation of strategies and plans.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-3"
+  },
+  {
+    "text": "It is effective in emergencies requiring quick decisions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-4"
+  },
+  {
+    "text": "It simplifies tracking and holding individuals accountable.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-5"
+  },
+  {
+    "text": "It helps unskilled or inexperienced teams needing guidance.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-6"
+  },
+  {
+    "text": "It boosts productivity in repetitive or task-oriented jobs.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-7"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-0"
+  },
+  {
+    "text": "It discourages creativity and innovation among employees.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-0"
+  },
+  {
+    "text": "It creates dependency on the leader, reducing team initiative.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-1"
+  },
+  {
+    "text": "It can lead to low employee morale and job dissatisfaction.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-2"
+  },
+  {
+    "text": "It hinders team development and growth opportunities.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-3"
+  },
+  {
+    "text": "It can cause high turnover if employees feel undervalued.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-4"
+  },
+  {
+    "text": "It increases the risk of micromanagement, reducing efficiency.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-5"
+  },
+  {
+    "text": "It limits diverse viewpoints, leading to narrow decision-making.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-6"
+  },
+  {
+    "text": "It depends heavily on the leader’s competence, risking instability.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-7"
+  },
+  {
+    "text": "Bureaucratic Leadership = the leadership style that emphasizes strict adherence to organizational rules, procedures, and hierarchy, focusing on maintaining order, consistency, and efficiency within structured systems.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a28b5d80-5069-4ff0-95fa-3d5c1831cb1d"
+  },
+  {
+    "text": "How we apply this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-66b0f9d6-3261-4fb3-bf10-36fe28600001"
+  },
+  {
+    "text": "We apply bureaucratic leadership in departments where compliance with policies and procedures is critical to success.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a"
+  },
+  {
+    "text": "We use this style in accounting and finance to ensure precision, transparency, and accountability.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-1"
+  },
+  {
+    "text": "We rely on this approach in legal and regulatory functions to ensure adherence to all applicable laws and standards.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-2"
+  },
+  {
+    "text": "We use bureaucratic leadership in procurement to follow structured processes for vendor selection and contract management.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-3"
+  },
+  {
+    "text": "We apply it in quality assurance to maintain consistency and adherence to our product standards.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-4"
+  },
+  {
+    "text": "We rely on bureaucratic leadership in inventory management to maintain order and track resources effectively.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-5"
+  },
+  {
+    "text": "We use this approach in contract management to adhere to legal and organizational standards strictly.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-6"
+  },
+  {
+    "text": "We emphasize bureaucratic leadership in safety and health initiatives to comply with industry regulations and ensure employee welfare.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-7"
+  },
+  {
+    "text": "We depend on this style in performance reviews to maintain fairness and alignment with pre-set criteria.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-8"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-0"
+  },
+  {
+    "text": "It ensures consistency and uniformity across all operations.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-0"
+  },
+  {
+    "text": "It fosters stability through adherence to established rules.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-1"
+  },
+  {
+    "text": "It ensures strong compliance with legal and regulatory standards.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-2"
+  },
+  {
+    "text": "It provides clear expectations and roles for employees.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-3"
+  },
+  {
+    "text": "It promotes discipline and order within the organization.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-4"
+  },
+  {
+    "text": "It minimizes ambiguity and confusion in decision-making.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-5"
+  },
+  {
+    "text": "It facilitates long-term planning due to predictable structures.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-6"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-0"
+  },
+  {
+    "text": "It limits innovation by prioritizing rules over flexibility.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-0"
+  },
+  {
+    "text": "It may result in excessive bureaucracy and delayed decisions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-1"
+  },
+  {
+    "text": "It may cause resistance to change due to rigid systems.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-2"
+  },
+  {
+    "text": "It weakens emotional connections between leaders and teams.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-3"
+  },
+  {
+    "text": "It prioritizes process over outcomes, reducing effectiveness.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-4"
+  },
+  {
+    "text": "It can cause bureaucratic inertia, with processes followed blindly.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-5"
+  },
+  {
+    "text": "It can demotivate employees by limiting opportunities for input.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-6"
+  },
+  {
+    "text": "It alienates employees who value innovation and creativity.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-7"
+  },
+  {
+    "text": "It raises operational costs due to multiple layers of management.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-8"
+  },
+  {
+    "text": "Charismatic Leadership = the leadership style where the leader leverages their personal charm, vision, and persuasive communication to inspire and influence followers, fostering strong emotional connections and loyalty to achieve shared goals.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-654812a6-51b2-4770-af88-cce160114626"
+  },
+  {
+    "text": "How we apply this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-dd54cc65-c81d-4dae-9320-e2e848751c7b"
+  },
+  {
+    "text": "We use this style in marketing to craft compelling narratives that resonate with our audience and energize our team.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff"
+  },
+  {
+    "text": "We rely on charismatic leadership to rally employees around ambitious company goals and long-term vision.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-1"
+  },
+  {
+    "text": "We use charismatic leadership to inspire our leadership team, encouraging them to lead with passion and energy.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-2"
+  },
+  {
+    "text": "We emphasize this style during company-wide meetings to instill a sense of purpose and unity among employees.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-3"
+  },
+  {
+    "text": "We use this approach to establish strong relationships with investors and stakeholders, fostering trust and alignment.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-4"
+  },
+  {
+    "text": "We apply charismatic leadership in talent acquisition to attract top talent by showcasing our inspiring culture and vision.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-5"
+  },
+  {
+    "text": "We use this style to energize teams during product launches, creating excitement and commitment across the organization.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-6"
+  },
+  {
+    "text": "We use charismatic leadership to create loyalty among our customers, turning them into brand advocates.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-7"
+  },
+  {
+    "text": "We use charismatic leadership to reinforce our identity as a dynamic, forward-thinking organization.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-8"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-0"
+  },
+  {
+    "text": "It inspires followers to achieve extraordinary goals.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-0"
+  },
+  {
+    "text": "It builds strong emotional connections with the team.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-1"
+  },
+  {
+    "text": "It boosts morale and motivation within the organization.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-2"
+  },
+  {
+    "text": "It helps to unify diverse groups under a common purpose.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-3"
+  },
+  {
+    "text": "It instills confidence in followers during uncertain times.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-4"
+  },
+  {
+    "text": "It creates a sense of belonging among team members.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-5"
+  },
+  {
+    "text": "It enables leaders to drive organizational change effectively.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-6"
+  },
+  {
+    "text": "It attracts talent drawn to the leader’s vision and energy.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-7"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-0"
+  },
+  {
+    "text": "It can lead to dependency on the leader, being unsustainable.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-0"
+  },
+  {
+    "text": "It may foster a cult of personality rather than collaboration.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-1"
+  },
+  {
+    "text": "It may prioritize charisma over competence.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-2"
+  },
+  {
+    "text": "It risks overshadowing the contributions of the team.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-3"
+  },
+  {
+    "text": "It could result in poor decision-making without oversight.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-4"
+  },
+  {
+    "text": "It can lead to burnout for both the leader and followers.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-5"
+  },
+  {
+    "text": "It could create unrealistic expectations from followers.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-6"
+  },
+  {
+    "text": "It can lead to over-promising and under-performing.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-7"
+  },
+  {
+    "text": "Coaching Leadership = the leadership style where the leader focuses on the development of individuals by guiding, mentoring, and supporting them to improve their skills, performance, and personal growth, while aligning their goals with organizational objectives.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-82e23bfd-efda-4092-ae5e-81574afb3203"
+  },
+  {
+    "text": "How we apply this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-87ba2497-8142-4513-89a2-74c4facdfed9"
+  },
+  {
+    "text": "We apply coaching leadership in employee development programs to help individuals grow professionally and personally.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-dcb8f28c-76f8-4403-8731-59a13e82021d"
+  },
+  {
+    "text": "We rely on coaching leadership in our mentorship programs to nurture emerging leaders within the company.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-dcb8f28c-76f8-4403-8731-59a13e82021d-1"
+  },
+  {
+    "text": "We apply coaching leadership in onboarding to ensure new hires feel supported and aligned with our organizational values.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-dcb8f28c-76f8-4403-8731-59a13e82021d-2"
+  },
+  {
+    "text": "We rely on coaching leadership in cross-training initiatives to broaden employee skill sets and career opportunities.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-dcb8f28c-76f8-4403-8731-59a13e82021d-3"
+  },
+  {
+    "text": "We apply coaching leadership in succession planning, ensuring a strong pipeline of skilled and capable leaders.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-dcb8f28c-76f8-4403-8731-59a13e82021d-4"
+  },
+  {
+    "text": "We use coaching leadership in innovation workshops to guide employees toward creative solutions and breakthroughs.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-dcb8f28c-76f8-4403-8731-59a13e82021d-5"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-0"
+  },
+  {
+    "text": "It fosters personal and professional growth in employees.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-0"
+  },
+  {
+    "text": "It enhances employee engagement and satisfaction.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-1"
+  },
+  {
+    "text": "It builds stronger, more collaborative relationships.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-2"
+  },
+  {
+    "text": "It improves team performance through skill development.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-3"
+  },
+  {
+    "text": "It encourages open communication and feedback.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-4"
+  },
+  {
+    "text": "It aligns individual goals with organizational objectives.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-5"
+  },
+  {
+    "text": "It promotes accountability and ownership of work.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-6"
+  },
+  {
+    "text": "It helps identify and nurture future leaders.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-7"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-0"
+  },
+  {
+    "text": "It requires significant time investment from the leader.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-0"
+  },
+  {
+    "text": "It depends heavily on the leader’s coaching skills.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-1"
+  },
+  {
+    "text": "It may slow decisions by prioritizing development over action.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-2"
+  },
+  {
+    "text": "It may fail to address performance issues promptly.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-3"
+  },
+  {
+    "text": "It can be misunderstood as a lack of leadership or direction.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-4"
+  },
+  {
+    "text": "It requires additional resources for training and development.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-5"
+  },
+  {
+    "text": "It may neglect organizational priorities by focusing on individuals.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-6"
+  },
+  {
+    "text": "It may create unrealistic expectations for constant development.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-7"
+  },
+  {
+    "text": "Democratic Leadership = the leadership style where decisions are made collaboratively, with the leader encouraging team members to contribute ideas, provide feedback, and participate in decision-making, fostering a sense of shared responsibility and inclusivity.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-62095982-60c8-4004-a9c0-554a050c8795"
+  },
+  {
+    "text": "How we apply this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a40a7c85-20b0-4ecd-b93d-0658c719fdd2"
+  },
+  {
+    "text": "We use this style in the marketing department to ensure campaigns reflect diverse ideas and creativity.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed"
+  },
+  {
+    "text": "We apply democratic leadership in the human resources department to shape policies and initiatives based on employee feedback.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-1"
+  },
+  {
+    "text": "We use this style in the corporate social responsibility department to align projects with team and community input.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-2"
+  },
+  {
+    "text": "We emphasize this approach in project management offices where cross-functional teams contribute to decision-making.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-3"
+  },
+  {
+    "text": "We rely on democratic leadership in the diversity, equity, and inclusion team to build initiatives reflecting employee perspectives.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-4"
+  },
+  {
+    "text": "We use this style in data analytics to design dashboards and tools that meet organizational goals collaboratively.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-5"
+  },
+  {
+    "text": "We rely on democratic leadership in the sustainability team to create environmental initiatives based on broad organizational insights.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-6"
+  },
+  {
+    "text": "We emphasize this approach in event planning to design programs that reflect employee interests and priorities.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-7"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-0"
+  },
+  {
+    "text": "It promotes team engagement and active participation.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-0"
+  },
+  {
+    "text": "It fosters ownership and accountability among team members.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-1"
+  },
+  {
+    "text": "It encourages creativity and innovation through diverse input.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-2"
+  },
+  {
+    "text": "It aligns team goals with organizational objectives via consensus.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-3"
+  },
+  {
+    "text": "It increases commitment to decisions made by the team.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-4"
+  },
+  {
+    "text": "It improves employee retention through inclusion and respect.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-5"
+  },
+  {
+    "text": "It promotes a feedback culture, improving overall performance.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-6"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-0"
+  },
+  {
+    "text": "It can slow down decision-making in time-sensitive situations.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-0"
+  },
+  {
+    "text": "It may lead to decision fatigue or burnout among team members.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-1"
+  },
+  {
+    "text": "It risks overemphasis on consensus at the expense of action.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-2"
+  },
+  {
+    "text": "It may lead to conflicts if consensus cannot be reached.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-3"
+  },
+  {
+    "text": "It requires a high level of skill in facilitation and conflict resolution.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-4"
+  },
+  {
+    "text": "It might dilute responsibility, with no one feeling accountable.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-5"
+  },
+  {
+    "text": "It risks favoritism if certain voices dominate the discussions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-6"
+  },
+  {
+    "text": "Laissez-Faire Leadership = the leadership style where the leader takes a hands-off approach, providing minimal direction and allowing team members to make decisions, manage their tasks, and work independently, offering support only when needed.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-efe5ca33-ba89-4f68-b43a-04489296bda4"
+  },
+  {
+    "text": "How we apply this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-2c101ebb-2fdb-4539-b9b5-4d178cc6eaf5"
+  },
+  {
+    "text": "We apply this style in the creative design team, allowing members to take full ownership of their projects and ideas.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-908193df-b48f-46ff-90bf-84b157056515"
+  },
+  {
+    "text": "We rely on laissez-faire leadership in the IT department for specialists to independently manage technical infrastructure and solutions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-908193df-b48f-46ff-90bf-84b157056515-1"
+  },
+  {
+    "text": "We emphasize this approach in the sales department with senior sales representatives who excel at self-directed client management.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-908193df-b48f-46ff-90bf-84b157056515-2"
+  },
+  {
+    "text": "We use laissez-faire leadership in data analytics, where analysts are trusted to derive insights and propose actionable strategies independently.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-908193df-b48f-46ff-90bf-84b157056515-3"
+  },
+  {
+    "text": "We apply this style in the product management team, enabling them to prioritize features and improvements autonomously.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-908193df-b48f-46ff-90bf-84b157056515-4"
+  },
+  {
+    "text": "We apply this style in innovation labs, allowing members to take risks and experiment with unconventional ideas.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-908193df-b48f-46ff-90bf-84b157056515-5"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-0"
+  },
+  {
+    "text": "It empowers employees by granting them autonomy and trust.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-0"
+  },
+  {
+    "text": "It fosters creativity and innovation by allowing freedom of thought.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-1"
+  },
+  {
+    "text": "It promotes a flexible and relaxed work environment.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-2"
+  },
+  {
+    "text": "It reduces micromanagement, giving employees room to grow.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-3"
+  },
+  {
+    "text": "It allows leaders to focus more on strategic priorities.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-4"
+  },
+  {
+    "text": "It supports the development of leadership skills within the team.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-5"
+  },
+  {
+    "text": "It lets employees work at their own pace, boosting satisfaction.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-6"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-0"
+  },
+  {
+    "text": "It can result in poor coordination and disorganization.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-0"
+  },
+  {
+    "text": "It may cause confusion due to unclear roles and responsibilities.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-1"
+  },
+  {
+    "text": "It risks neglecting team dynamics and individual challenges.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-2"
+  },
+  {
+    "text": "It may lead to inconsistent quality of work.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-3"
+  },
+  {
+    "text": "It can foster a sense of isolation among team members.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-4"
+  },
+  {
+    "text": "It can result in unmet deadlines or objectives.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-5"
+  },
+  {
+    "text": "It may lead to conflict if team members disagree on direction.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-6"
+  },
+  {
+    "text": "It is ineffective in high-pressure or crisis situations.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-7"
+  },
+  {
+    "text": "Servant Leadership = the leadership style where the leader prioritizes serving the needs of the team, fostering growth, well-being, and collaboration by emphasizing empathy, listening, and support to empower individuals and achieve collective goals.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-36c7d3fd-d521-4524-a459-497cfc372af2"
+  },
+  {
+    "text": "How we apply this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-26483e47-dcc0-4a6a-9f89-c60ea9a906ac"
+  },
+  {
+    "text": "We apply servant leadership in the human resources department to focus on employee well-being and career growth.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-9a5f5adf-bf20-4efe-9cb4-0a28604ca713"
+  },
+  {
+    "text": "We rely on servant leadership in customer success, ensuring teams feel supported in delivering exceptional client experiences.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-9a5f5adf-bf20-4efe-9cb4-0a28604ca713-1"
+  },
+  {
+    "text": "We emphasize this approach in the diversity, equity, and inclusion team to create a culture that values every voice.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-9a5f5adf-bf20-4efe-9cb4-0a28604ca713-2"
+  },
+  {
+    "text": "We apply this style in customer service to prioritize the emotional well-being of agents as they handle challenging interactions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-9a5f5adf-bf20-4efe-9cb4-0a28604ca713-3"
+  },
+  {
+    "text": "We apply this style in event planning, focusing on team collaboration and ensuring their ideas are heard and valued.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-9a5f5adf-bf20-4efe-9cb4-0a28604ca713-4"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-0"
+  },
+  {
+    "text": "It builds strong trust and loyalty within the team.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-0"
+  },
+  {
+    "text": "It fosters a culture of respect and mutual support.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-1"
+  },
+  {
+    "text": "It promotes personal and professional growth among employees.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-2"
+  },
+  {
+    "text": "It aligns individual goals with organizational values.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-3"
+  },
+  {
+    "text": "It creates a positive and inclusive work environment.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-4"
+  },
+  {
+    "text": "It reduces turnover by prioritizing employee well-being.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-5"
+  },
+  {
+    "text": "It empowers employees, fostering innovation and ownership.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-6"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-0"
+  },
+  {
+    "text": "It may slow down decision-making due to its inclusive approach.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-0"
+  },
+  {
+    "text": "It risks prioritizing individual needs over organizational goals.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-1"
+  },
+  {
+    "text": "It demands substantial time and emotional effort from the leader.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-2"
+  },
+  {
+    "text": "It can be misinterpreted as a lack of authority or direction.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-3"
+  },
+  {
+    "text": "It risks uneven workloads if employees over-rely on support.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-4"
+  },
+  {
+    "text": "It may struggle to enforce accountability without clear boundaries.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-5"
+  },
+  {
+    "text": "It might delay addressing underperformance to avoid conflict.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-6"
+  },
+  {
+    "text": "Transactional Leadership = the leadership style focused on structured tasks, clear roles, and performance-based rewards and punishments, emphasizing efficiency, compliance, and achieving specific organizational goals through predefined processes and expectations.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-5100d341-34f1-422d-a021-b7db37e67316"
+  },
+  {
+    "text": "How we apply this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-8b06395b-ddcf-4be5-a7f0-6606329590f5"
+  },
+  {
+    "text": "We apply transactional leadership in the sales department to drive performance through clear targets and incentive structures.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b"
+  },
+  {
+    "text": "We use this style in the customer support team to ensure adherence to service protocols and performance benchmarks.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-1"
+  },
+  {
+    "text": "We emphasize this approach in the quality assurance team to enforce strict compliance with testing processes and results.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-2"
+  },
+  {
+    "text": "We apply transactional leadership in IT support to maintain service level agreements and response time commitments.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-3"
+  },
+  {
+    "text": "We apply transactional leadership in the data entry team to achieve high accuracy and productivity metrics.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-4"
+  },
+  {
+    "text": "We rely on transactional leadership in call centers to enforce scripts and meet call handling time targets.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-5"
+  },
+  {
+    "text": "We use this style in the payroll department to ensure timely and accurate processing of employee compensation.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-6"
+  },
+  {
+    "text": "We rely on transactional leadership during crisis management to maintain order and clarity amidst uncertainty.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-7"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-0"
+  },
+  {
+    "text": "It provides clear expectations and goals for team members.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-0"
+  },
+  {
+    "text": "It ensures consistency and adherence to established processes.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-1"
+  },
+  {
+    "text": "It aligns rewards with performance, motivating employees.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-2"
+  },
+  {
+    "text": "It ensures accountability with defined roles and responsibilities.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-3"
+  },
+  {
+    "text": "It is effective for achieving short-term objectives and deadlines.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-4"
+  },
+  {
+    "text": "It provides measurable outcomes to track performance.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-5"
+  },
+  {
+    "text": "It is efficient in situations requiring routine or repetitive tasks.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-6"
+  },
+  {
+    "text": "It allows for quick corrective actions when objectives are not met.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-7"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-0"
+  },
+  {
+    "text": "It limits creativity and innovation due to rigid structures.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-0"
+  },
+  {
+    "text": "It may demotivate employees who value autonomy or growth.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-1"
+  },
+  {
+    "text": "It may foster a purely task-oriented work culture.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-2"
+  },
+  {
+    "text": "It risks prioritizing short-term wins over long-term goals.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-3"
+  },
+  {
+    "text": "It creates a transactional relationship rather than fostering loyalty.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-4"
+  },
+  {
+    "text": "It could lead to burnout due to constant pressure for results.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-5"
+  },
+  {
+    "text": "It alienates employees who value recognition over rewards.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-6"
+  },
+  {
+    "text": "It can cause disengagement if rewards seem unfair.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-7"
+  },
+  {
+    "text": "Transformational Leadership = the leadership style where the leader inspires and motivates followers to exceed expectations by fostering a shared vision, encouraging innovation, and focusing on personal and professional growth to drive meaningful change and achieve organizational goals.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-6ff0398f-8a43-4201-9a43-18e00587d4ca"
+  },
+  {
+    "text": "How we apply this style:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-fd74ec20-e0b2-4b81-b601-bf942b905655"
+  },
+  {
+    "text": "We embrace transformational leadership by inspiring teams with a compelling vision that aligns with our pursuit of excellence and profitability.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e"
+  },
+  {
+    "text": "We use this style in product development, where innovation is essential to staying ahead in the competitive SaaS market",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e-1"
+  },
+  {
+    "text": "We encourage bold, forward-thinking initiatives, particularly in our R&D department, where disruption can redefine markets.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e-2"
+  },
+  {
+    "text": "We rely on transformational leadership during times of organizational change to unify teams around shared goals and smooth transitions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e-3"
+  },
+  {
+    "text": "We encourage leaders across departments to inspire rather than dictate, ensuring employee engagement and ownership of outcomes.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e-4"
+  },
+  {
+    "text": "We use this approach in strategic planning, fostering cross-departmental collaboration to generate fresh ideas and solutions.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e-5"
+  },
+  {
+    "text": "We apply this style in talent acquisition, focusing on bringing in individuals who thrive in environments of vision-driven leadership.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e-6"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-0"
+  },
+  {
+    "text": "It fosters a strong sense of purpose and shared vision.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-0"
+  },
+  {
+    "text": "It builds high levels of motivation and engagement.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-1"
+  },
+  {
+    "text": "It encourages innovation and creativity within the organization.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-2"
+  },
+  {
+    "text": "It promotes a positive and dynamic organizational culture.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-3"
+  },
+  {
+    "text": "It empowers employees by involving them in decision-making.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-4"
+  },
+  {
+    "text": "It aligns individual and organizational goals effectively.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-5"
+  },
+  {
+    "text": "It develops leadership skills and potential in employees.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-6"
+  },
+  {
+    "text": "It adapts well to complex and rapidly changing environments.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-7"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-0"
+  },
+  {
+    "text": "It may lead to burnout due to high expectations.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-0"
+  },
+  {
+    "text": "It can pressure employees to continually adapt and innovate.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-1"
+  },
+  {
+    "text": "It risks neglecting short-term needs in pursuit of long-term goals.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-2"
+  },
+  {
+    "text": "It requires significant emotional intelligence and leadership skills.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-3"
+  },
+  {
+    "text": "It requires time and effort to build relationships and trust.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-4"
+  },
+  {
+    "text": "It could create unrealistic expectations among team members.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-5"
+  },
+  {
+    "text": "It may cause inconsistent results without strong processes.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-6"
+  },
+  {
+    "text": "It may overlook individual differences for a unified approach.",
+    "type": "contentBlock",
+    "pageName": "Styles of Leadership",
+    "category": "Coordination / Styles of Leadership",
+    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-7"
   },
   {
     "text": "Styles of Leadership",
