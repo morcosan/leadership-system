@@ -3321,7 +3321,7 @@
     "url": "../html/states-of-mind-p5KXrGTp#search-497a7098-7fa7-460a-9e29-632fcbefdc8d"
   },
   {
-    "text": "State of mind = the mental or emotional condition of an individual at a particular time, influenced by thoughts, feelings, attitudes, and perceptions.",
+    "text": "State of Mind = the mental or emotional condition of an individual at a particular time, influenced by thoughts, feelings, attitudes, and perceptions.",
     "type": "contentBlock",
     "pageName": "States of Mind",
     "category": "Trust / States of Mind",
@@ -10468,2482 +10468,2482 @@
   {
     "text": "Note: This is demo content for a fictional SaaS company.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-23b6d64f-b15a-48b2-97c2-caf600f45d1d"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-23b6d64f-b15a-48b2-97c2-caf600f45d1d"
   },
   {
     "text": "PCM (Process Communication Model) = the psychological framework developed by Dr. Taibi Kahler in the late 1970s, focusing on the dynamics of effective communication by identifying and addressing different communication styles and preferences to enhance understanding and interaction.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0b805347-0df0-4f3a-a41e-262b83c687d1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0b805347-0df0-4f3a-a41e-262b83c687d1"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4dca2eff-66df-4010-a13f-267245c185a4"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-4dca2eff-66df-4010-a13f-267245c185a4"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-59b5c0a1-e3f2-4da8-bed5-061556c9091f"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-59b5c0a1-e3f2-4da8-bed5-061556c9091f"
   },
   {
     "text": "Thinker Style (Analytical)",
     "type": "sectionHeader",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9bec1750-2184-4638-8cbe-0d13a4a86e54"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-9bec1750-2184-4638-8cbe-0d13a4a86e54"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-d7df1f34-3330-4137-b1b1-444473038e51"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-d7df1f34-3330-4137-b1b1-444473038e51"
   },
   {
     "text": "Persister Style (Principled)",
     "type": "sectionHeader",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-1981381e-f23c-4e6f-b33e-b706ca3d2f60"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-1981381e-f23c-4e6f-b33e-b706ca3d2f60"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-11573f3d-677a-415c-b771-786eff6bccb7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-11573f3d-677a-415c-b771-786eff6bccb7"
   },
   {
     "text": "Promoter Style (Actionable)",
     "type": "sectionHeader",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-7c8a9e71-9166-4755-b09a-aa1ef2764808"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-7c8a9e71-9166-4755-b09a-aa1ef2764808"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-b5a38c12-4345-40cc-b3c6-35f4039627ab"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-b5a38c12-4345-40cc-b3c6-35f4039627ab"
   },
   {
     "text": "Harmonizer Style (Relational)",
     "type": "sectionHeader",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0fe40841-e879-452f-9ac9-e6f5636d3284"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0fe40841-e879-452f-9ac9-e6f5636d3284"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-41539346-1628-4cee-9e53-9b9dd7abf6e2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-41539346-1628-4cee-9e53-9b9dd7abf6e2"
   },
   {
     "text": "Imaginer Style (Reflective)",
     "type": "sectionHeader",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4b4eea7c-11a3-42eb-9607-ec8d4b081b90"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-4b4eea7c-11a3-42eb-9607-ec8d4b081b90"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0b12a95c-68aa-4e17-b219-b83b045c0cbb"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0b12a95c-68aa-4e17-b219-b83b045c0cbb"
   },
   {
     "text": "Rebel Style (Playful)",
     "type": "sectionHeader",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-d69b30cf-f470-40a8-b6dd-c406f69bfe14"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-d69b30cf-f470-40a8-b6dd-c406f69bfe14"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-341fe800-1691-41fe-847b-2e1f344485d2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-341fe800-1691-41fe-847b-2e1f344485d2"
   },
   {
     "text": "Thinker Style = the communication style characterized by logic, precision, and organization. It emphasizes clear, structured, and factual exchanges, focusing on providing and receiving information in a logical and methodical way.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-31af61fa-172c-493e-bf20-b440844eba5f"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-31af61fa-172c-493e-bf20-b440844eba5f"
   },
   {
     "text": "How we support this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-8fe2061e-d50b-45c9-9f6a-fc506ff7b4f6"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-8fe2061e-d50b-45c9-9f6a-fc506ff7b4f6"
   },
   {
     "text": "We prioritize data-driven decision making and clear metrics for success in all initiatives.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78"
   },
   {
     "text": "We structure our communication channels to maximize efficiency and clarity of information flow.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-1"
   },
   {
     "text": "We encourage precise and methodical approaches to project management and execution.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-2"
   },
   {
     "text": "We maintain clear documentation and structured processes for all major operations.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-3"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-3"
   },
   {
     "text": "We utilize data visualization and clear reporting structures to communicate complex information.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-4"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-4"
   },
   {
     "text": "We implement rigorous quality control measures in our communication protocols.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-5"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-5"
   },
   {
     "text": "We maintain organized knowledge bases for efficient information sharing.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-6"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-6"
   },
   {
     "text": "We value clear, concise communication that drives measurable results.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-7"
   },
   {
     "text": "We implement structured feedback systems for continuous improvement.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-8"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-9e8a9db3-e8bc-4b51-b60b-59bfacbc2c78-8"
   },
   {
     "text": "Healthy behaviors:",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-0"
   },
   {
     "text": "Delivering clear and concise information.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-0"
   },
   {
     "text": "Organizing ideas in a logical sequence.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-1"
   },
   {
     "text": "Asking thoughtful and relevant questions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-2"
   },
   {
     "text": "Staying focused on facts and data.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-3"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-3"
   },
   {
     "text": "Breaking complex topics into manageable steps.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-4"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-4"
   },
   {
     "text": "Using precise and accurate language.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-5"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-5"
   },
   {
     "text": "Sticking to the main topic during discussions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-6"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-6"
   },
   {
     "text": "Prioritizing efficiency in communication.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-7"
   },
   {
     "text": "Avoiding unnecessary tangents or distractions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-8"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-0-1-8"
   },
   {
     "text": "Stress-induced behaviors:",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-0"
   },
   {
     "text": "Overloading conversations with excessive details.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-0"
   },
   {
     "text": "Focusing too much on minor issues.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-1"
   },
   {
     "text": "Criticizing others for lack of precision.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-2"
   },
   {
     "text": "Overanalyzing situations, leading to indecision.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-3"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-3"
   },
   {
     "text": "Interrupting to correct small inaccuracies.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-4"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-4"
   },
   {
     "text": "Using overly complex language unnecessarily.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-5"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-5"
   },
   {
     "text": "Repeating points to ensure understanding.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-6"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-6"
   },
   {
     "text": "Being overly formal or impersonal.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-7"
   },
   {
     "text": "Losing patience with abstract or emotional input.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-8"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-180c549e-7520-4ef4-a03c-c181ed60f287-1-1-8"
   },
   {
     "text": "Persister Style = the communication style focused on sharing values, principles, and purpose. It emphasizes conviction, dedication, and meaningful dialogue, with a preference for exchanges that align with beliefs and values while seeking recognition for commitment and loyalty.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0f559d67-88c7-4c7d-ad0f-c335d50eb802"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0f559d67-88c7-4c7d-ad0f-c335d50eb802"
   },
   {
     "text": "How we support this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-9a285a58-d96d-4625-8901-b0545275c479"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-9a285a58-d96d-4625-8901-b0545275c479"
   },
   {
     "text": "We create a culture where values and principles guide decision-making and strategic priorities.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c"
   },
   {
     "text": "We recognize and reward loyalty while maintaining focus on measurable results and outcomes.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-1"
   },
   {
     "text": "We create clear frameworks for ethical business practices that drive sustainable growth.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-2"
   },
   {
     "text": "We appreciate team members who demonstrate commitment to our profit-driven objectives.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-3"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-3"
   },
   {
     "text": "We recognize dedication through performance-based rewards and advancement opportunities.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-4"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-4"
   },
   {
     "text": "We value team members who show consistent commitment to excellence and results.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-5"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-5"
   },
   {
     "text": "We maintain high ethical standards while aggressively pursuing market opportunities.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-6"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-6"
   },
   {
     "text": "We appreciate team members who consistently deliver on their commitments.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-4e5f1d18-2119-4780-b2a6-a64f4b66204c-7"
   },
   {
     "text": "Healthy behaviors:",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-0"
   },
   {
     "text": "Expressing strong and clear convictions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-0"
   },
   {
     "text": "Acknowledging the contributions of others.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-1"
   },
   {
     "text": "Asking purposeful and meaningful questions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-2"
   },
   {
     "text": "Focusing on shared principles and goals.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-3"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-3"
   },
   {
     "text": "Demonstrating respect for differing opinions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-4"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-4"
   },
   {
     "text": "Providing constructive criticism with care.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-5"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-5"
   },
   {
     "text": "Recognizing and appreciating loyalty in others.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-6"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-6"
   },
   {
     "text": "Ensuring clarity of purpose in discussions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-7"
   },
   {
     "text": "Maintaining focus on the bigger picture.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-8"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-0-1-8"
   },
   {
     "text": "Stress-induced behaviors:",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-0"
   },
   {
     "text": "Becoming overly critical of differing values.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-0"
   },
   {
     "text": "Judging others harshly for perceived lack of dedication.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-1"
   },
   {
     "text": "Lecturing instead of engaging in dialogue.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-2"
   },
   {
     "text": "Overloading conversations with moral reasoning.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-3"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-3"
   },
   {
     "text": "Becoming overly defensive when challenged.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-4"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-4"
   },
   {
     "text": "Showing intolerance for ambiguity in decision-making.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-5"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-5"
   },
   {
     "text": "Struggling to adapt to pragmatic solutions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-6"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-6"
   },
   {
     "text": "Dismissing input not aligned with personal priorities.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-42ffdf9b-2629-442c-a048-1801c722ec4a-1-1-7"
   },
   {
     "text": "Promoter Style = the communication style characterized by energy, enthusiasm, and persuasion. It emphasizes adaptability, charm, and quick thinking, often focusing on results and influencing others to take action through engaging and dynamic interactions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-4caa5e66-e99e-4162-acf2-1bc6abc524d7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-4caa5e66-e99e-4162-acf2-1bc6abc524d7"
   },
   {
     "text": "How we support this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-fb298cd4-3e3f-481d-9764-f43e2f80e1cc"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-fb298cd4-3e3f-481d-9764-f43e2f80e1cc"
   },
   {
     "text": "We reward those who can quickly close deals and influence stakeholders through charismatic leadership.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612"
   },
   {
     "text": "We create competitive environments where persuasive communication directly ties to compensation and advancement.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-1"
   },
   {
     "text": "We maintain a fast-paced culture where quick thinking and adaptability are essential survival skills.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-2"
   },
   {
     "text": "We structure our meetings to be action-oriented, focusing on solutions rather than dwelling on problems.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-3"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-3"
   },
   {
     "text": "We value those who can rally teams around profit-driven objectives without getting bogged down in emotional discussions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-4"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-4"
   },
   {
     "text": "We implement training programs that enhance persuasive communication and negotiation skills.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-5"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-5"
   },
   {
     "text": "We prioritize results-focused dialogue over consensus-building conversations.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-6"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-6"
   },
   {
     "text": "We design our office spaces to facilitate impromptu interactions and quick decision-making discussions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-7"
   },
   {
     "text": "We recognize and promote individuals who consistently demonstrate the ability to influence and drive action.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-8"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-8"
   },
   {
     "text": "We maintain an environment where enthusiasm and high energy are seen as indicators of commitment to success.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-9"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c864e03b-95c6-4a88-8e4f-8be24048f612-9"
   },
   {
     "text": "Healthy behaviors:",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-0"
   },
   {
     "text": "Speaking directly and clearly.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-0"
   },
   {
     "text": "Speaking with confidence and enthusiasm.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-1"
   },
   {
     "text": "Adapting communication to fit the audience.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-2"
   },
   {
     "text": "Inspiring action with persuasive language.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-3"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-3"
   },
   {
     "text": "Maintaining a positive and energetic tone.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-4"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-4"
   },
   {
     "text": "Keeping conversations focused on solutions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-5"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-5"
   },
   {
     "text": "Encouraging collaboration and teamwork.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-6"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-6"
   },
   {
     "text": "Using humor and charm to build rapport.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-7"
   },
   {
     "text": "Highlighting benefits and opportunities.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-8"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-0-1-8"
   },
   {
     "text": "Stress-induced behaviors:",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-0"
   },
   {
     "text": "Dominating conversations with a forceful tone.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-0"
   },
   {
     "text": "Becoming overly pushy or aggressive in persuasion.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-1"
   },
   {
     "text": "Ignoring the input or opinions of others.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-2"
   },
   {
     "text": "Interrupting or talking over others.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-3"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-3"
   },
   {
     "text": "Using charm manipulatively to achieve objectives.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-4"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-4"
   },
   {
     "text": "Becoming impatient with slower-paced interactions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-5"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-5"
   },
   {
     "text": "Over-promising and under-delivering.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-6"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-6"
   },
   {
     "text": "Seeking constant attention or recognition.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-6ba5af17-fbc1-40bc-88e7-e40edcb6c1ec-1-1-7"
   },
   {
     "text": "Harmonizer Style = the communication style characterized by warmth, empathy, and a focus on emotional connections. It emphasizes building relationships, fostering harmony, and creating a supportive and inclusive environment where everyone feels valued and understood.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-a67b8f33-452f-4fd0-bc8c-cc95c167bf65"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-a67b8f33-452f-4fd0-bc8c-cc95c167bf65"
   },
   {
     "text": "How we support this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e4bcdf91-675a-49aa-82c0-9d9ef0b61179"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-e4bcdf91-675a-49aa-82c0-9d9ef0b61179"
   },
   {
     "text": "We train our leaders to balance warmth with accountability in their communication style.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43"
   },
   {
     "text": "We create structured frameworks for providing supportive feedback that drives performance.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-1"
   },
   {
     "text": "We value emotional awareness as a tool for building high-performing teams and increasing productivity.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-2"
   },
   {
     "text": "We foster psychological safety while maintaining our competitive edge and drive for success.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-3"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-3"
   },
   {
     "text": "We leverage emotional intelligence to negotiate better deals and create win-win situations.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-4"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-4"
   },
   {
     "text": "We invest in relationship-building activities that have clear ROI for our bottom line.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-5"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-5"
   },
   {
     "text": "We channel emotional awareness into better customer understanding and market positioning.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-6"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-6"
   },
   {
     "text": "We support harmonious team dynamics that enhance productivity and efficiency.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-7"
   },
   {
     "text": "We utilize emotional intelligence as a strategic tool for closing deals and driving growth.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-8"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-116b3309-243b-4e11-9bbd-e3ec44cbcd43-8"
   },
   {
     "text": "Healthy behaviors:",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-0"
   },
   {
     "text": "Expressing warmth and kindness in conversations.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-0"
   },
   {
     "text": "Listening actively and with genuine empathy.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-1"
   },
   {
     "text": "Offering supportive and encouraging feedback.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-2"
   },
   {
     "text": "Validating the feelings and experiences of others.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-3"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-3"
   },
   {
     "text": "Resolving conflicts with sensitivity and fairness.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-4"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-4"
   },
   {
     "text": "Using inclusive language to foster connection.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-5"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-5"
   },
   {
     "text": "Focusing on maintaining harmony in group dynamics.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-6"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-6"
   },
   {
     "text": "Offering reassurance in stressful situations.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-7"
   },
   {
     "text": "Showing gratitude and appreciation consistently.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-8"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-0-1-8"
   },
   {
     "text": "Stress-induced behaviors:",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-0"
   },
   {
     "text": "Avoiding difficult conversations to prevent conflict.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-0"
   },
   {
     "text": "Becoming overly focused on pleasing others.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-1"
   },
   {
     "text": "Becoming overly emotional or reactive in discussions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-2"
   },
   {
     "text": "Resenting others for not reciprocating care.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-3"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-3"
   },
   {
     "text": "Feeling overwhelmed by others' emotions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-4"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-4"
   },
   {
     "text": "Taking on excessive responsibility for group harmony.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-5"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-5"
   },
   {
     "text": "Becoming passive-aggressive when needs are unmet.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-6"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-6"
   },
   {
     "text": "Over-apologizing to avoid perceived conflict.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-7"
   },
   {
     "text": "Becoming overly sentimental or nostalgic.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-8"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-eca1e9e1-ccae-4a83-914d-8d33fc2d4ac4-1-1-8"
   },
   {
     "text": "Imaginer Style = the communication style characterized by introspection, imagination, and a reflective approach. It emphasizes thoughtful and creative ideas, often preferring to step back, observe, and contribute through deep, independent reflection rather than direct interaction or immediate responses.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-d2580ede-5bf7-4356-ab8a-ed326063e4f1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-d2580ede-5bf7-4356-ab8a-ed326063e4f1"
   },
   {
     "text": "How we support this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-56df83ea-3cf2-44d4-aea4-7cdefd13540f"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-56df83ea-3cf2-44d4-aea4-7cdefd13540f"
   },
   {
     "text": "We foster an environment that values deep reflection and encourages employees to share their creative insights at their own pace.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9"
   },
   {
     "text": "We provide flexible communication channels, including asynchronous methods like email or project management tools, to accommodate reflective thinkers.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-1"
   },
   {
     "text": "We actively create spaces for introspection, such as quiet work areas or time blocks for uninterrupted thinking.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-2"
   },
   {
     "text": "We prioritize substance in discussions, focusing on meaningful contributions over quick responses.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-3"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-3"
   },
   {
     "text": "We encourage using visual or imaginative storytelling to communicate complex ideas effectively.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-4"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-4"
   },
   {
     "text": "We provide training on effective articulation to help team members express their insights with clarity and confidence.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-5"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-5"
   },
   {
     "text": "We design brainstorming sessions to include time for independent thought before group collaboration.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-6"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-6"
   },
   {
     "text": "We encourage collaboration by pairing introspective thinkers with action-oriented teammates for balanced project execution.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-e5e350cf-1876-4193-b668-322e2372b9f9-7"
   },
   {
     "text": "Healthy behaviors:",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-0"
   },
   {
     "text": "Offering thoughtful and reflective insights.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-0"
   },
   {
     "text": "Taking time to carefully consider responses.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-1"
   },
   {
     "text": "Observing and analyzing situations before engaging.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-2"
   },
   {
     "text": "Using vivid imagery to explain concepts.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-3"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-3"
   },
   {
     "text": "Demonstrating patience in conversations.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-4"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-4"
   },
   {
     "text": "Maintaining a calm and composed demeanor.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-5"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-5"
   },
   {
     "text": "Offering alternative viewpoints constructively.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-6"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-6"
   },
   {
     "text": "Contributing quietly but meaningfully to discussions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-0-1-7"
   },
   {
     "text": "Stress-induced behaviors:",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-0"
   },
   {
     "text": "Withdrawing completely from conversations.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-0"
   },
   {
     "text": "Becoming overly passive or unresponsive.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-1"
   },
   {
     "text": "Losing focus on practical or immediate needs.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-2"
   },
   {
     "text": "Ignoring pressing issues to focus on abstract ideas.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-3"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-3"
   },
   {
     "text": "Struggling to articulate thoughts clearly.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-4"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-4"
   },
   {
     "text": "Withholding valuable input out of hesitation.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-5"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-5"
   },
   {
     "text": "Avoiding conflict by retreating into silence.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-6"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-6"
   },
   {
     "text": "Struggling to adapt to fast-paced environments.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-0ecc5249-8c30-4096-b4b6-6349c10aff32-1-1-7"
   },
   {
     "text": "Rebel Style = the communication style characterized by playfulness, creativity, and spontaneity. It emphasizes engaging interactions, quick-witted responses, and an ability to think outside the box, often using humor and enthusiasm to build connections and inspire action.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-274d50f1-a035-4990-bfd5-97ebf350d02c"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-274d50f1-a035-4990-bfd5-97ebf350d02c"
   },
   {
     "text": "How we support this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-ece0c804-8d27-4f25-8a61-8ed14910323d"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-ece0c804-8d27-4f25-8a61-8ed14910323d"
   },
   {
     "text": "We value creativity and originality, integrating these traits into structured processes to drive innovative business outcomes.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16"
   },
   {
     "text": "We provide clear frameworks for brainstorming sessions, allowing spontaneous ideas to be refined into actionable strategies.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-1"
   },
   {
     "text": "We highlight contributions that bring energy and enthusiasm to achieving measurable results.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-2"
   },
   {
     "text": "We design collaborative spaces where creative thinkers can contribute meaningfully within a focused context.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-3"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-3"
   },
   {
     "text": "We ensure humor is used appropriately to maintain professionalism while reducing stress in high-pressure situations.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-4"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-4"
   },
   {
     "text": "We offer training to help team members balance playfulness with professionalism in client and stakeholder interactions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-5"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-5"
   },
   {
     "text": "We provide mentorship to help integrate creative and dynamic styles into structured, goal-oriented workflows.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-6"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-6"
   },
   {
     "text": "We recognize and reward individuals who balance creativity with a results-driven mindset.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-7"
   },
   {
     "text": "We protect time for strategic exploration, ensuring innovative ideas contribute to competitive advantages.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-8"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-e5f68e2f-aa54-4fc9-9fe3-dbc1fbdedc16-8"
   },
   {
     "text": "Healthy behaviors:",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-0"
   },
   {
     "text": "Encouraging fun and enjoyment in conversations.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-0"
   },
   {
     "text": "Using humor to diffuse tension.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-1"
   },
   {
     "text": "Responding quickly and adaptively to changes.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-2"
   },
   {
     "text": "Offering fresh perspectives in discussions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-3"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-3"
   },
   {
     "text": "Encouraging a relaxed and informal atmosphere.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-4"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-4"
   },
   {
     "text": "Using quick wit to keep conversations engaging.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-5"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-5"
   },
   {
     "text": "Bringing energy and excitement to group dynamics.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-6"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-6"
   },
   {
     "text": "Balancing fun with productive contributions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-0-1-7"
   },
   {
     "text": "Stress-induced behaviors:",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-0"
   },
   {
     "text": "Becoming overly sarcastic or dismissive.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-0"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-0"
   },
   {
     "text": "Using humor to avoid serious discussions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-1"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-1"
   },
   {
     "text": "Overusing humor, leading to misunderstandings.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-2"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-2"
   },
   {
     "text": "Disregarding rules or norms to provoke reactions.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-3"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-3"
   },
   {
     "text": "Struggling to focus on tasks or goals.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-4"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-4"
   },
   {
     "text": "Ignoring others’ emotions or concerns.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-5"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-5"
   },
   {
     "text": "Becoming defensive when faced with criticism.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-6"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-6"
   },
   {
     "text": "Struggling to maintain consistency in communication.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-7"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-7"
   },
   {
     "text": "Expressing frustration with exaggerated drama.",
     "type": "contentBlock",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-8"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr#search-c48b81d3-4417-40a1-903e-ef421dd8c5c4-1-1-8"
   },
   {
-    "text": "Styles of Communication",
+    "text": "Communication Styles",
     "type": "pageTitle",
-    "pageName": "Styles of Communication",
-    "category": "Communication / Styles of Communication",
-    "keywords": "Communication / Styles of Communication",
-    "url": "../html/styles-of-communication-fr8Fx6Cr-fr8Fx6Cr"
+    "pageName": "Communication Styles",
+    "category": "Communication / Communication Styles",
+    "keywords": "Communication / Communication Styles",
+    "url": "../html/communication-styles-fr8Fx6Cr"
   },
   {
     "text": "Note: This is demo content for a fictional SaaS company.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c21f70b2-f426-448a-9883-ce2c206c9159"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-c21f70b2-f426-448a-9883-ce2c206c9159"
   },
   {
     "text": "Listening = the active process of receiving, constructing meaning from, and responding to spoken or nonverbal messages, involving attention, understanding, and interpretation.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-5853cbeb-d6dc-4879-bf21-b6d12411f6f1"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-5853cbeb-d6dc-4879-bf21-b6d12411f6f1"
   },
   {
     "text": "Active Listening = the intentional practice of fully concentrating, understanding, responding, and remembering what is being communicated, often involving verbal and nonverbal cues to show engagement and empathy.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-d800d7be-5219-4641-a954-2d369ba3f376"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-d800d7be-5219-4641-a954-2d369ba3f376"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-19511439-b8a9-4a9d-971b-ef1da52cc885"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-19511439-b8a9-4a9d-971b-ef1da52cc885"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-1a8f065c-c390-4564-bba1-85bd5e0aefec"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-1a8f065c-c390-4564-bba1-85bd5e0aefec"
   },
   {
     "text": "Being Attentive",
     "type": "sectionHeader",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-9070a84f-aa23-46bd-bfb0-f57d24705242"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-9070a84f-aa23-46bd-bfb0-f57d24705242"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-235fc4df-5018-42f3-a39b-1f67d4785877"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-235fc4df-5018-42f3-a39b-1f67d4785877"
   },
   {
     "text": "Deferring Judgment",
     "type": "sectionHeader",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-7f96c4f8-9305-4175-a991-212651756e46"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-7f96c4f8-9305-4175-a991-212651756e46"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-45aafc19-750f-461a-a1fe-c0aead6fa9b5"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-45aafc19-750f-461a-a1fe-c0aead6fa9b5"
   },
   {
     "text": "Conveying Understanding",
     "type": "sectionHeader",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bb967edd-0d36-46c1-a207-cfb1d761585b"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-bb967edd-0d36-46c1-a207-cfb1d761585b"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-d6bb3972-783a-4c17-b05e-4b694d9e03cf"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-d6bb3972-783a-4c17-b05e-4b694d9e03cf"
   },
   {
     "text": "Clarifying Ambiguities",
     "type": "sectionHeader",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3cfa4049-113b-43ed-9570-885e697272f0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3cfa4049-113b-43ed-9570-885e697272f0"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-72f2f123-7dc4-4cbc-a841-1c555d5b2e83"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-72f2f123-7dc4-4cbc-a841-1c555d5b2e83"
   },
   {
     "text": "Adding Perspectives",
     "type": "sectionHeader",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-9c1b0992-24a9-4659-ac8a-5d7392128561"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-9c1b0992-24a9-4659-ac8a-5d7392128561"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-8a1a4f75-b334-485a-a472-c9a510ad5a56"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-8a1a4f75-b334-485a-a472-c9a510ad5a56"
   },
   {
     "text": "Being Attentive = the focused and conscious act of giving undivided attention to the speaker, ensuring that their message is received and understood without distraction or interruption.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-774493b2-16df-4ce5-946d-8cd2187d6432"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-774493b2-16df-4ce5-946d-8cd2187d6432"
   },
   {
     "text": "How we encourage it:",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-a6134ec1-1eaa-47cd-b68b-ce57ddf2d3e3"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-a6134ec1-1eaa-47cd-b68b-ce57ddf2d3e3"
   },
   {
     "text": "We train our team to prioritize undivided attention during all interactions, both internal and external.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2"
   },
   {
     "text": "We encourage structured meetings with clear agendas to reduce unnecessary distractions.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-1"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-1"
   },
   {
     "text": "We set expectations for avoiding multitasking during conversations, especially in virtual meetings.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-2"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-2"
   },
   {
     "text": "We foster a culture of curiosity by encouraging open-ended questions that deepen discussions.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-3"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-3"
   },
   {
     "text": "We remind teams to focus on intent, not just words, to grasp the full meaning of a message.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-4"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-4"
   },
   {
     "text": "We promote mindfulness practices to help employees stay present and engaged in conversations.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-5"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-5"
   },
   {
     "text": "We ensure team leaders model attentive behavior as an example for others to follow.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-6"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-6"
   },
   {
     "text": "We implement post-meeting reviews to assess and improve active listening skills collectively.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-7"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-5bc6c8f3-a5c1-4959-a6b7-e0b9d32638e2-7"
   },
   {
     "text": "Manifestations:",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-0"
   },
   {
     "text": "Maintaining consistent eye contact with the speaker.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-0"
   },
   {
     "text": "Nodding or giving small affirmations like \"I see\".",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-1"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-1"
   },
   {
     "text": "Leaning slightly forward to signal engagement.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-2"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-2"
   },
   {
     "text": "Eliminating distractions and avoiding multitasking.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-3"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-3"
   },
   {
     "text": "Keeping the focus on the speaker rather than oneself.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-4"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-4"
   },
   {
     "text": "Allowing the speaker to finish their thoughts.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-5"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-5"
   },
   {
     "text": "Taking mental or physical notes during discussion.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-6"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-6"
   },
   {
     "text": "Waiting for natural pauses in the conversation to engage.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-7"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-0-1-7"
   },
   {
     "text": "Mistakes:",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-0"
   },
   {
     "text": "Interrupting the speaker before they finish their point.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-0"
   },
   {
     "text": "Avoiding eye contact or frequently looking around the room.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-1"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-1"
   },
   {
     "text": "Dismissing or minimizing the speaker's emotions.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-2"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-2"
   },
   {
     "text": "Displaying boredom or disinterest through body language.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-3"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-3"
   },
   {
     "text": "Focusing on preparing a response rather than fully listening.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-4"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-4"
   },
   {
     "text": "Talking over the speaker or dominating the conversation.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-5"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-5"
   },
   {
     "text": "Rushing to fill silences instead of letting the speaker continue.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-6"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-b03ccc38-2dfc-4445-a803-e66add8e8def-1-1-6"
   },
   {
     "text": "Deferring Judgment = the act of suspending personal opinions, biases, and immediate evaluations to fully understand and respect the speaker's perspective without interrupting or dismissing their thoughts.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-65809af7-4c59-4d7c-8809-b780df9de01d"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-65809af7-4c59-4d7c-8809-b780df9de01d"
   },
   {
     "text": "How we encourage it:",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-d05dfa5d-93b7-4482-9a27-574bf7ea591b"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-d05dfa5d-93b7-4482-9a27-574bf7ea591b"
   },
   {
     "text": "We train employees to approach every conversation with an open mind, free from preconceived notions.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c"
   },
   {
     "text": "We promote the use of neutral language to maintain objectivity in discussions.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-1"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-1"
   },
   {
     "text": "We establish ground rules for discussions, including no interruptions or premature conclusions.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-2"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-2"
   },
   {
     "text": "We encourage a \"seek first to understand\" mindset before forming opinions or responding.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-3"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-3"
   },
   {
     "text": "We offer workshops on recognizing and managing unconscious biases that may influence judgment.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-4"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-4"
   },
   {
     "text": "We emphasize the importance of empathy in understanding diverse viewpoints.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-5"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-5"
   },
   {
     "text": "We coach leaders to model active listening by withholding judgment and encouraging honest dialogue.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-6"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-6"
   },
   {
     "text": "We provide role-playing exercises to practice suspending immediate reactions in challenging scenarios.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-7"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-7"
   },
   {
     "text": "We reward behaviors that demonstrate patience, open-mindedness, and thoughtful responses in conversations.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-8"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-ea749343-9911-4dac-88b9-1676223dc91c-8"
   },
   {
     "text": "Manifestations:",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-0"
   },
   {
     "text": "Listening without interrupting, even in cases of disagreement.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-0"
   },
   {
     "text": "Allowing the speaker to finish their point before responding.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-1"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-1"
   },
   {
     "text": "Staying neutral in facial expressions and body language.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-2"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-2"
   },
   {
     "text": "Silently acknowledging the speaker’s right to their perspective.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-3"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-3"
   },
   {
     "text": "Acknowledging the speaker’s feelings as valid, even if not shared.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-4"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-4"
   },
   {
     "text": "Maintaining a calm tone, even when the topic is challenging.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-5"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-5"
   },
   {
     "text": "Allowing the conversation to flow naturally without rushing conclusions.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-6"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-0-1-6"
   },
   {
     "text": "Mistakes:",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-0"
   },
   {
     "text": "Interrupting to challenge or criticize the speaker’s viewpoint.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-0"
   },
   {
     "text": "Rolling eyes or showing other dismissive body language.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-1"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-1"
   },
   {
     "text": "Jumping to conclusions without hearing the full message.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-2"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-2"
   },
   {
     "text": "Reacting defensively instead of focusing on understanding.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-3"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-3"
   },
   {
     "text": "Mentally labeling the speaker’s statements as “right” or “wrong.”",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-4"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-4"
   },
   {
     "text": "Focusing on flaws in their argument instead of the overall intent.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-5"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-5"
   },
   {
     "text": "Quickly offering solutions without understanding the full context.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-6"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-6"
   },
   {
     "text": "Ignoring the emotional aspect of the speaker’s message.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-7"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-7"
   },
   {
     "text": "Overanalyzing minor details instead of focusing on the main point.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-8"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-c93a19db-42da-48c4-9011-df993724c56e-1-1-8"
   },
   {
     "text": "Conveying Understanding = the act of demonstrating to the speaker that their message has been heard and interpreted accurately through verbal and nonverbal cues, ensuring mutual clarity and fostering trust.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-43a8f9d8-6a54-4549-875e-ccf498f6b54e"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-43a8f9d8-6a54-4549-875e-ccf498f6b54e"
   },
   {
     "text": "How we encourage it:",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-b1da6d3d-3477-4198-98c2-8eaca93b41c6"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-b1da6d3d-3477-4198-98c2-8eaca93b41c6"
   },
   {
     "text": "We coach employees to acknowledge emotions in the message, fostering empathy and connection.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671"
   },
   {
     "text": "We teach employees to use reflective language, mirroring the tone and phrasing of the message to build rapport.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-1"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-1"
   },
   {
     "text": "We promote active engagement through nodding, maintaining eye contact, and other supportive gestures.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-2"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-2"
   },
   {
     "text": "We encourage validation of concerns by explicitly recognizing them before offering solutions.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-3"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-3"
   },
   {
     "text": "We teach the importance of identifying and addressing key themes or patterns in ongoing conversations.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-4"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-4"
   },
   {
     "text": "We coach leaders to model behaviors that demonstrate understanding in one-on-one and group settings.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-5"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-5"
   },
   {
     "text": "We discourage dismissive behaviors, such as abruptly changing the topic or providing canned responses.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-6"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-6"
   },
   {
     "text": "We implement role-playing exercises to practice conveying understanding in real-world scenarios.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-7"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-7"
   },
   {
     "text": "We use simulation software to test and improve employees’ skills in interpreting and responding to nuanced messages.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-8"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-bfe4e6db-4bcf-4390-9a2f-0612631ce671-8"
   },
   {
     "text": "Manifestations:",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-0"
   },
   {
     "text": "Paraphrasing the speaker’s key points to confirm comprehension.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-0"
   },
   {
     "text": "Using phrases like “So, you’re saying…” or “I hear you saying…”",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-1"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-1"
   },
   {
     "text": "Nodding to signal alignment with the speaker’s message.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-2"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-2"
   },
   {
     "text": "Reflecting the underlying emotion in the speaker’s words.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-3"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-3"
   },
   {
     "text": "Showing empathy by validating the speaker's feelings verbally.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-4"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-4"
   },
   {
     "text": "Reflecting on the speaker’s concerns or needs before responding.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-5"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-5"
   },
   {
     "text": "Summarizing complex points to ensure mutual clarity.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-6"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-6"
   },
   {
     "text": "Identifying and acknowledging key themes or patterns.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-7"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-0-1-7"
   },
   {
     "text": "Mistakes:",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-0"
   },
   {
     "text": "Responding with generic phrases that come across as insincere.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-0"
   },
   {
     "text": "Responding with unrelated anecdotes, derailing the conversation.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-1"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-1"
   },
   {
     "text": "Failing to acknowledge the speaker’s emotions or concerns.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-2"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-2"
   },
   {
     "text": "Misreading nonverbal cues and reacting inappropriately.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-3"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-3"
   },
   {
     "text": "Overemphasizing minor details and ignoring the broader point.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-4"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-4"
   },
   {
     "text": "Being overly critical of the speaker’s choice of words or phrasing.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-5"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-5"
   },
   {
     "text": "Using humor inappropriately, minimizing the speaker’s concerns.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-6"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-6"
   },
   {
     "text": "Ending the conversation prematurely without ensuring mutual understanding.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-7"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-08baa56e-15fd-418f-ad95-c49cf49c8dff-1-1-7"
   },
   {
     "text": "Clarifying Ambiguities = the act of addressing unclear or vague aspects of a speaker's message by asking questions, seeking elaboration, and verifying meaning to ensure accurate understanding and effective communication.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-fe162ef8-c471-48d8-adb2-609271161094"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-fe162ef8-c471-48d8-adb2-609271161094"
   },
   {
     "text": "How we encourage it:",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-9cfb272b-3308-443c-a400-095b3a8f3228"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-9cfb272b-3308-443c-a400-095b3a8f3228"
   },
   {
     "text": "We train our employees to repeat or paraphrase statements to confirm mutual understanding and prevent miscommunication.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5"
   },
   {
     "text": "We emphasize the importance of seeking specific examples or explanations to clarify abstract or complex ideas in discussions.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-1"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-1"
   },
   {
     "text": "We provide tools and frameworks to help team members reframe ambiguous points into actionable insights.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-2"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-2"
   },
   {
     "text": "We hold workshops that highlight the importance of clarifying assumptions or implied meanings to avoid potential misunderstandings.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-3"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-3"
   },
   {
     "text": "We actively promote the validation of emotional or tonal cues to ensure alignment between words and intent.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-4"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-4"
   },
   {
     "text": "We integrate active listening techniques, including clarification, into onboarding and professional development programs.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-5"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-5"
   },
   {
     "text": "We encourage leaders to model behavior by consistently clarifying and verifying during meetings and conversations.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-6"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-6"
   },
   {
     "text": "We recognize that clarifying ambiguities is a skill, and we invest in ongoing training to refine this aspect of active listening.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-7"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bbc2f27-74a3-45f3-b563-6902ffe98fb5-7"
   },
   {
     "text": "Manifestations:",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-0"
   },
   {
     "text": "Asking open-ended questions to explore unclear points.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-0"
   },
   {
     "text": "Repeating ambiguous statements to verify understanding.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-1"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-1"
   },
   {
     "text": "Requesting examples or specifics to clarify abstract concepts.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-2"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-2"
   },
   {
     "text": "Encouraging the speaker to expand on key ideas or terms.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-3"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-3"
   },
   {
     "text": "Gently probing with follow-up questions to gain deeper clarity.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-4"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-4"
   },
   {
     "text": "Reframing unclear points to make them more specific.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-5"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-5"
   },
   {
     "text": "Seeking clarification on assumptions or implied meanings.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-6"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-6"
   },
   {
     "text": "Confirming the emotion or tone behind ambiguous statements.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-7"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-0-1-7"
   },
   {
     "text": "Mistakes:",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-0"
   },
   {
     "text": "Assuming the meaning of unclear statements without verifying.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-0"
   },
   {
     "text": "Skipping clarification and expecting the context to emerge later.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-1"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-1"
   },
   {
     "text": "Interrupting the speaker too early or too often to seek clarification.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-2"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-2"
   },
   {
     "text": "Asking leading questions that influence the speaker’s response.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-3"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-3"
   },
   {
     "text": "Complicating the conversation with off-topic questions.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-4"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-4"
   },
   {
     "text": "Ignoring nonverbal cues that indicate confusion or hesitation.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-5"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-5"
   },
   {
     "text": "Rephrasing incorrectly, distorting the speaker’s original message.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-6"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-56993b85-d90c-4753-a41f-b2e8049a8952-1-1-6"
   },
   {
     "text": "Adding Perspectives = the act of introducing new thoughts, viewpoints, or experiences into a conversation to expand its scope, deepen understanding, and provide additional context or insight.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-ba5d3e35-7268-42ad-b906-03761d1cd22a"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-ba5d3e35-7268-42ad-b906-03761d1cd22a"
   },
   {
     "text": "How we encourage it:",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3a6bb752-bcb6-4160-b8f7-0c5058dc0395"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3a6bb752-bcb6-4160-b8f7-0c5058dc0395"
   },
   {
     "text": "We cultivate a culture where sharing personal perspectives is viewed as a strength, not a vulnerability.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da"
   },
   {
     "text": "We promote constructive expression of agreement or disagreement to facilitate respectful and productive exchanges.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-1"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-1"
   },
   {
     "text": "We celebrate instances of building on others' ideas to demonstrate teamwork and collaborative growth.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-2"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-2"
   },
   {
     "text": "We encourage leaders to acknowledge and validate diverse perspectives, even when they differ from their own.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-3"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-3"
   },
   {
     "text": "We incorporate reflective practices like summarizing and rephrasing to ensure mutual understanding and alignment.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-4"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-4"
   },
   {
     "text": "We reward openness and vulnerability in sharing ideas and experiences as part of professional growth.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-5"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-5"
   },
   {
     "text": "We train employees to listen actively before sharing their perspectives to ensure a constructive flow of ideas.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-6"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-6"
   },
   {
     "text": "We integrate storytelling as a tool for employees to effectively communicate their insights and experiences.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-7"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-7"
   },
   {
     "text": "We include exercises in team-building activities to practice sharing and respecting diverse perspectives.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-8"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-4e9a1d6e-7bb9-4bde-b21f-6124635496da-8"
   },
   {
     "text": "Manifestations:",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-0"
   },
   {
     "text": "Encouraging dialogue by sharing relevant insights.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-0"
   },
   {
     "text": "Offering alternative viewpoints without imposing them.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-1"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-1"
   },
   {
     "text": "Expressing agreement or disagreement constructively.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-2"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-2"
   },
   {
     "text": "Building on what the other person has shared.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-3"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-3"
   },
   {
     "text": "Summarizing or rephrasing to confirm mutual understanding.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-4"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-4"
   },
   {
     "text": "Sharing insights or lessons learned from personal experiences.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-5"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-5"
   },
   {
     "text": "Highlighting shared values or areas of agreement.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-6"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-0-1-6"
   },
   {
     "text": "Mistakes:",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-0"
   },
   {
     "text": "Interrupting the other person to impose one’s own viewpoint.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-0"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-0"
   },
   {
     "text": "Speaking without first fully understanding the other person.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-1"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-1"
   },
   {
     "text": "Overloading the conversation with too much personal detail.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-2"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-2"
   },
   {
     "text": "Failing to adapt one’s tone or words to the context.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-3"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-3"
   },
   {
     "text": "Minimizing or invalidating the other person’s perspective.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-4"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-4"
   },
   {
     "text": "Shifting focus to oneself, making the conversation self-centered.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-5"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-5"
   },
   {
     "text": "Sharing perspectives unrelated to the conversation’s topic.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-6"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-6"
   },
   {
     "text": "Using comparisons that diminish the other person’s experience.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-7"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-7"
   },
   {
     "text": "Ignoring the cultural or social context of the conversation.",
     "type": "contentBlock",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-8"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe#search-3bf46d0b-9ebf-405e-b785-a5887a189ec6-1-1-8"
   },
   {
-    "text": "Factors of Active Listening",
+    "text": "Active Listening",
     "type": "pageTitle",
-    "pageName": "Factors of Active Listening",
-    "category": "Communication / Factors of Active Listening",
-    "keywords": "Communication / Factors of Active Listening",
-    "url": "../html/factors-of-active-listening-SnOJbMBe"
+    "pageName": "Active Listening",
+    "category": "Communication / Active Listening",
+    "keywords": "Communication / Active Listening",
+    "url": "../html/active-listening-SnOJbMBe"
   },
   {
     "text": "Note: This is demo content for a fictional SaaS company.",
@@ -16155,2118 +16155,2118 @@
   {
     "text": "Note: This is demo content for a fictional SaaS company.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-78c41afb-636b-4d67-9dfa-b0de4ff8b267"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-78c41afb-636b-4d67-9dfa-b0de4ff8b267"
   },
   {
     "text": "Appreciation = the act of recognizing and valuing the worth, quality, or significance of someone or something, often expressed through gratitude, admiration, or respect.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-362a06e2-8302-4edd-814d-ce5bc3b3346d"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-362a06e2-8302-4edd-814d-ce5bc3b3346d"
   },
   {
     "text": "Languages of Appreciation = the various ways individuals prefer to give and receive recognition and gratitude, emphasizing personalized communication to build stronger relationships. Introduced by Dr. Gary Chapman and Dr. Paul White in 2011, this framework is designed to enhance workplace culture and interpersonal understanding.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-4654c8f7-9702-4f18-aeed-801dc51a769d"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-4654c8f7-9702-4f18-aeed-801dc51a769d"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-9d5fc5b8-b702-4631-9340-42eb658e2c1b"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-9d5fc5b8-b702-4631-9340-42eb658e2c1b"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-2fcf2c43-fb4a-4492-b060-9647eaf69b21"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-2fcf2c43-fb4a-4492-b060-9647eaf69b21"
   },
   {
     "text": "Words of Affirmation",
     "type": "sectionHeader",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-3f83e66f-212a-4d37-bf32-be4c6f09cf8d"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-3f83e66f-212a-4d37-bf32-be4c6f09cf8d"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-c47f03b3-5c85-451b-af52-d10c8fd2e516"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-c47f03b3-5c85-451b-af52-d10c8fd2e516"
   },
   {
     "text": "Acts of Service",
     "type": "sectionHeader",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-b20fc2f4-9106-41b9-8b9a-800ca7576d63"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-b20fc2f4-9106-41b9-8b9a-800ca7576d63"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-dc4cce79-2d94-4a5f-a3c2-ee6da2331080"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-dc4cce79-2d94-4a5f-a3c2-ee6da2331080"
   },
   {
     "text": "Quality Time",
     "type": "sectionHeader",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a994cbbc-6aa9-43f1-8fd1-e90bf9f24448"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-a994cbbc-6aa9-43f1-8fd1-e90bf9f24448"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-597246fd-4022-4d50-93d7-068638e41446"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-597246fd-4022-4d50-93d7-068638e41446"
   },
   {
     "text": "Tangible Gifts",
     "type": "sectionHeader",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-8cbc20db-f22a-446a-b622-c13bc5eb7b6d"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-8cbc20db-f22a-446a-b622-c13bc5eb7b6d"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-777b59b9-20ea-4062-9e61-0de8cb1e5697"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-777b59b9-20ea-4062-9e61-0de8cb1e5697"
   },
   {
     "text": "Physical Touch",
     "type": "sectionHeader",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-b390aa62-f28f-40a1-aeef-3d57191f6cb4"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-b390aa62-f28f-40a1-aeef-3d57191f6cb4"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-61f79b98-959a-4720-a455-55fde9a86b8d"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-61f79b98-959a-4720-a455-55fde9a86b8d"
   },
   {
     "text": "Words of Affirmation = the expression of appreciation, encouragement, or praise through spoken or written words, used to convey value, recognition, or gratitude to others. It can include compliments, acknowledgments, or encouraging statements that affirm the recipient's efforts or qualities.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-b88ed76c-7fd0-4383-96c0-b95eb903276d"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-b88ed76c-7fd0-4383-96c0-b95eb903276d"
   },
   {
     "text": "How we support this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-31350f09-2ce4-4fa2-92bf-6909b8b8ee23"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-31350f09-2ce4-4fa2-92bf-6909b8b8ee23"
   },
   {
     "text": "We recognize and celebrate the achievements of our team members through regular praise during meetings and in written communications.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a"
   },
   {
     "text": "We make a habit of acknowledging individual and team milestones with personalized messages of appreciation.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-1"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-1"
   },
   {
     "text": "We ensure that managers are trained to give constructive and affirming feedback frequently.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-2"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-2"
   },
   {
     "text": "We publicly recognize exceptional performance to inspire and motivate others.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-3"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-3"
   },
   {
     "text": "We highlight employee contributions in company-wide newsletters or announcements.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-4"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-4"
   },
   {
     "text": "We provide leaders with tools and templates to help them articulate meaningful appreciation effectively.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-5"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-5"
   },
   {
     "text": "We empower managers to celebrate small wins with words of encouragement to maintain morale and momentum.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-6"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-6"
   },
   {
     "text": "We use company events as a platform to share stories of individual and team successes.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-7"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-3e7be3fd-b133-4a0e-82e3-9866abac102a-7"
   },
   {
     "text": "Manifestations:",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-0"
   },
   {
     "text": "Praising someone for their effort on a recent task.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-0"
   },
   {
     "text": "Writing a personalized thank-you email for a contribution.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-1"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-1"
   },
   {
     "text": "Highlighting someone’s achievement in a team discussion.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-2"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-2"
   },
   {
     "text": "Acknowledging an individual’s unique skills during a meeting.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-3"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-3"
   },
   {
     "text": "Sending a thoughtful note recognizing hard work.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-4"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-4"
   },
   {
     "text": "Sharing appreciation for someone’s supportive attitude.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-5"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-5"
   },
   {
     "text": "Verbalizing gratitude during a team celebration or milestone event.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-6"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-0-1-6"
   },
   {
     "text": "Mistakes:",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-0"
   },
   {
     "text": "Giving vague praise that lacks detail or sincerity.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-0"
   },
   {
     "text": "Using repetitive phrases that feel robotic or scripted.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-1"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-1"
   },
   {
     "text": "Using flattery that feels superficial or excessive.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-2"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-2"
   },
   {
     "text": "Praising only results without acknowledging effort.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-3"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-3"
   },
   {
     "text": "Failing to acknowledge key contributions in a group setting.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-4"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-4"
   },
   {
     "text": "Combining praise with criticism, undermining the positive impact.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-5"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-5"
   },
   {
     "text": "Praising one individual repeatedly while ignoring others.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-6"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-6"
   },
   {
     "text": "Failing to notice or recognize quieter contributors.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-7"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-742a8fbc-e6b5-400a-8426-f823f696476c-1-1-7"
   },
   {
     "text": "Acts of Service = the expression of appreciation or care through practical actions that help, support, or ease the burden of others. It involves taking initiative to assist with tasks or responsibilities, demonstrating value and consideration through tangible efforts.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-977788fb-28c0-43f6-b927-749451a4fdd5"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-977788fb-28c0-43f6-b927-749451a4fdd5"
   },
   {
     "text": "How we support this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-2d3d9bd9-7976-49cd-8e20-1228a285bfe5"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-2d3d9bd9-7976-49cd-8e20-1228a285bfe5"
   },
   {
     "text": "We support professional development by covering logistical burdens, such as arranging training or certifications.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8"
   },
   {
     "text": "We encourage collaboration by fostering a culture where teammates actively support each other on projects.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-1"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-1"
   },
   {
     "text": "We proactively address pain points in workflows and remove obstacles to ensure smoother operations.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-2"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-2"
   },
   {
     "text": "We take initiative to offer assistance when employees face personal challenges, showing care through actionable support.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-3"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-3"
   },
   {
     "text": "We empower managers to step in and lead by example, taking on tasks when teams are stretched thin.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-4"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-4"
   },
   {
     "text": "We celebrate accomplishments by handling the details of recognition events, allowing employees to simply enjoy the moment.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-5"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-5"
   },
   {
     "text": "We maintain a dedicated team to support employee initiatives, from innovation projects to community service events.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-6"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-6"
   },
   {
     "text": "We regularly check in with employees to identify specific needs and provide tailored assistance where it’s most impactful.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-7"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-77abf159-423b-47fb-82c7-a74bcbceafd8-7"
   },
   {
     "text": "Manifestations:",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-0"
   },
   {
     "text": "Helping a colleague meet a tight deadline by sharing workload.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-0"
   },
   {
     "text": "Handling routine tasks to free a team member for priority work.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-1"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-1"
   },
   {
     "text": "Volunteering to cover for someone who is unwell or on leave.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-2"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-2"
   },
   {
     "text": "Volunteering to take on extra responsibilities during busy periods.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-3"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-3"
   },
   {
     "text": "Assisting with setting up or cleaning after an event.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-4"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-4"
   },
   {
     "text": "Preparing coffee or snacks for a busy team.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-5"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-5"
   },
   {
     "text": "Taking meeting notes and sharing them with the team.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-6"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-0-1-6"
   },
   {
     "text": "Mistakes:",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-0"
   },
   {
     "text": "Helping without asking, which may disrupt someone’s workflow.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-0"
   },
   {
     "text": "Assuming someone needs help instead of communicating first.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-1"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-1"
   },
   {
     "text": "Offering help but not following through on the commitment.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-2"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-2"
   },
   {
     "text": "Offering services that are unwanted or unhelpful.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-3"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-3"
   },
   {
     "text": "Expecting acknowledgment or repayment for every act.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-4"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-4"
   },
   {
     "text": "Taking on tasks reluctantly or with visible frustration.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-5"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-5"
   },
   {
     "text": "Providing inconsistent or half-hearted support.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-6"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-f5f05ef2-4e58-42d7-ba26-05ceac2852a6-1-1-6"
   },
   {
     "text": "Quality Time = the expression of appreciation or care by giving undivided attention and being fully present in shared moments, fostering connection and mutual understanding through meaningful interactions.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-05744ad2-df52-4ca6-ad6b-d0d7a3671011"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-05744ad2-df52-4ca6-ad6b-d0d7a3671011"
   },
   {
     "text": "How we support this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-245db9ab-3666-424e-9d60-8f95927283aa"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-245db9ab-3666-424e-9d60-8f95927283aa"
   },
   {
     "text": "We hold regular one-on-one meetings where leaders give employees their undivided attention to discuss goals, challenges, and growth opportunities.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb"
   },
   {
     "text": "We host team retreats or offsite events focused on meaningful collaboration and connection beyond daily work tasks.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-1"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-1"
   },
   {
     "text": "We create dedicated time in meetings for open dialogue, ensuring everyone’s voice is heard and valued.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-2"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-2"
   },
   {
     "text": "We organize workshops and brainstorming sessions where employees can engage deeply with peers and leadership.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-3"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-3"
   },
   {
     "text": "We encourage team lunches or coffee breaks to build camaraderie and foster quality conversations.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-4"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-4"
   },
   {
     "text": "We offer flexible time for mentorship sessions, allowing employees and mentors to connect deeply and without interruptions.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-5"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-5"
   },
   {
     "text": "We host town halls or all-hands meetings where leadership dedicates time to answering employee questions and engaging in dialogue.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-6"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-6"
   },
   {
     "text": "We actively create moments for teams to bond through shared activities like volunteer days or collaborative projects.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-7"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-892e8b5e-9f67-45a0-916f-1cecdd2379fb-7"
   },
   {
     "text": "Manifestations:",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-0"
   },
   {
     "text": "Scheduling one-on-one meetings to connect with a colleague.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-0"
   },
   {
     "text": "Actively listening during conversations without distractions.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-1"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-1"
   },
   {
     "text": "Spending time brainstorming or problem-solving together.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-2"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-2"
   },
   {
     "text": "Setting aside time to mentor or coach someone.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-3"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-3"
   },
   {
     "text": "Attending important events or presentations to show support.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-4"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-4"
   },
   {
     "text": "Spending time to provide constructive feedback in person.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-5"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-5"
   },
   {
     "text": "Showing up early or staying late to work alongside someone.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-6"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-0-1-6"
   },
   {
     "text": "Mistakes:",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-0"
   },
   {
     "text": "Being distracted by phones or emails during interactions.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-0"
   },
   {
     "text": "Rushing through or interrupting meetings and conversations.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-1"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-1"
   },
   {
     "text": "Cancelling or rescheduling time together without valid reasons.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-2"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-2"
   },
   {
     "text": "Focusing on tasks rather than the person during shared time.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-3"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-3"
   },
   {
     "text": "Making shared time feel transactional or obligatory.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-4"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-4"
   },
   {
     "text": "Failing to show genuine interest in the other person’s perspective.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-5"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-5"
   },
   {
     "text": "Neglecting to follow up after a meaningful discussion.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-6"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-6"
   },
   {
     "text": "Assuming brief interactions suffice for meaningful engagement.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-7"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-a059de91-10b3-4a1d-a937-e63608368682-1-1-7"
   },
   {
     "text": "Tangible Gifts = the expression of appreciation or care through physical items that convey thoughtfulness, value, or recognition. These gifts are chosen to reflect the recipient’s preferences, needs, or interests, emphasizing the sentiment behind the gesture rather than the item's monetary value.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-5c172244-81b8-41ce-8213-ef30eeefd143"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-5c172244-81b8-41ce-8213-ef30eeefd143"
   },
   {
     "text": "How we support this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-81e816f6-983d-457e-ba57-4c67a4c715d8"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-81e816f6-983d-457e-ba57-4c67a4c715d8"
   },
   {
     "text": "We provide personalized gifts to celebrate employee milestones such as work anniversaries, promotions, or achievements.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c"
   },
   {
     "text": "We recognize special occasions like birthdays with thoughtful gifts tailored to each individual’s preferences.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-1"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-1"
   },
   {
     "text": "We create care packages for employees during busy seasons or challenging projects, showing support through tangible gestures.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-2"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-2"
   },
   {
     "text": "We distribute customized holiday gifts to demonstrate appreciation and spread goodwill.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-3"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-3"
   },
   {
     "text": "We reward exceptional performance with meaningful items that reflect the individual’s contributions.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-4"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-4"
   },
   {
     "text": "We offer surprise gifts during company-wide initiatives to acknowledge collective effort and foster excitement.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-5"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-5"
   },
   {
     "text": "We create “welcome kits” for new hires, featuring thoughtful items that help them feel part of the team.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-6"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-6"
   },
   {
     "text": "We send thank-you packages to employees after major projects, acknowledging their hard work in a tangible way.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-7"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-e1a20f0d-821a-41ed-b949-6025c6d7178c-7"
   },
   {
     "text": "Manifestations:",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-0"
   },
   {
     "text": "Giving a personalized gift tailored to one’s hobbies or interests.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-1-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-1-0"
   },
   {
     "text": "Surprising a team member with their favorite coffee or snack.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-1-1"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-1-1"
   },
   {
     "text": "Celebrating milestones with thoughtful items, like flowers or treats.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-1-2"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-1-2"
   },
   {
     "text": "Creating a thoughtful gift bundle for stressful times.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-1-3"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-1-3"
   },
   {
     "text": "Gifting event tickets to something they are passionate about.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-1-4"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-1-4"
   },
   {
     "text": "Sending holiday-themed gifts during festive seasons.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-1-5"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-0-1-5"
   },
   {
     "text": "Mistakes:",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-0"
   },
   {
     "text": "Choosing generic or impersonal gifts that lack thought.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-0"
   },
   {
     "text": "Focusing on the monetary value rather than the sentiment.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-1"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-1"
   },
   {
     "text": "Giving items unrelated to the recipient’s preferences or interests.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-2"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-2"
   },
   {
     "text": "Overlooking cultural or personal sensitivities in gift choices.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-3"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-3"
   },
   {
     "text": "Failing to acknowledge special occasions with appropriate gifts.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-4"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-4"
   },
   {
     "text": "Giving items that require significant maintenance or cost to use.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-5"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-5"
   },
   {
     "text": "Offering identical gifts to everyone without personalization.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-6"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-6"
   },
   {
     "text": "Choosing overly extravagant gifts that might cause discomfort.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-7"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-62636918-808f-443c-ad98-c6411af3f365-1-1-7"
   },
   {
     "text": "Physical Touch = the expression of care or appreciation through appropriate and consensual physical gestures, such as handshakes, pats on the back, or hugs, to convey warmth, encouragement, or connection.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-fdd33fc4-3be2-4fbc-b4ef-f95cd4b17ad9"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-fdd33fc4-3be2-4fbc-b4ef-f95cd4b17ad9"
   },
   {
     "text": "How we support this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-b83e1442-b954-45f7-b8d7-f2d2c0d6eaf9"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-b83e1442-b954-45f7-b8d7-f2d2c0d6eaf9"
   },
   {
     "text": "We encourage handshakes as a professional and warm greeting to foster connection in in-person interactions.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe"
   },
   {
     "text": "We celebrate team successes with high-fives or fist bumps as symbols of camaraderie and shared achievement.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-1"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-1"
   },
   {
     "text": "We provide guidelines to ensure all physical interactions align with cultural norms and individual comfort levels.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-2"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-2"
   },
   {
     "text": "We encourage celebratory gestures, such as clapping or standing ovations, to add an element of shared enthusiasm.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-3"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-3"
   },
   {
     "text": "We create opportunities for team-building activities that involve non-intrusive physical collaboration, such as games or sports.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-4"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-4"
   },
   {
     "text": "We foster a culture of inclusivity where physical gestures are seen as one of many ways to express care and appreciation.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-5"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-5"
   },
   {
     "text": "We celebrate personal milestones with optional gestures, such as hugs for those who are comfortable.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-6"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-6"
   },
   {
     "text": "We educate managers on reading body language to determine when physical touch is appropriate and welcomed.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-7"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-8fbb7f93-1600-41cb-a0df-5e1092eefabe-7"
   },
   {
     "text": "Manifestations:",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-0"
   },
   {
     "text": "Offering a firm handshake as a greeting or farewell.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-1-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-1-0"
   },
   {
     "text": "Giving a congratulatory pat on the back.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-1-1"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-1-1"
   },
   {
     "text": "Offering a high-five to celebrate a success.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-1-2"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-1-2"
   },
   {
     "text": "Providing a warm, appropriate hug when comfort is needed.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-1-3"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-1-3"
   },
   {
     "text": "Resting a hand on someone’s arm briefly to show encouragement.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-1-4"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-1-4"
   },
   {
     "text": "Offering a gentle tap on the arm to get someone’s attention.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-1-5"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-0-1-5"
   },
   {
     "text": "Mistakes:",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-0"
   },
   {
     "text": "Offering physical gestures without ensuring consent or comfort.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-0"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-0"
   },
   {
     "text": "Ignoring personal or cultural boundaries regarding touch.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-1"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-1"
   },
   {
     "text": "Using touch in situations where it feels forced or inappropriate.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-2"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-2"
   },
   {
     "text": "Overusing physical gestures, making them lose their meaning.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-3"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-3"
   },
   {
     "text": "Using overly casual or intimate gestures that feel unprofessional.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-4"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-4"
   },
   {
     "text": "Being too forceful or awkward with gestures like handshakes.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-5"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-5"
   },
   {
     "text": "Offering physical gestures that may be misunderstood or misinterpreted.",
     "type": "contentBlock",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-6"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM#search-39c1084d-b072-44c2-87af-7bc6c33d01a9-1-1-6"
   },
   {
-    "text": "Styles of Appreciation",
+    "text": "Appreciation Styles",
     "type": "pageTitle",
-    "pageName": "Styles of Appreciation",
-    "category": "Communication / Styles of Appreciation",
-    "keywords": "Communication / Styles of Appreciation",
-    "url": "../html/styles-of-appreciation-zdHfQpUM"
+    "pageName": "Appreciation Styles",
+    "category": "Communication / Appreciation Styles",
+    "keywords": "Communication / Appreciation Styles",
+    "url": "../html/appreciation-styles-zdHfQpUM"
   },
   {
     "text": "Note: This is demo content for a fictional SaaS company.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-d39fe597-14ec-45eb-9a12-1f532dccf09e"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-d39fe597-14ec-45eb-9a12-1f532dccf09e"
   },
   {
     "text": "Apology = the acknowledgment of a mistake, wrongdoing, or offense, accompanied by an expression of regret and a willingness to make amends or restore trust.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-36e58b58-dee6-414c-b8a4-7067915c2928"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-36e58b58-dee6-414c-b8a4-7067915c2928"
   },
   {
     "text": "Languages of Apology = the distinct ways individuals prefer to express and receive apologies, focusing on the elements that make the apology feel genuine and effective. Introduced by Dr. Gary Chapman and Dr. Jennifer Thomas in 2006, it helps foster meaningful reconciliation and restore trust in relationships.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1e61b24e-9f79-4214-91a2-6069bd26f8f3"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1e61b24e-9f79-4214-91a2-6069bd26f8f3"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-25fa44b8-2954-4854-8f76-b55aded1b584"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-25fa44b8-2954-4854-8f76-b55aded1b584"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-9a2181c0-0b17-4a08-92d1-5212dbbc2d40"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-9a2181c0-0b17-4a08-92d1-5212dbbc2d40"
   },
   {
     "text": "Expressing Regret",
     "type": "sectionHeader",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3584a11d-bb45-4239-8eaf-a98d837f8748"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3584a11d-bb45-4239-8eaf-a98d837f8748"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-56fbc8be-e0d3-4f8a-ab03-944bf2193db9"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-56fbc8be-e0d3-4f8a-ab03-944bf2193db9"
   },
   {
     "text": "Accepting Responsibility",
     "type": "sectionHeader",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-061f73ab-d7cb-447c-a2b8-a1d4455c6f42"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-061f73ab-d7cb-447c-a2b8-a1d4455c6f42"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-dac72c65-e7cf-4217-b77f-96a39c2f996c"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-dac72c65-e7cf-4217-b77f-96a39c2f996c"
   },
   {
     "text": "Making Restitution",
     "type": "sectionHeader",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-85d8fac5-7eb6-49c1-8429-ab22e4f1b26b"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-85d8fac5-7eb6-49c1-8429-ab22e4f1b26b"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-c536d707-163f-4544-b001-65838646efa0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-c536d707-163f-4544-b001-65838646efa0"
   },
   {
     "text": "Planned Change",
     "type": "sectionHeader",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-42a0e647-8fa8-444f-96df-123fc6e89ede"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-42a0e647-8fa8-444f-96df-123fc6e89ede"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-754d8c86-080c-4991-842f-1ace829b45fc"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-754d8c86-080c-4991-842f-1ace829b45fc"
   },
   {
     "text": "Requesting Forgiveness",
     "type": "sectionHeader",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-b3fb1e09-7c59-4a30-b0bc-d72d4174f77a"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-b3fb1e09-7c59-4a30-b0bc-d72d4174f77a"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-b5d6a860-6f2f-4aa2-8684-44cf2fa2fb80"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-b5d6a860-6f2f-4aa2-8684-44cf2fa2fb80"
   },
   {
     "text": "Expressing Regret = the act of acknowledging a mistake or wrongdoing and conveying genuine sorrow or remorse for the hurt or harm caused, emphasizing empathy and emotional sincerity.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-8b40be0a-5a11-4753-8d02-7fa7cb34afae"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-8b40be0a-5a11-4753-8d02-7fa7cb34afae"
   },
   {
     "text": "How we support this:",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-690e752e-c594-431a-8521-2c902ea169d0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-690e752e-c594-431a-8521-2c902ea169d0"
   },
   {
     "text": "We create a culture where acknowledging mistakes is seen as a strength, not a weakness.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7"
   },
   {
     "text": "We train leaders to express regret genuinely and empathetically when addressing issues with employees or customers.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-1"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-1"
   },
   {
     "text": "We incorporate “reflection moments” in meetings where teams can discuss lessons learned and express regret if needed.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-2"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-2"
   },
   {
     "text": "We empower employees to apologize sincerely to peers or customers when errors occur, fostering accountability.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-3"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-3"
   },
   {
     "text": "We provide managers with the tools to navigate difficult conversations and express regret effectively.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-4"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-4"
   },
   {
     "text": "We design communication templates for written apologies to ensure clarity, empathy, and professionalism.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-5"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-5"
   },
   {
     "text": "We use role-playing scenarios in training sessions to practice delivering sincere apologies in various situations.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-6"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-6"
   },
   {
     "text": "We use company-wide communications to address significant errors, offering transparent apologies and updates.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-7"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3c3dbafa-941d-475f-8a0f-cd0fb9b7d3a7-7"
   },
   {
     "text": "Manifestations:",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-0"
   },
   {
     "text": "Saying “I am truly sorry” with sincerity.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-0"
   },
   {
     "text": "Admitting fault directly without deflection.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-1"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-1"
   },
   {
     "text": "Expressing regret in person for added authenticity.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-2"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-2"
   },
   {
     "text": "Writing a personal note that focuses on their feelings.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-3"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-3"
   },
   {
     "text": "Taking time to express empathy for their experience.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-4"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-4"
   },
   {
     "text": "Acknowledging specific actions that caused harm.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-5"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-5"
   },
   {
     "text": "Avoiding excuses and focusing solely on the hurt caused.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-6"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-0-1-6"
   },
   {
     "text": "Mistakes:",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-0"
   },
   {
     "text": "Adding excuses or justifications to the apology.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-0"
   },
   {
     "text": "Using vague language like “I’m sorry if you feel hurt.”",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-1"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-1"
   },
   {
     "text": "Using conditional language like “I’m sorry, but...”",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-2"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-2"
   },
   {
     "text": "Failing to acknowledge the specific action that caused harm.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-3"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-3"
   },
   {
     "text": "Over-apologizing in a way that shifts the focus to yourself.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-4"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-4"
   },
   {
     "text": "Apologizing in a way that seems forced or obligatory.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-5"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-5"
   },
   {
     "text": "Delaying the apology, making it seem less meaningful.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-6"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1a7b230f-f5fa-4828-9b6a-183af850f270-1-1-6"
   },
   {
     "text": "Accepting Responsibility = the act of acknowledging and taking ownership of one’s actions, mistakes, or oversights, recognizing their impact, and demonstrating accountability without shifting blame or making excuses.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3330d5ab-1e4a-4412-b842-c7485f81a11c"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3330d5ab-1e4a-4412-b842-c7485f81a11c"
   },
   {
     "text": "How we support this:",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-a5905933-8774-403a-88b4-69297db3c98c"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-a5905933-8774-403a-88b4-69297db3c98c"
   },
   {
     "text": "We foster a culture where taking responsibility is viewed as a strength and a key to personal and professional growth.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d"
   },
   {
     "text": "We train leaders to model accountability by openly owning their decisions and their outcomes.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-1"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-1"
   },
   {
     "text": "We provide clear guidelines on how to acknowledge errors constructively and without defensiveness.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-2"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-2"
   },
   {
     "text": "We encourage team members to share lessons learned from their mistakes to promote a culture of continuous improvement.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-3"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-3"
   },
   {
     "text": "We include accountability as a core value in our mission statement and operational principles.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-4"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-4"
   },
   {
     "text": "We train employees to focus on solutions rather than excuses when addressing challenges or failures.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-5"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-5"
   },
   {
     "text": "We create structured processes for reporting and addressing mistakes, ensuring they are handled constructively.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-6"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-6"
   },
   {
     "text": "We recognize and reward individuals and teams who demonstrate accountability in difficult situations.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-7"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-7"
   },
   {
     "text": "We discourage a blame culture by focusing on collective responsibility and shared success.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-8"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-8"
   },
   {
     "text": "We provide coaching to help employees improve their ability to accept responsibility gracefully and effectively.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-9"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3b1d61dc-2a8f-4f5e-b932-3db108afc33d-9"
   },
   {
     "text": "Manifestations:",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-0"
   },
   {
     "text": "Clearly stating, “I made a mistake” without deflection.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-0"
   },
   {
     "text": "Acknowledging your role in the situation without blaming others.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-1"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-1"
   },
   {
     "text": "Explaining the specific actions you are accountable for.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-2"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-2"
   },
   {
     "text": "Taking ownership of the consequences caused by your behavior.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-3"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-3"
   },
   {
     "text": "Apologizing directly for the harm caused by your actions.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-4"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-4"
   },
   {
     "text": "Taking responsibility publicly when appropriate.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-5"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-5"
   },
   {
     "text": "Ensuring your behavior reflects your commitment to accountability.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-6"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-0-1-6"
   },
   {
     "text": "Mistakes:",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-0"
   },
   {
     "text": "Shifting blame to others or external circumstances.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-0"
   },
   {
     "text": "Using phrases like “I didn’t mean to” to deflect accountability.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-1"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-1"
   },
   {
     "text": "Offering vague statements such as “Mistakes were made.”",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-2"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-2"
   },
   {
     "text": "Minimizing the impact of your actions on others.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-3"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-3"
   },
   {
     "text": "Apologizing without explicitly admitting fault.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-4"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-4"
   },
   {
     "text": "Focusing on your intentions instead of the actual consequences.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-5"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-5"
   },
   {
     "text": "Providing excuses that overshadow the apology.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-6"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-6"
   },
   {
     "text": "Waiting too long to admit your mistake.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-7"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-7"
   },
   {
     "text": "Admitting fault only partially to avoid full accountability.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-8"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-dffefd33-9c52-4e87-aa17-ba4935aef315-1-1-8"
   },
   {
     "text": "Making Restitution = the act of repairing or compensating for the harm or damage caused by one’s actions, demonstrating a commitment to restoring trust and fairness in the relationship or situation.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3013f596-3079-4e6e-8cda-d66ff0d2a9f6"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3013f596-3079-4e6e-8cda-d66ff0d2a9f6"
   },
   {
     "text": "How we support this:",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-57fc424e-00c4-4ea1-af9b-5d04e3afca75"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-57fc424e-00c4-4ea1-af9b-5d04e3afca75"
   },
   {
     "text": "We emphasize the importance of making amends as part of our accountability framework.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524"
   },
   {
     "text": "We train employees to identify the impact of their actions and take appropriate steps to address any harm caused.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-1"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-1"
   },
   {
     "text": "We establish protocols for resolving mistakes by offering meaningful reparations to affected parties.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-2"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-2"
   },
   {
     "text": "We empower employees to take initiative in correcting their errors without waiting for external directives.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-3"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-3"
   },
   {
     "text": "We promote a culture where resolving mistakes goes beyond apologies to include tangible corrective actions.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-4"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-4"
   },
   {
     "text": "We track incidents and resolutions to ensure follow-through and accountability at all levels.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-5"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-5"
   },
   {
     "text": "We celebrate stories where restitution successfully repaired trust and strengthened relationships.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-6"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-6"
   },
   {
     "text": "We provide financial or operational support to employees when restitution requires additional resources.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-7"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-7"
   },
   {
     "text": "We include restitution in leadership training, emphasizing its role in effective conflict resolution.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-8"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-14dac4b6-87d5-431a-901b-6ecaf54bb524-8"
   },
   {
     "text": "Manifestations:",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-0"
   },
   {
     "text": "Paying for damages or inconveniences you caused.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-0"
   },
   {
     "text": "Providing additional help or support to mitigate the harm caused.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-1"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-1"
   },
   {
     "text": "Compensating for someone’s lost time by taking on extra work.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-2"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-2"
   },
   {
     "text": "Asking what you can do to make things right for the other person.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-3"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-3"
   },
   {
     "text": "Volunteering time to help rebuild trust or resolve an issue.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-4"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-4"
   },
   {
     "text": "Publicly correcting a misstatement or misinformation you spread.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-5"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-5"
   },
   {
     "text": "Assisting in resolving the ripple effects caused by the mistake.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-6"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-0-1-6"
   },
   {
     "text": "Mistakes:",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-0"
   },
   {
     "text": "Offering restitution without considering the affected party's needs.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-0"
   },
   {
     "text": "Making minimal effort that doesn’t fully address the harm caused.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-1"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-1"
   },
   {
     "text": "Delaying restitution to the point where it feels insincere.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-2"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-2"
   },
   {
     "text": "Assuming restitution is unnecessary because you apologized.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-3"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-3"
   },
   {
     "text": "Carrying out restitution reluctantly or with evident resentment.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-4"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-4"
   },
   {
     "text": "Making restitution a one-time action without ongoing follow-up.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-5"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-5"
   },
   {
     "text": "Expecting forgiveness or gratitude just for making restitution.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-6"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-6"
   },
   {
     "text": "Overcompensating, leading to the other party's discomfort.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-7"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-a4abc0d7-7cd2-4fd0-8c5d-9be052f64adf-1-1-7"
   },
   {
     "text": "Planned Change = the act of demonstrating sincerity in an apology by committing to specific, actionable steps to alter behavior, prevent recurrence, and rebuild trust, emphasizing a proactive approach to self-improvement.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-df84d995-148b-4376-a848-0e1f549dd2b6"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-df84d995-148b-4376-a848-0e1f549dd2b6"
   },
   {
     "text": "How we support this:",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-eb582e4c-f9f3-4dbc-a5e1-49f699d5d0d0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-eb582e4c-f9f3-4dbc-a5e1-49f699d5d0d0"
   },
   {
     "text": "We create detailed action plans to address mistakes, ensuring transparency and accountability in the resolution process.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0"
   },
   {
     "text": "We ensure leaders communicate clear steps the company will take to address significant issues or oversights.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-1"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-1"
   },
   {
     "text": "We create timelines for implementation of corrective measures, keeping everyone informed of progress.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-2"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-2"
   },
   {
     "text": "We implement systems to track changes made after an error, reinforcing accountability and long-term improvement.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-3"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-3"
   },
   {
     "text": "We empower employees to suggest and implement process improvements when problems arise.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-4"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-4"
   },
   {
     "text": "We document lessons learned from mistakes and share them with teams to promote collective growth.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-5"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-5"
   },
   {
     "text": "We communicate updates on progress after an apology, showing genuine commitment to making amends.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-6"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-6"
   },
   {
     "text": "We use apology templates for written communication that explicitly state the planned changes to rebuild trust.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-7"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-3fa5d5ea-5d60-41bf-9db2-61972cd3d7b0-7"
   },
   {
     "text": "Manifestations:",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-0"
   },
   {
     "text": "Outlining a clear plan to address the mistake and its impact.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-1-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-1-0"
   },
   {
     "text": "Asking for feedback on how to improve and taking it seriously.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-1-1"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-1-1"
   },
   {
     "text": "Setting measurable goals to improve behavior moving forward.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-1-2"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-1-2"
   },
   {
     "text": "Seeking training or education to address the mistake.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-1-3"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-1-3"
   },
   {
     "text": "Regularly checking in with the affected party to show progress.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-1-4"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-1-4"
   },
   {
     "text": "Taking proactive measures to avoid triggering similar issues.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-1-5"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-0-1-5"
   },
   {
     "text": "Mistakes:",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-0"
   },
   {
     "text": "Making vague promises without specific steps or timelines.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-0"
   },
   {
     "text": "Not following through on commitments made during the apology.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-1"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-1"
   },
   {
     "text": "Overcommitting to unrealistic changes, leading to failure.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-2"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-2"
   },
   {
     "text": "Ignoring the affected party's feedback on the needed changes.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-3"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-3"
   },
   {
     "text": "Implementing superficial changes that don’t address the root problem.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-4"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-4"
   },
   {
     "text": "Getting defensive when reminded of the commitment to change.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-5"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-5"
   },
   {
     "text": "Neglecting to provide updates on progress to the affected party.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-6"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-6"
   },
   {
     "text": "Abandoning the commitment after some initial efforts.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-7"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-1c693d59-74a1-41dc-9159-85c24f5e6d45-1-1-7"
   },
   {
     "text": "Requesting Forgiveness = the act of humbly asking the offended party for their forgiveness, acknowledging their autonomy in deciding whether to grant it, and demonstrating genuine remorse while being open to rebuilding trust at their pace.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-a8ed704b-fb7e-4f7d-b255-a730a64a8a02"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-a8ed704b-fb7e-4f7d-b255-a730a64a8a02"
   },
   {
     "text": "How we support this:",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-e9e227a5-047e-4370-beb1-d1e8f1238cac"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-e9e227a5-047e-4370-beb1-d1e8f1238cac"
   },
   {
     "text": "We encourage employees to seek forgiveness directly, acknowledging the harmed party’s autonomy in their response.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd"
   },
   {
     "text": "We teach employees to frame forgiveness requests as invitations, not demands, respecting the other party’s decision.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-1"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-1"
   },
   {
     "text": "We provide guidance on how to communicate sincere apologies without pressuring the recipient for immediate resolution.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-2"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-2"
   },
   {
     "text": "We include forgiveness as a key concept in our conflict resolution and mediation practices.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-3"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-3"
   },
   {
     "text": "We foster an environment where asking for forgiveness is seen as a strength and a step toward rebuilding trust.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-4"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-4"
   },
   {
     "text": "We encourage follow-up after an apology, demonstrating continued commitment to making things right over time.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-5"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-5"
   },
   {
     "text": "We provide coaching to help employees navigate situations where forgiveness is not immediately granted, teaching resilience and understanding.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-6"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-6"
   },
   {
     "text": "We share examples of situations where seeking forgiveness led to stronger relationships and personal growth.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-7"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-7"
   },
   {
     "text": "We train leaders to model the process of humbly requesting forgiveness when they make mistakes, setting a cultural standard.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-8"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-93cbb3f2-fd08-4673-aa5f-cc502922b8fd-8"
   },
   {
     "text": "Manifestations:",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-0"
   },
   {
     "text": "Asking directly, “Will you forgive me?” with sincerity.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-0"
   },
   {
     "text": "Allowing the offended party time and space to respond.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-1"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-1"
   },
   {
     "text": "Making clear that forgiveness is their choice, without pressure.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-2"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-2"
   },
   {
     "text": "Offering to answer any questions they have about the situation.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-3"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-3"
   },
   {
     "text": "Expressing empathy for their pain while requesting forgiveness.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-4"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-4"
   },
   {
     "text": "Following up to reiterate your openness to reconciliation.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-5"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-5"
   },
   {
     "text": "Respecting their decision if they choose not to forgive.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-6"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-0-1-6"
   },
   {
     "text": "Mistakes:",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-0"
   },
   {
     "text": "Demanding forgiveness rather than requesting it.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-0"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-0"
   },
   {
     "text": "Rushing the process and not allowing time for healing.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-1"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-1"
   },
   {
     "text": "Treating forgiveness as an obligation rather than a choice.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-2"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-2"
   },
   {
     "text": "Using guilt to pressure the offended party into forgiving.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-3"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-3"
   },
   {
     "text": "Failing to show genuine remorse before asking for forgiveness.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-4"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-4"
   },
   {
     "text": "Ignoring the importance of rebuilding trust alongside the request.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-5"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-5"
   },
   {
     "text": "Using vague language that downplays the harm caused.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-6"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-6"
   },
   {
     "text": "Using forgiveness to escape consequences of the mistake.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-7"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-7"
   },
   {
     "text": "Assuming forgiveness will restore the relationship effortlessly.",
     "type": "contentBlock",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-8"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo#search-fa56542a-003c-4aee-ba08-ca3a7a2bf4e2-1-1-8"
   },
   {
-    "text": "Styles of Apology",
+    "text": "Apology Styles",
     "type": "pageTitle",
-    "pageName": "Styles of Apology",
-    "category": "Communication / Styles of Apology",
-    "keywords": "Communication / Styles of Apology",
-    "url": "../html/styles-of-apology-mVPWwbHo"
+    "pageName": "Apology Styles",
+    "category": "Communication / Apology Styles",
+    "keywords": "Communication / Apology Styles",
+    "url": "../html/apology-styles-mVPWwbHo"
   },
   {
     "text": "Coordination = the organized arrangement of activities, efforts, or resources to ensure they work effectively together to achieve a common goal or objective.",
@@ -18293,1964 +18293,4197 @@
   {
     "text": "Note: This is demo content for a fictional SaaS company.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-161e0211-7f3a-48f7-8d13-b018ac87c023"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-161e0211-7f3a-48f7-8d13-b018ac87c023"
   },
   {
-    "text": "Style of Leadership = the distinct approach or method a leader uses to guide, influence, and manage a group or organization, shaped by their personality, values, and situational demands, to achieve specific goals and foster team dynamics.",
+    "text": "Leadership Style = the distinct approach or method a leader uses to guide, influence, and manage a group or organization, shaped by their personality, values, and situational demands, to achieve specific goals and foster team dynamics.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b0f61a25-4387-4fc2-abf4-d2cdc9273f40"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b0c4a508-32db-4748-9927-47f9110e0663"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b0f61a25-4387-4fc2-abf4-d2cdc9273f40"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-06e76091-ede3-4fd6-93da-fd0960a83848"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b0c4a508-32db-4748-9927-47f9110e0663"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-06e76091-ede3-4fd6-93da-fd0960a83848"
   },
   {
     "text": "Autocratic Leadership",
     "type": "sectionHeader",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a4d18f54-5692-430e-8e9a-601d72baeb00"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a4d18f54-5692-430e-8e9a-601d72baeb00"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-c73838f5-a274-42bc-a92e-00e27e34b002"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-c73838f5-a274-42bc-a92e-00e27e34b002"
   },
   {
     "text": "Bureaucratic Leadership",
     "type": "sectionHeader",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-0e4081be-54a7-4155-89a9-b1f91d4cfbb6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-0e4081be-54a7-4155-89a9-b1f91d4cfbb6"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-c6d73634-1fe8-41c9-bb74-164929d2fccb"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-c6d73634-1fe8-41c9-bb74-164929d2fccb"
   },
   {
     "text": "Charismatic Leadership",
     "type": "sectionHeader",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-0f686151-ff2b-426e-a092-3af47cee49ff"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-0f686151-ff2b-426e-a092-3af47cee49ff"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-18dde99c-d9ea-4067-aa71-7aa28717ede9"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-18dde99c-d9ea-4067-aa71-7aa28717ede9"
   },
   {
     "text": "Coaching Leadership",
     "type": "sectionHeader",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-7ef2b5c4-674f-4b09-a193-a50ca8d7f820"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-7ef2b5c4-674f-4b09-a193-a50ca8d7f820"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-1bac039b-faad-42b3-9a28-a7760e0e1311"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-1bac039b-faad-42b3-9a28-a7760e0e1311"
   },
   {
     "text": "Democratic Leadership",
     "type": "sectionHeader",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-8430be4d-89d0-4ca3-b011-8af715e4067d"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-8430be4d-89d0-4ca3-b011-8af715e4067d"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-cacdb704-69c2-4e8c-a2bd-28e1e22ca618"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-cacdb704-69c2-4e8c-a2bd-28e1e22ca618"
   },
   {
     "text": "Laissez-Faire Leadership",
     "type": "sectionHeader",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-39e9445b-aeb7-4adf-b5f1-6a25060578be"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-39e9445b-aeb7-4adf-b5f1-6a25060578be"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-fb553252-4bac-4122-a301-7749a992bc29"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-fb553252-4bac-4122-a301-7749a992bc29"
   },
   {
     "text": "Servant Leadership",
     "type": "sectionHeader",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e573697c-2692-4a4c-9bb9-a02c398d7f0b"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e573697c-2692-4a4c-9bb9-a02c398d7f0b"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b60ed686-0909-4815-b358-e124fcb74173"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b60ed686-0909-4815-b358-e124fcb74173"
   },
   {
     "text": "Transactional Leadership",
     "type": "sectionHeader",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-5fe46bf3-db7f-4af4-b247-ec6231075df7"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-5fe46bf3-db7f-4af4-b247-ec6231075df7"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-90136461-5bc0-4879-af15-bae6f41e715a"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-90136461-5bc0-4879-af15-bae6f41e715a"
   },
   {
     "text": "Transformational Leadership",
     "type": "sectionHeader",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-cd2fee80-b580-4b23-8a45-d5fcca2dbece"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-cd2fee80-b580-4b23-8a45-d5fcca2dbece"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-cc82a90f-e225-4d09-8599-3536f1fda002"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-cc82a90f-e225-4d09-8599-3536f1fda002"
   },
   {
     "text": "Autocratic Leadership = the leadership style where the leader exercises complete control over decision-making, directs tasks with little or no input from team members, and emphasizes strict adherence to rules, authority, and organizational structure to achieve objectives.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a5004c0d-83a0-4f29-ab00-ccd715809db4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a5004c0d-83a0-4f29-ab00-ccd715809db4"
   },
   {
     "text": "How we apply this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-5204818b-1509-4566-9328-a57c81af3af7"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-5204818b-1509-4566-9328-a57c81af3af7"
   },
   {
     "text": "We use autocratic leadership in situations where rapid decision-making is critical and time is of the essence",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2"
   },
   {
     "text": "We use this style for high-stakes negotiations, where a singular vision and authority are essential for success",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-1"
   },
   {
     "text": "We rely on autocratic leadership in crisis management scenarios to ensure a unified and immediate response.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-2"
   },
   {
     "text": "We apply this style in our operations and logistics teams to maintain consistency and efficiency in day-to-day tasks.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-3"
   },
   {
     "text": "We enforce autocratic leadership in quality control to meet rigorous standards without room for deviation.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-4"
   },
   {
     "text": "We deploy this approach in high-risk areas, such as cybersecurity, to mitigate threats with precise, authoritative action.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-5"
   },
   {
     "text": "We rely on this leadership style during large-scale product launches to coordinate efforts across departments seamlessly.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-6"
   },
   {
     "text": "We apply autocratic leadership in sales-driven campaigns with tight deadlines to meet aggressive targets.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-7"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-7"
   },
   {
     "text": "We maintain autocratic control in our financial department to ensure strict budget adherence and prevent overspending.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-8"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a35fd2d8-c2cb-48da-a320-1d5f48a1edf2-8"
   },
   {
     "text": "Benefits:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-0"
   },
   {
     "text": "It enables quick decision-making due to centralized authority.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-0"
   },
   {
     "text": "It establishes clear rules and expectations for the team.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-1"
   },
   {
     "text": "It fosters consistency in processes and decisions.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-2"
   },
   {
     "text": "It allows rapid implementation of strategies and plans.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-3"
   },
   {
     "text": "It is effective in emergencies requiring quick decisions.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-4"
   },
   {
     "text": "It simplifies tracking and holding individuals accountable.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-5"
   },
   {
     "text": "It helps unskilled or inexperienced teams needing guidance.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-6"
   },
   {
     "text": "It boosts productivity in repetitive or task-oriented jobs.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-7"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-0-1-7"
   },
   {
     "text": "Drawbacks:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-0"
   },
   {
     "text": "It discourages creativity and innovation among employees.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-0"
   },
   {
     "text": "It creates dependency on the leader, reducing team initiative.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-1"
   },
   {
     "text": "It can lead to low employee morale and job dissatisfaction.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-2"
   },
   {
     "text": "It hinders team development and growth opportunities.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-3"
   },
   {
     "text": "It can cause high turnover if employees feel undervalued.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-4"
   },
   {
     "text": "It increases the risk of micromanagement, reducing efficiency.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-5"
   },
   {
     "text": "It limits diverse viewpoints, leading to narrow decision-making.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-6"
   },
   {
     "text": "It depends heavily on the leader’s competence, risking instability.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-7"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-6b8ad8b7-3d86-4c29-a8f6-99a65d49c13c-1-1-7"
   },
   {
     "text": "Bureaucratic Leadership = the leadership style that emphasizes strict adherence to organizational rules, procedures, and hierarchy, focusing on maintaining order, consistency, and efficiency within structured systems.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a28b5d80-5069-4ff0-95fa-3d5c1831cb1d"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a28b5d80-5069-4ff0-95fa-3d5c1831cb1d"
   },
   {
     "text": "How we apply this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-66b0f9d6-3261-4fb3-bf10-36fe28600001"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-66b0f9d6-3261-4fb3-bf10-36fe28600001"
   },
   {
     "text": "We apply bureaucratic leadership in departments where compliance with policies and procedures is critical to success.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a"
   },
   {
     "text": "We use this style in accounting and finance to ensure precision, transparency, and accountability.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-1"
   },
   {
     "text": "We rely on this approach in legal and regulatory functions to ensure adherence to all applicable laws and standards.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-2"
   },
   {
     "text": "We use bureaucratic leadership in procurement to follow structured processes for vendor selection and contract management.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-3"
   },
   {
     "text": "We apply it in quality assurance to maintain consistency and adherence to our product standards.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-4"
   },
   {
     "text": "We rely on bureaucratic leadership in inventory management to maintain order and track resources effectively.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-5"
   },
   {
     "text": "We use this approach in contract management to adhere to legal and organizational standards strictly.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-6"
   },
   {
     "text": "We emphasize bureaucratic leadership in safety and health initiatives to comply with industry regulations and ensure employee welfare.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-7"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-7"
   },
   {
     "text": "We depend on this style in performance reviews to maintain fairness and alignment with pre-set criteria.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-8"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-19893ed5-d0e4-4426-89b5-0232e1afcb8a-8"
   },
   {
     "text": "Benefits:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-0"
   },
   {
     "text": "It ensures consistency and uniformity across all operations.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-0"
   },
   {
     "text": "It fosters stability through adherence to established rules.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-1"
   },
   {
     "text": "It ensures strong compliance with legal and regulatory standards.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-2"
   },
   {
     "text": "It provides clear expectations and roles for employees.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-3"
   },
   {
     "text": "It promotes discipline and order within the organization.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-4"
   },
   {
     "text": "It minimizes ambiguity and confusion in decision-making.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-5"
   },
   {
     "text": "It facilitates long-term planning due to predictable structures.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-0-1-6"
   },
   {
     "text": "Drawbacks:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-0"
   },
   {
     "text": "It limits innovation by prioritizing rules over flexibility.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-0"
   },
   {
     "text": "It may result in excessive bureaucracy and delayed decisions.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-1"
   },
   {
     "text": "It may cause resistance to change due to rigid systems.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-2"
   },
   {
     "text": "It weakens emotional connections between leaders and teams.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-3"
   },
   {
     "text": "It prioritizes process over outcomes, reducing effectiveness.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-4"
   },
   {
     "text": "It can cause bureaucratic inertia, with processes followed blindly.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-5"
   },
   {
     "text": "It can demotivate employees by limiting opportunities for input.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-6"
   },
   {
     "text": "It alienates employees who value innovation and creativity.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-7"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-7"
   },
   {
     "text": "It raises operational costs due to multiple layers of management.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-8"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-b1e13339-bc72-49e9-8e4f-3034c946d2b5-1-1-8"
   },
   {
     "text": "Charismatic Leadership = the leadership style where the leader leverages their personal charm, vision, and persuasive communication to inspire and influence followers, fostering strong emotional connections and loyalty to achieve shared goals.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-654812a6-51b2-4770-af88-cce160114626"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-654812a6-51b2-4770-af88-cce160114626"
   },
   {
     "text": "How we apply this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-dd54cc65-c81d-4dae-9320-e2e848751c7b"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-dd54cc65-c81d-4dae-9320-e2e848751c7b"
   },
   {
     "text": "We use this style in marketing to craft compelling narratives that resonate with our audience and energize our team.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff"
   },
   {
     "text": "We rely on charismatic leadership to rally employees around ambitious company goals and long-term vision.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-1"
   },
   {
     "text": "We use charismatic leadership to inspire our leadership team, encouraging them to lead with passion and energy.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-2"
   },
   {
     "text": "We emphasize this style during company-wide meetings to instill a sense of purpose and unity among employees.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-3"
   },
   {
     "text": "We use this approach to establish strong relationships with investors and stakeholders, fostering trust and alignment.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-4"
   },
   {
     "text": "We apply charismatic leadership in talent acquisition to attract top talent by showcasing our inspiring culture and vision.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-5"
   },
   {
     "text": "We use this style to energize teams during product launches, creating excitement and commitment across the organization.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-6"
   },
   {
     "text": "We use charismatic leadership to create loyalty among our customers, turning them into brand advocates.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-7"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-7"
   },
   {
     "text": "We use charismatic leadership to reinforce our identity as a dynamic, forward-thinking organization.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-8"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-58ee8f14-a979-49c5-be48-b407242828ff-8"
   },
   {
     "text": "Benefits:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-0"
   },
   {
     "text": "It inspires followers to achieve extraordinary goals.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-0"
   },
   {
     "text": "It builds strong emotional connections with the team.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-1"
   },
   {
     "text": "It boosts morale and motivation within the organization.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-2"
   },
   {
     "text": "It helps to unify diverse groups under a common purpose.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-3"
   },
   {
     "text": "It instills confidence in followers during uncertain times.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-4"
   },
   {
     "text": "It creates a sense of belonging among team members.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-5"
   },
   {
     "text": "It enables leaders to drive organizational change effectively.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-6"
   },
   {
     "text": "It attracts talent drawn to the leader’s vision and energy.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-7"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-0-1-7"
   },
   {
     "text": "Drawbacks:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-0"
   },
   {
     "text": "It can lead to dependency on the leader, being unsustainable.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-0"
   },
   {
     "text": "It may foster a cult of personality rather than collaboration.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-1"
   },
   {
     "text": "It may prioritize charisma over competence.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-2"
   },
   {
     "text": "It risks overshadowing the contributions of the team.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-3"
   },
   {
     "text": "It could result in poor decision-making without oversight.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-4"
   },
   {
     "text": "It can lead to burnout for both the leader and followers.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-5"
   },
   {
     "text": "It could create unrealistic expectations from followers.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-6"
   },
   {
     "text": "It can lead to over-promising and under-performing.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-7"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-39c28b2d-7d91-41e3-a499-42ce4a0f54ec-1-1-7"
   },
   {
     "text": "Coaching Leadership = the leadership style where the leader focuses on the development of individuals by guiding, mentoring, and supporting them to improve their skills, performance, and personal growth, while aligning their goals with organizational objectives.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-82e23bfd-efda-4092-ae5e-81574afb3203"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-82e23bfd-efda-4092-ae5e-81574afb3203"
   },
   {
     "text": "How we apply this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-87ba2497-8142-4513-89a2-74c4facdfed9"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-87ba2497-8142-4513-89a2-74c4facdfed9"
   },
   {
     "text": "We apply coaching leadership in employee development programs to help individuals grow professionally and personally.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-dcb8f28c-76f8-4403-8731-59a13e82021d"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-dcb8f28c-76f8-4403-8731-59a13e82021d"
   },
   {
     "text": "We rely on coaching leadership in our mentorship programs to nurture emerging leaders within the company.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-dcb8f28c-76f8-4403-8731-59a13e82021d-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-dcb8f28c-76f8-4403-8731-59a13e82021d-1"
   },
   {
     "text": "We apply coaching leadership in onboarding to ensure new hires feel supported and aligned with our organizational values.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-dcb8f28c-76f8-4403-8731-59a13e82021d-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-dcb8f28c-76f8-4403-8731-59a13e82021d-2"
   },
   {
     "text": "We rely on coaching leadership in cross-training initiatives to broaden employee skill sets and career opportunities.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-dcb8f28c-76f8-4403-8731-59a13e82021d-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-dcb8f28c-76f8-4403-8731-59a13e82021d-3"
   },
   {
     "text": "We apply coaching leadership in succession planning, ensuring a strong pipeline of skilled and capable leaders.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-dcb8f28c-76f8-4403-8731-59a13e82021d-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-dcb8f28c-76f8-4403-8731-59a13e82021d-4"
   },
   {
     "text": "We use coaching leadership in innovation workshops to guide employees toward creative solutions and breakthroughs.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-dcb8f28c-76f8-4403-8731-59a13e82021d-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-dcb8f28c-76f8-4403-8731-59a13e82021d-5"
   },
   {
     "text": "Benefits:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-0"
   },
   {
     "text": "It fosters personal and professional growth in employees.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-0"
   },
   {
     "text": "It enhances employee engagement and satisfaction.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-1"
   },
   {
     "text": "It builds stronger, more collaborative relationships.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-2"
   },
   {
     "text": "It improves team performance through skill development.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-3"
   },
   {
     "text": "It encourages open communication and feedback.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-4"
   },
   {
     "text": "It aligns individual goals with organizational objectives.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-5"
   },
   {
     "text": "It promotes accountability and ownership of work.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-6"
   },
   {
     "text": "It helps identify and nurture future leaders.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-7"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-0-1-7"
   },
   {
     "text": "Drawbacks:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-0"
   },
   {
     "text": "It requires significant time investment from the leader.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-0"
   },
   {
     "text": "It depends heavily on the leader’s coaching skills.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-1"
   },
   {
     "text": "It may slow decisions by prioritizing development over action.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-2"
   },
   {
     "text": "It may fail to address performance issues promptly.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-3"
   },
   {
     "text": "It can be misunderstood as a lack of leadership or direction.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-4"
   },
   {
     "text": "It requires additional resources for training and development.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-5"
   },
   {
     "text": "It may neglect organizational priorities by focusing on individuals.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-6"
   },
   {
     "text": "It may create unrealistic expectations for constant development.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-7"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e22c2ac0-d9e7-4c65-92c5-03ddc9a113dc-1-1-7"
   },
   {
     "text": "Democratic Leadership = the leadership style where decisions are made collaboratively, with the leader encouraging team members to contribute ideas, provide feedback, and participate in decision-making, fostering a sense of shared responsibility and inclusivity.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-62095982-60c8-4004-a9c0-554a050c8795"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-62095982-60c8-4004-a9c0-554a050c8795"
   },
   {
     "text": "How we apply this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a40a7c85-20b0-4ecd-b93d-0658c719fdd2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a40a7c85-20b0-4ecd-b93d-0658c719fdd2"
   },
   {
     "text": "We use this style in the marketing department to ensure campaigns reflect diverse ideas and creativity.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed"
   },
   {
     "text": "We apply democratic leadership in the human resources department to shape policies and initiatives based on employee feedback.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-1"
   },
   {
     "text": "We use this style in the corporate social responsibility department to align projects with team and community input.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-2"
   },
   {
     "text": "We emphasize this approach in project management offices where cross-functional teams contribute to decision-making.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-3"
   },
   {
     "text": "We rely on democratic leadership in the diversity, equity, and inclusion team to build initiatives reflecting employee perspectives.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-4"
   },
   {
     "text": "We use this style in data analytics to design dashboards and tools that meet organizational goals collaboratively.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-5"
   },
   {
     "text": "We rely on democratic leadership in the sustainability team to create environmental initiatives based on broad organizational insights.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-6"
   },
   {
     "text": "We emphasize this approach in event planning to design programs that reflect employee interests and priorities.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-7"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-849659fd-a938-4408-82d9-e1638969a6ed-7"
   },
   {
     "text": "Benefits:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-0"
   },
   {
     "text": "It promotes team engagement and active participation.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-0"
   },
   {
     "text": "It fosters ownership and accountability among team members.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-1"
   },
   {
     "text": "It encourages creativity and innovation through diverse input.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-2"
   },
   {
     "text": "It aligns team goals with organizational objectives via consensus.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-3"
   },
   {
     "text": "It increases commitment to decisions made by the team.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-4"
   },
   {
     "text": "It improves employee retention through inclusion and respect.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-5"
   },
   {
     "text": "It promotes a feedback culture, improving overall performance.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-0-1-6"
   },
   {
     "text": "Drawbacks:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-0"
   },
   {
     "text": "It can slow down decision-making in time-sensitive situations.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-0"
   },
   {
     "text": "It may lead to decision fatigue or burnout among team members.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-1"
   },
   {
     "text": "It risks overemphasis on consensus at the expense of action.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-2"
   },
   {
     "text": "It may lead to conflicts if consensus cannot be reached.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-3"
   },
   {
     "text": "It requires a high level of skill in facilitation and conflict resolution.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-4"
   },
   {
     "text": "It might dilute responsibility, with no one feeling accountable.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-5"
   },
   {
     "text": "It risks favoritism if certain voices dominate the discussions.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-21c8c0d7-f90b-44e6-89ff-db71749eb180-1-1-6"
   },
   {
     "text": "Laissez-Faire Leadership = the leadership style where the leader takes a hands-off approach, providing minimal direction and allowing team members to make decisions, manage their tasks, and work independently, offering support only when needed.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-efe5ca33-ba89-4f68-b43a-04489296bda4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-efe5ca33-ba89-4f68-b43a-04489296bda4"
   },
   {
     "text": "How we apply this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-2c101ebb-2fdb-4539-b9b5-4d178cc6eaf5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-2c101ebb-2fdb-4539-b9b5-4d178cc6eaf5"
   },
   {
     "text": "We apply this style in the creative design team, allowing members to take full ownership of their projects and ideas.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-908193df-b48f-46ff-90bf-84b157056515"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-908193df-b48f-46ff-90bf-84b157056515"
   },
   {
     "text": "We rely on laissez-faire leadership in the IT department for specialists to independently manage technical infrastructure and solutions.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-908193df-b48f-46ff-90bf-84b157056515-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-908193df-b48f-46ff-90bf-84b157056515-1"
   },
   {
     "text": "We emphasize this approach in the sales department with senior sales representatives who excel at self-directed client management.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-908193df-b48f-46ff-90bf-84b157056515-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-908193df-b48f-46ff-90bf-84b157056515-2"
   },
   {
     "text": "We use laissez-faire leadership in data analytics, where analysts are trusted to derive insights and propose actionable strategies independently.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-908193df-b48f-46ff-90bf-84b157056515-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-908193df-b48f-46ff-90bf-84b157056515-3"
   },
   {
     "text": "We apply this style in the product management team, enabling them to prioritize features and improvements autonomously.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-908193df-b48f-46ff-90bf-84b157056515-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-908193df-b48f-46ff-90bf-84b157056515-4"
   },
   {
     "text": "We apply this style in innovation labs, allowing members to take risks and experiment with unconventional ideas.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-908193df-b48f-46ff-90bf-84b157056515-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-908193df-b48f-46ff-90bf-84b157056515-5"
   },
   {
     "text": "Benefits:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-0"
   },
   {
     "text": "It empowers employees by granting them autonomy and trust.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-0"
   },
   {
     "text": "It fosters creativity and innovation by allowing freedom of thought.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-1"
   },
   {
     "text": "It promotes a flexible and relaxed work environment.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-2"
   },
   {
     "text": "It reduces micromanagement, giving employees room to grow.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-3"
   },
   {
     "text": "It allows leaders to focus more on strategic priorities.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-4"
   },
   {
     "text": "It supports the development of leadership skills within the team.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-5"
   },
   {
     "text": "It lets employees work at their own pace, boosting satisfaction.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-0-1-6"
   },
   {
     "text": "Drawbacks:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-0"
   },
   {
     "text": "It can result in poor coordination and disorganization.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-0"
   },
   {
     "text": "It may cause confusion due to unclear roles and responsibilities.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-1"
   },
   {
     "text": "It risks neglecting team dynamics and individual challenges.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-2"
   },
   {
     "text": "It may lead to inconsistent quality of work.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-3"
   },
   {
     "text": "It can foster a sense of isolation among team members.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-4"
   },
   {
     "text": "It can result in unmet deadlines or objectives.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-5"
   },
   {
     "text": "It may lead to conflict if team members disagree on direction.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-6"
   },
   {
     "text": "It is ineffective in high-pressure or crisis situations.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-7"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-a4204617-f0f9-4201-b2a2-7a853e7b88e6-1-1-7"
   },
   {
     "text": "Servant Leadership = the leadership style where the leader prioritizes serving the needs of the team, fostering growth, well-being, and collaboration by emphasizing empathy, listening, and support to empower individuals and achieve collective goals.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-36c7d3fd-d521-4524-a459-497cfc372af2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-36c7d3fd-d521-4524-a459-497cfc372af2"
   },
   {
     "text": "How we apply this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-26483e47-dcc0-4a6a-9f89-c60ea9a906ac"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-26483e47-dcc0-4a6a-9f89-c60ea9a906ac"
   },
   {
     "text": "We apply servant leadership in the human resources department to focus on employee well-being and career growth.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-9a5f5adf-bf20-4efe-9cb4-0a28604ca713"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-9a5f5adf-bf20-4efe-9cb4-0a28604ca713"
   },
   {
     "text": "We rely on servant leadership in customer success, ensuring teams feel supported in delivering exceptional client experiences.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-9a5f5adf-bf20-4efe-9cb4-0a28604ca713-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-9a5f5adf-bf20-4efe-9cb4-0a28604ca713-1"
   },
   {
     "text": "We emphasize this approach in the diversity, equity, and inclusion team to create a culture that values every voice.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-9a5f5adf-bf20-4efe-9cb4-0a28604ca713-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-9a5f5adf-bf20-4efe-9cb4-0a28604ca713-2"
   },
   {
     "text": "We apply this style in customer service to prioritize the emotional well-being of agents as they handle challenging interactions.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-9a5f5adf-bf20-4efe-9cb4-0a28604ca713-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-9a5f5adf-bf20-4efe-9cb4-0a28604ca713-3"
   },
   {
     "text": "We apply this style in event planning, focusing on team collaboration and ensuring their ideas are heard and valued.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-9a5f5adf-bf20-4efe-9cb4-0a28604ca713-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-9a5f5adf-bf20-4efe-9cb4-0a28604ca713-4"
   },
   {
     "text": "Benefits:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-0"
   },
   {
     "text": "It builds strong trust and loyalty within the team.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-0"
   },
   {
     "text": "It fosters a culture of respect and mutual support.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-1"
   },
   {
     "text": "It promotes personal and professional growth among employees.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-2"
   },
   {
     "text": "It aligns individual goals with organizational values.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-3"
   },
   {
     "text": "It creates a positive and inclusive work environment.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-4"
   },
   {
     "text": "It reduces turnover by prioritizing employee well-being.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-5"
   },
   {
     "text": "It empowers employees, fostering innovation and ownership.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-0-1-6"
   },
   {
     "text": "Drawbacks:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-0"
   },
   {
     "text": "It may slow down decision-making due to its inclusive approach.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-0"
   },
   {
     "text": "It risks prioritizing individual needs over organizational goals.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-1"
   },
   {
     "text": "It demands substantial time and emotional effort from the leader.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-2"
   },
   {
     "text": "It can be misinterpreted as a lack of authority or direction.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-3"
   },
   {
     "text": "It risks uneven workloads if employees over-rely on support.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-4"
   },
   {
     "text": "It may struggle to enforce accountability without clear boundaries.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-5"
   },
   {
     "text": "It might delay addressing underperformance to avoid conflict.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-5cf6c7ed-5232-4da1-a0c4-f8778100d4f5-1-1-6"
   },
   {
     "text": "Transactional Leadership = the leadership style focused on structured tasks, clear roles, and performance-based rewards and punishments, emphasizing efficiency, compliance, and achieving specific organizational goals through predefined processes and expectations.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-5100d341-34f1-422d-a021-b7db37e67316"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-5100d341-34f1-422d-a021-b7db37e67316"
   },
   {
     "text": "How we apply this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-8b06395b-ddcf-4be5-a7f0-6606329590f5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-8b06395b-ddcf-4be5-a7f0-6606329590f5"
   },
   {
     "text": "We apply transactional leadership in the sales department to drive performance through clear targets and incentive structures.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b"
   },
   {
     "text": "We use this style in the customer support team to ensure adherence to service protocols and performance benchmarks.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-1"
   },
   {
     "text": "We emphasize this approach in the quality assurance team to enforce strict compliance with testing processes and results.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-2"
   },
   {
     "text": "We apply transactional leadership in IT support to maintain service level agreements and response time commitments.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-3"
   },
   {
     "text": "We apply transactional leadership in the data entry team to achieve high accuracy and productivity metrics.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-4"
   },
   {
     "text": "We rely on transactional leadership in call centers to enforce scripts and meet call handling time targets.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-5"
   },
   {
     "text": "We use this style in the payroll department to ensure timely and accurate processing of employee compensation.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-6"
   },
   {
     "text": "We rely on transactional leadership during crisis management to maintain order and clarity amidst uncertainty.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-7"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-d027ef9b-117d-42d2-837d-62bbb52ba13b-7"
   },
   {
     "text": "Benefits:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-0"
   },
   {
     "text": "It provides clear expectations and goals for team members.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-0"
   },
   {
     "text": "It ensures consistency and adherence to established processes.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-1"
   },
   {
     "text": "It aligns rewards with performance, motivating employees.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-2"
   },
   {
     "text": "It ensures accountability with defined roles and responsibilities.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-3"
   },
   {
     "text": "It is effective for achieving short-term objectives and deadlines.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-4"
   },
   {
     "text": "It provides measurable outcomes to track performance.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-5"
   },
   {
     "text": "It is efficient in situations requiring routine or repetitive tasks.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-6"
   },
   {
     "text": "It allows for quick corrective actions when objectives are not met.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-7"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-0-1-7"
   },
   {
     "text": "Drawbacks:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-0"
   },
   {
     "text": "It limits creativity and innovation due to rigid structures.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-0"
   },
   {
     "text": "It may demotivate employees who value autonomy or growth.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-1"
   },
   {
     "text": "It may foster a purely task-oriented work culture.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-2"
   },
   {
     "text": "It risks prioritizing short-term wins over long-term goals.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-3"
   },
   {
     "text": "It creates a transactional relationship rather than fostering loyalty.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-4"
   },
   {
     "text": "It could lead to burnout due to constant pressure for results.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-5"
   },
   {
     "text": "It alienates employees who value recognition over rewards.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-6"
   },
   {
     "text": "It can cause disengagement if rewards seem unfair.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-7"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-679f61e8-9ead-4d52-8fed-8556dae4087e-1-1-7"
   },
   {
     "text": "Transformational Leadership = the leadership style where the leader inspires and motivates followers to exceed expectations by fostering a shared vision, encouraging innovation, and focusing on personal and professional growth to drive meaningful change and achieve organizational goals.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-6ff0398f-8a43-4201-9a43-18e00587d4ca"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-6ff0398f-8a43-4201-9a43-18e00587d4ca"
   },
   {
     "text": "How we apply this style:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-fd74ec20-e0b2-4b81-b601-bf942b905655"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-fd74ec20-e0b2-4b81-b601-bf942b905655"
   },
   {
     "text": "We embrace transformational leadership by inspiring teams with a compelling vision that aligns with our pursuit of excellence and profitability.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e"
   },
   {
     "text": "We use this style in product development, where innovation is essential to staying ahead in the competitive SaaS market",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e-1"
   },
   {
     "text": "We encourage bold, forward-thinking initiatives, particularly in our R&D department, where disruption can redefine markets.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e-2"
   },
   {
     "text": "We rely on transformational leadership during times of organizational change to unify teams around shared goals and smooth transitions.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e-3"
   },
   {
     "text": "We encourage leaders across departments to inspire rather than dictate, ensuring employee engagement and ownership of outcomes.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e-4"
   },
   {
     "text": "We use this approach in strategic planning, fostering cross-departmental collaboration to generate fresh ideas and solutions.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e-5"
   },
   {
     "text": "We apply this style in talent acquisition, focusing on bringing in individuals who thrive in environments of vision-driven leadership.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-c226287e-a9d4-4310-a1e6-23cf56b2af1e-6"
   },
   {
     "text": "Benefits:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-0"
   },
   {
     "text": "It fosters a strong sense of purpose and shared vision.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-0"
   },
   {
     "text": "It builds high levels of motivation and engagement.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-1"
   },
   {
     "text": "It encourages innovation and creativity within the organization.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-2"
   },
   {
     "text": "It promotes a positive and dynamic organizational culture.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-3"
   },
   {
     "text": "It empowers employees by involving them in decision-making.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-4"
   },
   {
     "text": "It aligns individual and organizational goals effectively.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-5"
   },
   {
     "text": "It develops leadership skills and potential in employees.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-6"
   },
   {
     "text": "It adapts well to complex and rapidly changing environments.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-7"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-0-1-7"
   },
   {
     "text": "Drawbacks:",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-0"
   },
   {
     "text": "It may lead to burnout due to high expectations.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-0"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-0"
   },
   {
     "text": "It can pressure employees to continually adapt and innovate.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-1"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-1"
   },
   {
     "text": "It risks neglecting short-term needs in pursuit of long-term goals.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-2"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-2"
   },
   {
     "text": "It requires significant emotional intelligence and leadership skills.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-3"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-3"
   },
   {
     "text": "It requires time and effort to build relationships and trust.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-4"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-4"
   },
   {
     "text": "It could create unrealistic expectations among team members.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-5"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-5"
   },
   {
     "text": "It may cause inconsistent results without strong processes.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-6"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-6"
   },
   {
     "text": "It may overlook individual differences for a unified approach.",
     "type": "contentBlock",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-7"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik#search-e610d2a6-f924-44a9-a0a8-9022f6f724f6-1-1-7"
   },
   {
-    "text": "Styles of Leadership",
+    "text": "Leadership Styles",
     "type": "pageTitle",
-    "pageName": "Styles of Leadership",
-    "category": "Coordination / Styles of Leadership",
-    "keywords": "Coordination / Styles of Leadership",
-    "url": "../html/styles-of-leadership-NDI1PWik"
+    "pageName": "Leadership Styles",
+    "category": "Coordination / Leadership Styles",
+    "keywords": "Coordination / Leadership Styles",
+    "url": "../html/leadership-styles-NDI1PWik"
   },
   {
-    "text": "Counseling",
+    "text": "Note: This is demo content for a fictional SaaS company.",
     "type": "contentBlock",
-    "pageName": "Types of Assistance",
-    "category": "Coordination / Types of Assistance",
-    "url": "../html/types-of-assistance-m5hjKbQn#search-3d277ace-f477-476b-9bf9-7df90995bbd8"
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-8fb4bc0b-ae03-4bc2-869d-8de26792d086"
   },
   {
-    "text": "Consulting",
+    "text": "Supportive Role = the position or function within an organization, team, or operation responsible for assisting, enabling, and facilitating the success of other roles or objectives by providing necessary resources, guidance, and assistance without directly leading or being the primary focus of the task.",
     "type": "contentBlock",
-    "pageName": "Types of Assistance",
-    "category": "Coordination / Types of Assistance",
-    "url": "../html/types-of-assistance-m5hjKbQn#search-ff6469da-a369-4965-bec3-76582978de38"
-  },
-  {
-    "text": "Mentoring",
-    "type": "contentBlock",
-    "pageName": "Types of Assistance",
-    "category": "Coordination / Types of Assistance",
-    "url": "../html/types-of-assistance-m5hjKbQn#search-e4a14ad3-ff97-4f23-b779-1028b9df7a87"
-  },
-  {
-    "text": "Coaching",
-    "type": "contentBlock",
-    "pageName": "Types of Assistance",
-    "category": "Coordination / Types of Assistance",
-    "url": "../html/types-of-assistance-m5hjKbQn#search-51c9671e-6106-4e64-8148-86764f00ef82"
-  },
-  {
-    "text": "Training",
-    "type": "contentBlock",
-    "pageName": "Types of Assistance",
-    "category": "Coordination / Types of Assistance",
-    "url": "../html/types-of-assistance-m5hjKbQn#search-2a7dccb6-cb42-4a2d-bfe8-b56087f01f48"
-  },
-  {
-    "text": "Teaching",
-    "type": "contentBlock",
-    "pageName": "Types of Assistance",
-    "category": "Coordination / Types of Assistance",
-    "url": "../html/types-of-assistance-m5hjKbQn#search-b38228cb-9dc1-430a-b003-0ee5e4516350"
-  },
-  {
-    "text": "Facilitation",
-    "type": "contentBlock",
-    "pageName": "Types of Assistance",
-    "category": "Coordination / Types of Assistance",
-    "url": "../html/types-of-assistance-m5hjKbQn#search-aef2debc-3932-44a9-907a-8a6343ba51bd"
-  },
-  {
-    "text": "Supervision",
-    "type": "contentBlock",
-    "pageName": "Types of Assistance",
-    "category": "Coordination / Types of Assistance",
-    "url": "../html/types-of-assistance-m5hjKbQn#search-b0420739-bd23-4dc2-b872-2a8174d38266"
-  },
-  {
-    "text": "Advising",
-    "type": "contentBlock",
-    "pageName": "Types of Assistance",
-    "category": "Coordination / Types of Assistance",
-    "url": "../html/types-of-assistance-m5hjKbQn#search-009a3f7a-e99f-4d6b-84ac-b0d6ca67d4c7"
-  },
-  {
-    "text": "Mediation",
-    "type": "contentBlock",
-    "pageName": "Types of Assistance",
-    "category": "Coordination / Types of Assistance",
-    "url": "../html/types-of-assistance-m5hjKbQn#search-e30b290d-cdf2-472e-938a-49653948044a"
-  },
-  {
-    "text": "Sponsorship",
-    "type": "contentBlock",
-    "pageName": "Types of Assistance",
-    "category": "Coordination / Types of Assistance",
-    "url": "../html/types-of-assistance-m5hjKbQn#search-38239715-734b-420d-8c9c-738c144e1389"
-  },
-  {
-    "text": "Peer Support",
-    "type": "contentBlock",
-    "pageName": "Types of Assistance",
-    "category": "Coordination / Types of Assistance",
-    "url": "../html/types-of-assistance-m5hjKbQn#search-91a69dda-1839-4350-9682-8ac22fbb8055"
-  },
-  {
-    "text": "Advocacy",
-    "type": "contentBlock",
-    "pageName": "Types of Assistance",
-    "category": "Coordination / Types of Assistance",
-    "url": "../html/types-of-assistance-m5hjKbQn#search-4c773884-6548-4fc3-bb4b-67a191bece44"
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dd6d8ed8-0c71-4f17-9720-62392ed980bd"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Types of Assistance",
-    "category": "Coordination / Types of Assistance",
-    "url": "../html/types-of-assistance-m5hjKbQn#search-7a04cfc0-f579-4b27-a4f5-dc4a49a0ac98"
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-77fbd28e-4d24-4407-9faf-9e65b5a3cfc4"
   },
   {
-    "text": "Types of Assistance",
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-aaa70f36-8856-4373-9694-d474f5e6e950"
+  },
+  {
+    "text": "Advising",
+    "type": "sectionHeader",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-3d277ace-f477-476b-9bf9-7df90995bbd8"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-58a130c3-fad2-4f90-95e4-21e968297e73"
+  },
+  {
+    "text": "Advocating",
+    "type": "sectionHeader",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-677fdcf1-03d1-4b3a-bed5-de2987c20c03"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-78a66dfa-6120-48b6-8c87-4d46c5d7fe6c"
+  },
+  {
+    "text": "Coaching",
+    "type": "sectionHeader",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-25ca41b3-7cd7-4b78-84b3-ae548f047fae"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-1ec803b2-b7d1-4da1-8ba0-aa25696194a3"
+  },
+  {
+    "text": "Consulting",
+    "type": "sectionHeader",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-b7f7494c-469a-4ca2-8327-04c98272940b"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-4b1b84e0-42f9-4a54-9753-785183223e0f"
+  },
+  {
+    "text": "Counseling",
+    "type": "sectionHeader",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9132e51c-60b1-4ba6-89ed-bf6d864832c7"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-fb34e315-931b-4496-89ec-e02f3a6213c1"
+  },
+  {
+    "text": "Facilitating",
+    "type": "sectionHeader",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-f611f60f-dc45-4daf-9901-6a93cbab3ecc"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-b51f583d-957c-43c6-b03b-c863dca91540"
+  },
+  {
+    "text": "Mediating",
+    "type": "sectionHeader",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d7366c29-4395-447d-afc1-d26049e2c4cb"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-75228165-9dc8-4a65-a4c3-2f0dddbb619c"
+  },
+  {
+    "text": "Mentoring",
+    "type": "sectionHeader",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-c4d2a2c4-34b8-4399-a68c-cc648ca36f56"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-e452f0d6-3fad-4121-95b7-e5f85f3a6e44"
+  },
+  {
+    "text": "Peer Supporting",
+    "type": "sectionHeader",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-5eba63ce-be37-4a34-8038-109d5fe97aff"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-c2e6bb79-1d52-4364-9397-97f25c4e5906"
+  },
+  {
+    "text": "Supervising",
+    "type": "sectionHeader",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-c1e95f99-a05c-44e8-84cb-d95a9485ef0d"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-434d9a61-e2b7-4159-8bed-69661a249ba9"
+  },
+  {
+    "text": "Training",
+    "type": "sectionHeader",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-1933c691-0347-4c52-891a-be2be4a32edf"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-1658104c-46cc-49bc-8e09-e8f70a45dead"
+  },
+  {
+    "text": "Advising = the act of offering informed guidance, professional opinions, or strategic recommendations to individuals or teams, typically focused on helping them make sound decisions or navigate specific situations without being directly involved in execution or operational oversight.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-1ad7ce49-92df-4b41-98e0-598afc762d69"
+  },
+  {
+    "text": "How we encourage this role:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-34f1c8e8-6c06-4938-9e4f-b6b5abada6af"
+  },
+  {
+    "text": "We foster a culture where informed guidance is valued as a key tool for decision-making and growth.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-0c36decb-be9f-44b8-90ad-2f377925bf0a"
+  },
+  {
+    "text": "We create structured opportunities for teams to seek advice from experienced professionals within the organization.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-0c36decb-be9f-44b8-90ad-2f377925bf0a-1"
+  },
+  {
+    "text": "We invest in training our leaders to offer well-rounded, strategic recommendations.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-0c36decb-be9f-44b8-90ad-2f377925bf0a-2"
+  },
+  {
+    "text": "We make resources like industry reports, market data, and best practices readily available to support informed advising.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-0c36decb-be9f-44b8-90ad-2f377925bf0a-3"
+  },
+  {
+    "text": "We integrate advising as a formal step in project planning and decision-making processes.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-0c36decb-be9f-44b8-90ad-2f377925bf0a-4"
+  },
+  {
+    "text": "We create advisory councils or boards to formalize the advising role in strategic decision-making.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-0c36decb-be9f-44b8-90ad-2f377925bf0a-5"
+  },
+  {
+    "text": "We encourage cross-departmental collaboration, where teams seek advice from peers in other areas for fresh perspectives.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-0c36decb-be9f-44b8-90ad-2f377925bf0a-6"
+  },
+  {
+    "text": "We celebrate successful outcomes where advising played a critical role, reinforcing its value across the organization.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-0c36decb-be9f-44b8-90ad-2f377925bf0a-7"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-3b5c3673-ffc9-49bd-9664-cae7a2f3a7bd-0-0"
+  },
+  {
+    "text": "It facilitates decisions with expert insights and perspectives.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-3b5c3673-ffc9-49bd-9664-cae7a2f3a7bd-0-1-0"
+  },
+  {
+    "text": "It enhances strategic planning through solid recommendations.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-3b5c3673-ffc9-49bd-9664-cae7a2f3a7bd-0-1-1"
+  },
+  {
+    "text": "It reduces risks by identifying pitfalls and offering solutions.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-3b5c3673-ffc9-49bd-9664-cae7a2f3a7bd-0-1-2"
+  },
+  {
+    "text": "It builds confidence in less experienced team members.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-3b5c3673-ffc9-49bd-9664-cae7a2f3a7bd-0-1-3"
+  },
+  {
+    "text": "It offers external perspectives to uncover blind spots in strategies.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-3b5c3673-ffc9-49bd-9664-cae7a2f3a7bd-0-1-4"
+  },
+  {
+    "text": "It provides a sounding board for testing new ideas and strategies.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-3b5c3673-ffc9-49bd-9664-cae7a2f3a7bd-0-1-5"
+  },
+  {
+    "text": "It enhances resource allocation by identifying priorities and needs.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-3b5c3673-ffc9-49bd-9664-cae7a2f3a7bd-0-1-6"
+  },
+  {
+    "text": "It maintains focus on long-term goals amidst short-term demands.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-3b5c3673-ffc9-49bd-9664-cae7a2f3a7bd-0-1-7"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-3b5c3673-ffc9-49bd-9664-cae7a2f3a7bd-1-0"
+  },
+  {
+    "text": "Providing advice without understanding the context or situation.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-3b5c3673-ffc9-49bd-9664-cae7a2f3a7bd-1-1-0"
+  },
+  {
+    "text": "Overstepping and controlling decisions instead of just advising.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-3b5c3673-ffc9-49bd-9664-cae7a2f3a7bd-1-1-1"
+  },
+  {
+    "text": "Failing to consider the long-term consequences of the advice.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-3b5c3673-ffc9-49bd-9664-cae7a2f3a7bd-1-1-2"
+  },
+  {
+    "text": "Overloading teams with too much information, blocking decisions.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-3b5c3673-ffc9-49bd-9664-cae7a2f3a7bd-1-1-3"
+  },
+  {
+    "text": "Not tailoring advice to the specific needs of the organization.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-3b5c3673-ffc9-49bd-9664-cae7a2f3a7bd-1-1-4"
+  },
+  {
+    "text": "Dismissing or undervaluing input from individuals or teams.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-3b5c3673-ffc9-49bd-9664-cae7a2f3a7bd-1-1-5"
+  },
+  {
+    "text": "Delivering unclear or overly complex advice to act upon.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-3b5c3673-ffc9-49bd-9664-cae7a2f3a7bd-1-1-6"
+  },
+  {
+    "text": "Not following up to ensure the advice was understood.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-3b5c3673-ffc9-49bd-9664-cae7a2f3a7bd-1-1-7"
+  },
+  {
+    "text": "Advocating = the act of actively supporting, promoting, or speaking on behalf of an individual, group, cause, or policy, often serving as a representative or champion to ensure their interests, needs, or concerns are acknowledged and addressed effectively within the organizational context.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-738d8634-71a9-4a76-864e-6be5e07ec0dd"
+  },
+  {
+    "text": "How we encourage this role:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-e416c65a-e79a-47f1-bdc1-cfa975969ddf"
+  },
+  {
+    "text": "We encourage leaders to actively champion the interests and needs of their teams.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-b67834b8-b609-4b32-a30e-6bf0687c1500"
+  },
+  {
+    "text": "We promote a culture where advocating for innovative ideas and solutions is celebrated.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-b67834b8-b609-4b32-a30e-6bf0687c1500-1"
+  },
+  {
+    "text": "We ensure clear channels exist for individuals to voice their concerns, with advocates facilitating their resolution.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-b67834b8-b609-4b32-a30e-6bf0687c1500-2"
+  },
+  {
+    "text": "We emphasize the importance of advocating for client needs to build stronger, long-term relationships.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-b67834b8-b609-4b32-a30e-6bf0687c1500-3"
+  },
+  {
+    "text": "We align advocacy efforts with our strategic goals to ensure they drive meaningful impact.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-b67834b8-b609-4b32-a30e-6bf0687c1500-4"
+  },
+  {
+    "text": "We recognize and reward those who effectively advocate for positive change within the company.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-b67834b8-b609-4b32-a30e-6bf0687c1500-5"
+  },
+  {
+    "text": "We encourage managers to act as advocates for their teams in leadership discussions.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-b67834b8-b609-4b32-a30e-6bf0687c1500-6"
+  },
+  {
+    "text": "We support advocacy for professional development opportunities to empower career growth.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-b67834b8-b609-4b32-a30e-6bf0687c1500-7"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-56e28e78-2358-4841-a1ea-8c5e773d1bed-0-0"
+  },
+  {
+    "text": "It fosters a culture of inclusion by ensuring all voices are heard.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-56e28e78-2358-4841-a1ea-8c5e773d1bed-0-1-0"
+  },
+  {
+    "text": "It boosts morale by addressing concerns and championing needs.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-56e28e78-2358-4841-a1ea-8c5e773d1bed-0-1-1"
+  },
+  {
+    "text": "It bridges communication gaps between leadership and teams.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-56e28e78-2358-4841-a1ea-8c5e773d1bed-0-1-2"
+  },
+  {
+    "text": "It strengthens external relationships through clear representation.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-56e28e78-2358-4841-a1ea-8c5e773d1bed-0-1-3"
+  },
+  {
+    "text": "It aligns organizational goals with the needs of its people.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-56e28e78-2358-4841-a1ea-8c5e773d1bed-0-1-4"
+  },
+  {
+    "text": "It ensures fair treatment across diverse groups, promoting equity.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-56e28e78-2358-4841-a1ea-8c5e773d1bed-0-1-5"
+  },
+  {
+    "text": "It identifies and prioritizes systemic issues for improvement.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-56e28e78-2358-4841-a1ea-8c5e773d1bed-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-56e28e78-2358-4841-a1ea-8c5e773d1bed-1-0"
+  },
+  {
+    "text": "Overstepping authority and infringing on decision-making.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-56e28e78-2358-4841-a1ea-8c5e773d1bed-1-1-0"
+  },
+  {
+    "text": "Misrepresenting the views or concerns of others.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-56e28e78-2358-4841-a1ea-8c5e773d1bed-1-1-1"
+  },
+  {
+    "text": "Ignoring critical feedback from those they are representing.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-56e28e78-2358-4841-a1ea-8c5e773d1bed-1-1-2"
+  },
+  {
+    "text": "Failing to communicate effectively with relevant stakeholders.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-56e28e78-2358-4841-a1ea-8c5e773d1bed-1-1-3"
+  },
+  {
+    "text": "Neglecting to balance advocacy with organizational priorities.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-56e28e78-2358-4841-a1ea-8c5e773d1bed-1-1-4"
+  },
+  {
+    "text": "Creating dependency instead of empowering self-advocacy.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-56e28e78-2358-4841-a1ea-8c5e773d1bed-1-1-5"
+  },
+  {
+    "text": "Escalating conflicts rather than resolving them diplomatically.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-56e28e78-2358-4841-a1ea-8c5e773d1bed-1-1-6"
+  },
+  {
+    "text": "Misjudging the urgency or importance of concerns.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-56e28e78-2358-4841-a1ea-8c5e773d1bed-1-1-7"
+  },
+  {
+    "text": "Coaching = the process of guiding, supporting, and empowering individuals or teams to achieve personal or professional goals, develop skills, and improve performance through structured conversations, feedback, and ongoing encouragement, often focused on unlocking potential and fostering growth.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6acb4b42-9bdc-4a4e-b1b6-53f82acc59fc"
+  },
+  {
+    "text": "How we encourage this role:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-c7f3de31-d2ab-45a3-84f8-38e099148d9c"
+  },
+  {
+    "text": "We train leaders to adopt a coaching mindset, prioritizing guidance and empowerment over directive management.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-10ab56ea-d053-401d-9635-15c63077b8d4"
+  },
+  {
+    "text": "We establish structured coaching programs to help employees achieve their personal and professional goals.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-10ab56ea-d053-401d-9635-15c63077b8d4-1"
+  },
+  {
+    "text": "We encourage regular one-on-one sessions between managers and team members for focused coaching.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-10ab56ea-d053-401d-9635-15c63077b8d4-2"
+  },
+  {
+    "text": "We provide tools and frameworks to help coaches offer actionable and constructive feedback.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-10ab56ea-d053-401d-9635-15c63077b8d4-3"
+  },
+  {
+    "text": "We celebrate growth and progress as a result of successful coaching relationships.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-10ab56ea-d053-401d-9635-15c63077b8d4-4"
+  },
+  {
+    "text": "We recognize and reward managers who demonstrate excellence in coaching their teams.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-10ab56ea-d053-401d-9635-15c63077b8d4-5"
+  },
+  {
+    "text": "We provide workshops and training to help employees develop coaching skills at all levels.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-10ab56ea-d053-401d-9635-15c63077b8d4-6"
+  },
+  {
+    "text": "We highlight stories of coaching success to inspire a culture of growth and continuous improvement.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-10ab56ea-d053-401d-9635-15c63077b8d4-7"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d9e99771-8615-4356-9b95-eb76bb9873fd-0-0"
+  },
+  {
+    "text": "It boosts team performance by targeting key development areas.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d9e99771-8615-4356-9b95-eb76bb9873fd-0-1-0"
+  },
+  {
+    "text": "It promotes a growth mindset and continuous learning.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d9e99771-8615-4356-9b95-eb76bb9873fd-0-1-1"
+  },
+  {
+    "text": "It supports leadership development and succession planning.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d9e99771-8615-4356-9b95-eb76bb9873fd-0-1-2"
+  },
+  {
+    "text": "It improves problem-solving skills through independent thinking.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d9e99771-8615-4356-9b95-eb76bb9873fd-0-1-3"
+  },
+  {
+    "text": "It helps align personal goals with organizational objectives.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d9e99771-8615-4356-9b95-eb76bb9873fd-0-1-4"
+  },
+  {
+    "text": "It facilitates smoother transitions during organizational changes.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d9e99771-8615-4356-9b95-eb76bb9873fd-0-1-5"
+  },
+  {
+    "text": "It reduces workplace stress by providing clarity and support.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d9e99771-8615-4356-9b95-eb76bb9873fd-0-1-6"
+  },
+  {
+    "text": "It strengthens team dynamics by resolving interpersonal issues.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d9e99771-8615-4356-9b95-eb76bb9873fd-0-1-7"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d9e99771-8615-4356-9b95-eb76bb9873fd-1-0"
+  },
+  {
+    "text": "Focusing solely on weaknesses without leveraging strengths.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d9e99771-8615-4356-9b95-eb76bb9873fd-1-1-0"
+  },
+  {
+    "text": "Providing vague or inconsistent feedback, leading to confusion.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d9e99771-8615-4356-9b95-eb76bb9873fd-1-1-1"
+  },
+  {
+    "text": "Using a one-size-fits-all approach over personalized coaching.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d9e99771-8615-4356-9b95-eb76bb9873fd-1-1-2"
+  },
+  {
+    "text": "Neglecting to follow up on progress or action plans.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d9e99771-8615-4356-9b95-eb76bb9873fd-1-1-3"
+  },
+  {
+    "text": "Overlooking the employee’s input during the coaching process.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d9e99771-8615-4356-9b95-eb76bb9873fd-1-1-4"
+  },
+  {
+    "text": "Overloading employees with too many changes at once.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d9e99771-8615-4356-9b95-eb76bb9873fd-1-1-5"
+  },
+  {
+    "text": "Avoiding difficult conversations or sugarcoating critical feedback.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d9e99771-8615-4356-9b95-eb76bb9873fd-1-1-6"
+  },
+  {
+    "text": "Providing solutions instead of guiding employees find their own.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d9e99771-8615-4356-9b95-eb76bb9873fd-1-1-7"
+  },
+  {
+    "text": "Underestimating the time and effort needed for effective coaching.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-d9e99771-8615-4356-9b95-eb76bb9873fd-1-1-8"
+  },
+  {
+    "text": "Consulting = the process of engaging with individuals, teams, or organizations to analyze problems, provide expert insights, and deliver tailored recommendations, often involving a collaborative approach and active participation in diagnosing challenges, creating solutions, and sometimes assisting in implementation.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-eaed43f2-7153-4813-a136-f685a7de1716"
+  },
+  {
+    "text": "How we encourage this role:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-123a9a48-b58a-4730-9782-82c99407a8af"
+  },
+  {
+    "text": "We position consulting as a strategic partnership to drive innovation and problem-solving across the organization.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-a8368320-64ab-44f1-ba3a-954aa5c7504c"
+  },
+  {
+    "text": "We encourage a collaborative approach where consultants and teams work together to diagnose issues.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-a8368320-64ab-44f1-ba3a-954aa5c7504c-1"
+  },
+  {
+    "text": "We invest in internal consulting capabilities to address organizational challenges with in-house expertise.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-a8368320-64ab-44f1-ba3a-954aa5c7504c-2"
+  },
+  {
+    "text": "We engage external consultants when specialized knowledge or fresh perspectives are needed.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-a8368320-64ab-44f1-ba3a-954aa5c7504c-3"
+  },
+  {
+    "text": "We create opportunities for cross-functional teams to consult with one another for shared learning.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-a8368320-64ab-44f1-ba3a-954aa5c7504c-4"
+  },
+  {
+    "text": "We celebrate successes stemming from consulting efforts to reinforce their value.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-a8368320-64ab-44f1-ba3a-954aa5c7504c-5"
+  },
+  {
+    "text": "We maintain a repository of consulting insights and case studies to guide future initiatives.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-a8368320-64ab-44f1-ba3a-954aa5c7504c-6"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dc7169c4-9524-4886-8480-852d5e67894d-0-0"
+  },
+  {
+    "text": "It provides an unbiased perspective on organizational issues.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dc7169c4-9524-4886-8480-852d5e67894d-0-1-0"
+  },
+  {
+    "text": "It accelerates problem-solving by leveraging proven methods.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dc7169c4-9524-4886-8480-852d5e67894d-0-1-1"
+  },
+  {
+    "text": "It identifies inefficiencies and recommends improvements.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dc7169c4-9524-4886-8480-852d5e67894d-0-1-2"
+  },
+  {
+    "text": "It supports strategic planning by aligning goals with market trends.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dc7169c4-9524-4886-8480-852d5e67894d-0-1-3"
+  },
+  {
+    "text": "It boosts organizational agility through innovative approaches.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dc7169c4-9524-4886-8480-852d5e67894d-0-1-4"
+  },
+  {
+    "text": "It provides tailored solutions tailored to specific business needs.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dc7169c4-9524-4886-8480-852d5e67894d-0-1-5"
+  },
+  {
+    "text": "It fosters knowledge transfer, upskilling teams with new insights.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dc7169c4-9524-4886-8480-852d5e67894d-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dc7169c4-9524-4886-8480-852d5e67894d-1-0"
+  },
+  {
+    "text": "Giving advice without understanding the organization's context.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dc7169c4-9524-4886-8480-852d5e67894d-1-1-0"
+  },
+  {
+    "text": "Imposing standardized solutions that may not fit unique needs.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dc7169c4-9524-4886-8480-852d5e67894d-1-1-1"
+  },
+  {
+    "text": "Neglecting to involve key stakeholders in the consulting process.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dc7169c4-9524-4886-8480-852d5e67894d-1-1-2"
+  },
+  {
+    "text": "Overpromising results that cannot be realistically achieved.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dc7169c4-9524-4886-8480-852d5e67894d-1-1-3"
+  },
+  {
+    "text": "Overlooking cultural or operational nuances in the organization.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dc7169c4-9524-4886-8480-852d5e67894d-1-1-4"
+  },
+  {
+    "text": "Prioritizing short-term fixes over sustainable solutions.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dc7169c4-9524-4886-8480-852d5e67894d-1-1-5"
+  },
+  {
+    "text": "Being overly prescriptive, limiting client ownership of solutions.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dc7169c4-9524-4886-8480-852d5e67894d-1-1-6"
+  },
+  {
+    "text": "Concluding without ensuring knowledge transfer or follow-up.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dc7169c4-9524-4886-8480-852d5e67894d-1-1-7"
+  },
+  {
+    "text": "Counseling = the process of providing professional guidance, emotional support, and practical advice to individuals or groups, aimed at addressing personal, interpersonal, or professional challenges, promoting well-being, and fostering self-awareness and positive change.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-71fb893d-f646-4d6f-8555-f0acbc9841b7"
+  },
+  {
+    "text": "How we encourage this role:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-bb4aec66-0b0a-4f8b-b005-001bece57d0a"
+  },
+  {
+    "text": "We emphasize the importance of counseling as a key resource for employee well-being and growth.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ba8f777c-0bbf-489c-9460-ea389b4d54b1"
+  },
+  {
+    "text": "We provide access to professional counselors to support personal and professional challenges.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ba8f777c-0bbf-489c-9460-ea389b4d54b1-1"
+  },
+  {
+    "text": "We train managers to recognize when counseling might benefit their team members.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ba8f777c-0bbf-489c-9460-ea389b4d54b1-2"
+  },
+  {
+    "text": "We promote counseling as a proactive tool for personal development, not just for problem resolution.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ba8f777c-0bbf-489c-9460-ea389b4d54b1-3"
+  },
+  {
+    "text": "We support counseling initiatives that foster self-awareness and emotional intelligence.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ba8f777c-0bbf-489c-9460-ea389b4d54b1-4"
+  },
+  {
+    "text": "We offer group counseling sessions to address shared challenges and strengthen team dynamics.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ba8f777c-0bbf-489c-9460-ea389b4d54b1-5"
+  },
+  {
+    "text": "We make counseling resources available during times of organizational change or stress.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ba8f777c-0bbf-489c-9460-ea389b4d54b1-6"
+  },
+  {
+    "text": "We provide workshops that integrate counseling techniques into everyday workplace interactions.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ba8f777c-0bbf-489c-9460-ea389b4d54b1-7"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ebf38d6c-e81c-4d6c-bad9-3088a08f03c3-0-0"
+  },
+  {
+    "text": "It enhances mental health by addressing stress and burnout.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ebf38d6c-e81c-4d6c-bad9-3088a08f03c3-0-1-0"
+  },
+  {
+    "text": "It creates a supportive work environment focused on well-being.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ebf38d6c-e81c-4d6c-bad9-3088a08f03c3-0-1-1"
+  },
+  {
+    "text": "It builds self-awareness and emotional intelligence in employees.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ebf38d6c-e81c-4d6c-bad9-3088a08f03c3-0-1-2"
+  },
+  {
+    "text": "It reduces absenteeism by tackling emotional issues.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ebf38d6c-e81c-4d6c-bad9-3088a08f03c3-0-1-3"
+  },
+  {
+    "text": "It boosts team cohesion by resolving interpersonal conflicts.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ebf38d6c-e81c-4d6c-bad9-3088a08f03c3-0-1-4"
+  },
+  {
+    "text": "It helps leaders manage stress and make balanced decisions.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ebf38d6c-e81c-4d6c-bad9-3088a08f03c3-0-1-5"
+  },
+  {
+    "text": "It supports diversity and inclusion by addressing biases and fostering understanding.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ebf38d6c-e81c-4d6c-bad9-3088a08f03c3-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ebf38d6c-e81c-4d6c-bad9-3088a08f03c3-1-0"
+  },
+  {
+    "text": "Giving advice without understanding the individual's perspective.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ebf38d6c-e81c-4d6c-bad9-3088a08f03c3-1-1-0"
+  },
+  {
+    "text": "Failing to maintain confidentiality, leading to a loss of trust.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ebf38d6c-e81c-4d6c-bad9-3088a08f03c3-1-1-1"
+  },
+  {
+    "text": "Overstepping boundaries by becoming too personally involved.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ebf38d6c-e81c-4d6c-bad9-3088a08f03c3-1-1-2"
+  },
+  {
+    "text": "Giving prescriptive solutions instead of guiding self-discovery.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ebf38d6c-e81c-4d6c-bad9-3088a08f03c3-1-1-3"
+  },
+  {
+    "text": "Neglecting to create a safe and non-judgmental environment.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ebf38d6c-e81c-4d6c-bad9-3088a08f03c3-1-1-4"
+  },
+  {
+    "text": "Using overly generic advice that misses individual circumstances.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ebf38d6c-e81c-4d6c-bad9-3088a08f03c3-1-1-5"
+  },
+  {
+    "text": "Avoiding difficult topics leaving underlying issues unresolved.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ebf38d6c-e81c-4d6c-bad9-3088a08f03c3-1-1-6"
+  },
+  {
+    "text": "Ignoring cultural, social, or contextual factors in the process.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ebf38d6c-e81c-4d6c-bad9-3088a08f03c3-1-1-7"
+  },
+  {
+    "text": "Pushing individuals for action prematurely, causing resistance.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ebf38d6c-e81c-4d6c-bad9-3088a08f03c3-1-1-8"
+  },
+  {
+    "text": "Facilitating = the act of guiding and managing processes, discussions, or activities to ensure smooth collaboration, effective communication, and the achievement of specific objectives, typically by creating a supportive environment that encourages participation and collective problem-solving without directly controlling the outcome.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-fb9515dc-57ad-43bc-bc45-08f1eeaf6c0b"
+  },
+  {
+    "text": "How we encourage this role:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-869f929b-5e30-45e8-be17-ce5c2cdeff8e"
+  },
+  {
+    "text": "We emphasize the role of facilitation in driving productive meetings and achieving clear outcomes.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-976f1a71-3cf2-4b99-9cbf-3f6b66e79677"
+  },
+  {
+    "text": "We create structured processes to guide facilitation, ensuring efficiency and focus.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-976f1a71-3cf2-4b99-9cbf-3f6b66e79677-1"
+  },
+  {
+    "text": "We provide tools and resources to help facilitators manage diverse perspectives effectively.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-976f1a71-3cf2-4b99-9cbf-3f6b66e79677-2"
+  },
+  {
+    "text": "We recognize and reward individuals who excel in facilitating collaboration and problem-solving.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-976f1a71-3cf2-4b99-9cbf-3f6b66e79677-3"
+  },
+  {
+    "text": "We support facilitators in creating environments where innovation and creativity can thrive.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-976f1a71-3cf2-4b99-9cbf-3f6b66e79677-4"
+  },
+  {
+    "text": "We use facilitation to bridge gaps between departments and foster cross-functional teamwork.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-976f1a71-3cf2-4b99-9cbf-3f6b66e79677-5"
+  },
+  {
+    "text": "We document and share best practices in facilitation to continuously improve organizational processes.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-976f1a71-3cf2-4b99-9cbf-3f6b66e79677-6"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-8363d925-3eb7-471c-a71a-f17a83f83099-0-0"
+  },
+  {
+    "text": "It ensures effective communication by giving everyone a voice.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-8363d925-3eb7-471c-a71a-f17a83f83099-0-1-0"
+  },
+  {
+    "text": "It encourages collaboration and teamwork during group activities.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-8363d925-3eb7-471c-a71a-f17a83f83099-0-1-1"
+  },
+  {
+    "text": "It helps align diverse perspectives toward common goals.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-8363d925-3eb7-471c-a71a-f17a83f83099-0-1-2"
+  },
+  {
+    "text": "It enhances decision-making by guiding structured discussions.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-8363d925-3eb7-471c-a71a-f17a83f83099-0-1-3"
+  },
+  {
+    "text": "It resolves conflicts by managing team dynamics.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-8363d925-3eb7-471c-a71a-f17a83f83099-0-1-4"
+  },
+  {
+    "text": "It builds trust by creating a neutral and supportive environment.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-8363d925-3eb7-471c-a71a-f17a83f83099-0-1-5"
+  },
+  {
+    "text": "It saves time by keeping discussions focused and on track.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-8363d925-3eb7-471c-a71a-f17a83f83099-0-1-6"
+  },
+  {
+    "text": "It helps identify barriers and generate actionable solutions.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-8363d925-3eb7-471c-a71a-f17a83f83099-0-1-7"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-8363d925-3eb7-471c-a71a-f17a83f83099-1-0"
+  },
+  {
+    "text": "Being overly directive and undermining the group’s autonomy.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-8363d925-3eb7-471c-a71a-f17a83f83099-1-1-0"
+  },
+  {
+    "text": "Failing to establish clear objectives for the facilitation process.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-8363d925-3eb7-471c-a71a-f17a83f83099-1-1-1"
+  },
+  {
+    "text": "Allowing certain individuals to monopolize conversations.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-8363d925-3eb7-471c-a71a-f17a83f83099-1-1-2"
+  },
+  {
+    "text": "Disregarding differing opinions, causing disengagement.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-8363d925-3eb7-471c-a71a-f17a83f83099-1-1-3"
+  },
+  {
+    "text": "Losing neutrality and showing bias toward ideas or participants.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-8363d925-3eb7-471c-a71a-f17a83f83099-1-1-4"
+  },
+  {
+    "text": "Neglecting to adapt facilitation methods to the group’s needs.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-8363d925-3eb7-471c-a71a-f17a83f83099-1-1-5"
+  },
+  {
+    "text": "Using overly complex or irrelevant tools and methods.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-8363d925-3eb7-471c-a71a-f17a83f83099-1-1-6"
+  },
+  {
+    "text": "Prioritizing the process over actionable outcomes.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-8363d925-3eb7-471c-a71a-f17a83f83099-1-1-7"
+  },
+  {
+    "text": "Mediating = the process of acting as a neutral and impartial third party to help individuals or groups resolve conflicts, disputes, or disagreements by fostering open communication, understanding differing perspectives, and guiding them toward mutually acceptable solutions without imposing decisions or taking sides.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-f1f996ce-fbb0-4dd7-9072-ac5546f24741"
+  },
+  {
+    "text": "How we encourage this role:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6fb60c58-378b-4009-b71a-4b26a7612c1d"
+  },
+  {
+    "text": "We train leaders and managers in mediation techniques to resolve conflicts effectively and fairly.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7895d0c3-60bc-4e4c-98ec-069251f755f2"
+  },
+  {
+    "text": "We create clear guidelines for initiating and conducting mediation sessions.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7895d0c3-60bc-4e4c-98ec-069251f755f2-1"
+  },
+  {
+    "text": "We provide resources and tools to support mediators in managing sensitive discussions.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7895d0c3-60bc-4e4c-98ec-069251f755f2-2"
+  },
+  {
+    "text": "We promote mediation as the preferred approach to addressing conflicts before escalation.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7895d0c3-60bc-4e4c-98ec-069251f755f2-3"
+  },
+  {
+    "text": "We recognize and reward employees who effectively mediate and resolve workplace disputes.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7895d0c3-60bc-4e4c-98ec-069251f755f2-4"
+  },
+  {
+    "text": "We offer mediation training to employees at all levels to strengthen conflict resolution skills.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7895d0c3-60bc-4e4c-98ec-069251f755f2-5"
+  },
+  {
+    "text": "We integrate mediation practices into our organizational policies for conflict management.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7895d0c3-60bc-4e4c-98ec-069251f755f2-6"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-092c9c98-b6a3-4dd2-aa39-624de6b4d864-0-0"
+  },
+  {
+    "text": "It resolves conflicts by providing a structured resolution process.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-092c9c98-b6a3-4dd2-aa39-624de6b4d864-0-1-0"
+  },
+  {
+    "text": "It fosters mutual understanding among conflicting parties.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-092c9c98-b6a3-4dd2-aa39-624de6b4d864-0-1-1"
+  },
+  {
+    "text": "It preserves relationships through collaboration and compromise.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-092c9c98-b6a3-4dd2-aa39-624de6b4d864-0-1-2"
+  },
+  {
+    "text": "It reduces workplace tension and stress from unresolved disputes.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-092c9c98-b6a3-4dd2-aa39-624de6b4d864-0-1-3"
+  },
+  {
+    "text": "It enhances communication skills by encouraging open dialogue.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-092c9c98-b6a3-4dd2-aa39-624de6b4d864-0-1-4"
+  },
+  {
+    "text": "It prevents escalation of conflicts into larger organizational issues.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-092c9c98-b6a3-4dd2-aa39-624de6b4d864-0-1-5"
+  },
+  {
+    "text": "It sets clear expectations for future interactions and behaviors.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-092c9c98-b6a3-4dd2-aa39-624de6b4d864-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-092c9c98-b6a3-4dd2-aa39-624de6b4d864-1-0"
+  },
+  {
+    "text": "Taking sides or showing favoritism, undermining neutrality.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-092c9c98-b6a3-4dd2-aa39-624de6b4d864-1-1-0"
+  },
+  {
+    "text": "Allowing emotions to dominate without setting boundaries.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-092c9c98-b6a3-4dd2-aa39-624de6b4d864-1-1-1"
+  },
+  {
+    "text": "Failing to create a safe and respectful environment for dialogue.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-092c9c98-b6a3-4dd2-aa39-624de6b4d864-1-1-2"
+  },
+  {
+    "text": "Imposing solutions instead of guiding mutual agreements.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-092c9c98-b6a3-4dd2-aa39-624de6b4d864-1-1-3"
+  },
+  {
+    "text": "Overlooking power imbalances that affect fairness.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-092c9c98-b6a3-4dd2-aa39-624de6b4d864-1-1-4"
+  },
+  {
+    "text": "Rushing the process, resulting in unsatisfactory resolutions.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-092c9c98-b6a3-4dd2-aa39-624de6b4d864-1-1-5"
+  },
+  {
+    "text": "Ignoring cultural and interpersonal dynamics in the conflict.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-092c9c98-b6a3-4dd2-aa39-624de6b4d864-1-1-6"
+  },
+  {
+    "text": "Ending mediation without clarifying or documenting agreements.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-092c9c98-b6a3-4dd2-aa39-624de6b4d864-1-1-7"
+  },
+  {
+    "text": "Mentoring = the intentional relationship in which a skilled and experienced individual (the mentor) provides personalized guidance, support, and insight to a less experienced person (the mentee), helping them develop skills, build confidence, navigate challenges, and achieve their personal and professional goals.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-251b42ef-6e1e-428f-9327-4314499eedb4"
+  },
+  {
+    "text": "How we encourage this role:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-a5a0f1bb-a193-43b2-a53c-09190a4fd8f4"
+  },
+  {
+    "text": "We foster a culture where mentoring is seen as a key driver of personal and professional growth.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-cece50d1-5ace-4b1b-90ff-2c5968353e56"
+  },
+  {
+    "text": "We establish formal mentoring programs to connect experienced leaders with aspiring talent.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-cece50d1-5ace-4b1b-90ff-2c5968353e56-1"
+  },
+  {
+    "text": "We provide training and resources to help mentors and mentees maximize their collaboration.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-cece50d1-5ace-4b1b-90ff-2c5968353e56-2"
+  },
+  {
+    "text": "We celebrate mentoring success stories to highlight its value across the organization.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-cece50d1-5ace-4b1b-90ff-2c5968353e56-3"
+  },
+  {
+    "text": "We integrate mentoring into onboarding programs to support new hires’ transition and growth.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-cece50d1-5ace-4b1b-90ff-2c5968353e56-4"
+  },
+  {
+    "text": "We promote reverse mentoring opportunities where mentors learn from their mentees’ perspectives.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-cece50d1-5ace-4b1b-90ff-2c5968353e56-5"
+  },
+  {
+    "text": "We create informal spaces for organic mentoring relationships to develop naturally.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-cece50d1-5ace-4b1b-90ff-2c5968353e56-6"
+  },
+  {
+    "text": "We use mentoring as a tool to promote diversity and inclusion by fostering equitable growth opportunities.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-cece50d1-5ace-4b1b-90ff-2c5968353e56-7"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dafc3410-3479-441b-bd97-d701cc271214-0-0"
+  },
+  {
+    "text": "It accelerates growth through shared knowledge and experience.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dafc3410-3479-441b-bd97-d701cc271214-0-1-0"
+  },
+  {
+    "text": "It boosts retention by increasing satisfaction and engagement.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dafc3410-3479-441b-bd97-d701cc271214-0-1-1"
+  },
+  {
+    "text": "It preserves expertise by transferring institutional knowledge.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dafc3410-3479-441b-bd97-d701cc271214-0-1-2"
+  },
+  {
+    "text": "It develops leadership skills in both mentors and mentees.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dafc3410-3479-441b-bd97-d701cc271214-0-1-3"
+  },
+  {
+    "text": "It enhances the mentee’s ability to adapt to organizational culture.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dafc3410-3479-441b-bd97-d701cc271214-0-1-4"
+  },
+  {
+    "text": "It promotes a culture of learning and continuous improvement.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dafc3410-3479-441b-bd97-d701cc271214-0-1-5"
+  },
+  {
+    "text": "It encourages mentors to reflect on their own skills and knowledge, fostering their growth.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dafc3410-3479-441b-bd97-d701cc271214-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dafc3410-3479-441b-bd97-d701cc271214-1-0"
+  },
+  {
+    "text": "Prioritizing the mentor’s agenda over the mentee’s needs.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dafc3410-3479-441b-bd97-d701cc271214-1-1-0"
+  },
+  {
+    "text": "Offering advice without understanding the mentee’s goals.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dafc3410-3479-441b-bd97-d701cc271214-1-1-1"
+  },
+  {
+    "text": "Failing to set clear relationship expectations and boundaries.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dafc3410-3479-441b-bd97-d701cc271214-1-1-2"
+  },
+  {
+    "text": "Not dedicating enough time and attention to the mentee.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dafc3410-3479-441b-bd97-d701cc271214-1-1-3"
+  },
+  {
+    "text": "Overloading the mentee with too much information at once.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dafc3410-3479-441b-bd97-d701cc271214-1-1-4"
+  },
+  {
+    "text": "Assuming a one-size-fits-all approach to mentoring.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dafc3410-3479-441b-bd97-d701cc271214-1-1-5"
+  },
+  {
+    "text": "Making decisions for the mentee instead of empowering them.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dafc3410-3479-441b-bd97-d701cc271214-1-1-6"
+  },
+  {
+    "text": "Failing to adjust guidance as the mentee’s needs evolve.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dafc3410-3479-441b-bd97-d701cc271214-1-1-7"
+  },
+  {
+    "text": "Abruptly ending the relationship without proper closure.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-dafc3410-3479-441b-bd97-d701cc271214-1-1-8"
+  },
+  {
+    "text": "Peer Supporting = the practice of providing mutual assistance, understanding, and encouragement among individuals who share similar experiences, roles, or challenges, fostering emotional well-being, knowledge exchange, and personal or professional growth through collaborative relationships.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-36807b16-bde4-46e4-84ab-2cf704fa6e5b"
+  },
+  {
+    "text": "How we encourage this role:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-43452396-9a9a-4350-89dc-ffbb9ad38e33"
+  },
+  {
+    "text": "We encourage a culture where peer support is a natural part of daily interactions.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-712b17ec-0701-4d8d-ac38-602795fb01a1"
+  },
+  {
+    "text": "We establish peer support networks to connect employees with shared roles or experiences.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-712b17ec-0701-4d8d-ac38-602795fb01a1-1"
+  },
+  {
+    "text": "We provide platforms for employees to share challenges and offer mutual assistance.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-712b17ec-0701-4d8d-ac38-602795fb01a1-2"
+  },
+  {
+    "text": "We celebrate examples of employees supporting one another to reinforce the practice.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-712b17ec-0701-4d8d-ac38-602795fb01a1-3"
+  },
+  {
+    "text": "We create peer-led workshops and discussion groups to address common challenges.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-712b17ec-0701-4d8d-ac38-602795fb01a1-4"
+  },
+  {
+    "text": "We encourage employees to act as accountability partners, motivating each other to achieve goals.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-712b17ec-0701-4d8d-ac38-602795fb01a1-5"
+  },
+  {
+    "text": "We recognize and reward individuals who consistently contribute to peer support efforts.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-712b17ec-0701-4d8d-ac38-602795fb01a1-6"
+  },
+  {
+    "text": "We design mentorship opportunities with a peer-to-peer model to foster mutual growth.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-712b17ec-0701-4d8d-ac38-602795fb01a1-7"
+  },
+  {
+    "text": "We highlight the mental and emotional benefits of peer support to promote overall well-being.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-712b17ec-0701-4d8d-ac38-602795fb01a1-8"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-0-0"
+  },
+  {
+    "text": "It enhances trust and camaraderie among colleagues.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-0-1-0"
+  },
+  {
+    "text": "It creates a sense of belonging through a supportive community.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-0-1-1"
+  },
+  {
+    "text": "It provides emotional support during challenging times.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-0-1-2"
+  },
+  {
+    "text": "It facilitates knowledge-sharing, enhancing skills across teams.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-0-1-3"
+  },
+  {
+    "text": "It improves team dynamics with collaboration and respect.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-0-1-4"
+  },
+  {
+    "text": "It connects employees with shared challenges or interests.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-0-1-5"
+  },
+  {
+    "text": "It encourages accountability through mutual encouragement.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-0-1-6"
+  },
+  {
+    "text": "It provides accessible, real-time support without formalities.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-0-1-7"
+  },
+  {
+    "text": "It aids quick adaptation to change by sharing coping strategies.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-0-1-8"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-1-0"
+  },
+  {
+    "text": "Failing to maintain confidentiality, damaging trust.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-1-1-0"
+  },
+  {
+    "text": "Focusing on venting rather than finding constructive solutions.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-1-1-1"
+  },
+  {
+    "text": "Neglecting to respect diverse perspectives or experiences.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-1-1-2"
+  },
+  {
+    "text": "Assuming one person’s approach will work universally.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-1-1-3"
+  },
+  {
+    "text": "Overloading peers with information or emotional burden.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-1-1-4"
+  },
+  {
+    "text": "Overstepping professional boundaries into personal matters.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-1-1-5"
+  },
+  {
+    "text": "Ignoring cultural or interpersonal context when offering support.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-1-1-6"
+  },
+  {
+    "text": "Failing to balance personal responsibilities, leading to burnout.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-1-1-7"
+  },
+  {
+    "text": "Overlooking power dynamics that limit communication.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-1-1-8"
+  },
+  {
+    "text": "Supervising = the process of overseeing, guiding, and managing the work and performance of individuals or teams to ensure tasks are completed effectively, organizational goals are met, and employees receive the necessary support, direction, and feedback to succeed in their roles.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-27e954e0-165f-42a8-af15-9beac7d65b18"
+  },
+  {
+    "text": "How we encourage this role:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-10d90f49-80bd-42f9-8dab-21985a27fc5f"
+  },
+  {
+    "text": "We emphasize supervision as a critical leadership responsibility to drive team success.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2563c22b-aae1-4eae-b3d9-72b088bbbe94"
+  },
+  {
+    "text": "We encourage regular check-ins to provide guidance and monitor progress effectively.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2563c22b-aae1-4eae-b3d9-72b088bbbe94-1"
+  },
+  {
+    "text": "We promote a supportive approach where supervision includes mentorship and development.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2563c22b-aae1-4eae-b3d9-72b088bbbe94-2"
+  },
+  {
+    "text": "We recognize supervisors who excel in motivating and guiding their teams to success.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2563c22b-aae1-4eae-b3d9-72b088bbbe94-3"
+  },
+  {
+    "text": "We encourage supervisors to celebrate achievements and recognize individual contributions.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2563c22b-aae1-4eae-b3d9-72b088bbbe94-4"
+  },
+  {
+    "text": "We provide tools and resources to help supervisors manage their responsibilities efficiently.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2563c22b-aae1-4eae-b3d9-72b088bbbe94-5"
+  },
+  {
+    "text": "We highlight supervision as a growth opportunity for employees aspiring to leadership roles.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2563c22b-aae1-4eae-b3d9-72b088bbbe94-6"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6355592d-814d-4c39-bad1-caca274154fe-0-0"
+  },
+  {
+    "text": "It ensures consistent progress toward organizational objectives.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6355592d-814d-4c39-bad1-caca274154fe-0-1-0"
+  },
+  {
+    "text": "It identifies and addresses potential issues promptly.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6355592d-814d-4c39-bad1-caca274154fe-0-1-1"
+  },
+  {
+    "text": "It enhances team productivity through guidance and oversight.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6355592d-814d-4c39-bad1-caca274154fe-0-1-2"
+  },
+  {
+    "text": "It fosters accountability by clarifying roles and responsibilities.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6355592d-814d-4c39-bad1-caca274154fe-0-1-3"
+  },
+  {
+    "text": "It provides employees with feedback to improve performance.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6355592d-814d-4c39-bad1-caca274154fe-0-1-4"
+  },
+  {
+    "text": "It ensures compliance with organizational policies and procedures.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6355592d-814d-4c39-bad1-caca274154fe-0-1-5"
+  },
+  {
+    "text": "It mitigates risks by monitoring compliance and standards.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6355592d-814d-4c39-bad1-caca274154fe-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6355592d-814d-4c39-bad1-caca274154fe-1-0"
+  },
+  {
+    "text": "Micromanaging tasks instead of delegating effectively.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6355592d-814d-4c39-bad1-caca274154fe-1-1-0"
+  },
+  {
+    "text": "Failing to provide clear instructions or expectations.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6355592d-814d-4c39-bad1-caca274154fe-1-1-1"
+  },
+  {
+    "text": "Ignoring employee feedback, causing disengagement.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6355592d-814d-4c39-bad1-caca274154fe-1-1-2"
+  },
+  {
+    "text": "Avoiding difficult conversations about underperformance.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6355592d-814d-4c39-bad1-caca274154fe-1-1-3"
+  },
+  {
+    "text": "Overlooking opportunities to develop team members’ skills.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6355592d-814d-4c39-bad1-caca274154fe-1-1-4"
+  },
+  {
+    "text": "Providing inconsistent or vague feedback, leading to confusion.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6355592d-814d-4c39-bad1-caca274154fe-1-1-5"
+  },
+  {
+    "text": "Missing opportunities for employee recognition and appreciation.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6355592d-814d-4c39-bad1-caca274154fe-1-1-6"
+  },
+  {
+    "text": "Ignoring employee development and training needs.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6355592d-814d-4c39-bad1-caca274154fe-1-1-7"
+  },
+  {
+    "text": "Delegating without providing necessary resources.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-6355592d-814d-4c39-bad1-caca274154fe-1-1-8"
+  },
+  {
+    "text": "Training = the structured process of developing knowledge, skills, and competencies in individuals or teams to enhance performance, address skill gaps, and foster adaptability, ensuring readiness to meet specific roles, challenges, and goals effectively.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-22caca21-3be8-4d81-a6d8-a6b5d1b81737"
+  },
+  {
+    "text": "How we encourage this role:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-144bfa32-90e4-4afe-8acd-3cac8186b998"
+  },
+  {
+    "text": "We prioritize training as a foundational element for individual and organizational success.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-77411be9-3ac6-45f8-9b74-d3749d863eb7"
+  },
+  {
+    "text": "We design training programs tailored to address specific skill gaps and development needs.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-77411be9-3ac6-45f8-9b74-d3749d863eb7-1"
+  },
+  {
+    "text": "We leverage a variety of training formats, including workshops, e-learning, and hands-on experiences.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-77411be9-3ac6-45f8-9b74-d3749d863eb7-2"
+  },
+  {
+    "text": "We provide onboarding training to equip new hires with the knowledge and tools to excel from day one.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-77411be9-3ac6-45f8-9b74-d3749d863eb7-3"
+  },
+  {
+    "text": "We encourage continuous learning by offering opportunities for skill enhancement throughout careers.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-77411be9-3ac6-45f8-9b74-d3749d863eb7-4"
+  },
+  {
+    "text": "We offer leadership training to prepare employees for future roles and responsibilities.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-77411be9-3ac6-45f8-9b74-d3749d863eb7-5"
+  },
+  {
+    "text": "We provide access to industry certifications and external training resources for specialized skills.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-77411be9-3ac6-45f8-9b74-d3749d863eb7-6"
+  },
+  {
+    "text": "We encourage cross-departmental training to foster collaboration and understanding between teams.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-77411be9-3ac6-45f8-9b74-d3749d863eb7-7"
+  },
+  {
+    "text": "We recognize and reward employees who actively participate in and excel during training programs.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-77411be9-3ac6-45f8-9b74-d3749d863eb7-8"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7310acdc-55e9-4bb8-9073-fa5823b7a818-0-0"
+  },
+  {
+    "text": "It improves employee competency and productivity.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7310acdc-55e9-4bb8-9073-fa5823b7a818-0-1-0"
+  },
+  {
+    "text": "It empowers employees to take on new challenges and roles.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7310acdc-55e9-4bb8-9073-fa5823b7a818-0-1-1"
+  },
+  {
+    "text": "It fosters a culture of continuous learning and growth.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7310acdc-55e9-4bb8-9073-fa5823b7a818-0-1-2"
+  },
+  {
+    "text": "It boosts employee confidence and job satisfaction.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7310acdc-55e9-4bb8-9073-fa5823b7a818-0-1-3"
+  },
+  {
+    "text": "It supports career development and retention.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7310acdc-55e9-4bb8-9073-fa5823b7a818-0-1-4"
+  },
+  {
+    "text": "It aligns individual capabilities with organizational goals.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7310acdc-55e9-4bb8-9073-fa5823b7a818-0-1-5"
+  },
+  {
+    "text": "It supports compliance with industry regulations and standards.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7310acdc-55e9-4bb8-9073-fa5823b7a818-0-1-6"
+  },
+  {
+    "text": "It attracts top talent by showcasing a commitment to growth.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7310acdc-55e9-4bb8-9073-fa5823b7a818-0-1-7"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7310acdc-55e9-4bb8-9073-fa5823b7a818-1-0"
+  },
+  {
+    "text": "Relying too heavily on one-size-fits-all training solutions.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7310acdc-55e9-4bb8-9073-fa5823b7a818-1-1-0"
+  },
+  {
+    "text": "Skipping the assessment of individual training needs.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7310acdc-55e9-4bb8-9073-fa5823b7a818-1-1-1"
+  },
+  {
+    "text": "Overloading participants with excessive information.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7310acdc-55e9-4bb8-9073-fa5823b7a818-1-1-2"
+  },
+  {
+    "text": "Neglecting to provide practical, hands-on learning opportunities.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7310acdc-55e9-4bb8-9073-fa5823b7a818-1-1-3"
+  },
+  {
+    "text": "Using ineffective or monotonous teaching methods.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7310acdc-55e9-4bb8-9073-fa5823b7a818-1-1-4"
+  },
+  {
+    "text": "Ignoring feedback from participants about the training process.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7310acdc-55e9-4bb8-9073-fa5823b7a818-1-1-5"
+  },
+  {
+    "text": "Focusing solely on theoretical knowledge without application.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7310acdc-55e9-4bb8-9073-fa5823b7a818-1-1-6"
+  },
+  {
+    "text": "Assuming all learners have the same pace and style of learning.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7310acdc-55e9-4bb8-9073-fa5823b7a818-1-1-7"
+  },
+  {
+    "text": "Ignoring cultural or organizational context during sessions.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-7310acdc-55e9-4bb8-9073-fa5823b7a818-1-1-8"
+  },
+  {
+    "text": "Supportive Roles",
     "type": "pageTitle",
-    "pageName": "Types of Assistance",
-    "category": "Coordination / Types of Assistance",
-    "keywords": "Coordination / Types of Assistance",
-    "url": "../html/types-of-assistance-m5hjKbQn"
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "keywords": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn"
   },
   {
     "text": "",
