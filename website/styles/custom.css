@@ -109,6 +109,10 @@
     & ul,
     & ol {
         margin: 6px 0 !important;
+
+        & li {
+            padding: 0;
+        }
     }
 
     & table {

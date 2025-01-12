@@ -198,28 +198,28 @@
     "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d"
   },
   {
-    "text": "That means to coordinate. Fist, we need to decide on our style of leadership.",
+    "text": "To coordinate with each other, we must understand our leadership style.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
     "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-1"
   },
   {
-    "text": "To understand our leadership, we must know what leadership style we have.",
+    "text": "We should also decide on which sources of power we need to rely.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
     "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-2"
   },
   {
-    "text": "Leadership is always about decisions, so we need a decision making strategy.",
+    "text": "And most likely, we will need help from one or more supportive roles.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
     "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-3"
   },
   {
-    "text": "And someone has to make those decisions, so we must talk about authority.",
+    "text": "Leadership is always about decisions, so we need a decision making strategy.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
@@ -20149,6 +20149,2002 @@
   {
     "text": "Note: This is demo content for a fictional SaaS company.",
     "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-eb7f2370-dd5a-4edc-86be-494e34159b37"
+  },
+  {
+    "text": "Source of Power = the foundation or basis from which a leader derives their ability to influence, guide, and motivate others. It encompasses the various means, attributes, or resources that grant a leader authority, legitimacy, or the capacity to effect change within a group, organization, or society.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-9fb35fff-1855-4244-b0be-e9a5edc15cf5"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c5919017-4a09-433a-8406-fd1a7fa0447d"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-bf91004e-2767-46af-be3f-71f1eb1e9491"
+  },
+  {
+    "text": "Power of Authority",
+    "type": "sectionHeader",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-06e186cc-544f-41fd-8a9e-adff7403d747"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-933f1341-d3a8-4c7f-bd2d-9ac15ee88abb"
+  },
+  {
+    "text": "Power of Charisma",
+    "type": "sectionHeader",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-d1aaddac-c277-4791-9a78-0a44f2c5eb1f"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-1ef08fe9-53ad-48e4-969c-85716d0e8620"
+  },
+  {
+    "text": "Power of Coercion",
+    "type": "sectionHeader",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-7c3ec91a-f50a-4c42-b681-dd6cdb36408a"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-8876706e-5d8b-42b7-aebf-7a7d071ca52a"
+  },
+  {
+    "text": "Power of Ethics",
+    "type": "sectionHeader",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-0b6bfac5-e6c6-4716-b7ab-354d2ac06963"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-d754b2c5-8104-4861-88a9-f01d38516c12"
+  },
+  {
+    "text": "Power of Expertise",
+    "type": "sectionHeader",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-6c267f12-bc75-467c-b9b8-2113b5edaa9b"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-f5b9e409-2985-4c28-8414-e6bbd8a9cf27"
+  },
+  {
+    "text": "Power of Information",
+    "type": "sectionHeader",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-b2cfa379-7d0f-4be9-8eac-80ce94ca647f"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-dbe64cca-33cd-4b49-b20c-2a43c94ee6a4"
+  },
+  {
+    "text": "Power of Network",
+    "type": "sectionHeader",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-bd31b74e-636f-4501-881a-6ac8952fedbd"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-aaaee1d0-1013-4e3e-a4ca-790bb78758b0"
+  },
+  {
+    "text": "Power of Politics",
+    "type": "sectionHeader",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-ff46bb5d-9b13-4215-adbe-d8cc7bd5ff94"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-db056a13-6188-450e-a61b-f2920f7bb9fc"
+  },
+  {
+    "text": "Power of Resources",
+    "type": "sectionHeader",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-0d7a3d09-6650-441e-9ee1-46875dab2739"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-6302c22c-a432-446a-b503-72c5f88e8556"
+  },
+  {
+    "text": "Power of Rewards",
+    "type": "sectionHeader",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-f99fc18e-b128-4c1c-94b4-75545a0497fb"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-a7cfd80b-a685-4567-a0e9-032be61f5ad0"
+  },
+  {
+    "text": "Power of Authority = the legitimate right or capacity of an individual or entity to make decisions, issue directives, enforce compliance, and exercise control within a specific context or organization, typically established through formal roles, laws, or recognized norms.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c8a6c52f-b9bd-4a33-96f5-4a53fe762d84"
+  },
+  {
+    "text": "How we make use of it:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-eb947e08-11ac-4e72-ac89-47f2d80bd01d"
+  },
+  {
+    "text": "We leverage authority to align our team with the company’s goals and vision.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-10ee3a0c-c4f8-4b62-a954-19d931929926"
+  },
+  {
+    "text": "We ensure decisions are made swiftly and decisively to capitalize on market opportunities.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-10ee3a0c-c4f8-4b62-a954-19d931929926-1"
+  },
+  {
+    "text": "We delegate authority strategically to empower leaders at all levels to drive results.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-10ee3a0c-c4f8-4b62-a954-19d931929926-2"
+  },
+  {
+    "text": "We use authority to maintain accountability across all departments and initiatives.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-10ee3a0c-c4f8-4b62-a954-19d931929926-3"
+  },
+  {
+    "text": "We enforce compliance with company policies to ensure operational consistency.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-10ee3a0c-c4f8-4b62-a954-19d931929926-4"
+  },
+  {
+    "text": "We utilize authority to set ambitious targets and direct resources effectively to achieve them.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-10ee3a0c-c4f8-4b62-a954-19d931929926-5"
+  },
+  {
+    "text": "We centralize authority for high-stakes decisions to maintain strategic alignment.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-10ee3a0c-c4f8-4b62-a954-19d931929926-6"
+  },
+  {
+    "text": "We recognize the power of authority in setting a tone for company culture and driving a results-oriented mindset.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-10ee3a0c-c4f8-4b62-a954-19d931929926-7"
+  },
+  {
+    "text": "Advantages:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-09f1a7d0-4ebb-4ad9-9867-bb007b28084f-0-0"
+  },
+  {
+    "text": "It establishes clear lines of responsibility and accountability.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-09f1a7d0-4ebb-4ad9-9867-bb007b28084f-0-1-0"
+  },
+  {
+    "text": "It enables quick implementation of policies and procedures.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-09f1a7d0-4ebb-4ad9-9867-bb007b28084f-0-1-1"
+  },
+  {
+    "text": "It establishes a recognizable chain of command.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-09f1a7d0-4ebb-4ad9-9867-bb007b28084f-0-1-2"
+  },
+  {
+    "text": "It helps maintain organizational discipline and order.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-09f1a7d0-4ebb-4ad9-9867-bb007b28084f-0-1-3"
+  },
+  {
+    "text": "It facilitates swift decision-making in critical situations.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-09f1a7d0-4ebb-4ad9-9867-bb007b28084f-0-1-4"
+  },
+  {
+    "text": "It ensures compliance with organizational goals and objectives.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-09f1a7d0-4ebb-4ad9-9867-bb007b28084f-0-1-5"
+  },
+  {
+    "text": "It allows leaders to resolve conflicts by making binding decisions.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-09f1a7d0-4ebb-4ad9-9867-bb007b28084f-0-1-6"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-09f1a7d0-4ebb-4ad9-9867-bb007b28084f-1-0"
+  },
+  {
+    "text": "It can lead to decision bottlenecks and blame-shifting behaviors.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-09f1a7d0-4ebb-4ad9-9867-bb007b28084f-1-1-0"
+  },
+  {
+    "text": "It might cause employee disengagement and low morale.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-09f1a7d0-4ebb-4ad9-9867-bb007b28084f-1-1-1"
+  },
+  {
+    "text": "It can result in excessive bureaucracy and red tape.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-09f1a7d0-4ebb-4ad9-9867-bb007b28084f-1-1-2"
+  },
+  {
+    "text": "It can cause strict rule-following, even when flexibility is needed.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-09f1a7d0-4ebb-4ad9-9867-bb007b28084f-1-1-3"
+  },
+  {
+    "text": "It often creates a fear-based organizational culture.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-09f1a7d0-4ebb-4ad9-9867-bb007b28084f-1-1-4"
+  },
+  {
+    "text": "It risks miscommunication if employees stay silent.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-09f1a7d0-4ebb-4ad9-9867-bb007b28084f-1-1-5"
+  },
+  {
+    "text": "It may lead to resistance and passive-aggressive behavior.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-09f1a7d0-4ebb-4ad9-9867-bb007b28084f-1-1-6"
+  },
+  {
+    "text": "It can cause leader burnout from constant decision-making.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-09f1a7d0-4ebb-4ad9-9867-bb007b28084f-1-1-7"
+  },
+  {
+    "text": "Power of Charisma = the ability to captivate, influence, and inspire others through a compelling blend of charm, confidence, and strong communication, enabling a leader to motivate people, build trust, and align them toward shared goals.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-ded16123-ab8e-4cef-a0b9-c94470ff33e4"
+  },
+  {
+    "text": "How we make use of it:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-80cc4a8f-32ff-4f30-b0a6-95821ad49a1e"
+  },
+  {
+    "text": "We use charisma to inspire confidence in our vision and direction.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-bc6ec99a-6797-4d01-9491-252b6d43bbfa"
+  },
+  {
+    "text": "We project charisma to attract top talent who want to be part of a compelling journey.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-bc6ec99a-6797-4d01-9491-252b6d43bbfa-1"
+  },
+  {
+    "text": "We channel charisma to make our brand stand out in a competitive market.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-bc6ec99a-6797-4d01-9491-252b6d43bbfa-2"
+  },
+  {
+    "text": "We employ charisma to negotiate with partners and secure favorable outcomes.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-bc6ec99a-6797-4d01-9491-252b6d43bbfa-3"
+  },
+  {
+    "text": "We use charisma to diffuse tensions and build consensus during conflicts.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-bc6ec99a-6797-4d01-9491-252b6d43bbfa-4"
+  },
+  {
+    "text": "We rely on charisma to rally the team during high-pressure moments, keeping everyone focused and engaged.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-bc6ec99a-6797-4d01-9491-252b6d43bbfa-5"
+  },
+  {
+    "text": "We use charisma to frame the company’s success as a shared achievement, fostering pride and unity.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-bc6ec99a-6797-4d01-9491-252b6d43bbfa-6"
+  },
+  {
+    "text": "We embody charisma in our public speaking, leaving a lasting impression at events and meetings.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-bc6ec99a-6797-4d01-9491-252b6d43bbfa-7"
+  },
+  {
+    "text": "We leverage charisma to bridge gaps between departments, fostering collaboration and shared goals.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-bc6ec99a-6797-4d01-9491-252b6d43bbfa-8"
+  },
+  {
+    "text": "Advantages:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-0950f3e8-75b6-4a14-983e-e548756e0a04-0-0"
+  },
+  {
+    "text": "It builds strong connections with team members and stakeholders.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-0950f3e8-75b6-4a14-983e-e548756e0a04-0-1-0"
+  },
+  {
+    "text": "It enhances the ability to unify a group towards a common goal.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-0950f3e8-75b6-4a14-983e-e548756e0a04-0-1-1"
+  },
+  {
+    "text": "It boosts morale and creates a positive, energetic atmosphere.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-0950f3e8-75b6-4a14-983e-e548756e0a04-0-1-2"
+  },
+  {
+    "text": "It helps diffuse conflicts and maintain harmony within a team.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-0950f3e8-75b6-4a14-983e-e548756e0a04-0-1-3"
+  },
+  {
+    "text": "It helps leaders advocate effectively for change and innovation.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-0950f3e8-75b6-4a14-983e-e548756e0a04-0-1-4"
+  },
+  {
+    "text": "It empowers leaders to motivate during crises or uncertainty.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-0950f3e8-75b6-4a14-983e-e548756e0a04-0-1-5"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-0950f3e8-75b6-4a14-983e-e548756e0a04-1-0"
+  },
+  {
+    "text": "It risks dependency on leader's personality and charisma.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-0950f3e8-75b6-4a14-983e-e548756e0a04-1-1-0"
+  },
+  {
+    "text": "It can overshadow the importance of team input and collaboration.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-0950f3e8-75b6-4a14-983e-e548756e0a04-1-1-1"
+  },
+  {
+    "text": "It may lead to unrealistic expectations of the leader's abilities.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-0950f3e8-75b6-4a14-983e-e548756e0a04-1-1-2"
+  },
+  {
+    "text": "It might suppress critical thinking and encourage blind loyalty.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-0950f3e8-75b6-4a14-983e-e548756e0a04-1-1-3"
+  },
+  {
+    "text": "It can create divisions between followers and skeptics.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-0950f3e8-75b6-4a14-983e-e548756e0a04-1-1-4"
+  },
+  {
+    "text": "It could promote favoritism or exclusion within the group.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-0950f3e8-75b6-4a14-983e-e548756e0a04-1-1-5"
+  },
+  {
+    "text": "It risks leader burnout from the pressure to sustain charisma.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-0950f3e8-75b6-4a14-983e-e548756e0a04-1-1-6"
+  },
+  {
+    "text": "Power of Coercion = the ability to influence or control others' actions, behaviors, or decisions by using force, threats, punishments, or consequences. It can be exercised through various forms, including physical, psychological, social, or organizational means.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-3b589bb9-3d0d-40c9-b3c8-3d2cae0cba8a"
+  },
+  {
+    "text": "How we make use of it:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c410bad4-7792-4f43-a314-360e259f8905"
+  },
+  {
+    "text": "We use coercion strategically to ensure compliance with critical company policies and procedures.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-fa7d85dc-0232-44e1-9670-fa16e16af357"
+  },
+  {
+    "text": "We leverage coercion to address repeated underperformance when other methods fail.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-fa7d85dc-0232-44e1-9670-fa16e16af357-1"
+  },
+  {
+    "text": "We utilize coercion as a last resort to correct behaviors that threaten team cohesion or company goals.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-fa7d85dc-0232-44e1-9670-fa16e16af357-2"
+  },
+  {
+    "text": "We implement coercion to protect company assets, intellectual property, and sensitive information.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-fa7d85dc-0232-44e1-9670-fa16e16af357-3"
+  },
+  {
+    "text": "We exercise coercion to uphold ethical standards and prevent misconduct within the organization.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-fa7d85dc-0232-44e1-9670-fa16e16af357-4"
+  },
+  {
+    "text": "We make use of coercion to manage risks that could negatively impact the company’s reputation or operations.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-fa7d85dc-0232-44e1-9670-fa16e16af357-5"
+  },
+  {
+    "text": "We pair coercion with corrective action plans to guide individuals toward improvement.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-fa7d85dc-0232-44e1-9670-fa16e16af357-6"
+  },
+  {
+    "text": "We utilize coercion to ensure critical processes are followed during emergencies or crises.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-fa7d85dc-0232-44e1-9670-fa16e16af357-7"
+  },
+  {
+    "text": "Advantages:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-7ded4bcc-a3ad-4f6e-b4c0-7566f54eb2be-0-0"
+  },
+  {
+    "text": "It ensures immediate compliance in urgent or crisis situations.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-7ded4bcc-a3ad-4f6e-b4c0-7566f54eb2be-0-1-0"
+  },
+  {
+    "text": "It can deter unwanted behavior by showing clear consequences.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-7ded4bcc-a3ad-4f6e-b4c0-7566f54eb2be-0-1-1"
+  },
+  {
+    "text": "It helps maintain order and discipline in chaotic environments.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-7ded4bcc-a3ad-4f6e-b4c0-7566f54eb2be-0-1-2"
+  },
+  {
+    "text": "It can protect organizational integrity by enforcing strict rules.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-7ded4bcc-a3ad-4f6e-b4c0-7566f54eb2be-0-1-3"
+  },
+  {
+    "text": "It centralizes power, simplifying decision-making processes.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-7ded4bcc-a3ad-4f6e-b4c0-7566f54eb2be-0-1-4"
+  },
+  {
+    "text": "It helps correct behaviors that harm team dynamics or performance.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-7ded4bcc-a3ad-4f6e-b4c0-7566f54eb2be-0-1-5"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-7ded4bcc-a3ad-4f6e-b4c0-7566f54eb2be-1-0"
+  },
+  {
+    "text": "It harms relationships, hindering collaboration and teamwork.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-7ded4bcc-a3ad-4f6e-b4c0-7566f54eb2be-1-1-0"
+  },
+  {
+    "text": "It fosters resentment, fear, and hostility among team members.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-7ded4bcc-a3ad-4f6e-b4c0-7566f54eb2be-1-1-1"
+  },
+  {
+    "text": "It discourages creativity and innovation due to fear of failure.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-7ded4bcc-a3ad-4f6e-b4c0-7566f54eb2be-1-1-2"
+  },
+  {
+    "text": "It fosters high stress, reducing morale and productivity.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-7ded4bcc-a3ad-4f6e-b4c0-7566f54eb2be-1-1-3"
+  },
+  {
+    "text": "It can escalate conflicts if individuals retaliate against coercion.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-7ded4bcc-a3ad-4f6e-b4c0-7566f54eb2be-1-1-4"
+  },
+  {
+    "text": "It reduces long-term loyalty and retention of team members.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-7ded4bcc-a3ad-4f6e-b4c0-7566f54eb2be-1-1-5"
+  },
+  {
+    "text": "It can create a toxic organizational culture over time.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-7ded4bcc-a3ad-4f6e-b4c0-7566f54eb2be-1-1-6"
+  },
+  {
+    "text": "Power of Ethics = the ability of a leader to inspire and influence others through unwavering commitment to moral principles, integrity, and fairness, fostering trust, respect, and accountability within their organization or community.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-01b4769f-8c58-4c42-bcde-c3014876bc60"
+  },
+  {
+    "text": "How we make use of it:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-e6747e8f-9eb5-4441-8713-79b97e64bfdf"
+  },
+  {
+    "text": "We use the power of ethics to guide our decisions, ensuring they align with our core values.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-91883a79-7abd-4d1b-baba-3bbd4ab58213"
+  },
+  {
+    "text": "We integrate ethics into our business practices to build trust with stakeholders.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-91883a79-7abd-4d1b-baba-3bbd4ab58213-1"
+  },
+  {
+    "text": "We leverage ethics to differentiate our brand in a competitive market.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-91883a79-7abd-4d1b-baba-3bbd4ab58213-2"
+  },
+  {
+    "text": "We use ethical standards to foster long-term relationships with clients and partners.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-91883a79-7abd-4d1b-baba-3bbd4ab58213-3"
+  },
+  {
+    "text": "We make ethics a cornerstone of our innovation, ensuring that progress benefits society as well as the company.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-91883a79-7abd-4d1b-baba-3bbd4ab58213-4"
+  },
+  {
+    "text": "We enforce ethical practices to minimize risks related to compliance and legal issues.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-91883a79-7abd-4d1b-baba-3bbd4ab58213-5"
+  },
+  {
+    "text": "We embed ethics into our hiring practices to attract individuals who share our values.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-91883a79-7abd-4d1b-baba-3bbd4ab58213-6"
+  },
+  {
+    "text": "We make ethics a critical component of our customer relationships, ensuring honesty and integrity in all interactions.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-91883a79-7abd-4d1b-baba-3bbd4ab58213-7"
+  },
+  {
+    "text": "We use ethics to inspire loyalty and pride among employees, fostering a sense of purpose.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-91883a79-7abd-4d1b-baba-3bbd4ab58213-8"
+  },
+  {
+    "text": "Advantages:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c60c4a22-8916-48a4-884b-ac2a7b0c89a2-0-0"
+  },
+  {
+    "text": "It builds trust and credibility within the team and with stakeholders.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c60c4a22-8916-48a4-884b-ac2a7b0c89a2-0-1-0"
+  },
+  {
+    "text": "It ensures fairness, promoting long-term sustainability.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c60c4a22-8916-48a4-884b-ac2a7b0c89a2-0-1-1"
+  },
+  {
+    "text": "It fosters a culture of accountability and integrity.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c60c4a22-8916-48a4-884b-ac2a7b0c89a2-0-1-2"
+  },
+  {
+    "text": "It creates a foundation for inclusive and equitable practices.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c60c4a22-8916-48a4-884b-ac2a7b0c89a2-0-1-3"
+  },
+  {
+    "text": "It helps navigate complex decisions with moral clarity.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c60c4a22-8916-48a4-884b-ac2a7b0c89a2-0-1-4"
+  },
+  {
+    "text": "It reduces the risk of legal and regulatory issues.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c60c4a22-8916-48a4-884b-ac2a7b0c89a2-0-1-5"
+  },
+  {
+    "text": "It aligns the organization's goals with societal values.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c60c4a22-8916-48a4-884b-ac2a7b0c89a2-0-1-6"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c60c4a22-8916-48a4-884b-ac2a7b0c89a2-1-0"
+  },
+  {
+    "text": "It can slow decisions due to thorough ethical considerations.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c60c4a22-8916-48a4-884b-ac2a7b0c89a2-1-1-0"
+  },
+  {
+    "text": "It may face resistance from those with conflicting values.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c60c4a22-8916-48a4-884b-ac2a7b0c89a2-1-1-1"
+  },
+  {
+    "text": "It demands constant vigilance and self-discipline.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c60c4a22-8916-48a4-884b-ac2a7b0c89a2-1-1-2"
+  },
+  {
+    "text": "It can make the leader unpopular when ethics seem restrictive.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c60c4a22-8916-48a4-884b-ac2a7b0c89a2-1-1-3"
+  },
+  {
+    "text": "It requires ongoing education of evolving ethical standards.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c60c4a22-8916-48a4-884b-ac2a7b0c89a2-1-1-4"
+  },
+  {
+    "text": "It can lead to difficult decisions with no fully ethical options.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c60c4a22-8916-48a4-884b-ac2a7b0c89a2-1-1-5"
+  },
+  {
+    "text": "It can be tough to balance ethics with performance pressures.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c60c4a22-8916-48a4-884b-ac2a7b0c89a2-1-1-6"
+  },
+  {
+    "text": "Power of Expertise = the ability to influence, guide, and lead others by leveraging specialized knowledge, skills, or proficiency in a specific field or domain, often earned through education, training, or experience, to make informed decisions and provide credible solutions.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-fb907592-7dd9-4efa-badf-f6bb1eadae35"
+  },
+  {
+    "text": "How we make use of it:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-08bc0f7f-c40e-4657-9cb5-f3b08bf2b8d4"
+  },
+  {
+    "text": "We anchor our decisions in specialized knowledge, ensuring strategies are both effective and precise.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-1a0d5b9b-f2d8-489d-8866-067e7cd84027"
+  },
+  {
+    "text": "We leverage expertise to establish credibility and authority in our industry.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-1a0d5b9b-f2d8-489d-8866-067e7cd84027-1"
+  },
+  {
+    "text": "We emphasize expertise in our hiring to build a team capable of delivering exceptional results.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-1a0d5b9b-f2d8-489d-8866-067e7cd84027-2"
+  },
+  {
+    "text": "We position expertise as a key differentiator in our market, setting us apart from competitors.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-1a0d5b9b-f2d8-489d-8866-067e7cd84027-3"
+  },
+  {
+    "text": "We strategically enter new markets where our expertise provides a clear competitive edge.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-1a0d5b9b-f2d8-489d-8866-067e7cd84027-4"
+  },
+  {
+    "text": "We leverage expertise to consult and advise clients, strengthening partnerships and driving value.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-1a0d5b9b-f2d8-489d-8866-067e7cd84027-5"
+  },
+  {
+    "text": "We rely on expertise to develop and implement best practices across all areas of the business.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-1a0d5b9b-f2d8-489d-8866-067e7cd84027-6"
+  },
+  {
+    "text": "We educate our clients, empowering them to trust and rely on our guidance.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-1a0d5b9b-f2d8-489d-8866-067e7cd84027-7"
+  },
+  {
+    "text": "Advantages:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c344fff4-bc76-411b-87ed-c08156d2a17f-0-0"
+  },
+  {
+    "text": "It fosters trust and confidence among stakeholders.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c344fff4-bc76-411b-87ed-c08156d2a17f-0-1-0"
+  },
+  {
+    "text": "It enables effective problem-solving with informed solutions.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c344fff4-bc76-411b-87ed-c08156d2a17f-0-1-1"
+  },
+  {
+    "text": "It enhances the ability to mentor and train team members.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c344fff4-bc76-411b-87ed-c08156d2a17f-0-1-2"
+  },
+  {
+    "text": "It strengthens the leader’s position in negotiations and discussions.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c344fff4-bc76-411b-87ed-c08156d2a17f-0-1-3"
+  },
+  {
+    "text": "It encourages respect from peers and subordinates.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c344fff4-bc76-411b-87ed-c08156d2a17f-0-1-4"
+  },
+  {
+    "text": "It promotes a culture of learning and continuous improvement.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c344fff4-bc76-411b-87ed-c08156d2a17f-0-1-5"
+  },
+  {
+    "text": "It sets a benchmark for performance and expertise.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c344fff4-bc76-411b-87ed-c08156d2a17f-0-1-6"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c344fff4-bc76-411b-87ed-c08156d2a17f-1-0"
+  },
+  {
+    "text": "It can lead to over-reliance on the leader’s knowledge.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c344fff4-bc76-411b-87ed-c08156d2a17f-1-1-0"
+  },
+  {
+    "text": "It pressures the leader to always have the right answers.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c344fff4-bc76-411b-87ed-c08156d2a17f-1-1-1"
+  },
+  {
+    "text": "It may result in micromanagement tendencies by the leader.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c344fff4-bc76-411b-87ed-c08156d2a17f-1-1-2"
+  },
+  {
+    "text": "It can provoke resistance from those intimidated by the leader.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c344fff4-bc76-411b-87ed-c08156d2a17f-1-1-3"
+  },
+  {
+    "text": "It can hinder collaboration by overemphasizing individual expertise.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c344fff4-bc76-411b-87ed-c08156d2a17f-1-1-4"
+  },
+  {
+    "text": "It risks neglecting interpersonal dynamics for technical details.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c344fff4-bc76-411b-87ed-c08156d2a17f-1-1-5"
+  },
+  {
+    "text": "It can lead to burnout if the leader is always relied on for solutions.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c344fff4-bc76-411b-87ed-c08156d2a17f-1-1-6"
+  },
+  {
+    "text": "Power of Information = the ability to influence, lead, or control by acquiring, analyzing, and effectively leveraging knowledge, data, or insights to drive decisions, shape perspectives, and achieve objectives.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-55ef569a-8091-4963-8481-ebf6aacfcc6c"
+  },
+  {
+    "text": "How we make use of it:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-36d86fbf-76df-4a17-a1c4-a0793c41aa66"
+  },
+  {
+    "text": "We use information as the backbone of our strategic decision-making processes.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-a2bd52a6-fcfc-4f8c-9b89-b747baa78325"
+  },
+  {
+    "text": "We ensure our leaders have access to real-time insights to adapt quickly and maintain competitive advantage.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-a2bd52a6-fcfc-4f8c-9b89-b747baa78325-1"
+  },
+  {
+    "text": "We leverage data to predict future customer needs and align our offerings accordingly.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-a2bd52a6-fcfc-4f8c-9b89-b747baa78325-2"
+  },
+  {
+    "text": "We empower our sales and marketing teams with detailed customer insights to drive growth.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-a2bd52a6-fcfc-4f8c-9b89-b747baa78325-3"
+  },
+  {
+    "text": "We use competitive intelligence to stay ahead of rivals and anticipate their moves.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-a2bd52a6-fcfc-4f8c-9b89-b747baa78325-4"
+  },
+  {
+    "text": "We use insights to craft narratives that position us as thought leaders in our field.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-a2bd52a6-fcfc-4f8c-9b89-b747baa78325-5"
+  },
+  {
+    "text": "We make evidence-based decisions that align with our overarching business objectives.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-a2bd52a6-fcfc-4f8c-9b89-b747baa78325-6"
+  },
+  {
+    "text": "We harness the power of information to identify and mitigate risks before they materialize.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-a2bd52a6-fcfc-4f8c-9b89-b747baa78325-7"
+  },
+  {
+    "text": "Advantages:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-ad7289e6-9246-4f86-baa8-34530f64fbda-0-0"
+  },
+  {
+    "text": "It enables strategic decision-making with a solid foundation.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-ad7289e6-9246-4f86-baa8-34530f64fbda-0-1-0"
+  },
+  {
+    "text": "It strengthens negotiation positions with well-informed arguments.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-ad7289e6-9246-4f86-baa8-34530f64fbda-0-1-1"
+  },
+  {
+    "text": "It empowers teams through transparent and shared knowledge.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-ad7289e6-9246-4f86-baa8-34530f64fbda-0-1-2"
+  },
+  {
+    "text": "It facilitates better communication by providing context and clarity.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-ad7289e6-9246-4f86-baa8-34530f64fbda-0-1-3"
+  },
+  {
+    "text": "It enables targeted influence through tailored information.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-ad7289e6-9246-4f86-baa8-34530f64fbda-0-1-4"
+  },
+  {
+    "text": "It fosters organizational alignment by keeping everyone informed.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-ad7289e6-9246-4f86-baa8-34530f64fbda-0-1-5"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-ad7289e6-9246-4f86-baa8-34530f64fbda-1-0"
+  },
+  {
+    "text": "It risks information overload, leading to analysis paralysis.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-ad7289e6-9246-4f86-baa8-34530f64fbda-1-1-0"
+  },
+  {
+    "text": "It may create a power imbalance if information access is restricted.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-ad7289e6-9246-4f86-baa8-34530f64fbda-1-1-1"
+  },
+  {
+    "text": "It fosters dependency on data, limiting intuition and experience.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-ad7289e6-9246-4f86-baa8-34530f64fbda-1-1-2"
+  },
+  {
+    "text": "It may breed distrust if the information seems selective or biased.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-ad7289e6-9246-4f86-baa8-34530f64fbda-1-1-3"
+  },
+  {
+    "text": "It could delay actions due to the constant search for more data.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-ad7289e6-9246-4f86-baa8-34530f64fbda-1-1-4"
+  },
+  {
+    "text": "It requires resources to collect, process, and secure information.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-ad7289e6-9246-4f86-baa8-34530f64fbda-1-1-5"
+  },
+  {
+    "text": "It could dehumanize relationships by prioritizing metrics.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-ad7289e6-9246-4f86-baa8-34530f64fbda-1-1-6"
+  },
+  {
+    "text": "Power of Network = the capacity to harness relationships, social connections, and collective influence within a group, organization, or society to achieve objectives, foster collaboration, and mobilize support effectively.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-1c4ab56c-853f-468b-9647-ade2b80b8672"
+  },
+  {
+    "text": "How we make use of it:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-c82f8387-9273-4601-8974-fe4efebfed96"
+  },
+  {
+    "text": "We leverage our professional networks to stay ahead of industry trends and identify emerging opportunities.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-869cc285-a623-4b17-aee4-12a2d6b12707"
+  },
+  {
+    "text": "We cultivate relationships with thought leaders to establish our authority and credibility in the SaaS space.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-869cc285-a623-4b17-aee4-12a2d6b12707-1"
+  },
+  {
+    "text": "We align with industry associations to influence standards and gain visibility in key markets.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-869cc285-a623-4b17-aee4-12a2d6b12707-2"
+  },
+  {
+    "text": "We encourage employees to grow their own networks, empowering them to bring new opportunities into the company.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-869cc285-a623-4b17-aee4-12a2d6b12707-3"
+  },
+  {
+    "text": "We create exclusive communities for our clients, positioning ourselves as a hub for innovation and knowledge exchange.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-869cc285-a623-4b17-aee4-12a2d6b12707-4"
+  },
+  {
+    "text": "We leverage our existing relationships to open doors for new business ventures and cross-promotional opportunities.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-869cc285-a623-4b17-aee4-12a2d6b12707-5"
+  },
+  {
+    "text": "We tap into alumni networks from top institutions to recruit exceptional talent and gain insider knowledge.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-869cc285-a623-4b17-aee4-12a2d6b12707-6"
+  },
+  {
+    "text": "We activate internal champions to promote our products and culture within their personal and professional networks.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-869cc285-a623-4b17-aee4-12a2d6b12707-7"
+  },
+  {
+    "text": "Advantages:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-48e156da-23ea-492f-9aed-020efa9a5ae5-0-0"
+  },
+  {
+    "text": "It enables access to diverse resources and information.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-48e156da-23ea-492f-9aed-020efa9a5ae5-0-1-0"
+  },
+  {
+    "text": "It builds trust and credibility among stakeholders.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-48e156da-23ea-492f-9aed-020efa9a5ae5-0-1-1"
+  },
+  {
+    "text": "It enhances visibility and recognition within the organization.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-48e156da-23ea-492f-9aed-020efa9a5ae5-0-1-2"
+  },
+  {
+    "text": "It strengthens influence by amplifying the leader's reach.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-48e156da-23ea-492f-9aed-020efa9a5ae5-0-1-3"
+  },
+  {
+    "text": "It encourages collective problem-solving for complex challenges.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-48e156da-23ea-492f-9aed-020efa9a5ae5-0-1-4"
+  },
+  {
+    "text": "It provides access to new opportunities, partnerships, or funding.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-48e156da-23ea-492f-9aed-020efa9a5ae5-0-1-5"
+  },
+  {
+    "text": "It increases resilience during crises by relying on mutual support.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-48e156da-23ea-492f-9aed-020efa9a5ae5-0-1-6"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-48e156da-23ea-492f-9aed-020efa9a5ae5-1-0"
+  },
+  {
+    "text": "It can lead to favoritism or the appearance of bias.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-48e156da-23ea-492f-9aed-020efa9a5ae5-1-1-0"
+  },
+  {
+    "text": "It risks over-reliance on personal relationships instead of merit.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-48e156da-23ea-492f-9aed-020efa9a5ae5-1-1-1"
+  },
+  {
+    "text": "It may create power imbalances or divisions within teams.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-48e156da-23ea-492f-9aed-020efa9a5ae5-1-1-2"
+  },
+  {
+    "text": "It may lead to conflicts of interest if boundaries are unclear.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-48e156da-23ea-492f-9aed-020efa9a5ae5-1-1-3"
+  },
+  {
+    "text": "It risks perpetuating exclusion of outsiders or differing voices.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-48e156da-23ea-492f-9aed-020efa9a5ae5-1-1-4"
+  },
+  {
+    "text": "It requires significant effort and energy to build a strong network.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-48e156da-23ea-492f-9aed-020efa9a5ae5-1-1-5"
+  },
+  {
+    "text": "It could make leaders vulnerable to social pressure or groupthink.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-48e156da-23ea-492f-9aed-020efa9a5ae5-1-1-6"
+  },
+  {
+    "text": "Power of Politics = the ability to influence, control, or strategically navigate power dynamics within an organization or society to achieve desired outcomes. It involves leveraging relationships, alliances, negotiation, and persuasion to manage competing interests and maintain a position of influence.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-17711ad0-6ebe-42c1-80a8-ba11e18f9693"
+  },
+  {
+    "text": "How we make use of it:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-b9eb531f-8476-416a-adf8-88a17fc4f575"
+  },
+  {
+    "text": "We strategically use influence to shape outcomes that align with our business goals.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-49ecc86b-8a3f-4743-bc77-dd2e7db3fef6"
+  },
+  {
+    "text": "We build alliances with key industry players to amplify our influence and access critical resources.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-49ecc86b-8a3f-4743-bc77-dd2e7db3fef6-1"
+  },
+  {
+    "text": "We identify power centers within our organization and foster relationships to ensure alignment with our vision.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-49ecc86b-8a3f-4743-bc77-dd2e7db3fef6-2"
+  },
+  {
+    "text": "We actively position ourselves within influential networks to strengthen our reputation and reach.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-49ecc86b-8a3f-4743-bc77-dd2e7db3fef6-3"
+  },
+  {
+    "text": "We strategically communicate to key decision-makers to steer outcomes in our desired direction.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-49ecc86b-8a3f-4743-bc77-dd2e7db3fef6-4"
+  },
+  {
+    "text": "We leverage our thought leadership to shape narratives and opinions in the market.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-49ecc86b-8a3f-4743-bc77-dd2e7db3fef6-5"
+  },
+  {
+    "text": "We engage in targeted lobbying efforts to shape policies that benefit our business operations.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-49ecc86b-8a3f-4743-bc77-dd2e7db3fef6-6"
+  },
+  {
+    "text": "We consolidate influence by empowering employees who can act as advocates for our goals.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-49ecc86b-8a3f-4743-bc77-dd2e7db3fef6-7"
+  },
+  {
+    "text": "Advantages:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-44df178d-3088-4255-95aa-b618f55d4432-0-0"
+  },
+  {
+    "text": "It helps build alliances to strengthen position and influence.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-44df178d-3088-4255-95aa-b618f55d4432-0-1-0"
+  },
+  {
+    "text": "It enables achieving goals that might otherwise face resistance.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-44df178d-3088-4255-95aa-b618f55d4432-0-1-1"
+  },
+  {
+    "text": "It allows leaders to manage competing interests effectively.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-44df178d-3088-4255-95aa-b618f55d4432-0-1-2"
+  },
+  {
+    "text": "It encourages the strategic use of resources to achieve objectives.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-44df178d-3088-4255-95aa-b618f55d4432-0-1-3"
+  },
+  {
+    "text": "It can unify divided groups through shared goals or agreements.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-44df178d-3088-4255-95aa-b618f55d4432-0-1-4"
+  },
+  {
+    "text": "It enhances the ability to anticipate and counter opposition.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-44df178d-3088-4255-95aa-b618f55d4432-0-1-5"
+  },
+  {
+    "text": "It enables driving change even in a resistant environment.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-44df178d-3088-4255-95aa-b618f55d4432-0-1-6"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-44df178d-3088-4255-95aa-b618f55d4432-1-0"
+  },
+  {
+    "text": "It can lead to unethical behavior or manipulation.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-44df178d-3088-4255-95aa-b618f55d4432-1-1-0"
+  },
+  {
+    "text": "It may foster a culture of mistrust and suspicion.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-44df178d-3088-4255-95aa-b618f55d4432-1-1-1"
+  },
+  {
+    "text": "It risks alienating colleagues who feel excluded or used.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-44df178d-3088-4255-95aa-b618f55d4432-1-1-2"
+  },
+  {
+    "text": "It can create divisions and factions within the organization.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-44df178d-3088-4255-95aa-b618f55d4432-1-1-3"
+  },
+  {
+    "text": "It often discourages merit-based decisions in favor of favoritism.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-44df178d-3088-4255-95aa-b618f55d4432-1-1-4"
+  },
+  {
+    "text": "It can hinder organizational goals due to political conflicts.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-44df178d-3088-4255-95aa-b618f55d4432-1-1-5"
+  },
+  {
+    "text": "It risks complicating processes with hidden agendas and alliances.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-44df178d-3088-4255-95aa-b618f55d4432-1-1-6"
+  },
+  {
+    "text": "It requires time and energy to manage relationships and agendas.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-44df178d-3088-4255-95aa-b618f55d4432-1-1-7"
+  },
+  {
+    "text": "Power of Resources = the ability to influence or control people, decisions, or outcomes by possessing, managing, or having access to valuable assets, such as money, natural resources, information, or infrastructure.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-89c5ea83-d22f-4b0e-b394-33f8b0f91255"
+  },
+  {
+    "text": "How we make use of it:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-eac5ea60-2653-482d-bfa8-698a5c0a0db9"
+  },
+  {
+    "text": "We leverage financial resources to invest strategically in opportunities that maximize profit and market share.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-8843a83e-0e35-4051-a27c-6d55e49feb1e"
+  },
+  {
+    "text": "We build infrastructure that supports operational efficiency, scaling our capabilities to dominate key markets.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-8843a83e-0e35-4051-a27c-6d55e49feb1e-1"
+  },
+  {
+    "text": "We prioritize owning proprietary technologies to create competitive advantages that others cannot replicate.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-8843a83e-0e35-4051-a27c-6d55e49feb1e-2"
+  },
+  {
+    "text": "We focus on controlling distribution channels to influence product availability and pricing in our favor.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-8843a83e-0e35-4051-a27c-6d55e49feb1e-3"
+  },
+  {
+    "text": "We acquire and manage talent as a critical resource, ensuring we have the best minds driving our vision.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-8843a83e-0e35-4051-a27c-6d55e49feb1e-4"
+  },
+  {
+    "text": "We manage intellectual property aggressively, protecting and monetizing innovations for sustained advantage.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-8843a83e-0e35-4051-a27c-6d55e49feb1e-5"
+  },
+  {
+    "text": "We deploy capital to disrupt industries, forcing competitors to adapt to our terms.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-8843a83e-0e35-4051-a27c-6d55e49feb1e-6"
+  },
+  {
+    "text": "We use our access to customer insights to predict behaviors and tailor offerings that maximize revenue.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-8843a83e-0e35-4051-a27c-6d55e49feb1e-7"
+  },
+  {
+    "text": "Advantages:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-052f57df-2a74-459e-adf4-0931cd2d414f-0-0"
+  },
+  {
+    "text": "It provides a tangible and measurable basis for power.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-052f57df-2a74-459e-adf4-0931cd2d414f-0-1-0"
+  },
+  {
+    "text": "It allows for flexibility in negotiations and deal-making.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-052f57df-2a74-459e-adf4-0931cd2d414f-0-1-1"
+  },
+  {
+    "text": "It can be converted into other forms of power.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-052f57df-2a74-459e-adf4-0931cd2d414f-0-1-2"
+  },
+  {
+    "text": "It attracts alliances and partnerships due to its utility.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-052f57df-2a74-459e-adf4-0931cd2d414f-0-1-3"
+  },
+  {
+    "text": "It allows for dominance in competitive environments.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-052f57df-2a74-459e-adf4-0931cd2d414f-0-1-4"
+  },
+  {
+    "text": "It can be a key factor in resolving crises or conflicts.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-052f57df-2a74-459e-adf4-0931cd2d414f-0-1-5"
+  },
+  {
+    "text": "It enables wealth accumulation and long-term influence.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-052f57df-2a74-459e-adf4-0931cd2d414f-0-1-6"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-052f57df-2a74-459e-adf4-0931cd2d414f-1-0"
+  },
+  {
+    "text": "It creates dependency on the resources for maintaining influence.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-052f57df-2a74-459e-adf4-0931cd2d414f-1-1-0"
+  },
+  {
+    "text": "It can be a source of conflict, susceptible to depletion or overuse.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-052f57df-2a74-459e-adf4-0931cd2d414f-1-1-1"
+  },
+  {
+    "text": "It may promote short-term gains over sustainable practices.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-052f57df-2a74-459e-adf4-0931cd2d414f-1-1-2"
+  },
+  {
+    "text": "It risks becoming irrelevant if the resource loses value or demand.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-052f57df-2a74-459e-adf4-0931cd2d414f-1-1-3"
+  },
+  {
+    "text": "It promotes a zero-sum mindset, hoarding resources over sharing.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-052f57df-2a74-459e-adf4-0931cd2d414f-1-1-4"
+  },
+  {
+    "text": "It may discourage innovation due to abundance and complacency.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-052f57df-2a74-459e-adf4-0931cd2d414f-1-1-5"
+  },
+  {
+    "text": "It can create reliance on resource managers, reducing control.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-052f57df-2a74-459e-adf4-0931cd2d414f-1-1-6"
+  },
+  {
+    "text": "Power of Rewards = the capacity to influence others' behavior, decisions, or actions by offering desirable incentives, benefits, or recognition in exchange for achieving specific goals, meeting expectations, or exhibiting desired behaviors.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-73646c5f-3979-40a1-a925-637eb2372505"
+  },
+  {
+    "text": "How we make use of it:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-aa85edd4-418c-4440-a8e3-95cf7c4cd40d"
+  },
+  {
+    "text": "We leverage rewards to align individual performance with company objectives.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-3a4aa681-6335-4b49-a4a1-bb8e123de793"
+  },
+  {
+    "text": "We recognize and reward achievements that directly contribute to profitability and growth.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-3a4aa681-6335-4b49-a4a1-bb8e123de793-1"
+  },
+  {
+    "text": "We offer performance-based bonuses to drive results and encourage innovation.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-3a4aa681-6335-4b49-a4a1-bb8e123de793-2"
+  },
+  {
+    "text": "We use incentives to motivate teams to exceed their targets consistently.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-3a4aa681-6335-4b49-a4a1-bb8e123de793-3"
+  },
+  {
+    "text": "We provide clear links between exceptional performance and tangible rewards.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-3a4aa681-6335-4b49-a4a1-bb8e123de793-4"
+  },
+  {
+    "text": "We use recognition programs to publicly celebrate high achievers and inspire others.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-3a4aa681-6335-4b49-a4a1-bb8e123de793-5"
+  },
+  {
+    "text": "We offer promotions and career advancement opportunities as rewards for exceptional results.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-3a4aa681-6335-4b49-a4a1-bb8e123de793-6"
+  },
+  {
+    "text": "We create a culture where rewards are expected for excellence, driving ambition and achievement.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-3a4aa681-6335-4b49-a4a1-bb8e123de793-7"
+  },
+  {
+    "text": "Advantages:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-e0c30840-a2c9-40b0-a284-14330bb3cc49-0-0"
+  },
+  {
+    "text": "It motivates individuals to perform tasks effectively.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-e0c30840-a2c9-40b0-a284-14330bb3cc49-0-1-0"
+  },
+  {
+    "text": "It fosters a sense of achievement among recipients.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-e0c30840-a2c9-40b0-a284-14330bb3cc49-0-1-1"
+  },
+  {
+    "text": "It promotes a positive work environment when applied fairly.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-e0c30840-a2c9-40b0-a284-14330bb3cc49-0-1-2"
+  },
+  {
+    "text": "It reduces resistance when rewards align with change initiatives.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-e0c30840-a2c9-40b0-a284-14330bb3cc49-0-1-3"
+  },
+  {
+    "text": "It sets a benchmark, inspiring others to achieve similar success.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-e0c30840-a2c9-40b0-a284-14330bb3cc49-0-1-4"
+  },
+  {
+    "text": "It can attract high-performing talent to an organization.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-e0c30840-a2c9-40b0-a284-14330bb3cc49-0-1-5"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-e0c30840-a2c9-40b0-a284-14330bb3cc49-1-0"
+  },
+  {
+    "text": "It can devalue intrinsic motivators like passion or purpose.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-e0c30840-a2c9-40b0-a284-14330bb3cc49-1-1-0"
+  },
+  {
+    "text": "It can lead to resentment among those who feel overlooked.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-e0c30840-a2c9-40b0-a284-14330bb3cc49-1-1-1"
+  },
+  {
+    "text": "It may encourage short-term focus rather than long-term growth.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-e0c30840-a2c9-40b0-a284-14330bb3cc49-1-1-2"
+  },
+  {
+    "text": "It may lose effectiveness if rewards become predictable or routine.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-e0c30840-a2c9-40b0-a284-14330bb3cc49-1-1-3"
+  },
+  {
+    "text": "It can cause entitlement attitudes among recipients.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-e0c30840-a2c9-40b0-a284-14330bb3cc49-1-1-4"
+  },
+  {
+    "text": "It can lead to unhealthy competition rather than collaboration.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-e0c30840-a2c9-40b0-a284-14330bb3cc49-1-1-5"
+  },
+  {
+    "text": "It can cause imbalance if some roles lack visible rewards.",
+    "type": "contentBlock",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm#search-e0c30840-a2c9-40b0-a284-14330bb3cc49-1-1-6"
+  },
+  {
+    "text": "Sources of Power",
+    "type": "pageTitle",
+    "pageName": "Sources of Power",
+    "category": "Coordination / Sources of Power",
+    "keywords": "Coordination / Sources of Power",
+    "url": "../html/sources-of-power-bXxId2Xm"
+  },
+  {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
     "pageName": "Supportive Roles",
     "category": "Coordination / Supportive Roles",
     "url": "../html/supportive-roles-m5hjKbQn#search-8fb4bc0b-ae03-4bc2-869d-8de26792d086"
@@ -22499,21 +24495,6 @@
     "category": "Coordination / Decision Making",
     "keywords": "Coordination / Decision Making",
     "url": "../html/decision-making-7UZRL0TU"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Sources of Authority",
-    "category": "Coordination / Sources of Authority",
-    "url": "../html/sources-of-authority-bXxId2Xm#search-06e186cc-544f-41fd-8a9e-adff7403d747"
-  },
-  {
-    "text": "Sources of Authority",
-    "type": "pageTitle",
-    "pageName": "Sources of Authority",
-    "category": "Coordination / Sources of Authority",
-    "keywords": "Coordination / Sources of Authority",
-    "url": "../html/sources-of-authority-bXxId2Xm"
   },
   {
     "text": "Note: This is demo content for a fictional SaaS company.",
