@@ -20,343 +20,280 @@
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-9f405f0f-8c00-48f2-a3d2-3f5a5642a601"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-9f405f0f-8c00-48f2-a3d2-3f5a5642a601"
   },
   {
     "text": "To talk about leadership, we must talk about a lot of things, one by one.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-f3c0e8f3-77a4-4e52-80ca-9e024d4d20f1"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-f3c0e8f3-77a4-4e52-80ca-9e024d4d20f1"
   },
   {
     "text": "",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-2101b19f-7429-4362-8403-182b5d96d774"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-2101b19f-7429-4362-8403-182b5d96d774"
   },
   {
     "text": "Direction",
     "type": "sectionHeader",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-ebd66e71-03d4-4082-b958-68a7876784b9"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-ebd66e71-03d4-4082-b958-68a7876784b9"
   },
   {
     "text": "Leadership starts with a direction. First, we must know where we are going.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-0d6d9a51-fa2e-41fb-b2ce-0decc5c9fa15"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-0d6d9a51-fa2e-41fb-b2ce-0decc5c9fa15"
   },
   {
     "text": "Before going anywhere, we must know why. We must have a purpose.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-0d6d9a51-fa2e-41fb-b2ce-0decc5c9fa15-1"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-0d6d9a51-fa2e-41fb-b2ce-0decc5c9fa15-1"
   },
   {
     "text": "Then, we must know what we will find there. We need a vision.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-0d6d9a51-fa2e-41fb-b2ce-0decc5c9fa15-2"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-0d6d9a51-fa2e-41fb-b2ce-0decc5c9fa15-2"
   },
   {
     "text": "But to actually get there, we need some sort of strategy, otherwise we will get lost.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-0d6d9a51-fa2e-41fb-b2ce-0decc5c9fa15-3"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-0d6d9a51-fa2e-41fb-b2ce-0decc5c9fa15-3"
   },
   {
     "text": "Finally, we are ready to begin our journey. ",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-0d6d9a51-fa2e-41fb-b2ce-0decc5c9fa15-4"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-0d6d9a51-fa2e-41fb-b2ce-0decc5c9fa15-4"
   },
   {
     "text": "Trust",
     "type": "sectionHeader",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-dae1b065-bf5d-4052-b6c4-4cb7dd6e9214"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-dae1b065-bf5d-4052-b6c4-4cb7dd6e9214"
   },
   {
     "text": "We need to find companions whom we can fully trust and rely on. ",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-0c2d81fd-7afe-4ac7-b113-398437676f94"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-0c2d81fd-7afe-4ac7-b113-398437676f94"
   },
   {
     "text": "Trust is the most fundamental building block of leadership.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-0c2d81fd-7afe-4ac7-b113-398437676f94-1"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-0c2d81fd-7afe-4ac7-b113-398437676f94-1"
   },
   {
     "text": "To talk about trust, we must know what types of trust there are.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-0c2d81fd-7afe-4ac7-b113-398437676f94-2"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-0c2d81fd-7afe-4ac7-b113-398437676f94-2"
   },
   {
     "text": "And we must also know that trust evolves over time, so we have stages of trust.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-0c2d81fd-7afe-4ac7-b113-398437676f94-3"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-0c2d81fd-7afe-4ac7-b113-398437676f94-3"
   },
   {
     "text": "But trust is a complicated issue, and it depends on our states of mind.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-0c2d81fd-7afe-4ac7-b113-398437676f94-4"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-0c2d81fd-7afe-4ac7-b113-398437676f94-4"
   },
   {
     "text": "It also depends on our feeling of safety, so we need to know the types of safety.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-0c2d81fd-7afe-4ac7-b113-398437676f94-5"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-0c2d81fd-7afe-4ac7-b113-398437676f94-5"
   },
   {
     "text": "In order to create safety, we need to set different types of boundaries.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-0c2d81fd-7afe-4ac7-b113-398437676f94-6"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-0c2d81fd-7afe-4ac7-b113-398437676f94-6"
   },
   {
     "text": "And trust can be easily broken if we are not careful due to our cognitive biases.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-0c2d81fd-7afe-4ac7-b113-398437676f94-7"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-0c2d81fd-7afe-4ac7-b113-398437676f94-7"
   },
   {
     "text": "Communication",
     "type": "sectionHeader",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-322c0d9e-a47c-4344-aaa5-f1d210553307"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-322c0d9e-a47c-4344-aaa5-f1d210553307"
   },
   {
     "text": "Trust is very much based on our interaction and communication.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-23253f24-0839-4f58-bcfa-9aa65bc83772"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-23253f24-0839-4f58-bcfa-9aa65bc83772"
   },
   {
     "text": "Communication is a complex topic that includes multiple aspects.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-23253f24-0839-4f58-bcfa-9aa65bc83772-1"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-23253f24-0839-4f58-bcfa-9aa65bc83772-1"
   },
   {
     "text": "We must understand the different styles of communication that people use.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-23253f24-0839-4f58-bcfa-9aa65bc83772-2"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-23253f24-0839-4f58-bcfa-9aa65bc83772-2"
   },
   {
     "text": "We must also understand what types of feedback we can give and receive.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-23253f24-0839-4f58-bcfa-9aa65bc83772-3"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-23253f24-0839-4f58-bcfa-9aa65bc83772-3"
   },
   {
     "text": "And also, what styles of appreciation and apology people prefer. ",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-23253f24-0839-4f58-bcfa-9aa65bc83772-4"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-23253f24-0839-4f58-bcfa-9aa65bc83772-4"
   },
   {
     "text": "Coordination",
     "type": "sectionHeader",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-5d8729ef-3051-470a-a391-dc52f6734b21"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-5d8729ef-3051-470a-a391-dc52f6734b21"
   },
   {
     "text": "Once we can manage trust and communication, we can start moving together.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d"
   },
   {
     "text": "To coordinate with each other, we must understand our leadership style.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-1"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-1"
   },
   {
     "text": "We should also decide on which sources of power we need to rely.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-2"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-2"
   },
   {
     "text": "And most likely, we will need help from one or more supportive roles.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-3"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-3"
   },
   {
-    "text": "Leadership is always about decisions, so we need a decision making strategy.",
+    "text": "Leadership is all about decisions, so we need a decision-making process.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-4"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-4"
+  },
+  {
+    "text": "We also need to acknowledge different decision-making styles.",
+    "type": "contentBlock",
+    "pageName": "Intro",
+    "category": "Intro",
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-5"
   },
   {
     "text": "Culture",
     "type": "sectionHeader",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-358f4288-41c5-4c3d-bd39-31a1f7acb470"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-358f4288-41c5-4c3d-bd39-31a1f7acb470"
   },
   {
     "text": "When there is coordination and communication, there is a group culture.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-22e5a4f7-672b-40d1-863f-c5cecc30bce0"
-  },
-  {
-    "text": "We must carefully grow our company culture, base on our shared values.",
-    "type": "contentBlock",
-    "pageName": "Intro",
-    "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-22e5a4f7-672b-40d1-863f-c5cecc30bce0-1"
-  },
-  {
-    "text": "And we must carefully develop the right practices to support those values.",
-    "type": "contentBlock",
-    "pageName": "Intro",
-    "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-22e5a4f7-672b-40d1-863f-c5cecc30bce0-2"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-22e5a4f7-672b-40d1-863f-c5cecc30bce0"
   },
   {
     "text": "Diversity",
     "type": "sectionHeader",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-6ae37ed5-e234-42e5-a561-edaa079f257c"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-6ae37ed5-e234-42e5-a561-edaa079f257c"
   },
   {
     "text": "But to talk about culture, we must inevitably talk about diversity.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-80ef426e-6ce1-4f7d-b394-7680a1bbafbb"
-  },
-  {
-    "text": "Diversity comes in many forms and it’s absolutely inevitable.",
-    "type": "contentBlock",
-    "pageName": "Intro",
-    "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-80ef426e-6ce1-4f7d-b394-7680a1bbafbb-1"
-  },
-  {
-    "text": "It can come from individual traits like neurodiversity or personality.",
-    "type": "contentBlock",
-    "pageName": "Intro",
-    "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-80ef426e-6ce1-4f7d-b394-7680a1bbafbb-2"
-  },
-  {
-    "text": "Or it can come from cultural backgrounds like ethnicity.",
-    "type": "contentBlock",
-    "pageName": "Intro",
-    "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-80ef426e-6ce1-4f7d-b394-7680a1bbafbb-3"
-  },
-  {
-    "text": "And if we understand diversity, then we must also approach inclusivity.",
-    "type": "contentBlock",
-    "pageName": "Intro",
-    "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-80ef426e-6ce1-4f7d-b394-7680a1bbafbb-4"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-80ef426e-6ce1-4f7d-b394-7680a1bbafbb"
   },
   {
     "text": "Maturity",
     "type": "sectionHeader",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-8733f05d-dab3-416e-af4c-6fc95c56d394"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-8733f05d-dab3-416e-af4c-6fc95c56d394"
   },
   {
     "text": "If we want to grow, we must develop and increase our maturity.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-9b0537ba-cb93-4daf-9bee-40ee93593cd2"
-  },
-  {
-    "text": "Maturity comes in many forms, from individual maturity to group maturity.",
-    "type": "contentBlock",
-    "pageName": "Intro",
-    "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-9b0537ba-cb93-4daf-9bee-40ee93593cd2-1"
-  },
-  {
-    "text": "Each of us must develop both our psychological and our professional maturity.",
-    "type": "contentBlock",
-    "pageName": "Intro",
-    "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-9b0537ba-cb93-4daf-9bee-40ee93593cd2-2"
-  },
-  {
-    "text": "And together, we must develop our team maturity and our business maturity.",
-    "type": "contentBlock",
-    "pageName": "Intro",
-    "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-9b0537ba-cb93-4daf-9bee-40ee93593cd2-3"
-  },
-  {
-    "text": "But maturity is never complete, so we must keep learning and growing.",
-    "type": "contentBlock",
-    "pageName": "Intro",
-    "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-9b0537ba-cb93-4daf-9bee-40ee93593cd2-4"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-9b0537ba-cb93-4daf-9bee-40ee93593cd2"
   },
   {
     "text": "Change",
     "type": "sectionHeader",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-56aeae7d-cbba-4074-b9ba-d8934d6b9129"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-56aeae7d-cbba-4074-b9ba-d8934d6b9129"
   },
   {
     "text": "And our learning must lead to change, in both ourselves and our company.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-1c75d81c-29a4-4a9e-afbf-c48107fabc44"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-1c75d81c-29a4-4a9e-afbf-c48107fabc44"
   },
   {
     "text": "",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj#search-13ecaf8f-3449-4673-9cba-90a4a45509b9"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-13ecaf8f-3449-4673-9cba-90a4a45509b9"
   },
   {
     "text": "Intro",
@@ -364,7 +301,7 @@
     "pageName": "Intro",
     "category": "Intro",
     "keywords": "Intro",
-    "url": "/latest/intro-UJDvxHHj-UJDvxHHj"
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj"
   },
   {
     "text": "Direction = the course or path along which something moves, points, or develops, often guided by purpose, intention, or instructions to achieve a specific goal or destination.",
@@ -22199,6 +22136,20 @@
     "url": "../html/supportive-roles-m5hjKbQn#search-78a66dfa-6120-48b6-8c87-4d46c5d7fe6c"
   },
   {
+    "text": "Assisting",
+    "type": "sectionHeader",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-29a3e33e-9ba3-4a5c-b050-f30a653bab25"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-265faa3d-db13-4ae6-b9c1-6b834cc37ae2"
+  },
+  {
     "text": "Coaching",
     "type": "sectionHeader",
     "pageName": "Supportive Roles",
@@ -22295,6 +22246,20 @@
     "pageName": "Supportive Roles",
     "category": "Coordination / Supportive Roles",
     "url": "../html/supportive-roles-m5hjKbQn#search-c2e6bb79-1d52-4364-9397-97f25c4e5906"
+  },
+  {
+    "text": "Sponsoring",
+    "type": "sectionHeader",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ca419479-e83a-4af8-9032-f1eae50495ee"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-9b340089-c935-4e35-b9c2-36dca7b8798e"
   },
   {
     "text": "Supervising",
@@ -22708,6 +22673,181 @@
     "pageName": "Supportive Roles",
     "category": "Coordination / Supportive Roles",
     "url": "../html/supportive-roles-m5hjKbQn#search-56e28e78-2358-4841-a1ea-8c5e773d1bed-1-1-7"
+  },
+  {
+    "text": "Assisting = the act of providing support, guidance, or resources in a subordinate, complementary, or collaborative role to enhance the effectiveness, productivity, and success of leaders, team members, or an organization as a whole in achieving their objectives.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-ede70144-d85b-4134-ad62-4832105d3807"
+  },
+  {
+    "text": "How we encourage this role:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-22cbee3d-934d-437e-97c1-f1bb7daaa9a9"
+  },
+  {
+    "text": "We ensure clear communication channels to enable team members to request and offer assistance easily.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-51225284-f30f-4e59-9f48-f6debd1a8619"
+  },
+  {
+    "text": "We reward and recognize individuals who go above and beyond in assisting their peers.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-51225284-f30f-4e59-9f48-f6debd1a8619-1"
+  },
+  {
+    "text": "We train employees to view assistance as a strength, not a weakness.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-51225284-f30f-4e59-9f48-f6debd1a8619-2"
+  },
+  {
+    "text": "We encourage proactive engagement in identifying areas where support may be needed.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-51225284-f30f-4e59-9f48-f6debd1a8619-3"
+  },
+  {
+    "text": "We integrate cross-functional projects to naturally build assisting roles across departments.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-51225284-f30f-4e59-9f48-f6debd1a8619-4"
+  },
+  {
+    "text": "We create clear role expectations that include contributing to the success of others.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-51225284-f30f-4e59-9f48-f6debd1a8619-5"
+  },
+  {
+    "text": "We model assistance from leadership, demonstrating its importance at all levels.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-51225284-f30f-4e59-9f48-f6debd1a8619-6"
+  },
+  {
+    "text": "We provide opportunities for employees to rotate roles, gaining empathy for others’ challenges.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-51225284-f30f-4e59-9f48-f6debd1a8619-7"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2101746c-814b-42be-b219-6b1976ef858b-0-0"
+  },
+  {
+    "text": "It enhances productivity by streamlining leadership responsibilities.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2101746c-814b-42be-b219-6b1976ef858b-0-1-0"
+  },
+  {
+    "text": "It empowers leaders by allowing focus on strategic priorities.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2101746c-814b-42be-b219-6b1976ef858b-0-1-1"
+  },
+  {
+    "text": "It supports clarity by organizing and prioritizing tasks.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2101746c-814b-42be-b219-6b1976ef858b-0-1-2"
+  },
+  {
+    "text": "It reduces stress by addressing routine or administrative tasks.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2101746c-814b-42be-b219-6b1976ef858b-0-1-3"
+  },
+  {
+    "text": "It strengthens morale by creating a dependable support system.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2101746c-814b-42be-b219-6b1976ef858b-0-1-4"
+  },
+  {
+    "text": "It fosters mentorship opportunities and knowledge sharing.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2101746c-814b-42be-b219-6b1976ef858b-0-1-5"
+  },
+  {
+    "text": "It reduces errors by acting as a second layer of review for tasks.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2101746c-814b-42be-b219-6b1976ef858b-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2101746c-814b-42be-b219-6b1976ef858b-1-0"
+  },
+  {
+    "text": "Miscommunicating intentions, leading to misunderstandings.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2101746c-814b-42be-b219-6b1976ef858b-1-1-0"
+  },
+  {
+    "text": "Neglecting personal tasks by focusing too much on helping others.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2101746c-814b-42be-b219-6b1976ef858b-1-1-1"
+  },
+  {
+    "text": "Offering unsolicited help, which may be seen as interference.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2101746c-814b-42be-b219-6b1976ef858b-1-1-2"
+  },
+  {
+    "text": "Failing to prioritize assistance based on urgency and importance.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2101746c-814b-42be-b219-6b1976ef858b-1-1-3"
+  },
+  {
+    "text": "Overcommitting to assistance and failing to deliver adequately.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2101746c-814b-42be-b219-6b1976ef858b-1-1-4"
+  },
+  {
+    "text": "Overstepping boundaries by taking unapproved responsibilities.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2101746c-814b-42be-b219-6b1976ef858b-1-1-5"
   },
   {
     "text": "Coaching = the process of guiding, supporting, and empowering individuals or teams to achieve personal or professional goals, develop skills, and improve performance through structured conversations, feedback, and ongoing encouragement, often focused on unlocking potential and fostering growth.",
@@ -24075,6 +24215,174 @@
     "url": "../html/supportive-roles-m5hjKbQn#search-9d2a881c-fe7d-4cc2-8e7c-882b138f2d1d-1-1-8"
   },
   {
+    "text": "Sponsoring = the act of actively supporting, guiding, and advocating for an individual, group, or initiative, typically by someone in a leadership or influential position, to enable growth, development, and success within an organization or community.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-2813fd4f-014b-46a7-967c-47d88b47de8d"
+  },
+  {
+    "text": "How we encourage this role:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-241a1404-cf7c-4ce7-9d68-6e32ce76c289"
+  },
+  {
+    "text": "We actively promote a culture where leaders take responsibility for the success of others.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-06aa910d-8045-4a21-86f0-f604b5b91e5b"
+  },
+  {
+    "text": "We reward leaders who demonstrate strong sponsorship behaviors, reinforcing its importance.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-06aa910d-8045-4a21-86f0-f604b5b91e5b-1"
+  },
+  {
+    "text": "We integrate sponsorship as a core component of leadership development programs.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-06aa910d-8045-4a21-86f0-f604b5b91e5b-2"
+  },
+  {
+    "text": "We provide clear guidelines and tools to help leaders sponsor effectively and consistently.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-06aa910d-8045-4a21-86f0-f604b5b91e5b-3"
+  },
+  {
+    "text": "We celebrate and publicize success stories that result from strong sponsorship efforts.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-06aa910d-8045-4a21-86f0-f604b5b91e5b-4"
+  },
+  {
+    "text": "We ensure resources are available to back the initiatives and individuals our leaders sponsor.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-06aa910d-8045-4a21-86f0-f604b5b91e5b-5"
+  },
+  {
+    "text": "We provide training for leaders to develop the advocacy and coaching skills essential for effective sponsorship.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-06aa910d-8045-4a21-86f0-f604b5b91e5b-6"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-71240f00-8a7d-49ea-b8a3-1c64214a62a4-0-0"
+  },
+  {
+    "text": "It provides credibility to initiatives through leadership association.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-71240f00-8a7d-49ea-b8a3-1c64214a62a4-0-1-0"
+  },
+  {
+    "text": "It reduces risks by providing strategic oversight and guidance.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-71240f00-8a7d-49ea-b8a3-1c64214a62a4-0-1-1"
+  },
+  {
+    "text": "It helps overcome bureaucracy and speeds up decision-making.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-71240f00-8a7d-49ea-b8a3-1c64214a62a4-0-1-2"
+  },
+  {
+    "text": "It builds stakeholder trust and buy-in through visible support.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-71240f00-8a7d-49ea-b8a3-1c64214a62a4-0-1-3"
+  },
+  {
+    "text": "It amplifies initiatives through the sponsor's network and influence.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-71240f00-8a7d-49ea-b8a3-1c64214a62a4-0-1-4"
+  },
+  {
+    "text": "It builds confidence in individuals by affirming their potential.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-71240f00-8a7d-49ea-b8a3-1c64214a62a4-0-1-5"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-71240f00-8a7d-49ea-b8a3-1c64214a62a4-1-0"
+  },
+  {
+    "text": "Not clearly defining the goals and expectations of the sponsorship.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-71240f00-8a7d-49ea-b8a3-1c64214a62a4-1-1-0"
+  },
+  {
+    "text": "Not allocating enough resources like time, funding, or personnel.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-71240f00-8a7d-49ea-b8a3-1c64214a62a4-1-1-1"
+  },
+  {
+    "text": "Neglecting to align the initiative with organizational priorities.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-71240f00-8a7d-49ea-b8a3-1c64214a62a4-1-1-2"
+  },
+  {
+    "text": "Sponsoring initiatives or individuals without assessing their impact.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-71240f00-8a7d-49ea-b8a3-1c64214a62a4-1-1-3"
+  },
+  {
+    "text": "Putting personal or political agendas before the initiative’s success.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-71240f00-8a7d-49ea-b8a3-1c64214a62a4-1-1-4"
+  },
+  {
+    "text": "Micromanaging teams instead of providing strategic guidance.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-71240f00-8a7d-49ea-b8a3-1c64214a62a4-1-1-5"
+  },
+  {
+    "text": "Ignoring the need to regularly monitor and assess progress.",
+    "type": "contentBlock",
+    "pageName": "Supportive Roles",
+    "category": "Coordination / Supportive Roles",
+    "url": "../html/supportive-roles-m5hjKbQn#search-71240f00-8a7d-49ea-b8a3-1c64214a62a4-1-1-6"
+  },
+  {
     "text": "Supervising = the process of overseeing, guiding, and managing the work and performance of individuals or teams to ensure tasks are completed effectively, organizational goals are met, and employees receive the necessary support, direction, and feedback to succeed in their roles.",
     "type": "contentBlock",
     "pageName": "Supportive Roles",
@@ -24482,19 +24790,2477 @@
     "url": "../html/supportive-roles-m5hjKbQn"
   },
   {
-    "text": "",
+    "text": "Note: This is demo content for a fictional SaaS company.",
     "type": "contentBlock",
-    "pageName": "Decision Making",
-    "category": "Coordination / Decision Making",
-    "url": "../html/decision-making-7UZRL0TU#search-e85a9c69-2f4e-4414-9a5e-56df0848cd6e"
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-b91f8068-dc5d-4bed-b20e-25e8dc22dc5d"
   },
   {
-    "text": "Decision Making",
+    "text": "Decision Making = the process of selecting a course of action from multiple alternatives to achieve a desired outcome or solve a problem.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-f48ec70b-c4fd-494c-8029-8f2be20cba73"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-7137fb5a-a306-469d-8fb9-d4bb60760f07"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-fc47074e-dab6-4536-be6e-5df554583303"
+  },
+  {
+    "text": "Step 1: Identifying the Problem",
+    "type": "sectionHeader",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-3ab88f16-444b-4399-a423-6a7d5c1c2b21"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1983f304-7782-484c-b41c-6f828063637c"
+  },
+  {
+    "text": "Step 2: Gathering Information",
+    "type": "sectionHeader",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1e9b4332-b495-4499-99ad-2ec84b0e5b90"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-e7cceb34-6708-4044-a18c-ac3b740dfdcf"
+  },
+  {
+    "text": "Step 3: Creating Decision Criteria",
+    "type": "sectionHeader",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-4a8f25ec-7bb8-4a31-b6e1-50c3229862a6"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-60fc58b6-6bb6-4fbe-98b0-f2eda5f4b314"
+  },
+  {
+    "text": "Step 4: Identifying Alternatives",
+    "type": "sectionHeader",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-7abee071-56cc-4649-8037-8385ab5084be"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-11e4b5d0-2ed4-49b7-8126-6a509477d5b8"
+  },
+  {
+    "text": "Step 5: Evaluating Alternatives",
+    "type": "sectionHeader",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-ae4376fb-7f8c-4a17-b0e3-402db9ef9553"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-eaf4f17e-1bd6-41ac-b4b5-d1fca26c6a49"
+  },
+  {
+    "text": "Step 6: Making the Decision",
+    "type": "sectionHeader",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-3a72d32c-d9d6-4f11-937b-65a78c235532"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-810345c5-f893-4b43-b4c2-56b21b978c24"
+  },
+  {
+    "text": "Step 7: Implementing the Decision",
+    "type": "sectionHeader",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-30597889-4bc8-476d-9e31-1d475ce0e678"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-246893f1-b0fb-4dae-a6c8-ee6798336561"
+  },
+  {
+    "text": "Step 8: Reviewing the Decision",
+    "type": "sectionHeader",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-50d8c1fa-1698-4e62-b1f4-ab7f8dc2b293"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-a65d5de9-b7c6-411c-ab8f-2cbbd889e1ed"
+  },
+  {
+    "text": "Identifying the Problem = the step in which the issue, challenge, or opportunity is clearly defined and understood to ensure that the decision-making process focuses on addressing the correct situation effectively, laying the foundation for meaningful solutions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-5ea7eb24-7cfe-423d-8bec-f82db64b38f4"
+  },
+  {
+    "text": "How we support this step:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-ecf54375-9d9a-483b-bd13-575887019b6f"
+  },
+  {
+    "text": "We gather data and insights from diverse sources to gain a comprehensive view of the situation.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-d7263c43-6c7f-45a9-a696-5d0057e55dc1"
+  },
+  {
+    "text": "We prioritize clarity by ensuring all team members fully understand the issue at hand.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-d7263c43-6c7f-45a9-a696-5d0057e55dc1-1"
+  },
+  {
+    "text": "We encourage open communication to surface potential problems and challenges early.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-d7263c43-6c7f-45a9-a696-5d0057e55dc1-2"
+  },
+  {
+    "text": "We utilize analytical tools and frameworks to identify the root cause of the problem.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-d7263c43-6c7f-45a9-a696-5d0057e55dc1-3"
+  },
+  {
+    "text": "We support collaborative brainstorming sessions to refine and clarify the problem.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-d7263c43-6c7f-45a9-a696-5d0057e55dc1-4"
+  },
+  {
+    "text": "We provide training on problem-definition techniques to improve decision-making accuracy.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-d7263c43-6c7f-45a9-a696-5d0057e55dc1-5"
+  },
+  {
+    "text": "We document and validate problem statements to ensure they are actionable and precise.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-d7263c43-6c7f-45a9-a696-5d0057e55dc1-6"
+  },
+  {
+    "text": "We encourage stakeholders to provide input for a more holistic problem understanding.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-d7263c43-6c7f-45a9-a696-5d0057e55dc1-7"
+  },
+  {
+    "text": "We invest in market research and competitor analysis to contextualize challenges effectively.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-d7263c43-6c7f-45a9-a696-5d0057e55dc1-8"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-e15f35d3-0b08-4190-b25f-870e944646e6-0-0"
+  },
+  {
+    "text": "Articulating the problem clearly in simple, specific terms.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-e15f35d3-0b08-4190-b25f-870e944646e6-0-1-0"
+  },
+  {
+    "text": "Gathering input from stakeholders to gain diverse perspectives.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-e15f35d3-0b08-4190-b25f-870e944646e6-0-1-1"
+  },
+  {
+    "text": "Differentiating between symptoms and the root cause of the issue.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-e15f35d3-0b08-4190-b25f-870e944646e6-0-1-2"
+  },
+  {
+    "text": "Defining the problem's scope to prevent overgeneralization.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-e15f35d3-0b08-4190-b25f-870e944646e6-0-1-3"
+  },
+  {
+    "text": "Assessing urgency and prioritizing problems based on impact.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-e15f35d3-0b08-4190-b25f-870e944646e6-0-1-4"
+  },
+  {
+    "text": "Documenting issue-related observations and evidence for clarity.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-e15f35d3-0b08-4190-b25f-870e944646e6-0-1-5"
+  },
+  {
+    "text": "Reassessing the problem periodically to confirm its accuracy.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-e15f35d3-0b08-4190-b25f-870e944646e6-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-e15f35d3-0b08-4190-b25f-870e944646e6-1-0"
+  },
+  {
+    "text": "Confusing symptoms with the actual root cause of the problem.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-e15f35d3-0b08-4190-b25f-870e944646e6-1-1-0"
+  },
+  {
+    "text": "Making assumptions without collecting sufficient evidence or data.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-e15f35d3-0b08-4190-b25f-870e944646e6-1-1-1"
+  },
+  {
+    "text": "Framing the problem too broadly or narrowly, limiting solutions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-e15f35d3-0b08-4190-b25f-870e944646e6-1-1-2"
+  },
+  {
+    "text": "Ignoring input or feedback from key stakeholders.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-e15f35d3-0b08-4190-b25f-870e944646e6-1-1-3"
+  },
+  {
+    "text": "Allowing emotions or biases to distort problem perception.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-e15f35d3-0b08-4190-b25f-870e944646e6-1-1-4"
+  },
+  {
+    "text": "Overlooking related factors or context contributing to the issue.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-e15f35d3-0b08-4190-b25f-870e944646e6-1-1-5"
+  },
+  {
+    "text": "Failing to validate the problem’s existence with tangible evidence.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-e15f35d3-0b08-4190-b25f-870e944646e6-1-1-6"
+  },
+  {
+    "text": "Neglecting to refine the problem definition as new insights emerge.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-e15f35d3-0b08-4190-b25f-870e944646e6-1-1-7"
+  },
+  {
+    "text": "Rushing the identification step to quickly move to solutions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-e15f35d3-0b08-4190-b25f-870e944646e6-1-1-8"
+  },
+  {
+    "text": "Gathering Information = the step in which relevant and accurate data, insights, and facts are systematically collected from various sources to fully understand the problem, identify opportunities, and support the development of well-informed decisions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-d37f9c49-6027-4aba-b753-44bb12639e26"
+  },
+  {
+    "text": "How we support this step:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-8208a3e9-1ec6-42b0-ac0c-e68940e587b3"
+  },
+  {
+    "text": "We prioritize access to diverse and reliable data sources to ensure informed decisions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-2e526fee-97aa-45e0-a78a-31821b4bab58"
+  },
+  {
+    "text": "We invest in advanced tools and technologies to streamline data collection and analysis.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-2e526fee-97aa-45e0-a78a-31821b4bab58-1"
+  },
+  {
+    "text": "We train our teams to identify credible sources and verify the accuracy of information.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-2e526fee-97aa-45e0-a78a-31821b4bab58-2"
+  },
+  {
+    "text": "We establish clear processes for gathering information efficiently and systematically.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-2e526fee-97aa-45e0-a78a-31821b4bab58-3"
+  },
+  {
+    "text": "We encourage collaboration across departments to pool insights and expertise.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-2e526fee-97aa-45e0-a78a-31821b4bab58-4"
+  },
+  {
+    "text": "We maintain a robust knowledge base to preserve and share valuable information.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-2e526fee-97aa-45e0-a78a-31821b4bab58-5"
+  },
+  {
+    "text": "We use analytics to extract actionable insights from complex data sets.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-2e526fee-97aa-45e0-a78a-31821b4bab58-6"
+  },
+  {
+    "text": "We support continuous monitoring of market trends, competitors, and customer feedback.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-2e526fee-97aa-45e0-a78a-31821b4bab58-7"
+  },
+  {
+    "text": "We partner with experts and consultants when specialized knowledge is required.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-2e526fee-97aa-45e0-a78a-31821b4bab58-8"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bf3c858b-61e3-4c85-88d1-d61de7056315-0-0"
+  },
+  {
+    "text": "Conducting thorough research on the problem.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bf3c858b-61e3-4c85-88d1-d61de7056315-0-1-0"
+  },
+  {
+    "text": "Collecting feedback from diverse  stakeholders.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bf3c858b-61e3-4c85-88d1-d61de7056315-0-1-1"
+  },
+  {
+    "text": "Consulting experts or experienced individuals.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bf3c858b-61e3-4c85-88d1-d61de7056315-0-1-2"
+  },
+  {
+    "text": "Reviewing historical data or case studies.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bf3c858b-61e3-4c85-88d1-d61de7056315-0-1-3"
+  },
+  {
+    "text": "Observing real-world scenarios related to the issue.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bf3c858b-61e3-4c85-88d1-d61de7056315-0-1-4"
+  },
+  {
+    "text": "Analyzing industry trends, benchmarks or competitor practices.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bf3c858b-61e3-4c85-88d1-d61de7056315-0-1-5"
+  },
+  {
+    "text": "Leveraging technological tools for data collection.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bf3c858b-61e3-4c85-88d1-d61de7056315-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bf3c858b-61e3-4c85-88d1-d61de7056315-1-0"
+  },
+  {
+    "text": "Relying solely on incomplete or biased sources.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bf3c858b-61e3-4c85-88d1-d61de7056315-1-1-0"
+  },
+  {
+    "text": "Overlooking critical stakeholders during the process.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bf3c858b-61e3-4c85-88d1-d61de7056315-1-1-1"
+  },
+  {
+    "text": "Misinterpreting the relevance of collected information.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bf3c858b-61e3-4c85-88d1-d61de7056315-1-1-2"
+  },
+  {
+    "text": "Failing to address potential biases in data collection methods.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bf3c858b-61e3-4c85-88d1-d61de7056315-1-1-3"
+  },
+  {
+    "text": "Disregarding opposing perspectives or contradictory data.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bf3c858b-61e3-4c85-88d1-d61de7056315-1-1-4"
+  },
+  {
+    "text": "Overloading with unnecessary or irrelevant data.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bf3c858b-61e3-4c85-88d1-d61de7056315-1-1-5"
+  },
+  {
+    "text": "Skipping proper documentation of gathered information.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bf3c858b-61e3-4c85-88d1-d61de7056315-1-1-6"
+  },
+  {
+    "text": "Ignoring cultural or contextual nuances in the information.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bf3c858b-61e3-4c85-88d1-d61de7056315-1-1-7"
+  },
+  {
+    "text": "Establishing Decision Criteria = the step in which clear and measurable benchmarks, standards, or priorities are defined to guide the evaluation and selection of the best alternative, ensuring alignment with goals, values, and constraints.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-07edc79f-ce88-4eb1-bd0b-a4acad5e402a"
+  },
+  {
+    "text": "How we support this step:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-f2f9b8f3-b1a9-458b-8f3b-ce93264bbfe3"
+  },
+  {
+    "text": "We prioritize setting clear benchmarks to guide every decision-making process.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-5a079df3-b661-4a4a-be39-745165975caa"
+  },
+  {
+    "text": "We use measurable standards to avoid ambiguity and promote objective evaluations.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-5a079df3-b661-4a4a-be39-745165975caa-1"
+  },
+  {
+    "text": "We engage key stakeholders to define relevant and realistic benchmarks.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-5a079df3-b661-4a4a-be39-745165975caa-2"
+  },
+  {
+    "text": "We insist on simplicity in criteria to streamline decision-making processes.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-5a079df3-b661-4a4a-be39-745165975caa-3"
+  },
+  {
+    "text": "We document all decision criteria to ensure accountability and transparency.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-5a079df3-b661-4a4a-be39-745165975caa-4"
+  },
+  {
+    "text": "We set clear priorities to weigh trade-offs effectively during evaluation.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-5a079df3-b661-4a4a-be39-745165975caa-5"
+  },
+  {
+    "text": "We regularly audit and update our benchmarks to keep them relevant and impactful.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-5a079df3-b661-4a4a-be39-745165975caa-6"
+  },
+  {
+    "text": "We ensure our decision criteria are communicated effectively across teams.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-5a079df3-b661-4a4a-be39-745165975caa-7"
+  },
+  {
+    "text": "We use technology to track and measure decision criteria objectively.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-5a079df3-b661-4a4a-be39-745165975caa-8"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-cab9106a-deb5-41e1-89c6-64d621cb04bb-0-0"
+  },
+  {
+    "text": "Clarifying the key objectives for the decision.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-cab9106a-deb5-41e1-89c6-64d621cb04bb-0-1-0"
+  },
+  {
+    "text": "Identifying constraints like budget, time, or resources.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-cab9106a-deb5-41e1-89c6-64d621cb04bb-0-1-1"
+  },
+  {
+    "text": "Conducting brainstorming sessions to define decision criteria.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-cab9106a-deb5-41e1-89c6-64d621cb04bb-0-1-2"
+  },
+  {
+    "text": "Benchmarking against industry standards or best practices.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-cab9106a-deb5-41e1-89c6-64d621cb04bb-0-1-3"
+  },
+  {
+    "text": "Using decision matrices to weigh and rank criteria effectively.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-cab9106a-deb5-41e1-89c6-64d621cb04bb-0-1-4"
+  },
+  {
+    "text": "Clearly documenting and sharing criteria with decision-makers.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-cab9106a-deb5-41e1-89c6-64d621cb04bb-0-1-5"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-cab9106a-deb5-41e1-89c6-64d621cb04bb-1-0"
+  },
+  {
+    "text": "Setting overly vague, ambiguous or rigid criteria.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-cab9106a-deb5-41e1-89c6-64d621cb04bb-1-1-0"
+  },
+  {
+    "text": "Ignoring constraints or practical limitations.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-cab9106a-deb5-41e1-89c6-64d621cb04bb-1-1-1"
+  },
+  {
+    "text": "Neglecting to prioritize criteria based on importance.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-cab9106a-deb5-41e1-89c6-64d621cb04bb-1-1-2"
+  },
+  {
+    "text": "Overemphasizing one factor while ignoring others.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-cab9106a-deb5-41e1-89c6-64d621cb04bb-1-1-3"
+  },
+  {
+    "text": "Overcomplicating criteria with excessive details or layers.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-cab9106a-deb5-41e1-89c6-64d621cb04bb-1-1-4"
+  },
+  {
+    "text": "Setting criteria that are difficult to measure or quantify.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-cab9106a-deb5-41e1-89c6-64d621cb04bb-1-1-5"
+  },
+  {
+    "text": "Failing to involve relevant stakeholders in defining criteria.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-cab9106a-deb5-41e1-89c6-64d621cb04bb-1-1-6"
+  },
+  {
+    "text": "Allowing personal bias to influence criteria development.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-cab9106a-deb5-41e1-89c6-64d621cb04bb-1-1-7"
+  },
+  {
+    "text": "Identifying Alternatives = the step in which a variety of potential solutions or approaches are systematically explored or generated, ensuring a comprehensive set of viable options to address the problem effectively.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1884608e-6571-4d07-a4e5-9a076a25c4b8"
+  },
+  {
+    "text": "How we support this step:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-464c2bb1-121f-4e84-8595-aab6b06196c3"
+  },
+  {
+    "text": "We prioritize brainstorming sessions to generate diverse solutions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1d879fd8-062b-4b7d-8563-185998210a7a"
+  },
+  {
+    "text": "We encourage cross-departmental collaboration to leverage varied perspectives.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1d879fd8-062b-4b7d-8563-185998210a7a-1"
+  },
+  {
+    "text": "We utilize data-driven tools to model potential outcomes for different options.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1d879fd8-062b-4b7d-8563-185998210a7a-2"
+  },
+  {
+    "text": "We provide resources for thorough market research to uncover external opportunities.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1d879fd8-062b-4b7d-8563-185998210a7a-3"
+  },
+  {
+    "text": "We engage in scenario planning to test the feasibility of multiple approaches.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1d879fd8-062b-4b7d-8563-185998210a7a-4"
+  },
+  {
+    "text": "We keep an open channel for external consultants to bring fresh insights.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1d879fd8-062b-4b7d-8563-185998210a7a-5"
+  },
+  {
+    "text": "We use AI and analytics to identify patterns and innovative solutions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1d879fd8-062b-4b7d-8563-185998210a7a-6"
+  },
+  {
+    "text": "We document all proposed alternatives for future reference and learning.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1d879fd8-062b-4b7d-8563-185998210a7a-7"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bb3e74da-bba7-42f3-9a60-db738e02b12e-0-0"
+  },
+  {
+    "text": "Brainstorming multiple solutions to address the problem.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bb3e74da-bba7-42f3-9a60-db738e02b12e-0-1-0"
+  },
+  {
+    "text": "Consulting team members for diverse perspectives.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bb3e74da-bba7-42f3-9a60-db738e02b12e-0-1-1"
+  },
+  {
+    "text": "Reviewing past decisions or case studies for potential options.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bb3e74da-bba7-42f3-9a60-db738e02b12e-0-1-2"
+  },
+  {
+    "text": "Conducting competitor analysis to identify industry standards.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bb3e74da-bba7-42f3-9a60-db738e02b12e-0-1-3"
+  },
+  {
+    "text": "Creating a repository to document and revisit alternative ideas.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bb3e74da-bba7-42f3-9a60-db738e02b12e-0-1-4"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bb3e74da-bba7-42f3-9a60-db738e02b12e-1-0"
+  },
+  {
+    "text": "Relying solely on a single preferred option.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bb3e74da-bba7-42f3-9a60-db738e02b12e-1-1-0"
+  },
+  {
+    "text": "Ignoring input from relevant stakeholders.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bb3e74da-bba7-42f3-9a60-db738e02b12e-1-1-1"
+  },
+  {
+    "text": "Overlooking unconventional or innovative solutions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bb3e74da-bba7-42f3-9a60-db738e02b12e-1-1-2"
+  },
+  {
+    "text": "Limiting alternatives due to time constraints or biases.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bb3e74da-bba7-42f3-9a60-db738e02b12e-1-1-3"
+  },
+  {
+    "text": "Assuming that previous solutions are always applicable.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bb3e74da-bba7-42f3-9a60-db738e02b12e-1-1-4"
+  },
+  {
+    "text": "Discounting alternatives prematurely without proper analysis.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bb3e74da-bba7-42f3-9a60-db738e02b12e-1-1-5"
+  },
+  {
+    "text": "Overlooking synergies from combining alternatives.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-bb3e74da-bba7-42f3-9a60-db738e02b12e-1-1-6"
+  },
+  {
+    "text": "Evaluating Alternatives = the step in which potential solutions or courses of action are systematically analyzed and compared against the established decision criteria to determine their feasibility, effectiveness, and alignment with the desired objectives and outcomes.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-63fc9da9-8cf1-440f-be29-af6003a4cb9b"
+  },
+  {
+    "text": "How we support this step:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-b29cc430-000e-48e3-947f-d850faf43bf0"
+  },
+  {
+    "text": "We prioritize a data-driven approach to ensure alternatives are evaluated objectively.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1ce1df81-188d-4a4f-a301-a914395710d2"
+  },
+  {
+    "text": "We encourage teams to benchmark against industry standards to assess feasibility.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1ce1df81-188d-4a4f-a301-a914395710d2-1"
+  },
+  {
+    "text": "We employ decision matrix frameworks to structure evaluations systematically.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1ce1df81-188d-4a4f-a301-a914395710d2-2"
+  },
+  {
+    "text": "We use predictive modeling to forecast the potential success of alternatives.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1ce1df81-188d-4a4f-a301-a914395710d2-3"
+  },
+  {
+    "text": "We insist on transparency in presenting the strengths and weaknesses of each option.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1ce1df81-188d-4a4f-a301-a914395710d2-4"
+  },
+  {
+    "text": "We encourage iterative reviews to refine alternatives based on emerging insights.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1ce1df81-188d-4a4f-a301-a914395710d2-5"
+  },
+  {
+    "text": "We document the rationale for selecting or rejecting alternatives to inform future decisions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1ce1df81-188d-4a4f-a301-a914395710d2-6"
+  },
+  {
+    "text": "We regularly consult external experts to validate our internal assessments.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1ce1df81-188d-4a4f-a301-a914395710d2-7"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-59c53127-b872-4d04-abaa-5d5d2ef69d19-0-0"
+  },
+  {
+    "text": "Comparing each alternative to the decision criteria.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-59c53127-b872-4d04-abaa-5d5d2ef69d19-0-1-0"
+  },
+  {
+    "text": "Analyzing potential risks and benefits of each option.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-59c53127-b872-4d04-abaa-5d5d2ef69d19-0-1-1"
+  },
+  {
+    "text": "Prioritizing alternatives based on their alignment with objectives.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-59c53127-b872-4d04-abaa-5d5d2ef69d19-0-1-2"
+  },
+  {
+    "text": "Conducting simulations or scenario analysis for each alternative.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-59c53127-b872-4d04-abaa-5d5d2ef69d19-0-1-3"
+  },
+  {
+    "text": "Seeking expert opinions to validate assessments.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-59c53127-b872-4d04-abaa-5d5d2ef69d19-0-1-4"
+  },
+  {
+    "text": "Identifying dependencies or prerequisites for each alternative.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-59c53127-b872-4d04-abaa-5d5d2ef69d19-0-1-5"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-59c53127-b872-4d04-abaa-5d5d2ef69d19-1-0"
+  },
+  {
+    "text": "Ignoring decision criteria when assessing options.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-59c53127-b872-4d04-abaa-5d5d2ef69d19-1-1-0"
+  },
+  {
+    "text": "Overlooking potential risks or negative consequences.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-59c53127-b872-4d04-abaa-5d5d2ef69d19-1-1-1"
+  },
+  {
+    "text": "Favoring a preferred alternative without full evaluation.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-59c53127-b872-4d04-abaa-5d5d2ef69d19-1-1-2"
+  },
+  {
+    "text": "Misinterpreting or overemphasizing certain evaluation metrics.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-59c53127-b872-4d04-abaa-5d5d2ef69d19-1-1-3"
+  },
+  {
+    "text": "Dismissing stakeholder input or differing perspectives.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-59c53127-b872-4d04-abaa-5d5d2ef69d19-1-1-4"
+  },
+  {
+    "text": "Underestimating implementation challenges of certain options.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-59c53127-b872-4d04-abaa-5d5d2ef69d19-1-1-5"
+  },
+  {
+    "text": "Overcomplicating evaluations, causing decision paralysis.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-59c53127-b872-4d04-abaa-5d5d2ef69d19-1-1-6"
+  },
+  {
+    "text": "Making the Decision = the step in which the most suitable alternative is chosen by applying the established decision criteria, considering the consequences of each option, and ensuring the choice aligns with the desired outcomes and priorities.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-924b18aa-a351-4a23-8316-eb7769c296a6"
+  },
+  {
+    "text": "How we support this step:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-c56100bf-6873-4190-9fea-7c7fe16e7846"
+  },
+  {
+    "text": "We ensure our leadership team is equipped with advanced decision-making tools to analyze alternatives effectively.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-7d91af2b-89f3-4f6b-ae05-cd6b63e6df3d"
+  },
+  {
+    "text": "We offer training programs to decision-makers focused on prioritizing criteria and managing trade-offs.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-7d91af2b-89f3-4f6b-ae05-cd6b63e6df3d-1"
+  },
+  {
+    "text": "We utilize software tools for multi-criteria decision analysis to rank and prioritize alternatives effectively.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-7d91af2b-89f3-4f6b-ae05-cd6b63e6df3d-2"
+  },
+  {
+    "text": "We foster a culture where decision-makers feel empowered to make confident, evidence-based selections.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-7d91af2b-89f3-4f6b-ae05-cd6b63e6df3d-3"
+  },
+  {
+    "text": "We implement structured decision-making frameworks, such as decision trees or scoring systems, to simplify the process.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-7d91af2b-89f3-4f6b-ae05-cd6b63e6df3d-4"
+  },
+  {
+    "text": "We assign cross-functional teams to analyze and challenge each alternative to ensure the best choice is made.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-7d91af2b-89f3-4f6b-ae05-cd6b63e6df3d-5"
+  },
+  {
+    "text": "We provide access to external experts and consultants for an objective evaluation of high-stakes decisions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-7d91af2b-89f3-4f6b-ae05-cd6b63e6df3d-6"
+  },
+  {
+    "text": "We leverage AI and machine learning tools to predict the outcomes of each alternative and refine the selection process.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-7d91af2b-89f3-4f6b-ae05-cd6b63e6df3d-7"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1b0746ed-9993-49cc-99ac-8c78d79893a4-0-0"
+  },
+  {
+    "text": "Ensuring the decision aligns with the defined goals and priorities.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1b0746ed-9993-49cc-99ac-8c78d79893a4-0-1-0"
+  },
+  {
+    "text": "Confirming the chosen alternative effectively solves the problem.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1b0746ed-9993-49cc-99ac-8c78d79893a4-0-1-1"
+  },
+  {
+    "text": "Ensuring the choice is realistic and feasible within constraints.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1b0746ed-9993-49cc-99ac-8c78d79893a4-0-1-2"
+  },
+  {
+    "text": "Being decisive while open to change as new insights emerge.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1b0746ed-9993-49cc-99ac-8c78d79893a4-0-1-3"
+  },
+  {
+    "text": "Validating the choice with stakeholders or team members.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1b0746ed-9993-49cc-99ac-8c78d79893a4-0-1-4"
+  },
+  {
+    "text": "Setting a clear rationale for the chosen option to build consensus.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1b0746ed-9993-49cc-99ac-8c78d79893a4-0-1-5"
+  },
+  {
+    "text": "Considering the impact of the decision on all stakeholders.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1b0746ed-9993-49cc-99ac-8c78d79893a4-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1b0746ed-9993-49cc-99ac-8c78d79893a4-1-0"
+  },
+  {
+    "text": "Rushing the decision without fully analyzing all alternatives.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1b0746ed-9993-49cc-99ac-8c78d79893a4-1-1-0"
+  },
+  {
+    "text": "Allowing personal biases or emotions to cloud objective analysis.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1b0746ed-9993-49cc-99ac-8c78d79893a4-1-1-1"
+  },
+  {
+    "text": "Becoming overwhelmed by overanalysis and delaying the decision.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1b0746ed-9993-49cc-99ac-8c78d79893a4-1-1-2"
+  },
+  {
+    "text": "Failing to involve key stakeholders to improve the decision.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1b0746ed-9993-49cc-99ac-8c78d79893a4-1-1-3"
+  },
+  {
+    "text": "Choosing an alternative without adequate data or evidence.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1b0746ed-9993-49cc-99ac-8c78d79893a4-1-1-4"
+  },
+  {
+    "text": "Overcommitting to a choice without flexibility for adjustments.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1b0746ed-9993-49cc-99ac-8c78d79893a4-1-1-5"
+  },
+  {
+    "text": "Neglecting the feasibility or practicality of the chosen alternative.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1b0746ed-9993-49cc-99ac-8c78d79893a4-1-1-6"
+  },
+  {
+    "text": "Implementing the Decision = the step in which the chosen course of action is put into practice by allocating resources, executing plans, and ensuring all relevant stakeholders are engaged to achieve the desired outcome.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-fa20ecf7-a1c9-46cf-995d-87edba90854e"
+  },
+  {
+    "text": "How we support this step:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-dea7c23c-dfae-416d-ac40-60bcb72a0cd9"
+  },
+  {
+    "text": "We allocate resources swiftly to align with the chosen course of action.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-3758d193-c2f7-4bc4-a00e-98ae34b27b2e"
+  },
+  {
+    "text": "We ensure all teams understand their specific roles in the implementation process.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-3758d193-c2f7-4bc4-a00e-98ae34b27b2e-1"
+  },
+  {
+    "text": "We establish timelines and milestones to track progress and maintain momentum.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-3758d193-c2f7-4bc4-a00e-98ae34b27b2e-2"
+  },
+  {
+    "text": "We leverage project management tools to monitor execution and identify potential bottlenecks early.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-3758d193-c2f7-4bc4-a00e-98ae34b27b2e-3"
+  },
+  {
+    "text": "We empower leaders within each department to take ownership of their responsibilities.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-3758d193-c2f7-4bc4-a00e-98ae34b27b2e-4"
+  },
+  {
+    "text": "We provide necessary training or resources to equip teams for effective execution.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-3758d193-c2f7-4bc4-a00e-98ae34b27b2e-5"
+  },
+  {
+    "text": "We maintain flexibility to adjust plans dynamically in response to real-time feedback.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-3758d193-c2f7-4bc4-a00e-98ae34b27b2e-6"
+  },
+  {
+    "text": "We incentivize swift and effective execution to ensure buy-in from all stakeholders.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-3758d193-c2f7-4bc4-a00e-98ae34b27b2e-7"
+  },
+  {
+    "text": "We document the implementation process to create a blueprint for future decision-making.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-3758d193-c2f7-4bc4-a00e-98ae34b27b2e-8"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1e28b756-eec6-4341-8826-2ea289ae17e8-0-0"
+  },
+  {
+    "text": "Clearly conveying the decision and its rationale to stakeholders.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1e28b756-eec6-4341-8826-2ea289ae17e8-0-1-0"
+  },
+  {
+    "text": "Developing a detailed action plan with specific timelines.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1e28b756-eec6-4341-8826-2ea289ae17e8-0-1-1"
+  },
+  {
+    "text": "Setting measurable objectives to guide the implementation.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1e28b756-eec6-4341-8826-2ea289ae17e8-0-1-2"
+  },
+  {
+    "text": "Providing training or tools necessary for successful execution.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1e28b756-eec6-4341-8826-2ea289ae17e8-0-1-3"
+  },
+  {
+    "text": "Establishing clear accountability structures for team members.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1e28b756-eec6-4341-8826-2ea289ae17e8-0-1-4"
+  },
+  {
+    "text": "Monitoring progress through established performance metrics.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1e28b756-eec6-4341-8826-2ea289ae17e8-0-1-5"
+  },
+  {
+    "text": "Regularly updating stakeholders on the implementation progress.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1e28b756-eec6-4341-8826-2ea289ae17e8-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1e28b756-eec6-4341-8826-2ea289ae17e8-1-0"
+  },
+  {
+    "text": "Failing to convey the decision clearly to key stakeholders.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1e28b756-eec6-4341-8826-2ea289ae17e8-1-1-0"
+  },
+  {
+    "text": "Disregarding the need for stakeholder alignment and consensus.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1e28b756-eec6-4341-8826-2ea289ae17e8-1-1-1"
+  },
+  {
+    "text": "Rushing implementation without a well-structured action plan.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1e28b756-eec6-4341-8826-2ea289ae17e8-1-1-2"
+  },
+  {
+    "text": "Allowing unclear or conflicting priorities to hinder execution.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1e28b756-eec6-4341-8826-2ea289ae17e8-1-1-3"
+  },
+  {
+    "text": "Proceeding without assessing timeline and resource feasibility.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1e28b756-eec6-4341-8826-2ea289ae17e8-1-1-4"
+  },
+  {
+    "text": "Misallocating resources, leaving critical areas under-supported.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1e28b756-eec6-4341-8826-2ea289ae17e8-1-1-5"
+  },
+  {
+    "text": "Ignoring feedback from team members involved in implementation.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1e28b756-eec6-4341-8826-2ea289ae17e8-1-1-6"
+  },
+  {
+    "text": "Reviewing the Decision = the step in which the outcome and impact of a decision are assessed to evaluate its effectiveness, identify areas for improvement, and extract lessons to enhance future decision-making processes.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-1fc917db-fe8e-4ed9-967f-ad24b32fc604"
+  },
+  {
+    "text": "How we support this step:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-92bcda53-a910-494c-b360-6aefcd3d480a"
+  },
+  {
+    "text": "We prioritize a structured review process to ensure all major decisions are evaluated thoroughly.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-ce03edf5-4169-4033-a190-8ad4e9e89b5f"
+  },
+  {
+    "text": "We foster a culture of accountability, ensuring decision-makers actively participate in post-decision reviews.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-ce03edf5-4169-4033-a190-8ad4e9e89b5f-1"
+  },
+  {
+    "text": "We maintain detailed documentation of decisions and outcomes to support retrospective analysis.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-ce03edf5-4169-4033-a190-8ad4e9e89b5f-2"
+  },
+  {
+    "text": "We solicit feedback from stakeholders directly affected by the decision to capture diverse perspectives.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-ce03edf5-4169-4033-a190-8ad4e9e89b5f-3"
+  },
+  {
+    "text": "We use key performance indicators (KPIs) to measure the effectiveness of decisions quantitatively.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-ce03edf5-4169-4033-a190-8ad4e9e89b5f-4"
+  },
+  {
+    "text": "We invest in training sessions to help teams improve decision review techniques.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-ce03edf5-4169-4033-a190-8ad4e9e89b5f-5"
+  },
+  {
+    "text": "We celebrate successful outcomes while critically analyzing areas for improvement.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-ce03edf5-4169-4033-a190-8ad4e9e89b5f-6"
+  },
+  {
+    "text": "We use collaborative tools to track and share decision review insights across teams.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-ce03edf5-4169-4033-a190-8ad4e9e89b5f-7"
+  },
+  {
+    "text": "Manifestations:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-4e4ed3f8-7054-432d-8bc9-7aced68ec066-0-0"
+  },
+  {
+    "text": "Analyzing whether the decision met the intended objectives.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-4e4ed3f8-7054-432d-8bc9-7aced68ec066-0-1-0"
+  },
+  {
+    "text": "Gathering feedback from stakeholders impacted by the decision.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-4e4ed3f8-7054-432d-8bc9-7aced68ec066-0-1-1"
+  },
+  {
+    "text": "Comparing the actual outcomes with the expected outcomes.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-4e4ed3f8-7054-432d-8bc9-7aced68ec066-0-1-2"
+  },
+  {
+    "text": "Evaluating successes and challenges in implementation process.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-4e4ed3f8-7054-432d-8bc9-7aced68ec066-0-1-3"
+  },
+  {
+    "text": "Reassessing the relevance of the decision criteria used.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-4e4ed3f8-7054-432d-8bc9-7aced68ec066-0-1-4"
+  },
+  {
+    "text": "Documenting lessons learned for future reference.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-4e4ed3f8-7054-432d-8bc9-7aced68ec066-0-1-5"
+  },
+  {
+    "text": "Improving decision-making frameworks based on review insights.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-4e4ed3f8-7054-432d-8bc9-7aced68ec066-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-4e4ed3f8-7054-432d-8bc9-7aced68ec066-1-0"
+  },
+  {
+    "text": "Considering the review unnecessary and skipping it entirely.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-4e4ed3f8-7054-432d-8bc9-7aced68ec066-1-1-0"
+  },
+  {
+    "text": "Assuming the decision’s success without evidence to support it.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-4e4ed3f8-7054-432d-8bc9-7aced68ec066-1-1-1"
+  },
+  {
+    "text": "Neglecting to gather comprehensive feedback from stakeholders.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-4e4ed3f8-7054-432d-8bc9-7aced68ec066-1-1-2"
+  },
+  {
+    "text": "Relying solely on subjective opinions without objective data.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-4e4ed3f8-7054-432d-8bc9-7aced68ec066-1-1-3"
+  },
+  {
+    "text": "Avoiding difficult conversations about shortcomings.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-4e4ed3f8-7054-432d-8bc9-7aced68ec066-1-1-4"
+  },
+  {
+    "text": "Failing to document insights for use in future decision-making.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-4e4ed3f8-7054-432d-8bc9-7aced68ec066-1-1-5"
+  },
+  {
+    "text": "Treating the review as a formality rather than an opportunity.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU#search-4e4ed3f8-7054-432d-8bc9-7aced68ec066-1-1-6"
+  },
+  {
+    "text": "Process",
     "type": "pageTitle",
-    "pageName": "Decision Making",
-    "category": "Coordination / Decision Making",
-    "keywords": "Coordination / Decision Making",
-    "url": "../html/decision-making-7UZRL0TU"
+    "pageName": "Decision Making/Process",
+    "category": "Coordination / Decision Making / Process",
+    "keywords": "Coordination / Decision Making / Process",
+    "url": "../html/process-7UZRL0TU"
+  },
+  {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-e3bf6890-a52f-4c3e-aca2-57547f226316"
+  },
+  {
+    "text": "Decision-Making Styles = the different approaches individuals or groups use to make decisions, shaped by their personality, goals, and situational factors, which guide how they process information, assess risks, and choose actions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-18812c5c-14f3-46fa-9ced-a8c1c286456c"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-c68d2315-ffc1-4010-b346-febab0ab9443"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-bd3eadab-2304-47d4-97f8-c454bdb10b44"
+  },
+  {
+    "text": "Analytical Style",
+    "type": "sectionHeader",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-5bcce156-24f2-4a9f-996e-f9d49bec1f60"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-0551621b-6d71-4382-b6c8-80c9c29bad82"
+  },
+  {
+    "text": "Behavioral Style",
+    "type": "sectionHeader",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-e1caa120-ca7d-4bb4-a76d-82af32816f2f"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-75588cc7-5ccd-4cd2-9281-d64386a63635"
+  },
+  {
+    "text": "Conceptual Style",
+    "type": "sectionHeader",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-6dbb22d3-0b0b-4664-8da0-f84707143b1b"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-efc769fa-d3ec-446d-8ded-6ab8bf10636d"
+  },
+  {
+    "text": "Directive Style",
+    "type": "sectionHeader",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-00e74ecf-4504-4d5b-88f6-900a7dfc6b7e"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-25cf6bcb-3b2a-4dd6-9501-f03e5b616c86"
+  },
+  {
+    "text": "Analytical Style = the decision-making style focused on logical problem-solving, thorough data analysis, and evidence-based conclusions. It values control, innovation, and variety, with a high tolerance for ambiguity and a commitment to finding the optimal solution regardless of the time required.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-3af59b0e-1a52-416b-b309-1f3f0e07ff62"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-53d17ef2-47fc-4ca3-983b-6e4bc49a2069"
+  },
+  {
+    "text": "We prioritize data-driven decision-making in all aspects of our operations.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-fc6e8007-d77e-46bd-a4e0-29c591603fa2"
+  },
+  {
+    "text": "We provide robust analytics tools to ensure decisions are backed by accurate and comprehensive data.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-fc6e8007-d77e-46bd-a4e0-29c591603fa2-1"
+  },
+  {
+    "text": "We foster a culture of critical thinking and logical problem-solving.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-fc6e8007-d77e-46bd-a4e0-29c591603fa2-2"
+  },
+  {
+    "text": "We allocate time and resources to thoroughly explore all viable options before making key decisions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-fc6e8007-d77e-46bd-a4e0-29c591603fa2-3"
+  },
+  {
+    "text": "We invest in advanced technologies to enhance our data collection and analysis capabilities.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-fc6e8007-d77e-46bd-a4e0-29c591603fa2-4"
+  },
+  {
+    "text": "We train teams to use evidence-based approaches to minimize biases in decision-making.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-fc6e8007-d77e-46bd-a4e0-29c591603fa2-5"
+  },
+  {
+    "text": "We prioritize quality over speed when pursuing long-term strategic goals.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-fc6e8007-d77e-46bd-a4e0-29c591603fa2-6"
+  },
+  {
+    "text": "We develop contingency plans to prepare for ambiguity and uncertainty in outcomes.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-fc6e8007-d77e-46bd-a4e0-29c591603fa2-7"
+  },
+  {
+    "text": "We value measurable outcomes and consistently monitor the results of implemented solutions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-fc6e8007-d77e-46bd-a4e0-29c591603fa2-8"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-ca8658b7-9952-4a44-9b9f-0ef82ee80fd3-0-0"
+  },
+  {
+    "text": "It ensures decisions are grounded in evidence and data.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-ca8658b7-9952-4a44-9b9f-0ef82ee80fd3-0-1-0"
+  },
+  {
+    "text": "It reduces the likelihood of errors by carefully analyzing options.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-ca8658b7-9952-4a44-9b9f-0ef82ee80fd3-0-1-1"
+  },
+  {
+    "text": "It ensures long-term success by prioritizing sustainable solutions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-ca8658b7-9952-4a44-9b9f-0ef82ee80fd3-0-1-2"
+  },
+  {
+    "text": "It minimizes risks by identifying and addressing uncertainties.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-ca8658b7-9952-4a44-9b9f-0ef82ee80fd3-0-1-3"
+  },
+  {
+    "text": "It enables adaptability through different scenarios and approaches.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-ca8658b7-9952-4a44-9b9f-0ef82ee80fd3-0-1-4"
+  },
+  {
+    "text": "It fosters collaboration by uniting diverse inputs and perspectives.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-ca8658b7-9952-4a44-9b9f-0ef82ee80fd3-0-1-5"
+  },
+  {
+    "text": "It builds credibility through logical, fact-based decisions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-ca8658b7-9952-4a44-9b9f-0ef82ee80fd3-0-1-6"
+  },
+  {
+    "text": "It ensures decisions are aligned with long-term objectives.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-ca8658b7-9952-4a44-9b9f-0ef82ee80fd3-0-1-7"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-ca8658b7-9952-4a44-9b9f-0ef82ee80fd3-1-0"
+  },
+  {
+    "text": "It can delay decisions due to excessive information gathering.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-ca8658b7-9952-4a44-9b9f-0ef82ee80fd3-1-1-0"
+  },
+  {
+    "text": "It may lead to overconfidence in decisions based solely on data.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-ca8658b7-9952-4a44-9b9f-0ef82ee80fd3-1-1-1"
+  },
+  {
+    "text": "It can become overly dependent on data availability.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-ca8658b7-9952-4a44-9b9f-0ef82ee80fd3-1-1-2"
+  },
+  {
+    "text": "It could reduce efficiency in time-sensitive decisions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-ca8658b7-9952-4a44-9b9f-0ef82ee80fd3-1-1-3"
+  },
+  {
+    "text": "It may undervalue interpersonal and social dynamics.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-ca8658b7-9952-4a44-9b9f-0ef82ee80fd3-1-1-4"
+  },
+  {
+    "text": "It may struggle with subjective or unclear information.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-ca8658b7-9952-4a44-9b9f-0ef82ee80fd3-1-1-5"
+  },
+  {
+    "text": "It may lead to decision fatigue from extensive analysis.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-ca8658b7-9952-4a44-9b9f-0ef82ee80fd3-1-1-6"
+  },
+  {
+    "text": "Behavioral Style = the decision-making style characterized by a supportive and empathetic approach that emphasizes collaboration and input from others. It relies on interpersonal relationships, seeking advice, and obtaining buy-in from stakeholders before making decisions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-8485435b-2248-460a-ad81-32fc79cb9164"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-4fa38f61-e6e3-4d00-aec1-5380162900d4"
+  },
+  {
+    "text": "We support managers in adopting empathetic leadership styles through targeted training.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-8f77447b-504f-4e65-8f0f-67008dbe42b3"
+  },
+  {
+    "text": "We integrate regular stakeholder meetings into decision-making processes.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-8f77447b-504f-4e65-8f0f-67008dbe42b3-1"
+  },
+  {
+    "text": "We use data to inform discussions but balance it with personal insights and experience.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-8f77447b-504f-4e65-8f0f-67008dbe42b3-2"
+  },
+  {
+    "text": "We celebrate decisions made collaboratively to reinforce the value of this style.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-8f77447b-504f-4e65-8f0f-67008dbe42b3-3"
+  },
+  {
+    "text": "We adapt timelines to allow sufficient consultation without sacrificing efficiency.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-8f77447b-504f-4e65-8f0f-67008dbe42b3-4"
+  },
+  {
+    "text": "We encourage cross-departmental input to reduce silos and enhance collaboration.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-8f77447b-504f-4e65-8f0f-67008dbe42b3-5"
+  },
+  {
+    "text": "We train leaders to navigate complex interpersonal dynamics effectively.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-8f77447b-504f-4e65-8f0f-67008dbe42b3-6"
+  },
+  {
+    "text": "We measure decision success by both financial impact and stakeholder satisfaction.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-8f77447b-504f-4e65-8f0f-67008dbe42b3-7"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1dbad977-146a-4102-b66a-869581859dfa-0-0"
+  },
+  {
+    "text": "It fosters a positive environment where team members feel heard.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1dbad977-146a-4102-b66a-869581859dfa-0-1-0"
+  },
+  {
+    "text": "It generates decisions with higher buy-in and better execution.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1dbad977-146a-4102-b66a-869581859dfa-0-1-1"
+  },
+  {
+    "text": "It reduces resistance to change by involving stakeholders early.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1dbad977-146a-4102-b66a-869581859dfa-0-1-2"
+  },
+  {
+    "text": "It leverages collective wisdom for more well-rounded decisions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1dbad977-146a-4102-b66a-869581859dfa-0-1-3"
+  },
+  {
+    "text": "It boosts employee engagement and commitment to decisions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1dbad977-146a-4102-b66a-869581859dfa-0-1-4"
+  },
+  {
+    "text": "It avoids blind spots in decisions via multi-stakeholder review.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1dbad977-146a-4102-b66a-869581859dfa-0-1-5"
+  },
+  {
+    "text": "It creates decisions that align with company culture and values.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1dbad977-146a-4102-b66a-869581859dfa-0-1-6"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1dbad977-146a-4102-b66a-869581859dfa-1-0"
+  },
+  {
+    "text": "It may cause paralysis from too many conflicting viewpoints.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1dbad977-146a-4102-b66a-869581859dfa-1-1-0"
+  },
+  {
+    "text": "It risks diluting responsibility among multiple stakeholders.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1dbad977-146a-4102-b66a-869581859dfa-1-1-1"
+  },
+  {
+    "text": "It may lead to compromised solutions that satisfy no one fully.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1dbad977-146a-4102-b66a-869581859dfa-1-1-2"
+  },
+  {
+    "text": "It can be emotionally draining for leaders managing relationships.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1dbad977-146a-4102-b66a-869581859dfa-1-1-3"
+  },
+  {
+    "text": "It can create consensus dependency, hindering tough decisions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1dbad977-146a-4102-b66a-869581859dfa-1-1-4"
+  },
+  {
+    "text": "It risks stakeholders influencing the process for political gain.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1dbad977-146a-4102-b66a-869581859dfa-1-1-5"
+  },
+  {
+    "text": "It can lead to decisions based on the loudest voices, not expertise.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1dbad977-146a-4102-b66a-869581859dfa-1-1-6"
+  },
+  {
+    "text": "Conceptual Style = the decision-making style that emphasizes creativity, future-oriented thinking, and exploring \"what if\" scenarios. It focuses on big-picture solutions, considers the broader impact on others, and thrives in ambiguous situations.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-97f55357-0690-480d-ac02-a989d376ed28"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-3f65fe01-e01d-492a-8c76-4528a1a99f14"
+  },
+  {
+    "text": "We prioritize long-term vision over short-term fixes to ensure sustainable growth and impact.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-45f7649c-38a9-40ee-a4c6-533f1939dd35"
+  },
+  {
+    "text": "We allocate resources to projects that push boundaries and challenge conventional thinking.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-45f7649c-38a9-40ee-a4c6-533f1939dd35-1"
+  },
+  {
+    "text": "We reward teams and individuals who take calculated risks to drive innovation.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-45f7649c-38a9-40ee-a4c6-533f1939dd35-2"
+  },
+  {
+    "text": "We provide training and tools to strengthen creative problem-solving skills.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-45f7649c-38a9-40ee-a4c6-533f1939dd35-3"
+  },
+  {
+    "text": "We create an environment where ambiguity is seen as an opportunity, not a barrier.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-45f7649c-38a9-40ee-a4c6-533f1939dd35-4"
+  },
+  {
+    "text": "We invest in technologies and platforms that support experimentation and future-oriented planning.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-45f7649c-38a9-40ee-a4c6-533f1939dd35-5"
+  },
+  {
+    "text": "We celebrate successes that arise from unconventional approaches and innovative solutions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-45f7649c-38a9-40ee-a4c6-533f1939dd35-6"
+  },
+  {
+    "text": "We set aside dedicated time for teams to think creatively without the pressure of immediate deadlines.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-45f7649c-38a9-40ee-a4c6-533f1939dd35-7"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-e893dd31-d445-4b9f-b3c6-9163c0b6c35b-0-0"
+  },
+  {
+    "text": "It encourages innovative, creative and future-oriented solutions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-e893dd31-d445-4b9f-b3c6-9163c0b6c35b-0-1-0"
+  },
+  {
+    "text": "It generates multiple alternatives and possibilities.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-e893dd31-d445-4b9f-b3c6-9163c0b6c35b-0-1-1"
+  },
+  {
+    "text": "It enables visionary leadership and long-term goals.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-e893dd31-d445-4b9f-b3c6-9163c0b6c35b-0-1-2"
+  },
+  {
+    "text": "It supports a strategic and big-picture approach to problems.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-e893dd31-d445-4b9f-b3c6-9163c0b6c35b-0-1-3"
+  },
+  {
+    "text": "It encourages collaboration and input from diverse stakeholders.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-e893dd31-d445-4b9f-b3c6-9163c0b6c35b-0-1-4"
+  },
+  {
+    "text": "It supports adaptability in rapidly changing environments.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-e893dd31-d445-4b9f-b3c6-9163c0b6c35b-0-1-5"
+  },
+  {
+    "text": "It helps identify opportunities others might overlook.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-e893dd31-d445-4b9f-b3c6-9163c0b6c35b-0-1-6"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-e893dd31-d445-4b9f-b3c6-9163c0b6c35b-1-0"
+  },
+  {
+    "text": "It may overlook practical constraints or immediate needs.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-e893dd31-d445-4b9f-b3c6-9163c0b6c35b-1-1-0"
+  },
+  {
+    "text": "It might underemphasize details and operational execution.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-e893dd31-d445-4b9f-b3c6-9163c0b6c35b-1-1-1"
+  },
+  {
+    "text": "It can struggle with making decisions under tight deadlines.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-e893dd31-d445-4b9f-b3c6-9163c0b6c35b-1-1-2"
+  },
+  {
+    "text": "It can result in vague or ambiguous decisions that lack clarity.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-e893dd31-d445-4b9f-b3c6-9163c0b6c35b-1-1-3"
+  },
+  {
+    "text": "It may result in decisions that are difficult to implement.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-e893dd31-d445-4b9f-b3c6-9163c0b6c35b-1-1-4"
+  },
+  {
+    "text": "It can lead to overconfidence in untested innovative approaches.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-e893dd31-d445-4b9f-b3c6-9163c0b6c35b-1-1-5"
+  },
+  {
+    "text": "It may dismiss stakeholder concerns if they oppose the vision.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-e893dd31-d445-4b9f-b3c6-9163c0b6c35b-1-1-6"
+  },
+  {
+    "text": "Directive Style = the decision-making style driven by results and characterized by a reliance on rules, processes, and structured approaches. It emphasizes quick, decisive action with a preference for efficiency, often relying on intuition to implement decisions effectively while maintaining control over the process.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-20c4c289-0ad3-4ee6-898a-b9b26ff3bac7"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-a7407b5a-91f2-4bef-b571-6b06cd47db13"
+  },
+  {
+    "text": "We prioritize structured processes to ensure decision-making is streamlined and focused on results.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-217b144c-af2c-4f9c-9426-be0b91b83794"
+  },
+  {
+    "text": "We implement clear, concise rules that guide every level of operation for faster execution.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-217b144c-af2c-4f9c-9426-be0b91b83794-1"
+  },
+  {
+    "text": "We rely on robust data analysis tools to provide decision-makers with actionable insights swiftly.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-217b144c-af2c-4f9c-9426-be0b91b83794-2"
+  },
+  {
+    "text": "We encourage decisive action by empowering leaders to take ownership of outcomes.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-217b144c-af2c-4f9c-9426-be0b91b83794-3"
+  },
+  {
+    "text": "We maintain a culture that balances intuition with evidence-based strategies to drive effective results.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-217b144c-af2c-4f9c-9426-be0b91b83794-4"
+  },
+  {
+    "text": "We train leaders to identify the critical path in complex scenarios and act on it promptly.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-217b144c-af2c-4f9c-9426-be0b91b83794-5"
+  },
+  {
+    "text": "We use standard operating procedures to reduce ambiguity and keep teams aligned.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-217b144c-af2c-4f9c-9426-be0b91b83794-6"
+  },
+  {
+    "text": "We reward decisive behavior that leads to measurable results and strengthens our competitive edge.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-217b144c-af2c-4f9c-9426-be0b91b83794-7"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1ddda865-9ae0-4366-b0b6-8df83cb1fe16-0-0"
+  },
+  {
+    "text": "It enables quick, decisive actions without delays.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1ddda865-9ae0-4366-b0b6-8df83cb1fe16-0-1-0"
+  },
+  {
+    "text": "It reduces uncertainty by relying on established processes.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1ddda865-9ae0-4366-b0b6-8df83cb1fe16-0-1-1"
+  },
+  {
+    "text": "It enhances efficiency by focusing on swift resolutions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1ddda865-9ae0-4366-b0b6-8df83cb1fe16-0-1-2"
+  },
+  {
+    "text": "It ensures clarity through effective communication after decisions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1ddda865-9ae0-4366-b0b6-8df83cb1fe16-0-1-3"
+  },
+  {
+    "text": "It suits high-pressure situations that require immediate responses.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1ddda865-9ae0-4366-b0b6-8df83cb1fe16-0-1-4"
+  },
+  {
+    "text": "It builds team confidence by projecting decisiveness and authority.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1ddda865-9ae0-4366-b0b6-8df83cb1fe16-0-1-5"
+  },
+  {
+    "text": "It reduces ambiguity through direct and specific instructions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1ddda865-9ae0-4366-b0b6-8df83cb1fe16-0-1-6"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1ddda865-9ae0-4366-b0b6-8df83cb1fe16-1-0"
+  },
+  {
+    "text": "It may neglect others' input, leading to less collaborative solutions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1ddda865-9ae0-4366-b0b6-8df83cb1fe16-1-1-0"
+  },
+  {
+    "text": "It may narrow focus, ignoring wider organizational factors.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1ddda865-9ae0-4366-b0b6-8df83cb1fe16-1-1-1"
+  },
+  {
+    "text": "It may miss creative or innovative ideas by prioritizing structure.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1ddda865-9ae0-4366-b0b6-8df83cb1fe16-1-1-2"
+  },
+  {
+    "text": "It often ignores emotional or interpersonal factors in decisions.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1ddda865-9ae0-4366-b0b6-8df83cb1fe16-1-1-3"
+  },
+  {
+    "text": "It can lead to hasty actions without fully evaluating consequences.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1ddda865-9ae0-4366-b0b6-8df83cb1fe16-1-1-4"
+  },
+  {
+    "text": "It may create dependence on one leader, reducing team autonomy.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1ddda865-9ae0-4366-b0b6-8df83cb1fe16-1-1-5"
+  },
+  {
+    "text": "It can reduce trust if decisions are perceived as abrupt or unfair.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1ddda865-9ae0-4366-b0b6-8df83cb1fe16-1-1-6"
+  },
+  {
+    "text": "It may cause resistance from team members who feel undervalued.",
+    "type": "contentBlock",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll#search-1ddda865-9ae0-4366-b0b6-8df83cb1fe16-1-1-7"
+  },
+  {
+    "text": "Styles",
+    "type": "pageTitle",
+    "pageName": "Decision Making/Styles",
+    "category": "Coordination / Decision Making / Styles",
+    "keywords": "Coordination / Decision Making / Styles",
+    "url": "../html/styles-Vr1X9gll-Vr1X9gll"
   },
   {
     "text": "Note: This is demo content for a fictional SaaS company.",
@@ -24526,36 +27292,6 @@
     "url": "../html/culture-ygIzJARC"
   },
   {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Values",
-    "category": "Culture / Values",
-    "url": "../html/values-Rtddy8Ek#search-6efe5cec-b7d4-4c78-beea-e07ed7971561"
-  },
-  {
-    "text": "Values",
-    "type": "pageTitle",
-    "pageName": "Values",
-    "category": "Culture / Values",
-    "keywords": "Culture / Values",
-    "url": "../html/values-Rtddy8Ek"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Practices",
-    "category": "Culture / Practices",
-    "url": "../html/practices-ZZ83dyna#search-cd10d9ee-9d8d-4799-800a-ff2b64e3f4ee"
-  },
-  {
-    "text": "Practices",
-    "type": "pageTitle",
-    "pageName": "Practices",
-    "category": "Culture / Practices",
-    "keywords": "Culture / Practices",
-    "url": "../html/practices-ZZ83dyna"
-  },
-  {
     "text": "Note: This is demo content for a fictional SaaS company.",
     "type": "contentBlock",
     "pageName": "Diversity",
@@ -24585,66 +27321,6 @@
     "url": "../html/diversity-0lx6vmgm"
   },
   {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Neurodiversity ",
-    "category": "Diversity / Neurodiversity ",
-    "url": "../html/neurodiversity-HtOOb5Xd#search-eb6e1915-f8ad-4913-aafa-475eb7df8416"
-  },
-  {
-    "text": "Neurodiversity ",
-    "type": "pageTitle",
-    "pageName": "Neurodiversity ",
-    "category": "Diversity / Neurodiversity ",
-    "keywords": "Diversity / Neurodiversity ",
-    "url": "../html/neurodiversity-HtOOb5Xd"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Personalities",
-    "category": "Diversity / Personalities",
-    "url": "../html/personalities-DfcRV2CO#search-a52122c0-9b5a-4329-96ee-a3af44a32950"
-  },
-  {
-    "text": "Personalities",
-    "type": "pageTitle",
-    "pageName": "Personalities",
-    "category": "Diversity / Personalities",
-    "keywords": "Diversity / Personalities",
-    "url": "../html/personalities-DfcRV2CO"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Ethnicity",
-    "category": "Diversity / Ethnicity",
-    "url": "../html/ethnicity-xvvB5Ev9#search-608e0230-5aed-4cc7-af17-7eb3ef3139f3"
-  },
-  {
-    "text": "Ethnicity",
-    "type": "pageTitle",
-    "pageName": "Ethnicity",
-    "category": "Diversity / Ethnicity",
-    "keywords": "Diversity / Ethnicity",
-    "url": "../html/ethnicity-xvvB5Ev9"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Inclusivity",
-    "category": "Diversity / Inclusivity",
-    "url": "../html/inclusivity-Hg6eJE0Z#search-e4f14f33-ccd4-47b0-9f0e-d4199cf2324a"
-  },
-  {
-    "text": "Inclusivity",
-    "type": "pageTitle",
-    "pageName": "Inclusivity",
-    "category": "Diversity / Inclusivity",
-    "keywords": "Diversity / Inclusivity",
-    "url": "../html/inclusivity-Hg6eJE0Z"
-  },
-  {
     "text": "Note: This is demo content for a fictional SaaS company.",
     "type": "contentBlock",
     "pageName": "Maturity",
@@ -24672,81 +27348,6 @@
     "category": "Maturity / Maturity",
     "keywords": "Maturity / Maturity",
     "url": "../html/maturity-K5iTpK04-K5iTpK04"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Psychological Maturity",
-    "category": "Maturity / Psychological Maturity",
-    "url": "../html/psychological-maturity-Qs7nsWz8#search-08697218-831a-4c20-8422-72466878d2e7"
-  },
-  {
-    "text": "Psychological Maturity",
-    "type": "pageTitle",
-    "pageName": "Psychological Maturity",
-    "category": "Maturity / Psychological Maturity",
-    "keywords": "Maturity / Psychological Maturity",
-    "url": "../html/psychological-maturity-Qs7nsWz8"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Professional Maturity",
-    "category": "Maturity / Professional Maturity",
-    "url": "../html/professional-maturity-AfLtB8wg#search-08697218-831a-4c20-8422-72466878d2e7"
-  },
-  {
-    "text": "Professional Maturity",
-    "type": "pageTitle",
-    "pageName": "Professional Maturity",
-    "category": "Maturity / Professional Maturity",
-    "keywords": "Maturity / Professional Maturity",
-    "url": "../html/professional-maturity-AfLtB8wg"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Team Maturity",
-    "category": "Maturity / Team Maturity",
-    "url": "../html/team-maturity-ZosvHG8r#search-08697218-831a-4c20-8422-72466878d2e7"
-  },
-  {
-    "text": "Team Maturity",
-    "type": "pageTitle",
-    "pageName": "Team Maturity",
-    "category": "Maturity / Team Maturity",
-    "keywords": "Maturity / Team Maturity",
-    "url": "../html/team-maturity-ZosvHG8r"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Business Maturity",
-    "category": "Maturity / Business Maturity",
-    "url": "../html/business-maturity-ZXMmJWLL#search-08697218-831a-4c20-8422-72466878d2e7"
-  },
-  {
-    "text": "Business Maturity",
-    "type": "pageTitle",
-    "pageName": "Business Maturity",
-    "category": "Maturity / Business Maturity",
-    "keywords": "Maturity / Business Maturity",
-    "url": "../html/business-maturity-ZXMmJWLL"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Learning",
-    "category": "Maturity / Learning",
-    "url": "../html/learning-DouzVjjC#search-d9b690ec-f850-445a-9274-a95920679b38"
-  },
-  {
-    "text": "Learning",
-    "type": "pageTitle",
-    "pageName": "Learning",
-    "category": "Maturity / Learning",
-    "keywords": "Maturity / Learning",
-    "url": "../html/learning-DouzVjjC"
   },
   {
     "text": "Note: This is demo content for a fictional SaaS company.",
@@ -24811,6 +27412,13 @@
     "pageName": "Coordination",
     "category": "Coordination",
     "url": "../html/coordination-jYlRH09J"
+  },
+  {
+    "text": "Decision Making",
+    "type": "groupTitle",
+    "pageName": "Decision Making",
+    "category": "Coordination / Decision Making",
+    "url": "../html/process-7UZRL0TU"
   },
   {
     "text": "Culture",

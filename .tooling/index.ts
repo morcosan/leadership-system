@@ -22,6 +22,10 @@ const fixHtml = () => {
 			.replace(/\sloadSandboxes\(sandboxConfigUrl\)/g, `//loadSandboxes(sandboxConfigUrl)`)
 			.replace(/\s\| Made with Supernova/g, ``)
 			.replace(/Design system documentation, made with ❤️ using Supernova/g, `Made with Supernova`)
+			.replace(/"og:url" content="\/latest\/.*\//g, `"og:url" content="../html/`)
+			.replace(/"og:url" content="\/latest\//g, `"og:url" content="../html/`)
+			.replace(/"twitter:url" content="\/latest\/.*\//g, `"twitter:url" content="../html/`)
+			.replace(/"twitter:url" content="\/latest\//g, `"twitter:url" content="../html/`)
 
 		code = code // Fix WebPageDownloader paths
 			.replace(/href="\/css2"/g, `href="../styles/css2.css"`)
@@ -41,7 +45,8 @@ const fixJs = () => {
 
 		code = code // Fix WebPageDownloader paths
 			.replace(/\/latest\/leadership-system/g, '../html/leadership-system')
-			.replace(/\/latest\/.*?\//g, '../html/')
+			.replace(/\/latest\/.*\//g, '../html/')
+			.replace(/\/latest\//g, '../html/')
 
 		fs.writeFileSync(path, code)
 	}
