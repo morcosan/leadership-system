@@ -24,10 +24,7 @@
 		<meta property="twitter:card" content="summary" />
 		<meta property="twitter:url" content="../html/leadership-system-cnI1ov97-cnI1ov97" />
 		<meta property="twitter:title" content="Leadership System" />
-		<meta
-			property="twitter:description"
-			content="Like a design system, but for leadership"
-		/>
+		<meta property="twitter:description" content="Like a design system, but for leadership" />
 
 		<!-- Fonts -->
 
@@ -856,6 +853,20 @@
 				$("input[data-toggle='list-search']").on('keyup', function () {
 					searchInList($(this), $(this).attr('data-list-id'))
 				})
+
+				if (window.CookieConsent !== undefined && typeof window.CookieConsent === 'function') {
+					const cookieConsent = new CookieConsent({
+						content: {
+							title: '🍪 Cookie settings',
+							body: 'We use cookies to personalize content and analyze traffic to our documentation.',
+						},
+						postSelectionCallback: () => {
+							initGoogleAnalytics()
+						},
+					})
+				} else {
+					console.log('Showing Cookie Consent was blocked by browser')
+				}
 			})
 		</script>
 
@@ -873,7 +884,9 @@
 				gtag('config', 'G-8PB4EN34V6')
 			}
 
-			initGoogleAnalytics()
+			if (getCookieValue('cookie-consent-tracking-allowed') === 'true') {
+				initGoogleAnalytics()
+			}
 		</script>
 		<!-- End Google Analytics -->
 	</body>
