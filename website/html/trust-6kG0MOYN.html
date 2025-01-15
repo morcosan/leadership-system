@@ -14,17 +14,17 @@
 		<!-- Primary Meta Tags -->
 		<title>Trust</title>
 		<meta name="title" content="Trust" />
-		<meta name="description" content="Who is with us? | Made with Supernova" />
+		<meta name="description" content="Who is with us?" />
 		<!-- Open Graph / Facebook -->
 		<meta property="og:type" content="website" />
 		<meta property="og:url" content="../html/trust-6kG0MOYN" />
 		<meta property="og:title" content="Trust" />
-		<meta property="og:description" content="Who is with us? | Made with Supernova" />
+		<meta property="og:description" content="Who is with us?" />
 		<!-- Twitter -->
 		<meta property="twitter:card" content="summary" />
 		<meta property="twitter:url" content="../html/trust-6kG0MOYN" />
 		<meta property="twitter:title" content="Trust" />
-		<meta property="twitter:description" content="Who is with us? | Made with Supernova" />
+		<meta property="twitter:description" content="Who is with us?" />
 
 		<!-- Fonts -->
 
@@ -888,5 +888,23 @@
 				})
 			})
 		</script>
+
+		<!-- Google Analytics -->
+		<script>
+			function initGoogleAnalytics() {
+				let gtagScript = document.createElement('script')
+				gtagScript.setAttribute('src', 'https://www.googletagmanager.com/gtag/js?id=G-8PB4EN34V6')
+				document.body.appendChild(gtagScript)
+				window.dataLayer = window.dataLayer || []
+				function gtag() {
+					dataLayer.push(arguments)
+				}
+				gtag('js', new Date())
+				gtag('config', 'G-8PB4EN34V6')
+			}
+
+			initGoogleAnalytics()
+		</script>
+		<!-- End Google Analytics -->
 	</body>
 </html>

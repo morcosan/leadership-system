@@ -856,5 +856,23 @@
 				})
 			})
 		</script>
+
+		<!-- Google Analytics -->
+		<script>
+			function initGoogleAnalytics() {
+				let gtagScript = document.createElement('script')
+				gtagScript.setAttribute('src', 'https://www.googletagmanager.com/gtag/js?id=G-8PB4EN34V6')
+				document.body.appendChild(gtagScript)
+				window.dataLayer = window.dataLayer || []
+				function gtag() {
+					dataLayer.push(arguments)
+				}
+				gtag('js', new Date())
+				gtag('config', 'G-8PB4EN34V6')
+			}
+
+			initGoogleAnalytics()
+		</script>
+		<!-- End Google Analytics -->
 	</body>
 </html>

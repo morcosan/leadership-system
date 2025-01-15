@@ -14,17 +14,17 @@
 		<!-- Primary Meta Tags -->
 		<title>Purpose</title>
 		<meta name="title" content="Purpose" />
-		<meta name="description" content="Why are we here? | Made with Supernova" />
+		<meta name="description" content="Why are we here?" />
 		<!-- Open Graph / Facebook -->
 		<meta property="og:type" content="website" />
 		<meta property="og:url" content="../html/purpose-pqEhxCLq" />
 		<meta property="og:title" content="Purpose" />
-		<meta property="og:description" content="Why are we here? | Made with Supernova" />
+		<meta property="og:description" content="Why are we here?" />
 		<!-- Twitter -->
 		<meta property="twitter:card" content="summary" />
 		<meta property="twitter:url" content="../html/purpose-pqEhxCLq" />
 		<meta property="twitter:title" content="Purpose" />
-		<meta property="twitter:description" content="Why are we here? | Made with Supernova" />
+		<meta property="twitter:description" content="Why are we here?" />
 
 		<!-- Fonts -->
 
@@ -1132,5 +1132,23 @@
 				})
 			})
 		</script>
+
+		<!-- Google Analytics -->
+		<script>
+			function initGoogleAnalytics() {
+				let gtagScript = document.createElement('script')
+				gtagScript.setAttribute('src', 'https://www.googletagmanager.com/gtag/js?id=G-8PB4EN34V6')
+				document.body.appendChild(gtagScript)
+				window.dataLayer = window.dataLayer || []
+				function gtag() {
+					dataLayer.push(arguments)
+				}
+				gtag('js', new Date())
+				gtag('config', 'G-8PB4EN34V6')
+			}
+
+			initGoogleAnalytics()
+		</script>
+		<!-- End Google Analytics -->
 	</body>
 </html>

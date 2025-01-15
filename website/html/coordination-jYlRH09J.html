@@ -14,17 +14,17 @@
 		<!-- Primary Meta Tags -->
 		<title>Coordination</title>
 		<meta name="title" content="Coordination" />
-		<meta name="description" content="How do we go forward? | Made with Supernova" />
+		<meta name="description" content="How do we go forward?" />
 		<!-- Open Graph / Facebook -->
 		<meta property="og:type" content="website" />
 		<meta property="og:url" content="../html/coordination-jYlRH09J" />
 		<meta property="og:title" content="Coordination" />
-		<meta property="og:description" content="How do we go forward? | Made with Supernova" />
+		<meta property="og:description" content="How do we go forward?" />
 		<!-- Twitter -->
 		<meta property="twitter:card" content="summary" />
 		<meta property="twitter:url" content="../html/coordination-jYlRH09J" />
 		<meta property="twitter:title" content="Coordination" />
-		<meta property="twitter:description" content="How do we go forward? | Made with Supernova" />
+		<meta property="twitter:description" content="How do we go forward?" />
 
 		<!-- Fonts -->
 
@@ -864,5 +864,23 @@
 				})
 			})
 		</script>
+
+		<!-- Google Analytics -->
+		<script>
+			function initGoogleAnalytics() {
+				let gtagScript = document.createElement('script')
+				gtagScript.setAttribute('src', 'https://www.googletagmanager.com/gtag/js?id=G-8PB4EN34V6')
+				document.body.appendChild(gtagScript)
+				window.dataLayer = window.dataLayer || []
+				function gtag() {
+					dataLayer.push(arguments)
+				}
+				gtag('js', new Date())
+				gtag('config', 'G-8PB4EN34V6')
+			}
+
+			initGoogleAnalytics()
+		</script>
+		<!-- End Google Analytics -->
 	</body>
 </html>

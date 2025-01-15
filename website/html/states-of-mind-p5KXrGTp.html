@@ -14,17 +14,17 @@
 		<!-- Primary Meta Tags -->
 		<title>States of Mind</title>
 		<meta name="title" content="States of Mind" />
-		<meta name="description" content="What are we focused on? | Made with Supernova" />
+		<meta name="description" content="What are we focused on?" />
 		<!-- Open Graph / Facebook -->
 		<meta property="og:type" content="website" />
 		<meta property="og:url" content="../html/states-of-mind-p5KXrGTp" />
 		<meta property="og:title" content="States of Mind" />
-		<meta property="og:description" content="What are we focused on? | Made with Supernova" />
+		<meta property="og:description" content="What are we focused on?" />
 		<!-- Twitter -->
 		<meta property="twitter:card" content="summary" />
 		<meta property="twitter:url" content="../html/states-of-mind-p5KXrGTp" />
 		<meta property="twitter:title" content="States of Mind" />
-		<meta property="twitter:description" content="What are we focused on? | Made with Supernova" />
+		<meta property="twitter:description" content="What are we focused on?" />
 
 		<!-- Fonts -->
 
@@ -4034,5 +4034,23 @@
 				})
 			})
 		</script>
+
+		<!-- Google Analytics -->
+		<script>
+			function initGoogleAnalytics() {
+				let gtagScript = document.createElement('script')
+				gtagScript.setAttribute('src', 'https://www.googletagmanager.com/gtag/js?id=G-8PB4EN34V6')
+				document.body.appendChild(gtagScript)
+				window.dataLayer = window.dataLayer || []
+				function gtag() {
+					dataLayer.push(arguments)
+				}
+				gtag('js', new Date())
+				gtag('config', 'G-8PB4EN34V6')
+			}
+
+			initGoogleAnalytics()
+		</script>
+		<!-- End Google Analytics -->
 	</body>
 </html>

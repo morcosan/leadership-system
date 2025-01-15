@@ -14,17 +14,17 @@
 		<!-- Primary Meta Tags -->
 		<title>Intro</title>
 		<meta name="title" content="Intro" />
-		<meta name="description" content="Get started | Made with Supernova" />
+		<meta name="description" content="Get started" />
 		<!-- Open Graph / Facebook -->
 		<meta property="og:type" content="website" />
 		<meta property="og:url" content="../html/intro-UJDvxHHj-UJDvxHHj" />
 		<meta property="og:title" content="Intro" />
-		<meta property="og:description" content="Get started | Made with Supernova" />
+		<meta property="og:description" content="Get started" />
 		<!-- Twitter -->
 		<meta property="twitter:card" content="summary" />
 		<meta property="twitter:url" content="../html/intro-UJDvxHHj-UJDvxHHj" />
 		<meta property="twitter:title" content="Intro" />
-		<meta property="twitter:description" content="Get started | Made with Supernova" />
+		<meta property="twitter:description" content="Get started" />
 
 		<!-- Fonts -->
 
@@ -1398,5 +1398,23 @@
 				})
 			})
 		</script>
+
+		<!-- Google Analytics -->
+		<script>
+			function initGoogleAnalytics() {
+				let gtagScript = document.createElement('script')
+				gtagScript.setAttribute('src', 'https://www.googletagmanager.com/gtag/js?id=G-8PB4EN34V6')
+				document.body.appendChild(gtagScript)
+				window.dataLayer = window.dataLayer || []
+				function gtag() {
+					dataLayer.push(arguments)
+				}
+				gtag('js', new Date())
+				gtag('config', 'G-8PB4EN34V6')
+			}
+
+			initGoogleAnalytics()
+		</script>
+		<!-- End Google Analytics -->
 	</body>
 </html>

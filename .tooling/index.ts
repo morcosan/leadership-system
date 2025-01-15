@@ -21,7 +21,7 @@ const fixHtml = () => {
 			.replace(/\sconst sandboxConfigUrl =/g, `//const sandboxConfigUrl =`)
 			.replace(/\sloadSandboxes\(sandboxConfigUrl\)/g, `//loadSandboxes(sandboxConfigUrl)`)
 			.replace(/\s\| Made with Supernova/g, ``)
-			.replace(/Design system documentation, made with ❤️ using Supernova/g, `Made with Supernova`)
+			.replace(/Design system documentation, made with ❤️ using Supernova/g, ``)
 			.replace(/"og:url" content="\/latest\/.*\//g, `"og:url" content="../html/`)
 			.replace(/"og:url" content="\/latest\//g, `"og:url" content="../html/`)
 			.replace(/"twitter:url" content="\/latest\/.*\//g, `"twitter:url" content="../html/`)
@@ -68,6 +68,10 @@ const renameFiles = () => {
 	fs.rename('./website/scripts/fuse.js6.5.3', './website/scripts/fuse.js', () => {})
 }
 
+const deleteFiles = () => {
+	fs.unlink('./website/scripts/.js', () => {})
+}
+
 const copyAssets = () => {
 	const filePaths = getFilePathsFromDir('./.tooling/assets')
 
@@ -77,6 +81,7 @@ const copyAssets = () => {
 }
 
 copyAssets()
+deleteFiles()
 renameFiles()
 fixHtml()
 fixJs()

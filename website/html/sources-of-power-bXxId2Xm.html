@@ -14,17 +14,17 @@
 		<!-- Primary Meta Tags -->
 		<title>Sources of Power</title>
 		<meta name="title" content="Sources of Power" />
-		<meta name="description" content="How can we influence others? | Made with Supernova" />
+		<meta name="description" content="How can we influence others?" />
 		<!-- Open Graph / Facebook -->
 		<meta property="og:type" content="website" />
 		<meta property="og:url" content="../html/sources-of-power-bXxId2Xm" />
 		<meta property="og:title" content="Sources of Power" />
-		<meta property="og:description" content="How can we influence others? | Made with Supernova" />
+		<meta property="og:description" content="How can we influence others?" />
 		<!-- Twitter -->
 		<meta property="twitter:card" content="summary" />
 		<meta property="twitter:url" content="../html/sources-of-power-bXxId2Xm" />
 		<meta property="twitter:title" content="Sources of Power" />
-		<meta property="twitter:description" content="How can we influence others? | Made with Supernova" />
+		<meta property="twitter:description" content="How can we influence others?" />
 
 		<!-- Fonts -->
 
@@ -4028,5 +4028,23 @@
 				})
 			})
 		</script>
+
+		<!-- Google Analytics -->
+		<script>
+			function initGoogleAnalytics() {
+				let gtagScript = document.createElement('script')
+				gtagScript.setAttribute('src', 'https://www.googletagmanager.com/gtag/js?id=G-8PB4EN34V6')
+				document.body.appendChild(gtagScript)
+				window.dataLayer = window.dataLayer || []
+				function gtag() {
+					dataLayer.push(arguments)
+				}
+				gtag('js', new Date())
+				gtag('config', 'G-8PB4EN34V6')
+			}
+
+			initGoogleAnalytics()
+		</script>
+		<!-- End Google Analytics -->
 	</body>
 </html>
