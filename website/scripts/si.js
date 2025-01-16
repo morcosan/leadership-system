@@ -205,32 +205,39 @@
     "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-1"
   },
   {
-    "text": "We should also decide on which sources of power we need to rely.",
+    "text": "And we must consider which followership styles align with our leadership.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
     "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-2"
   },
   {
-    "text": "And most likely, we will need help from one or more supportive roles.",
+    "text": "We should also identify which sources of power are available to us.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
     "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-3"
   },
   {
-    "text": "Leadership is all about decisions, so we need a decision-making process.",
+    "text": "And most likely, we will need help from one or more supportive roles.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
     "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-4"
   },
   {
-    "text": "We also need to acknowledge different decision-making styles.",
+    "text": "Leadership is all about decisions, so we need a decision-making process.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
     "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-5"
+  },
+  {
+    "text": "We also need to acknowledge different decision-making styles.",
+    "type": "contentBlock",
+    "pageName": "Intro",
+    "category": "Intro",
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-6"
   },
   {
     "text": "Culture",
@@ -20082,6 +20089,1064 @@
     "category": "Coordination / Leadership Styles",
     "keywords": "Coordination / Leadership Styles",
     "url": "../html/leadership-styles-NDI1PWik"
+  },
+  {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-162b5a3b-5cd1-4966-9869-0d9d7639fa5b"
+  },
+  {
+    "text": "Followership = the capacity and willingness to actively support, collaborate with, and follow a leader through behaviors, attitudes, and contributions that enhance the effectiveness and success of the group or organization.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-f147421e-9a93-49ae-b5f7-7277cd38fea9"
+  },
+  {
+    "text": "Followership Styles = the various approaches individuals adopt in interacting with and supporting leadership, defined by their degree of independence, critical thinking, and engagement in organizational goals and activities.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-be0879c1-5710-4df1-b2fc-30c79c0f4dfa"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-39cf6846-ef30-4fc0-a139-1c461f0c918e"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-b0e7ed80-286c-48b3-861d-cc94d9184d38"
+  },
+  {
+    "text": "Proactive Followership",
+    "type": "sectionHeader",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-e45c4d80-b944-4baf-9fac-c615f3c95281"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-37b45626-3098-4736-92ea-05f617d56802"
+  },
+  {
+    "text": "Pragmatic Followership",
+    "type": "sectionHeader",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-a1d9e325-152b-4e7f-88d7-9ad69b6c29c3"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-507a9876-f530-4213-af5c-876ba6161eb8"
+  },
+  {
+    "text": "Conformist Followership",
+    "type": "sectionHeader",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-e848b96f-3303-45e3-a18e-d837c09ebb68"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-3fb66ee4-75a8-4a21-9f75-22f4449a0b4a"
+  },
+  {
+    "text": "Passive Followership",
+    "type": "sectionHeader",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-dd466132-6ccf-44cf-a976-07412adfeaeb"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-67393587-d95a-462c-9edb-0a2650fa0cfc"
+  },
+  {
+    "text": "Alienated Followership",
+    "type": "sectionHeader",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-4b3bbaad-bba9-4f19-a2ea-f051a6c02b45"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-61a51aec-d5e6-49ff-ad18-d3bb95f8b524"
+  },
+  {
+    "text": "Proactive Followership = the style of followership characterized by taking initiative, anticipating needs, offering solutions, and actively contributing to organizational goals. It reflects a high degree of independence, critical thinking, and collaboration, ensuring a productive and supportive relationship with leadership.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-53253c86-dc78-4ffa-9551-70b422ac9a33"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-71a43521-1f79-4e0a-bef7-f8d252b24b2d"
+  },
+  {
+    "text": "We provide clear goals and expectations, enabling employees to anticipate needs effectively.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-eaddea78-de3f-4b27-8cf1-8064ef6610a6"
+  },
+  {
+    "text": "We celebrate proactive problem-solving and reward contributions that drive results.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-eaddea78-de3f-4b27-8cf1-8064ef6610a6-1"
+  },
+  {
+    "text": "We offer training programs to enhance critical thinking and decision-making skills.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-eaddea78-de3f-4b27-8cf1-8064ef6610a6-2"
+  },
+  {
+    "text": "We prioritize cross-functional collaboration to ensure alignment and proactive engagement.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-eaddea78-de3f-4b27-8cf1-8064ef6610a6-3"
+  },
+  {
+    "text": "We encourage employees to voice concerns and propose solutions rather than just identify problems.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-eaddea78-de3f-4b27-8cf1-8064ef6610a6-4"
+  },
+  {
+    "text": "We integrate initiative-taking as a core competency in performance evaluations.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-eaddea78-de3f-4b27-8cf1-8064ef6610a6-5"
+  },
+  {
+    "text": "We support mentorship opportunities to develop leadership traits among proactive followers.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-eaddea78-de3f-4b27-8cf1-8064ef6610a6-6"
+  },
+  {
+    "text": "We provide resources and tools that empower teams to address challenges head-on.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-eaddea78-de3f-4b27-8cf1-8064ef6610a6-7"
+  },
+  {
+    "text": "We invest in platforms and systems that make it easier for employees to act on ideas quickly.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-eaddea78-de3f-4b27-8cf1-8064ef6610a6-8"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-3c0f5582-bcce-47f6-a93d-22c06e69c1c1-0-0"
+  },
+  {
+    "text": "It builds trust and collaboration between leaders and followers.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-3c0f5582-bcce-47f6-a93d-22c06e69c1c1-0-1-0"
+  },
+  {
+    "text": "It fosters accountability by modeling responsibility within the team.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-3c0f5582-bcce-47f6-a93d-22c06e69c1c1-0-1-1"
+  },
+  {
+    "text": "It eases leaders' burdens by empowering followers to share duties.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-3c0f5582-bcce-47f6-a93d-22c06e69c1c1-0-1-2"
+  },
+  {
+    "text": "It enables leaders to focus on strategy over operational details.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-3c0f5582-bcce-47f6-a93d-22c06e69c1c1-0-1-3"
+  },
+  {
+    "text": "It boosts decision-making with diverse perspectives and feedback.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-3c0f5582-bcce-47f6-a93d-22c06e69c1c1-0-1-4"
+  },
+  {
+    "text": "It strengthens leader-follower partnerships and team cohesion.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-3c0f5582-bcce-47f6-a93d-22c06e69c1c1-0-1-5"
+  },
+  {
+    "text": "It fosters mutual respect as leaders value proactive contributions.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-3c0f5582-bcce-47f6-a93d-22c06e69c1c1-0-1-6"
+  },
+  {
+    "text": "It strengthens leadership credibility by boosting team performance.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-3c0f5582-bcce-47f6-a93d-22c06e69c1c1-0-1-7"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-3c0f5582-bcce-47f6-a93d-22c06e69c1c1-1-0"
+  },
+  {
+    "text": "It can cause conflicts if followers excessively challenge leadership.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-3c0f5582-bcce-47f6-a93d-22c06e69c1c1-1-1-0"
+  },
+  {
+    "text": "It may create confusion if leader-follower boundaries are blurred.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-3c0f5582-bcce-47f6-a93d-22c06e69c1c1-1-1-1"
+  },
+  {
+    "text": "It risks overstepping authority, creating tension in hierarchies.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-3c0f5582-bcce-47f6-a93d-22c06e69c1c1-1-1-2"
+  },
+  {
+    "text": "It could lead to a lack of cohesion if ideas clash within a team.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-3c0f5582-bcce-47f6-a93d-22c06e69c1c1-1-1-3"
+  },
+  {
+    "text": "It risks power imbalances if proactive followers gain influence.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-3c0f5582-bcce-47f6-a93d-22c06e69c1c1-1-1-4"
+  },
+  {
+    "text": "It requires leaders to be open to feedback, which may not occur.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-3c0f5582-bcce-47f6-a93d-22c06e69c1c1-1-1-5"
+  },
+  {
+    "text": "It may cause leadership fatigue due to constant engagement.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-3c0f5582-bcce-47f6-a93d-22c06e69c1c1-1-1-6"
+  },
+  {
+    "text": "It demands high emotional intelligence from leaders.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-3c0f5582-bcce-47f6-a93d-22c06e69c1c1-1-1-7"
+  },
+  {
+    "text": "Pragmatic Followership = the style of followership characterized by a balanced approach where behavior adapts to the situation, balancing risks and benefits. It prioritizes practicality and self-preservation, avoiding extremes of passivity or over-involvement, and may appear neutral or ambiguous in loyalty and initiative.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-666d0165-af0f-4a2c-817f-256f8b78df40"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-44c9dcf0-a557-4596-a7dd-bc572afade08"
+  },
+  {
+    "text": "We encourage our teams to assess situations critically and act based on practical outcomes rather than rigid rules.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-f0789ad2-cc08-42c6-863c-0b077027926f"
+  },
+  {
+    "text": "We provide clear guidelines but allow flexibility for employees to adapt to evolving circumstances.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-f0789ad2-cc08-42c6-863c-0b077027926f-1"
+  },
+  {
+    "text": "We reward calculated decision-making that aligns with our business objectives, even if it involves creative deviations from norms.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-f0789ad2-cc08-42c6-863c-0b077027926f-2"
+  },
+  {
+    "text": "We reward those who remain pragmatic, recognizing that not every situation calls for the same level of involvement or risk.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-f0789ad2-cc08-42c6-863c-0b077027926f-3"
+  },
+  {
+    "text": "We empower employees to manage their involvement in projects based on their expertise and the situation’s demands.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-f0789ad2-cc08-42c6-863c-0b077027926f-4"
+  },
+  {
+    "text": "We offer training that helps employees develop situational awareness and adaptability in dynamic environments.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-f0789ad2-cc08-42c6-863c-0b077027926f-5"
+  },
+  {
+    "text": "We celebrate team members who maintain loyalty to the company’s mission while navigating complex scenarios.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-f0789ad2-cc08-42c6-863c-0b077027926f-6"
+  },
+  {
+    "text": "We promote ongoing learning and skill development to help employees respond effectively to shifting conditions.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-f0789ad2-cc08-42c6-863c-0b077027926f-7"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-0e46cd8f-d653-48ca-9efc-d46a0770dfd2-0-0"
+  },
+  {
+    "text": "It can adapt to different leadership styles and needs.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-0e46cd8f-d653-48ca-9efc-d46a0770dfd2-0-1-0"
+  },
+  {
+    "text": "It fosters flexibility, enabling leaders to adjust strategies easily.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-0e46cd8f-d653-48ca-9efc-d46a0770dfd2-0-1-1"
+  },
+  {
+    "text": "It supports practical decision-making, reducing impulsive actions.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-0e46cd8f-d653-48ca-9efc-d46a0770dfd2-0-1-2"
+  },
+  {
+    "text": "It gives leaders a stabilizing presence in uncertain times or crises.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-0e46cd8f-d653-48ca-9efc-d46a0770dfd2-0-1-3"
+  },
+  {
+    "text": "It ensures leaders can rely on others to stay focused on key goals.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-0e46cd8f-d653-48ca-9efc-d46a0770dfd2-0-1-4"
+  },
+  {
+    "text": "It minimizes conflict by prioritizing practicality over confrontation.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-0e46cd8f-d653-48ca-9efc-d46a0770dfd2-0-1-5"
+  },
+  {
+    "text": "It counterbalances overly idealistic or critical team members.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-0e46cd8f-d653-48ca-9efc-d46a0770dfd2-0-1-6"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-0e46cd8f-d653-48ca-9efc-d46a0770dfd2-1-0"
+  },
+  {
+    "text": "It can frustrate leaders seeking clear commitment or consistency.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-0e46cd8f-d653-48ca-9efc-d46a0770dfd2-1-1-0"
+  },
+  {
+    "text": "It may cause ambiguity, leaving leaders unsure about loyalty.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-0e46cd8f-d653-48ca-9efc-d46a0770dfd2-1-1-1"
+  },
+  {
+    "text": "It could foster a reactive team culture, slowing progress.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-0e46cd8f-d653-48ca-9efc-d46a0770dfd2-1-1-2"
+  },
+  {
+    "text": "It risks damaging morale if followers seem detached or indifferent.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-0e46cd8f-d653-48ca-9efc-d46a0770dfd2-1-1-3"
+  },
+  {
+    "text": "It breeds complacency, prioritizing \"good enough\" over excellence.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-0e46cd8f-d653-48ca-9efc-d46a0770dfd2-1-1-4"
+  },
+  {
+    "text": "It encourages a “wait and see” attitude, delaying urgent actions.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-0e46cd8f-d653-48ca-9efc-d46a0770dfd2-1-1-5"
+  },
+  {
+    "text": "It can reduce accountability if followers avoid owning outcomes.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-0e46cd8f-d653-48ca-9efc-d46a0770dfd2-1-1-6"
+  },
+  {
+    "text": "It can undermine leaders' ability to inspire long-term visions.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-0e46cd8f-d653-48ca-9efc-d46a0770dfd2-1-1-7"
+  },
+  {
+    "text": "Conformist Followership = the style of followership characterized by high engagement and commitment, with a strong strong tendency to follow authority and established norms, but limited independent critical thinking. It emphasizes obedience, loyalty, and completing tasks without questioning instructions or exploring alternatives.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-564be96b-52c2-49c3-9191-bf94481ab792"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-b9648ad4-d1bc-4235-bcad-91a66a361b1d"
+  },
+  {
+    "text": "We provide clear and structured guidance to ensure employees understand expectations and objectives.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-ccee0ca4-a221-4a7c-ab0f-0a0b295b68c0"
+  },
+  {
+    "text": "We establish strong leadership roles that offer consistent direction and decision-making.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-ccee0ca4-a221-4a7c-ab0f-0a0b295b68c0-1"
+  },
+  {
+    "text": "We reward commitment and dedication to following established protocols and processes.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-ccee0ca4-a221-4a7c-ab0f-0a0b295b68c0-2"
+  },
+  {
+    "text": "We create comprehensive training programs that instill confidence in following our systems and methods.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-ccee0ca4-a221-4a7c-ab0f-0a0b295b68c0-3"
+  },
+  {
+    "text": "We recognize and celebrate those who execute tasks efficiently and faithfully without deviating from instructions.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-ccee0ca4-a221-4a7c-ab0f-0a0b295b68c0-4"
+  },
+  {
+    "text": "We implement robust documentation and standard operating procedures for ease of compliance.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-ccee0ca4-a221-4a7c-ab0f-0a0b295b68c0-5"
+  },
+  {
+    "text": "We build a culture of respect for hierarchy to ensure operational stability and smooth workflows.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-ccee0ca4-a221-4a7c-ab0f-0a0b295b68c0-6"
+  },
+  {
+    "text": "We actively promote a sense of pride in upholding the company’s legacy and systems.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-ccee0ca4-a221-4a7c-ab0f-0a0b295b68c0-7"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-cc6329df-36b2-495c-85c6-e770590cb199-0-0"
+  },
+  {
+    "text": "It provides a stable environment for leaders to execute decisions.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-cc6329df-36b2-495c-85c6-e770590cb199-0-1-0"
+  },
+  {
+    "text": "It reduces resistance, allowing leaders to focus on strategy.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-cc6329df-36b2-495c-85c6-e770590cb199-0-1-1"
+  },
+  {
+    "text": "It builds trust in leadership by reinforcing loyalty and commitment.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-cc6329df-36b2-495c-85c6-e770590cb199-0-1-2"
+  },
+  {
+    "text": "It simplifies communication, with prompt action on instructions.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-cc6329df-36b2-495c-85c6-e770590cb199-0-1-3"
+  },
+  {
+    "text": "It provides leaders with dependable, task-oriented support.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-cc6329df-36b2-495c-85c6-e770590cb199-0-1-4"
+  },
+  {
+    "text": "It ensures adherence to organizational standards and policies.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-cc6329df-36b2-495c-85c6-e770590cb199-0-1-5"
+  },
+  {
+    "text": "It aids quick implementation of leadership decisions during crises.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-cc6329df-36b2-495c-85c6-e770590cb199-0-1-6"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-cc6329df-36b2-495c-85c6-e770590cb199-1-0"
+  },
+  {
+    "text": "It limits the diversity of ideas and perspectives in problem-solving.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-cc6329df-36b2-495c-85c6-e770590cb199-1-1-0"
+  },
+  {
+    "text": "It promotes groupthink and limits the ability to identify risks.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-cc6329df-36b2-495c-85c6-e770590cb199-1-1-1"
+  },
+  {
+    "text": "It creates a passive organizational culture resistant to change.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-cc6329df-36b2-495c-85c6-e770590cb199-1-1-2"
+  },
+  {
+    "text": "It shifts responsibility to leaders, reducing personal accountability.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-cc6329df-36b2-495c-85c6-e770590cb199-1-1-3"
+  },
+  {
+    "text": "It reduces opportunities for growth and development in followers.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-cc6329df-36b2-495c-85c6-e770590cb199-1-1-4"
+  },
+  {
+    "text": "It risks perpetuating outdated or ineffective practices.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-cc6329df-36b2-495c-85c6-e770590cb199-1-1-5"
+  },
+  {
+    "text": "It might lead to repeated errors due to lack of critical review.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-cc6329df-36b2-495c-85c6-e770590cb199-1-1-6"
+  },
+  {
+    "text": "Passive Followership = the style of followership characterized by a lack of initiative, autonomy, and critical thinking, where individuals rely heavily on leaders for direction, avoid responsibility, and contribute little to decision-making, problem-solving, or active engagement.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-c55f471b-9c96-4605-8f1e-7ee09c71069e"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-395feff9-fd50-4441-bbc9-947fc83c90bb"
+  },
+  {
+    "text": "We provide clear instructions and structured workflows to minimize ambiguity for passive followers.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-928c0bad-5807-4a28-bd81-0197c50fc407"
+  },
+  {
+    "text": "We establish well-defined roles and responsibilities, ensuring expectations are straightforward and easy to follow.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-928c0bad-5807-4a28-bd81-0197c50fc407-1"
+  },
+  {
+    "text": "We leverage systems and tools that guide daily tasks and reduce the need for independent decision-making.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-928c0bad-5807-4a28-bd81-0197c50fc407-2"
+  },
+  {
+    "text": "We implement frequent check-ins to ensure alignment and provide reassurance to those who prefer direction.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-928c0bad-5807-4a28-bd81-0197c50fc407-3"
+  },
+  {
+    "text": "We encourage collaboration in controlled environments to help passive followers contribute without feeling overwhelmed.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-928c0bad-5807-4a28-bd81-0197c50fc407-4"
+  },
+  {
+    "text": "We reward compliance and execution of instructions as a form of contribution to company goals.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-928c0bad-5807-4a28-bd81-0197c50fc407-5"
+  },
+  {
+    "text": "We pair passive followers with strong mentors or supervisors to provide ongoing support and direction.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-928c0bad-5807-4a28-bd81-0197c50fc407-6"
+  },
+  {
+    "text": "We cultivate an environment where taking initiative is encouraged but not required for success.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-928c0bad-5807-4a28-bd81-0197c50fc407-7"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-bcbfc6bf-049a-4b4c-9455-45d1f5dd7563-0-0"
+  },
+  {
+    "text": "It promotes consistency by centralizing control under a leader.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-bcbfc6bf-049a-4b4c-9455-45d1f5dd7563-0-1-0"
+  },
+  {
+    "text": "It eases coordination as followers align with the leader's directives.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-bcbfc6bf-049a-4b4c-9455-45d1f5dd7563-0-1-1"
+  },
+  {
+    "text": "It fosters efficiency by eliminating unnecessary debates or delays.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-bcbfc6bf-049a-4b4c-9455-45d1f5dd7563-0-1-2"
+  },
+  {
+    "text": "It creates a structured environment for inexperienced teams.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-bcbfc6bf-049a-4b4c-9455-45d1f5dd7563-0-1-3"
+  },
+  {
+    "text": "It enables leaders to take full accountability for team outcomes.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-bcbfc6bf-049a-4b4c-9455-45d1f5dd7563-0-1-4"
+  },
+  {
+    "text": "It allows leaders to implement their vision without resistance.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-bcbfc6bf-049a-4b4c-9455-45d1f5dd7563-0-1-5"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-bcbfc6bf-049a-4b4c-9455-45d1f5dd7563-1-0"
+  },
+  {
+    "text": "It creates overdependence on leaders, weakening team resilience.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-bcbfc6bf-049a-4b4c-9455-45d1f5dd7563-1-1-0"
+  },
+  {
+    "text": "It fosters a lack of engagement and motivation within the team.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-bcbfc6bf-049a-4b4c-9455-45d1f5dd7563-1-1-1"
+  },
+  {
+    "text": "It increases the leader’s workload by discouraging delegation.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-bcbfc6bf-049a-4b4c-9455-45d1f5dd7563-1-1-2"
+  },
+  {
+    "text": "It causes inefficiency if leaders make poor decisions alone.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-bcbfc6bf-049a-4b4c-9455-45d1f5dd7563-1-1-3"
+  },
+  {
+    "text": "It creates a bottleneck when leaders are absent or overwhelmed.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-bcbfc6bf-049a-4b4c-9455-45d1f5dd7563-1-1-4"
+  },
+  {
+    "text": "It misses out on team members' diverse talents and perspectives.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-bcbfc6bf-049a-4b4c-9455-45d1f5dd7563-1-1-5"
+  },
+  {
+    "text": "It limits personal growth and development of followers.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-bcbfc6bf-049a-4b4c-9455-45d1f5dd7563-1-1-6"
+  },
+  {
+    "text": "Alienated Followership = the style of followership characterized by independent and critical thinking combined with low engagement and commitment toward leadership or organizational goals. It questions authority without actively contributing, often stemming from dissatisfaction, mistrust, or perceived unfairness.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-7cf6a83e-d94a-4b92-bba9-3513fd2b83f2"
+  },
+  {
+    "text": "How we support this style:",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-678c8adb-a5b6-4716-9cf0-eeefe13b3586"
+  },
+  {
+    "text": "We provide platforms for voicing dissent in constructive ways.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-56b987d2-0538-4d8c-be19-9f9248ab52be"
+  },
+  {
+    "text": "We create opportunities for these individuals to channel their critiques into actionable solutions.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-56b987d2-0538-4d8c-be19-9f9248ab52be-1"
+  },
+  {
+    "text": "We establish transparent processes to rebuild trust where it may have been lost.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-56b987d2-0538-4d8c-be19-9f9248ab52be-2"
+  },
+  {
+    "text": "We invite alienated followers to participate in strategic decision-making forums.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-56b987d2-0538-4d8c-be19-9f9248ab52be-3"
+  },
+  {
+    "text": "We develop training programs to transform independent thought into collaborative action.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-56b987d2-0538-4d8c-be19-9f9248ab52be-4"
+  },
+  {
+    "text": "We address dissatisfaction promptly to minimize feelings of alienation.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-56b987d2-0538-4d8c-be19-9f9248ab52be-5"
+  },
+  {
+    "text": "We assign roles where their critical thinking adds value without relying heavily on their engagement.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-56b987d2-0538-4d8c-be19-9f9248ab52be-6"
+  },
+  {
+    "text": "We invest in mentorship to help alienated followers align their perspectives with organizational goals.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-56b987d2-0538-4d8c-be19-9f9248ab52be-7"
+  },
+  {
+    "text": "We avoid punitive responses to dissent, fostering a culture of respect and inclusion.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-56b987d2-0538-4d8c-be19-9f9248ab52be-8"
+  },
+  {
+    "text": "Benefits:",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-9bd4fff6-f3ed-444d-9995-f9f731e216df-0-0"
+  },
+  {
+    "text": "It enhances accountability by requiring leaders to justify decisions.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-9bd4fff6-f3ed-444d-9995-f9f731e216df-0-1-0"
+  },
+  {
+    "text": "It reveals weaknesses in leadership and organizational goals.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-9bd4fff6-f3ed-444d-9995-f9f731e216df-0-1-1"
+  },
+  {
+    "text": "It highlights areas where leadership communication can improve.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-9bd4fff6-f3ed-444d-9995-f9f731e216df-0-1-2"
+  },
+  {
+    "text": "It offers alternative perspectives that may lead to better solutions.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-9bd4fff6-f3ed-444d-9995-f9f731e216df-0-1-3"
+  },
+  {
+    "text": "It uncovers overlooked issues within the team or organization.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-9bd4fff6-f3ed-444d-9995-f9f731e216df-0-1-4"
+  },
+  {
+    "text": "It drives leaders to address dissatisfaction and rebuild trust.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-9bd4fff6-f3ed-444d-9995-f9f731e216df-0-1-5"
+  },
+  {
+    "text": "It stimulates growth by challenging the status quo.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-9bd4fff6-f3ed-444d-9995-f9f731e216df-0-1-6"
+  },
+  {
+    "text": "Drawbacks:",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-9bd4fff6-f3ed-444d-9995-f9f731e216df-1-0"
+  },
+  {
+    "text": "It undermines leadership authority, leading to decreased morale.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-9bd4fff6-f3ed-444d-9995-f9f731e216df-1-1-0"
+  },
+  {
+    "text": "It damages trust between leaders and team members.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-9bd4fff6-f3ed-444d-9995-f9f731e216df-1-1-1"
+  },
+  {
+    "text": "It can delay decision-making through excessive questioning.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-9bd4fff6-f3ed-444d-9995-f9f731e216df-1-1-2"
+  },
+  {
+    "text": "It fosters disengagement, reducing team cohesion.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-9bd4fff6-f3ed-444d-9995-f9f731e216df-1-1-3"
+  },
+  {
+    "text": "It creates a negative culture through constant dissatisfaction.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-9bd4fff6-f3ed-444d-9995-f9f731e216df-1-1-4"
+  },
+  {
+    "text": "It discourages leaders from taking risks for fear of backlash.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-9bd4fff6-f3ed-444d-9995-f9f731e216df-1-1-5"
+  },
+  {
+    "text": "It leads to burnout in leadership by requiring constant justification.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-9bd4fff6-f3ed-444d-9995-f9f731e216df-1-1-6"
+  },
+  {
+    "text": "It creates resistance to change or new initiatives.",
+    "type": "contentBlock",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ#search-9bd4fff6-f3ed-444d-9995-f9f731e216df-1-1-7"
+  },
+  {
+    "text": "Followership Styles",
+    "type": "pageTitle",
+    "pageName": "Followership Styles",
+    "category": "Coordination / Followership Styles",
+    "keywords": "Coordination / Followership Styles",
+    "url": "../html/followership-styles-req0e7HQ-req0e7HQ"
   },
   {
     "text": "Note: This is demo content for a fictional SaaS company.",
