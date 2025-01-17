@@ -240,6 +240,13 @@
     "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-6"
   },
   {
+    "text": "And we need to ensure that we make the necessary types of decisions.",
+    "type": "contentBlock",
+    "pageName": "Intro",
+    "category": "Intro",
+    "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-ce399dec-c28e-4f04-951d-26a731f6ff1d-7"
+  },
+  {
     "text": "Culture",
     "type": "sectionHeader",
     "pageName": "Intro",
@@ -289,7 +296,7 @@
     "url": "../html/intro-UJDvxHHj-UJDvxHHj#search-56aeae7d-cbba-4074-b9ba-d8934d6b9129"
   },
   {
-    "text": "And our learning must lead to change, in both ourselves and our company.",
+    "text": "We should always be ready for change, in both ourselves and our company.",
     "type": "contentBlock",
     "pageName": "Intro",
     "category": "Intro",
@@ -28326,6 +28333,2471 @@
     "category": "Coordination / Decision Making / Styles",
     "keywords": "Coordination / Decision Making / Styles",
     "url": "../html/styles-Vr1X9gll-Vr1X9gll"
+  },
+  {
+    "text": "Note: This is demo content for a fictional SaaS company.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-996a2ec3-03e1-425c-a0f2-c0ba831fae4c"
+  },
+  {
+    "text": "Decision = the process of making a choice or reaching a conclusion after considering options, facts, or evidence.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-80ef4e64-47fa-439c-8e8a-03f8559b8826"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-6d9c987b-9fe6-4558-8077-641029be35e9"
+  },
+  {
+    "text": "By Scope",
+    "type": "sectionHeader",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-1653ace3-7fd4-455f-b55e-b43503b4e7ab"
+  },
+  {
+    "text": "Who  is affected by the decision?",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-63183df6-8267-43e8-8f81-b7f2bfa609d7"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-aa9541d9-5759-4ad6-ad72-d47168bf39c4"
+  },
+  {
+    "text": "Strategic Decisions",
+    "type": "sectionHeader",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b4024519-4f28-4da6-a0ce-38a46ef7ebe7"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-6f57c27f-0ce4-4192-aa14-5e26f4c5db6d"
+  },
+  {
+    "text": "Tactical Decisions",
+    "type": "sectionHeader",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-2a8575cd-4707-49f9-8c33-ae0420a519a2"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-f60a1e73-7949-4e4f-ad21-90c1950d317d"
+  },
+  {
+    "text": "Operational Decisions",
+    "type": "sectionHeader",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b721bf4c-4201-4065-959c-5baa53a3f4eb"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-c191abff-8b0a-4c1c-8a97-d8adf3d5e1be"
+  },
+  {
+    "text": "By Structure",
+    "type": "sectionHeader",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-23d9a31b-0401-4d2d-8abe-7890709b5e39"
+  },
+  {
+    "text": "How routine is the decision?",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-01fc69a0-070f-47ea-aedb-105ba66857d1"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-083ba1f3-7ce8-42f0-84c7-99e909b2eeb2"
+  },
+  {
+    "text": "Structured Decisions",
+    "type": "sectionHeader",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-11dec8a4-97ce-488c-a65d-8be968de95d2"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-f8e9c1f3-4e48-4886-8e97-2e7b6164a75a"
+  },
+  {
+    "text": "Unstructured Decisions",
+    "type": "sectionHeader",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-73183a53-c689-409c-911f-fc9d8fd15975"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3cda64c8-b4fc-4ff2-b98a-f84862a445b1"
+  },
+  {
+    "text": "By Approach",
+    "type": "sectionHeader",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-748d7179-9315-405e-9fe7-28994bb68cc0"
+  },
+  {
+    "text": "How is the solution decided?",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-f6831a5f-68cc-4432-a46d-b807bfd5a917"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-9a5b09eb-d318-4fb7-b008-e0dee1d777fb"
+  },
+  {
+    "text": "Maximizing Decisions",
+    "type": "sectionHeader",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-89e59d9a-dc3a-4d62-9f49-5a31283fb255"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-f5fb6d61-aea6-4d1a-a9b8-07045ad55bed"
+  },
+  {
+    "text": "Satisficing Decisions",
+    "type": "sectionHeader",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-71d884a1-8c6c-4d21-a50a-cafe360a142e"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d7e5b6d7-2a84-4e9a-ba5d-3f9ae372f9cf"
+  },
+  {
+    "text": "By Impact",
+    "type": "sectionHeader",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-a8d9b7be-c14d-4be2-8d67-690eadf70c87"
+  },
+  {
+    "text": "How impactful is the decision?",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-5c2dbcfe-11c2-400b-90d1-7f2e68c0a48a"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-0f4ddf6d-df36-42c9-86ff-f122d79fa67c"
+  },
+  {
+    "text": "Major Decisions",
+    "type": "sectionHeader",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-6313981b-71cb-49c8-b60d-8dffc0c8ebfe"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-ec9236c7-ee65-4957-a6ff-79361df4c799"
+  },
+  {
+    "text": "Minor Decisions",
+    "type": "sectionHeader",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-be6b4461-1527-4ad9-8f6e-153928b4f570"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-5b2a2405-eb26-4dbd-a68e-af99912a1542"
+  },
+  {
+    "text": "Micro Decisions",
+    "type": "sectionHeader",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-32fefed4-ac18-47da-ba6c-154f08ad1512"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-45f2145f-a22a-43fb-9132-589ef30d808d"
+  },
+  {
+    "text": "By Contribution",
+    "type": "sectionHeader",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-8be8b2f6-2858-4d1e-b823-bc2a5643e1e2"
+  },
+  {
+    "text": "Who is making the decision?",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-1f6af00c-3345-421e-8162-3f1f7d0fe38b"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-1f25a816-2f73-4f70-8e4a-06aefb1b4472"
+  },
+  {
+    "text": "Individual Decisions",
+    "type": "sectionHeader",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-35f10c54-09af-4a15-b110-6990f3540bd1"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-9b26f0f4-df19-493f-9d5c-0ed9cfedceb0"
+  },
+  {
+    "text": "Group Decisions",
+    "type": "sectionHeader",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-93798cc3-bb0f-4f14-b945-47cf51edf9c7"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e5c2a12c-b843-4027-9d6b-c336a3728606"
+  },
+  {
+    "text": "Strategic Decisions = the high-level decisions focused on setting long-term goals, overall direction, and priorities for an organization, often involving significant resource allocation and impact on the organization's future.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-94a299ce-8ebb-4e7d-93d2-124b0b01a57d"
+  },
+  {
+    "text": "How we support such decisions:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-4e73100a-4703-45fa-92d0-3ec6b14310e8"
+  },
+  {
+    "text": "We provide robust data analytics tools to equip individuals with actionable insights for informed decision-making.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-a1c8be41-5cc7-4017-90f5-7a6ac391ba54"
+  },
+  {
+    "text": "We offer strategic planning frameworks to streamline the evaluation and prioritization of opportunities.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-a1c8be41-5cc7-4017-90f5-7a6ac391ba54-1"
+  },
+  {
+    "text": "We ensure access to cross-functional expertise to evaluate decisions from diverse perspectives.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-a1c8be41-5cc7-4017-90f5-7a6ac391ba54-2"
+  },
+  {
+    "text": "We invest in leadership training programs that enhance critical thinking and strategic foresight.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-a1c8be41-5cc7-4017-90f5-7a6ac391ba54-3"
+  },
+  {
+    "text": "We use scenario planning to prepare for various outcomes and guide individuals in choosing resilient strategies.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-a1c8be41-5cc7-4017-90f5-7a6ac391ba54-4"
+  },
+  {
+    "text": "We provide clear communication channels to share organizational goals and ensure alignment across teams.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-a1c8be41-5cc7-4017-90f5-7a6ac391ba54-5"
+  },
+  {
+    "text": "We offer mentoring programs where experienced leaders guide individuals in making impactful strategic choices.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-a1c8be41-5cc7-4017-90f5-7a6ac391ba54-6"
+  },
+  {
+    "text": "We recognize and reward individuals who make bold, successful strategic moves that drive growth.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-a1c8be41-5cc7-4017-90f5-7a6ac391ba54-7"
+  },
+  {
+    "text": "We establish measurable criteria to evaluate the success of strategic decisions and refine future approaches.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-a1c8be41-5cc7-4017-90f5-7a6ac391ba54-8"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-53c9544a-1958-4060-9d13-97b1ae4c3230"
+  },
+  {
+    "text": "Needed for:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e24ec6f3-46e6-44a6-b178-892473cf2ce4-0-0"
+  },
+  {
+    "text": "Establishing the organization’s long-term vision and mission.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e24ec6f3-46e6-44a6-b178-892473cf2ce4-0-1-0"
+  },
+  {
+    "text": "Setting overarching goals and objectives for future growth.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e24ec6f3-46e6-44a6-b178-892473cf2ce4-0-1-1"
+  },
+  {
+    "text": "Shaping company culture and overarching values.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e24ec6f3-46e6-44a6-b178-892473cf2ce4-0-1-2"
+  },
+  {
+    "text": "Defining the scope of operations and market positioning.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e24ec6f3-46e6-44a6-b178-892473cf2ce4-0-1-3"
+  },
+  {
+    "text": "Allocating major resources to pursue identified opportunities.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e24ec6f3-46e6-44a6-b178-892473cf2ce4-0-1-4"
+  },
+  {
+    "text": "Addressing significant risks that threaten organization's future.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e24ec6f3-46e6-44a6-b178-892473cf2ce4-0-1-5"
+  },
+  {
+    "text": "Responding to significant shifts in the industry landscape.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e24ec6f3-46e6-44a6-b178-892473cf2ce4-0-1-6"
+  },
+  {
+    "text": "Deciding on mergers, acquisitions, or partnerships.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e24ec6f3-46e6-44a6-b178-892473cf2ce4-0-1-7"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e24ec6f3-46e6-44a6-b178-892473cf2ce4-1-0"
+  },
+  {
+    "text": "Relying on incomplete or outdated data for long-term planning.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e24ec6f3-46e6-44a6-b178-892473cf2ce4-1-1-0"
+  },
+  {
+    "text": "Disregarding organizational culture when setting long-term goals.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e24ec6f3-46e6-44a6-b178-892473cf2ce4-1-1-1"
+  },
+  {
+    "text": "Setting conflicting objectives that create organizational confusion.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e24ec6f3-46e6-44a6-b178-892473cf2ce4-1-1-2"
+  },
+  {
+    "text": "Ignoring stakeholder analysis or input during major decisions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e24ec6f3-46e6-44a6-b178-892473cf2ce4-1-1-3"
+  },
+  {
+    "text": "Overemphasizing past successes while ignoring future challenges.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e24ec6f3-46e6-44a6-b178-892473cf2ce4-1-1-4"
+  },
+  {
+    "text": "Failing to assess the feasibility of strategies before implementation.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e24ec6f3-46e6-44a6-b178-892473cf2ce4-1-1-5"
+  },
+  {
+    "text": "Misjudging the potential of emerging technologies or trends.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e24ec6f3-46e6-44a6-b178-892473cf2ce4-1-1-6"
+  },
+  {
+    "text": "Allowing personal biases to influence high-level priorities.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e24ec6f3-46e6-44a6-b178-892473cf2ce4-1-1-7"
+  },
+  {
+    "text": "Tactical Decisions = the medium-term decisions aimed at translating strategic goals into specific actions, plans, or initiatives, focusing on optimizing the allocation of resources and processes to achieve strategic objectives effectively.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-cd4f85dc-28d0-47dc-b055-53a6ab662903"
+  },
+  {
+    "text": "How we support such decisions:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d4c188fa-b34b-495e-96c6-aa23f244fbd7"
+  },
+  {
+    "text": "We provide clear guidelines that align tactical decisions with our strategic goals.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-bc889220-99d3-4463-9c73-78077b0f6ea2"
+  },
+  {
+    "text": "We offer decision-making frameworks to help individuals evaluate options effectively.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-bc889220-99d3-4463-9c73-78077b0f6ea2-1"
+  },
+  {
+    "text": "We ensure access to real-time data to support informed choices.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-bc889220-99d3-4463-9c73-78077b0f6ea2-2"
+  },
+  {
+    "text": "We encourage cross-departmental collaboration for broader perspectives.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-bc889220-99d3-4463-9c73-78077b0f6ea2-3"
+  },
+  {
+    "text": "We train our team members in critical thinking and problem-solving skills.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-bc889220-99d3-4463-9c73-78077b0f6ea2-4"
+  },
+  {
+    "text": "We prioritize resource allocation tools that enable optimization of time, budget, and personnel.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-bc889220-99d3-4463-9c73-78077b0f6ea2-5"
+  },
+  {
+    "text": "We use analytics to predict outcomes and guide decision-making.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-bc889220-99d3-4463-9c73-78077b0f6ea2-6"
+  },
+  {
+    "text": "We establish regular check-ins to monitor progress and address challenges early.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-bc889220-99d3-4463-9c73-78077b0f6ea2-7"
+  },
+  {
+    "text": "We reward decision-makers who demonstrate alignment with company objectives.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-bc889220-99d3-4463-9c73-78077b0f6ea2-8"
+  },
+  {
+    "text": "We document and share lessons learned from past decisions to improve future actions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-bc889220-99d3-4463-9c73-78077b0f6ea2-9"
+  },
+  {
+    "text": "Needed for:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d869b838-dc71-4796-a7a9-d6c133c4118c-0-0"
+  },
+  {
+    "text": "Breaking down strategic goals into actionable plans.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d869b838-dc71-4796-a7a9-d6c133c4118c-0-1-0"
+  },
+  {
+    "text": "Planning resource allocation to departments or teams.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d869b838-dc71-4796-a7a9-d6c133c4118c-0-1-1"
+  },
+  {
+    "text": "Designing workflows and systems to meet medium-term goals.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d869b838-dc71-4796-a7a9-d6c133c4118c-0-1-2"
+  },
+  {
+    "text": "Coordinating cross-functional collaboration to ensure alignment.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d869b838-dc71-4796-a7a9-d6c133c4118c-0-1-3"
+  },
+  {
+    "text": "Determining marketing campaigns to target specific audiences.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d869b838-dc71-4796-a7a9-d6c133c4118c-0-1-4"
+  },
+  {
+    "text": "Establishing performance metrics for evaluating effectiveness.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d869b838-dc71-4796-a7a9-d6c133c4118c-0-1-5"
+  },
+  {
+    "text": "Selecting technologies or tools to support strategic execution.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d869b838-dc71-4796-a7a9-d6c133c4118c-0-1-6"
+  },
+  {
+    "text": "Managing budgets and timelines for specific projects.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d869b838-dc71-4796-a7a9-d6c133c4118c-0-1-7"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d869b838-dc71-4796-a7a9-d6c133c4118c-1-0"
+  },
+  {
+    "text": "Overcommitting resources to non-essential initiatives.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d869b838-dc71-4796-a7a9-d6c133c4118c-1-1-0"
+  },
+  {
+    "text": "Misaligning tactical plans with strategic objectives.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d869b838-dc71-4796-a7a9-d6c133c4118c-1-1-1"
+  },
+  {
+    "text": "Misinterpreting strategic priorities due to vague communication.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d869b838-dc71-4796-a7a9-d6c133c4118c-1-1-2"
+  },
+  {
+    "text": "Developing overly complex action plans that hinder execution.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d869b838-dc71-4796-a7a9-d6c133c4118c-1-1-3"
+  },
+  {
+    "text": "Ignoring departmental resource limitations during planning.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d869b838-dc71-4796-a7a9-d6c133c4118c-1-1-4"
+  },
+  {
+    "text": "Rushing decisions without thoroughly analyzing alternatives.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d869b838-dc71-4796-a7a9-d6c133c4118c-1-1-5"
+  },
+  {
+    "text": "Failing to account for dependencies across tactical initiatives.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d869b838-dc71-4796-a7a9-d6c133c4118c-1-1-6"
+  },
+  {
+    "text": "Ignoring the training or development needed for tactical success.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d869b838-dc71-4796-a7a9-d6c133c4118c-1-1-7"
+  },
+  {
+    "text": "Neglecting to monitor the ongoing effectiveness of tactical plans.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-d869b838-dc71-4796-a7a9-d6c133c4118c-1-1-8"
+  },
+  {
+    "text": "Operational Decisions = the short-term, day-to-day decisions that deal with executing tasks, managing workflows, and addressing immediate needs, ensuring that tactical and strategic plans are implemented effectively.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-27de85a0-b269-46f8-bcad-c066cfdfe53b"
+  },
+  {
+    "text": "How we support such decisions:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e27659b4-b54b-40c2-96b1-901f25d29e41"
+  },
+  {
+    "text": "We ensure clear, well-documented processes to guide decision-making at every operational level.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-0c3624bd-3862-4cbd-8da9-a4ace7a1eb6c"
+  },
+  {
+    "text": "We provide employees with access to real-time data and tools to make informed choices quickly.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-0c3624bd-3862-4cbd-8da9-a4ace7a1eb6c-1"
+  },
+  {
+    "text": "We encourage a culture of accountability, empowering individuals to take ownership of their decisions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-0c3624bd-3862-4cbd-8da9-a4ace7a1eb6c-2"
+  },
+  {
+    "text": "We offer ongoing training to keep teams aligned with current best practices and operational standards.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-0c3624bd-3862-4cbd-8da9-a4ace7a1eb6c-3"
+  },
+  {
+    "text": "We maintain open communication channels to allow rapid escalation of issues when necessary.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-0c3624bd-3862-4cbd-8da9-a4ace7a1eb6c-4"
+  },
+  {
+    "text": "We set clear performance metrics to help guide daily decisions and align with broader goals.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-0c3624bd-3862-4cbd-8da9-a4ace7a1eb6c-5"
+  },
+  {
+    "text": "We support autonomy in decision-making while providing managerial oversight when needed.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-0c3624bd-3862-4cbd-8da9-a4ace7a1eb6c-6"
+  },
+  {
+    "text": "We reward proactive problem-solving to reinforce a culture of confident, effective operational decision-making.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-0c3624bd-3862-4cbd-8da9-a4ace7a1eb6c-7"
+  },
+  {
+    "text": "Needed for:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b284544d-edbd-4f9f-be87-6cef99c24158-0-0"
+  },
+  {
+    "text": "Scheduling daily tasks and workforce assignments.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b284544d-edbd-4f9f-be87-6cef99c24158-0-1-0"
+  },
+  {
+    "text": "Resolving immediate customer issues or complaints.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b284544d-edbd-4f9f-be87-6cef99c24158-0-1-1"
+  },
+  {
+    "text": "Handling routine financial transactions or approvals.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b284544d-edbd-4f9f-be87-6cef99c24158-0-1-2"
+  },
+  {
+    "text": "Assigning team responsibilities for ongoing tasks.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b284544d-edbd-4f9f-be87-6cef99c24158-0-1-3"
+  },
+  {
+    "text": "Addressing equipment or system malfunctions in real time.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b284544d-edbd-4f9f-be87-6cef99c24158-0-1-4"
+  },
+  {
+    "text": "Tracking and reporting daily performance metrics.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b284544d-edbd-4f9f-be87-6cef99c24158-0-1-5"
+  },
+  {
+    "text": "Optimizing efficiency in routine activities and processes.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b284544d-edbd-4f9f-be87-6cef99c24158-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b284544d-edbd-4f9f-be87-6cef99c24158-1-0"
+  },
+  {
+    "text": "Rushing daily decisions without considering consequences.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b284544d-edbd-4f9f-be87-6cef99c24158-1-1-0"
+  },
+  {
+    "text": "Ignoring feedback from frontline staff on operational realities.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b284544d-edbd-4f9f-be87-6cef99c24158-1-1-1"
+  },
+  {
+    "text": "Delaying decisions that require immediate action for resolution.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b284544d-edbd-4f9f-be87-6cef99c24158-1-1-2"
+  },
+  {
+    "text": "Neglecting to regularly review and update operational workflows.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b284544d-edbd-4f9f-be87-6cef99c24158-1-1-3"
+  },
+  {
+    "text": "Avoiding delegation, leading to bottlenecks in decision-making.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b284544d-edbd-4f9f-be87-6cef99c24158-1-1-4"
+  },
+  {
+    "text": "Failing to consult relevant data before making routine decisions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b284544d-edbd-4f9f-be87-6cef99c24158-1-1-5"
+  },
+  {
+    "text": "Allowing personal preferences to override efficiency needs.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b284544d-edbd-4f9f-be87-6cef99c24158-1-1-6"
+  },
+  {
+    "text": "Structured Decisions = the type of decisions that are routine, repetitive, and well-defined, often relying on established procedures, rules, or algorithms for resolution. They typically involve clearly defined inputs and outputs, making them straightforward to automate or standardize.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-504f80ae-0c09-4afe-8c11-491e37723b2d"
+  },
+  {
+    "text": "How we support such decisions:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-36fe5e52-5b0c-4a3a-abb1-3d955cf55965"
+  },
+  {
+    "text": "We establish clear procedures and guidelines to streamline decision-making.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-eef3958d-45c4-44a7-bc3b-be7522989a23"
+  },
+  {
+    "text": "We utilize advanced algorithms and software to automate repetitive tasks.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-eef3958d-45c4-44a7-bc3b-be7522989a23-1"
+  },
+  {
+    "text": "We provide training to ensure employees are proficient in applying standard procedures.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-eef3958d-45c4-44a7-bc3b-be7522989a23-2"
+  },
+  {
+    "text": "We maintain a centralized repository of rules and protocols for easy reference.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-eef3958d-45c4-44a7-bc3b-be7522989a23-3"
+  },
+  {
+    "text": "We implement decision-support systems to ensure consistent outcomes.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-eef3958d-45c4-44a7-bc3b-be7522989a23-4"
+  },
+  {
+    "text": "We use analytics to evaluate the effectiveness of standardized decision processes.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-eef3958d-45c4-44a7-bc3b-be7522989a23-5"
+  },
+  {
+    "text": "We offer toolkits and templates to simplify repetitive decision-making tasks.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-eef3958d-45c4-44a7-bc3b-be7522989a23-6"
+  },
+  {
+    "text": "We integrate structured decision frameworks into daily workflows for efficiency.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-eef3958d-45c4-44a7-bc3b-be7522989a23-7"
+  },
+  {
+    "text": "Needed for:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b7c18030-bc91-404e-9dc7-c205f64e435e-0-0"
+  },
+  {
+    "text": "Addressing routine tasks that follow a predictable pattern.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b7c18030-bc91-404e-9dc7-c205f64e435e-0-1-0"
+  },
+  {
+    "text": "Handling well-defined problems with clear solutions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b7c18030-bc91-404e-9dc7-c205f64e435e-0-1-1"
+  },
+  {
+    "text": "Ensuring consistency and efficiency in decision-making processes.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b7c18030-bc91-404e-9dc7-c205f64e435e-0-1-2"
+  },
+  {
+    "text": "Automating decisions with predefined algorithms or software.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b7c18030-bc91-404e-9dc7-c205f64e435e-0-1-3"
+  },
+  {
+    "text": "Reducing errors and variability in standardized processes.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b7c18030-bc91-404e-9dc7-c205f64e435e-0-1-4"
+  },
+  {
+    "text": "Supporting operational-level decision-making in organizations.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b7c18030-bc91-404e-9dc7-c205f64e435e-0-1-5"
+  },
+  {
+    "text": "Implementing solutions in scenarios with complete data.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b7c18030-bc91-404e-9dc7-c205f64e435e-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b7c18030-bc91-404e-9dc7-c205f64e435e-1-0"
+  },
+  {
+    "text": "Overcomplicating simple, rule-based processes unnecessarily.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b7c18030-bc91-404e-9dc7-c205f64e435e-1-1-0"
+  },
+  {
+    "text": "Ignoring predefined rules or procedures during execution.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b7c18030-bc91-404e-9dc7-c205f64e435e-1-1-1"
+  },
+  {
+    "text": "Failing to verify data accuracy before using standard algorithms.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b7c18030-bc91-404e-9dc7-c205f64e435e-1-1-2"
+  },
+  {
+    "text": "Excessively relying on automation without adequate oversight.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b7c18030-bc91-404e-9dc7-c205f64e435e-1-1-3"
+  },
+  {
+    "text": "Neglecting to update decision rules after operational changes.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b7c18030-bc91-404e-9dc7-c205f64e435e-1-1-4"
+  },
+  {
+    "text": "Overlooking exceptions that fall outside predefined parameters.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b7c18030-bc91-404e-9dc7-c205f64e435e-1-1-5"
+  },
+  {
+    "text": "Relying on outdated systems or tools for decision-making.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b7c18030-bc91-404e-9dc7-c205f64e435e-1-1-6"
+  },
+  {
+    "text": "Unstructured Decisions = the type of decisions that are novel, complex, and lack a clear procedure or framework, often requiring judgment, intuition, and creativity to resolve. They involve uncertain or incomplete information, making them less predictable and harder to formalize.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-544a481d-bb6a-45c3-ab87-95135995261b"
+  },
+  {
+    "text": "How we support such decisions:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-874931ed-7178-41fe-a5d8-aa6ff77651f3"
+  },
+  {
+    "text": "We foster a culture of creative problem-solving by encouraging employees to think beyond conventional frameworks.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-23dca994-7271-4d67-ada3-decab395194b"
+  },
+  {
+    "text": "We provide access to a wide range of data and insights, empowering decision-makers with as much context as possible.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-23dca994-7271-4d67-ada3-decab395194b-1"
+  },
+  {
+    "text": "We invest in training programs focused on developing intuition and judgment for complex situations.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-23dca994-7271-4d67-ada3-decab395194b-2"
+  },
+  {
+    "text": "We create cross-functional teams to bring diverse perspectives and expertise to novel problems.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-23dca994-7271-4d67-ada3-decab395194b-3"
+  },
+  {
+    "text": "We encourage calculated risk-taking and treat failures as opportunities for learning.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-23dca994-7271-4d67-ada3-decab395194b-4"
+  },
+  {
+    "text": "We use advanced analytics and AI tools to fill gaps in incomplete or uncertain information.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-23dca994-7271-4d67-ada3-decab395194b-5"
+  },
+  {
+    "text": "We give employees the autonomy to experiment with innovative approaches and solutions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-23dca994-7271-4d67-ada3-decab395194b-6"
+  },
+  {
+    "text": "We encourage scenario planning and “what-if” analyses to navigate uncertain situations effectively.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-23dca994-7271-4d67-ada3-decab395194b-7"
+  },
+  {
+    "text": "Needed for:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-168fd7d5-4e35-454d-9deb-a9cec04a2210-0-0"
+  },
+  {
+    "text": "Tackling complex, unique problems without predefined solutions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-168fd7d5-4e35-454d-9deb-a9cec04a2210-0-1-0"
+  },
+  {
+    "text": "Evaluating situations with unclear or conflicting information.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-168fd7d5-4e35-454d-9deb-a9cec04a2210-0-1-1"
+  },
+  {
+    "text": "Adapting to dynamic environments or rapidly changing conditions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-168fd7d5-4e35-454d-9deb-a9cec04a2210-0-1-2"
+  },
+  {
+    "text": "Addressing strategic-level issues that impact long-term goals.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-168fd7d5-4e35-454d-9deb-a9cec04a2210-0-1-3"
+  },
+  {
+    "text": "Developing innovative solutions for unprecedented challenges.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-168fd7d5-4e35-454d-9deb-a9cec04a2210-0-1-4"
+  },
+  {
+    "text": "Involving collaborative input from experts or stakeholders.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-168fd7d5-4e35-454d-9deb-a9cec04a2210-0-1-5"
+  },
+  {
+    "text": "Navigating high-risk situations with uncertain outcomes.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-168fd7d5-4e35-454d-9deb-a9cec04a2210-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-168fd7d5-4e35-454d-9deb-a9cec04a2210-1-0"
+  },
+  {
+    "text": "Underestimating the complexity of the problem at hand.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-168fd7d5-4e35-454d-9deb-a9cec04a2210-1-1-0"
+  },
+  {
+    "text": "Assuming past experiences apply directly to new problems.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-168fd7d5-4e35-454d-9deb-a9cec04a2210-1-1-1"
+  },
+  {
+    "text": "Failing to allocate sufficient time for thorough evaluation.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-168fd7d5-4e35-454d-9deb-a9cec04a2210-1-1-2"
+  },
+  {
+    "text": "Ignoring the need for collaboration or diverse perspectives.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-168fd7d5-4e35-454d-9deb-a9cec04a2210-1-1-3"
+  },
+  {
+    "text": "Over-relying on intuition without considering available evidence.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-168fd7d5-4e35-454d-9deb-a9cec04a2210-1-1-4"
+  },
+  {
+    "text": "Failing to reassess decisions when new information is available.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-168fd7d5-4e35-454d-9deb-a9cec04a2210-1-1-5"
+  },
+  {
+    "text": "Avoiding proactive planning, leading to reactive decision-making.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-168fd7d5-4e35-454d-9deb-a9cec04a2210-1-1-6"
+  },
+  {
+    "text": "Allowing emotional reactions to overshadow rational judgment.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-168fd7d5-4e35-454d-9deb-a9cec04a2210-1-1-7"
+  },
+  {
+    "text": "Maximizing Decisions = the type of decisions that aim to achieve the best possible outcome by thoroughly analyzing and comparing all available options to identify the most advantageous choice.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-23ac264d-8ca5-4dce-8c1d-a7ad4cfae53c"
+  },
+  {
+    "text": "How we support such decisions:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-247c4147-3d83-40eb-9ada-a93db1c5c4d6"
+  },
+  {
+    "text": "We prioritize data-driven decision-making by providing access to robust analytics tools.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-845876e3-0649-4750-ae28-d091025df0e2"
+  },
+  {
+    "text": "We invest in training to enhance employees' critical thinking and problem-solving skills.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-845876e3-0649-4750-ae28-d091025df0e2-1"
+  },
+  {
+    "text": "We provide comprehensive market research to support informed evaluations.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-845876e3-0649-4750-ae28-d091025df0e2-2"
+  },
+  {
+    "text": "We utilize advanced decision-support software to streamline complex comparisons.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-845876e3-0649-4750-ae28-d091025df0e2-3"
+  },
+  {
+    "text": "We create frameworks and templates for systematic evaluation of alternatives.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-845876e3-0649-4750-ae28-d091025df0e2-4"
+  },
+  {
+    "text": "We support team-based decision-making to leverage diverse perspectives.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-845876e3-0649-4750-ae28-d091025df0e2-5"
+  },
+  {
+    "text": "We encourage experimentation and pilot testing to reduce uncertainty in major decisions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-845876e3-0649-4750-ae28-d091025df0e2-6"
+  },
+  {
+    "text": "We promote the use of scenario planning to anticipate potential outcomes.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-845876e3-0649-4750-ae28-d091025df0e2-7"
+  },
+  {
+    "text": "Needed for:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-82e0db92-ed74-43a7-a15b-8b4428e9d231-0-0"
+  },
+  {
+    "text": "Ensuring the best possible outcome in high-stakes scenarios.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-82e0db92-ed74-43a7-a15b-8b4428e9d231-0-1-0"
+  },
+  {
+    "text": "Addressing problems where precision and accuracy are critical.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-82e0db92-ed74-43a7-a15b-8b4428e9d231-0-1-1"
+  },
+  {
+    "text": "Solving problems that require extensive analysis and forecasting.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-82e0db92-ed74-43a7-a15b-8b4428e9d231-0-1-2"
+  },
+  {
+    "text": "Making strategic choices that involve significant investments.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-82e0db92-ed74-43a7-a15b-8b4428e9d231-0-1-3"
+  },
+  {
+    "text": "Designing systems or solutions for efficiency or performance.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-82e0db92-ed74-43a7-a15b-8b4428e9d231-0-1-4"
+  },
+  {
+    "text": "Pursuing opportunities where small outcome differences matter.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-82e0db92-ed74-43a7-a15b-8b4428e9d231-0-1-5"
+  },
+  {
+    "text": "Ignoring past successful decisions for guidance or benchmarks.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-82e0db92-ed74-43a7-a15b-8b4428e9d231-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-82e0db92-ed74-43a7-a15b-8b4428e9d231-1-0"
+  },
+  {
+    "text": "Overanalyzing options, leading to decision paralysis.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-82e0db92-ed74-43a7-a15b-8b4428e9d231-1-1-0"
+  },
+  {
+    "text": "Struggling to prioritize key factors over minor details.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-82e0db92-ed74-43a7-a15b-8b4428e9d231-1-1-1"
+  },
+  {
+    "text": "Neglecting to set clear criteria for evaluating options.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-82e0db92-ed74-43a7-a15b-8b4428e9d231-1-1-2"
+  },
+  {
+    "text": "Spending time gathering information with diminishing value.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-82e0db92-ed74-43a7-a15b-8b4428e9d231-1-1-3"
+  },
+  {
+    "text": "Ignoring practical constraints like time, budget, or resources.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-82e0db92-ed74-43a7-a15b-8b4428e9d231-1-1-4"
+  },
+  {
+    "text": "Assuming that more analysis always leads to a better decision.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-82e0db92-ed74-43a7-a15b-8b4428e9d231-1-1-5"
+  },
+  {
+    "text": "Satisficing Decisions = the type of decisions that aim to meet a specific standard or requirement by selecting the first option that satisfies the criteria, without seeking the best possible choice.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-80251053-6639-42e4-b510-039c0140b8ba"
+  },
+  {
+    "text": "How we support such decisions:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-49e695ce-0c1a-451d-8a4b-9bb19c59467c"
+  },
+  {
+    "text": "We prioritize speed and efficiency over exhaustive analysis when time is of the essence.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-21f6ef70-aebf-4009-bdd7-ec95bd86d869"
+  },
+  {
+    "text": "We provide decision-making frameworks that emphasize \"good enough\" solutions rather than perfection.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-21f6ef70-aebf-4009-bdd7-ec95bd86d869-1"
+  },
+  {
+    "text": "We invest in tools that offer quick access to relevant data to support satisficing decisions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-21f6ef70-aebf-4009-bdd7-ec95bd86d869-2"
+  },
+  {
+    "text": "We train teams to focus on achieving acceptable outcomes within deadlines.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-21f6ef70-aebf-4009-bdd7-ec95bd86d869-3"
+  },
+  {
+    "text": "We recognize and reward decisions that meet objectives, even if they aren't optimal.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-21f6ef70-aebf-4009-bdd7-ec95bd86d869-4"
+  },
+  {
+    "text": "We empower employees to act autonomously within pre-defined guidelines.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-21f6ef70-aebf-4009-bdd7-ec95bd86d869-5"
+  },
+  {
+    "text": "We foster a culture where making a timely decision is valued over delaying for a potentially better one.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-21f6ef70-aebf-4009-bdd7-ec95bd86d869-6"
+  },
+  {
+    "text": "We evaluate satisficing decisions based on outcomes rather than hypothetical alternatives.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-21f6ef70-aebf-4009-bdd7-ec95bd86d869-7"
+  },
+  {
+    "text": "Needed for:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3d345e20-ec58-4dc1-8cb0-15343eb4c424-0-0"
+  },
+  {
+    "text": "Prioritizing efficiency over thoroughness in fast-paced contexts.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3d345e20-ec58-4dc1-8cb0-15343eb4c424-0-1-0"
+  },
+  {
+    "text": "Reducing effort in situations with limited resources or energy.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3d345e20-ec58-4dc1-8cb0-15343eb4c424-0-1-1"
+  },
+  {
+    "text": "Addressing decisions with minimal consequences or low stakes.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3d345e20-ec58-4dc1-8cb0-15343eb4c424-0-1-2"
+  },
+  {
+    "text": "Making decisions with incomplete or uncertain information.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3d345e20-ec58-4dc1-8cb0-15343eb4c424-0-1-3"
+  },
+  {
+    "text": "Simplifying decision-making for routine or repetitive tasks.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3d345e20-ec58-4dc1-8cb0-15343eb4c424-0-1-4"
+  },
+  {
+    "text": "Adapting to situations where analysis costs outweigh the benefits.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3d345e20-ec58-4dc1-8cb0-15343eb4c424-0-1-5"
+  },
+  {
+    "text": "Preventing decision fatigue when faced with too many options.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3d345e20-ec58-4dc1-8cb0-15343eb4c424-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3d345e20-ec58-4dc1-8cb0-15343eb4c424-1-0"
+  },
+  {
+    "text": "Defining vague or unclear criteria for an acceptable option.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3d345e20-ec58-4dc1-8cb0-15343eb4c424-1-1-0"
+  },
+  {
+    "text": "Rushing the decision without considering viable alternatives.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3d345e20-ec58-4dc1-8cb0-15343eb4c424-1-1-1"
+  },
+  {
+    "text": "Ignoring critical information due to a focus on speed or ease.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3d345e20-ec58-4dc1-8cb0-15343eb4c424-1-1-2"
+  },
+  {
+    "text": "Neglecting long-term consequences for short-term convenience.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3d345e20-ec58-4dc1-8cb0-15343eb4c424-1-1-3"
+  },
+  {
+    "text": "Allowing cognitive biases to overly influence the decision.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3d345e20-ec58-4dc1-8cb0-15343eb4c424-1-1-4"
+  },
+  {
+    "text": "Skipping steps in the decision-making process, causing errors.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3d345e20-ec58-4dc1-8cb0-15343eb4c424-1-1-5"
+  },
+  {
+    "text": "Using satisficing for critical decisions needing deeper analysis.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3d345e20-ec58-4dc1-8cb0-15343eb4c424-1-1-6"
+  },
+  {
+    "text": "Major Decisions = the high-impact decisions that significantly influence outcomes, involve substantial consequences, and require careful consideration due to their long-term or far-reaching effects.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e8ee99ff-6af5-4942-ad16-f927ab3907fc"
+  },
+  {
+    "text": "How we support such decisions:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-c31d6ac3-acb7-4cdf-b6af-ca754d10397e"
+  },
+  {
+    "text": "We prioritize clarity by providing individuals with all relevant data and insights to make informed decisions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-76c8bbe2-ebbc-4ae5-8946-f23d183eed08"
+  },
+  {
+    "text": "We empower decision-makers with access to advanced analytics and predictive tools to assess potential outcomes.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-76c8bbe2-ebbc-4ae5-8946-f23d183eed08-1"
+  },
+  {
+    "text": "We foster a culture of accountability, ensuring everyone understands the weight and impact of their choices.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-76c8bbe2-ebbc-4ae5-8946-f23d183eed08-2"
+  },
+  {
+    "text": "We encourage collaboration by connecting individuals with subject matter experts and cross-functional teams.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-76c8bbe2-ebbc-4ae5-8946-f23d183eed08-3"
+  },
+  {
+    "text": "We invest in continuous training to enhance decision-making skills and strategic thinking.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-76c8bbe2-ebbc-4ae5-8946-f23d183eed08-4"
+  },
+  {
+    "text": "We define clear decision-making frameworks to guide individuals through complex scenarios.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-76c8bbe2-ebbc-4ae5-8946-f23d183eed08-5"
+  },
+  {
+    "text": "We ensure transparency in decision-making, allowing lessons learned to be shared across the organization.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-76c8bbe2-ebbc-4ae5-8946-f23d183eed08-6"
+  },
+  {
+    "text": "Needed for:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-1381ff22-0b57-48d7-965c-1e9a50a9e0b6-0-0"
+  },
+  {
+    "text": "Defining the overall direction or purpose of a project or initiative.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-1381ff22-0b57-48d7-965c-1e9a50a9e0b6-0-1-0"
+  },
+  {
+    "text": "Setting long-term goals to guide efforts and resource allocation.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-1381ff22-0b57-48d7-965c-1e9a50a9e0b6-0-1-1"
+  },
+  {
+    "text": "Tackling key challenges or opportunities with broad implications.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-1381ff22-0b57-48d7-965c-1e9a50a9e0b6-0-1-2"
+  },
+  {
+    "text": "Mitigating risks that could jeopardize success or sustainability.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-1381ff22-0b57-48d7-965c-1e9a50a9e0b6-0-1-3"
+  },
+  {
+    "text": "Assessing scenarios with major impact and irreversible outcomes.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-1381ff22-0b57-48d7-965c-1e9a50a9e0b6-0-1-4"
+  },
+  {
+    "text": "Coordinating efforts across multiple stakeholders or departments.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-1381ff22-0b57-48d7-965c-1e9a50a9e0b6-0-1-5"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-1381ff22-0b57-48d7-965c-1e9a50a9e0b6-1-0"
+  },
+  {
+    "text": "Overlooking long-term consequences in favor of short-term gains.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-1381ff22-0b57-48d7-965c-1e9a50a9e0b6-1-1-0"
+  },
+  {
+    "text": "Ignoring input from key stakeholders or affected parties.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-1381ff22-0b57-48d7-965c-1e9a50a9e0b6-1-1-1"
+  },
+  {
+    "text": "Failing to align the decision with overarching goals or strategies.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-1381ff22-0b57-48d7-965c-1e9a50a9e0b6-1-1-2"
+  },
+  {
+    "text": "Delaying decisions excessively, leading to missed opportunities.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-1381ff22-0b57-48d7-965c-1e9a50a9e0b6-1-1-3"
+  },
+  {
+    "text": "Adding unnecessary layers to the decision-making process.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-1381ff22-0b57-48d7-965c-1e9a50a9e0b6-1-1-4"
+  },
+  {
+    "text": "Relying solely on intuition without supporting evidence or rationale.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-1381ff22-0b57-48d7-965c-1e9a50a9e0b6-1-1-5"
+  },
+  {
+    "text": "Minor Decisions = the moderate-impact decisions that address specific situations, involve limited consequences, and typically focus on outcomes with a narrower scope or localized effects.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-df9d7c0f-fac2-41ff-b318-f81538debc76"
+  },
+  {
+    "text": "How we support such decisions:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-8ad98886-c9a8-42d7-b4df-5acd31a177a6"
+  },
+  {
+    "text": "We provide clear guidelines to streamline decision-making processes for specific scenarios.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-ca9c61f7-7017-4ce8-8f0f-303ec3549ac9"
+  },
+  {
+    "text": "We empower teams with autonomy to address localized challenges effectively.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-ca9c61f7-7017-4ce8-8f0f-303ec3549ac9-1"
+  },
+  {
+    "text": "We encourage quick action by establishing pre-approved parameters for minor decisions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-ca9c61f7-7017-4ce8-8f0f-303ec3549ac9-2"
+  },
+  {
+    "text": "We foster a culture of accountability, where individuals feel responsible for their choices.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-ca9c61f7-7017-4ce8-8f0f-303ec3549ac9-3"
+  },
+  {
+    "text": "We offer access to data and insights to help make informed decisions promptly.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-ca9c61f7-7017-4ce8-8f0f-303ec3549ac9-4"
+  },
+  {
+    "text": "We implement lightweight approval processes to maintain agility without unnecessary bottlenecks.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-ca9c61f7-7017-4ce8-8f0f-303ec3549ac9-5"
+  },
+  {
+    "text": "We utilize tools and platforms that simplify the evaluation of options and outcomes.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-ca9c61f7-7017-4ce8-8f0f-303ec3549ac9-6"
+  },
+  {
+    "text": "Needed for:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-56507a11-6c4b-4817-a6b1-2f19d9e54bfb-0-0"
+  },
+  {
+    "text": "Managing specific areas or functions within an ongoing process.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-56507a11-6c4b-4817-a6b1-2f19d9e54bfb-0-1-0"
+  },
+  {
+    "text": "Implementing solutions for short-term issues or inefficiencies.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-56507a11-6c4b-4817-a6b1-2f19d9e54bfb-0-1-1"
+  },
+  {
+    "text": "Approving adjustments or optimizations within a defined scope.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-56507a11-6c4b-4817-a6b1-2f19d9e54bfb-0-1-2"
+  },
+  {
+    "text": "Balancing resources or schedules for a localized activity.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-56507a11-6c4b-4817-a6b1-2f19d9e54bfb-0-1-3"
+  },
+  {
+    "text": "Delegating tasks or responsibilities to team members effectively.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-56507a11-6c4b-4817-a6b1-2f19d9e54bfb-0-1-4"
+  },
+  {
+    "text": "Coordinating logistics for specific events or deliverables.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-56507a11-6c4b-4817-a6b1-2f19d9e54bfb-0-1-5"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-56507a11-6c4b-4817-a6b1-2f19d9e54bfb-1-0"
+  },
+  {
+    "text": "Failing to consider the broader context of the decision.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-56507a11-6c4b-4817-a6b1-2f19d9e54bfb-1-1-0"
+  },
+  {
+    "text": "Making decisions too quickly without considering alternatives.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-56507a11-6c4b-4817-a6b1-2f19d9e54bfb-1-1-1"
+  },
+  {
+    "text": "Underestimating a decision's impact on other processes.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-56507a11-6c4b-4817-a6b1-2f19d9e54bfb-1-1-2"
+  },
+  {
+    "text": "Failing to communicate decisions effectively, causing confusion.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-56507a11-6c4b-4817-a6b1-2f19d9e54bfb-1-1-3"
+  },
+  {
+    "text": "Not reviewing past outcomes to inform similar decisions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-56507a11-6c4b-4817-a6b1-2f19d9e54bfb-1-1-4"
+  },
+  {
+    "text": "Overanalyzing small decisions, delaying progress.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-56507a11-6c4b-4817-a6b1-2f19d9e54bfb-1-1-5"
+  },
+  {
+    "text": "Micro Decisions = the low-impact, immediate decisions made in real-time, often routine or subconscious, that contribute incrementally to larger actions or goals.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-57772410-7027-473b-803e-5da755c15876"
+  },
+  {
+    "text": "How we support such decisions:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-0d940dbe-9c0b-4cc2-9810-cb754b481382"
+  },
+  {
+    "text": "We prioritize accessible tools and resources to streamline decision-making in routine scenarios.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e4b89866-9c3a-4178-8273-af32753c28d2"
+  },
+  {
+    "text": "We train employees to align their micro-decisions with our overarching business goals and priorities.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e4b89866-9c3a-4178-8273-af32753c28d2-1"
+  },
+  {
+    "text": "We implement intuitive workflows that reduce cognitive load, allowing for quick, effective decisions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e4b89866-9c3a-4178-8273-af32753c28d2-2"
+  },
+  {
+    "text": "We provide feedback loops for routine decisions, enabling continuous improvement over time.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e4b89866-9c3a-4178-8273-af32753c28d2-3"
+  },
+  {
+    "text": "We simplify processes to reduce friction and ensure that micro-decisions don’t become bottlenecks.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e4b89866-9c3a-4178-8273-af32753c28d2-4"
+  },
+  {
+    "text": "We ensure clarity in roles so individuals know what decisions they are empowered to make.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e4b89866-9c3a-4178-8273-af32753c28d2-5"
+  },
+  {
+    "text": "We create a library of best practices for common scenarios to serve as reference points.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-e4b89866-9c3a-4178-8273-af32753c28d2-6"
+  },
+  {
+    "text": "Needed for:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-5d4aa296-91f4-4270-8164-2558526b1305-0-0"
+  },
+  {
+    "text": "Deciding on the sequence of actions within a task.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-5d4aa296-91f4-4270-8164-2558526b1305-0-1-0"
+  },
+  {
+    "text": "Adapting actions in real-time to feedback or circumstances.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-5d4aa296-91f4-4270-8164-2558526b1305-0-1-1"
+  },
+  {
+    "text": "Making incremental adjustments to improve during work.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-5d4aa296-91f4-4270-8164-2558526b1305-0-1-2"
+  },
+  {
+    "text": "Prioritizing subtasks or steps based on situational needs.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-5d4aa296-91f4-4270-8164-2558526b1305-0-1-3"
+  },
+  {
+    "text": "Recognizing and mitigating minor risks before they escalate.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-5d4aa296-91f4-4270-8164-2558526b1305-0-1-4"
+  },
+  {
+    "text": "Reacting to minor interruptions or unexpected developments.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-5d4aa296-91f4-4270-8164-2558526b1305-0-1-5"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-5d4aa296-91f4-4270-8164-2558526b1305-1-0"
+  },
+  {
+    "text": "Acting impulsively without considering the context or needs.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-5d4aa296-91f4-4270-8164-2558526b1305-1-1-0"
+  },
+  {
+    "text": "Ignoring feedback or cues that require real-time adjustments.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-5d4aa296-91f4-4270-8164-2558526b1305-1-1-1"
+  },
+  {
+    "text": "Overthinking simple choices, leading to inefficiencies.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-5d4aa296-91f4-4270-8164-2558526b1305-1-1-2"
+  },
+  {
+    "text": "Losing sight of larger objectives by focusing too much on details.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-5d4aa296-91f4-4270-8164-2558526b1305-1-1-3"
+  },
+  {
+    "text": "Relying on routine actions without considering improvements.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-5d4aa296-91f4-4270-8164-2558526b1305-1-1-4"
+  },
+  {
+    "text": "Allowing subconscious biases to influence habitual decisions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-5d4aa296-91f4-4270-8164-2558526b1305-1-1-5"
+  },
+  {
+    "text": "Individual Decisions = the choices made by a single person, based on their personal judgment, knowledge, and preferences, without direct input or collaboration from others.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-41aa1144-a107-49e9-adc4-1c758ed5dd70"
+  },
+  {
+    "text": "How we support such decisions:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-71ad21d4-7184-4dcd-8a1a-2066d8e85c0d"
+  },
+  {
+    "text": "We empower individuals with access to relevant data and tools to make informed decisions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-ff59984e-f04d-4294-af60-ffbb5dde64ca"
+  },
+  {
+    "text": "We trust our team members to exercise their expertise in areas where they have the most knowledge.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-ff59984e-f04d-4294-af60-ffbb5dde64ca-1"
+  },
+  {
+    "text": "We encourage decisive action by streamlining approval processes for low-risk decisions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-ff59984e-f04d-4294-af60-ffbb5dde64ca-2"
+  },
+  {
+    "text": "We provide clear frameworks and guidelines to help align individual choices with company goals.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-ff59984e-f04d-4294-af60-ffbb5dde64ca-3"
+  },
+  {
+    "text": "We celebrate autonomy by recognizing and rewarding successful independent decisions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-ff59984e-f04d-4294-af60-ffbb5dde64ca-4"
+  },
+  {
+    "text": "We create a culture of accountability, where individuals take ownership of their outcomes.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-ff59984e-f04d-4294-af60-ffbb5dde64ca-5"
+  },
+  {
+    "text": "We ensure transparency in expectations, so team members understand their decision-making boundaries.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-ff59984e-f04d-4294-af60-ffbb5dde64ca-6"
+  },
+  {
+    "text": "Needed for:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3e4ead7e-d914-402b-a0cc-bf1cc1342c21-0-0"
+  },
+  {
+    "text": "Managing tasks with limited scope or minor impact.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3e4ead7e-d914-402b-a0cc-bf1cc1342c21-0-1-0"
+  },
+  {
+    "text": "Reacting to emergencies where immediate action is required.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3e4ead7e-d914-402b-a0cc-bf1cc1342c21-0-1-1"
+  },
+  {
+    "text": "Empowering individuals with specialized expertise or authority.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3e4ead7e-d914-402b-a0cc-bf1cc1342c21-0-1-2"
+  },
+  {
+    "text": "Avoiding delays from group coordination or consensus-building.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3e4ead7e-d914-402b-a0cc-bf1cc1342c21-0-1-3"
+  },
+  {
+    "text": "Assuming responsibility in roles requiring individual authority.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3e4ead7e-d914-402b-a0cc-bf1cc1342c21-0-1-4"
+  },
+  {
+    "text": "Showing leadership by making clear and decisive choices.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3e4ead7e-d914-402b-a0cc-bf1cc1342c21-0-1-5"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3e4ead7e-d914-402b-a0cc-bf1cc1342c21-1-0"
+  },
+  {
+    "text": "Relying solely on intuition without analyzing facts or data.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3e4ead7e-d914-402b-a0cc-bf1cc1342c21-1-1-0"
+  },
+  {
+    "text": "Overestimating one's knowledge or expertise on complex issues.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3e4ead7e-d914-402b-a0cc-bf1cc1342c21-1-1-1"
+  },
+  {
+    "text": "Letting personal biases overly influence the decision.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3e4ead7e-d914-402b-a0cc-bf1cc1342c21-1-1-2"
+  },
+  {
+    "text": "Avoiding input from others that could enhance outcomes.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3e4ead7e-d914-402b-a0cc-bf1cc1342c21-1-1-3"
+  },
+  {
+    "text": "Taking responsibility for decisions meant for group accountability.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3e4ead7e-d914-402b-a0cc-bf1cc1342c21-1-1-4"
+  },
+  {
+    "text": "Misjudging the impact of individual choices on group dynamics.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3e4ead7e-d914-402b-a0cc-bf1cc1342c21-1-1-5"
+  },
+  {
+    "text": "Group Decisions = the choices made collectively by a team or group of individuals, typically involving discussion, negotiation, and consensus-building to arrive at a shared conclusion.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-f679cbf9-ca7f-42ee-9d15-7f0748cec959"
+  },
+  {
+    "text": "How we support such decisions:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-2f759671-634f-4862-85e2-8b34a2dddbb1"
+  },
+  {
+    "text": "We prioritize clear frameworks to guide group decision-making, ensuring discussions stay focused and productive.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b72e5b1c-e9aa-4b87-a6b3-9378add106d7"
+  },
+  {
+    "text": "We provide training on effective communication and negotiation to equip individuals with the skills needed for consensus-building.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b72e5b1c-e9aa-4b87-a6b3-9378add106d7-1"
+  },
+  {
+    "text": "We emphasize the importance of defined roles, ensuring everyone understands their contributions to the decision-making process.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b72e5b1c-e9aa-4b87-a6b3-9378add106d7-2"
+  },
+  {
+    "text": "We implement structured decision-making processes, such as assigning moderators or using decision matrices, to streamline outcomes.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b72e5b1c-e9aa-4b87-a6b3-9378add106d7-3"
+  },
+  {
+    "text": "We invest in collaboration technologies that simplify sharing ideas and tracking input from all team members.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b72e5b1c-e9aa-4b87-a6b3-9378add106d7-4"
+  },
+  {
+    "text": "We celebrate and reward collective achievements, reinforcing the value of working together to reach decisions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b72e5b1c-e9aa-4b87-a6b3-9378add106d7-5"
+  },
+  {
+    "text": "We offer clarity on goals and expectations, aligning the group’s focus toward a shared vision before discussions begin.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b72e5b1c-e9aa-4b87-a6b3-9378add106d7-6"
+  },
+  {
+    "text": "We promote accountability by assigning clear ownership for decisions and ensuring follow-through.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-b72e5b1c-e9aa-4b87-a6b3-9378add106d7-7"
+  },
+  {
+    "text": "Needed for:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3b7de238-b174-4c40-936f-f4b0f02f849e-0-0"
+  },
+  {
+    "text": "Addressing complex problems that require collective expertise.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3b7de238-b174-4c40-936f-f4b0f02f849e-0-1-0"
+  },
+  {
+    "text": "Mitigating bias by balancing input from varied viewpoints.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3b7de238-b174-4c40-936f-f4b0f02f849e-0-1-1"
+  },
+  {
+    "text": "Sharing accountability for decisions with widespread implications.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3b7de238-b174-4c40-936f-f4b0f02f849e-0-1-2"
+  },
+  {
+    "text": "Reducing resistance by involving those impacted in the process.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3b7de238-b174-4c40-936f-f4b0f02f849e-0-1-3"
+  },
+  {
+    "text": "Planning large-scale events or initiatives requiring coordination.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3b7de238-b174-4c40-936f-f4b0f02f849e-0-1-4"
+  },
+  {
+    "text": "Establishing team norms or guidelines for effective collaboration.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3b7de238-b174-4c40-936f-f4b0f02f849e-0-1-5"
+  },
+  {
+    "text": "Addressing ethical dilemmas where consensus is essential.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3b7de238-b174-4c40-936f-f4b0f02f849e-0-1-6"
+  },
+  {
+    "text": "Mistakes:",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3b7de238-b174-4c40-936f-f4b0f02f849e-1-0"
+  },
+  {
+    "text": "Focusing too much on achieving consensus, leading to groupthink.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3b7de238-b174-4c40-936f-f4b0f02f849e-1-1-0"
+  },
+  {
+    "text": "Ignoring time constraints and delaying the process unnecessarily.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3b7de238-b174-4c40-936f-f4b0f02f849e-1-1-1"
+  },
+  {
+    "text": "Allowing unclear roles or responsibilities to confuse the process.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3b7de238-b174-4c40-936f-f4b0f02f849e-1-1-2"
+  },
+  {
+    "text": "Letting interpersonal conflicts derail productive discussions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3b7de238-b174-4c40-936f-f4b0f02f849e-1-1-3"
+  },
+  {
+    "text": "Misjudging group’s capacity to handle certain complex decisions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3b7de238-b174-4c40-936f-f4b0f02f849e-1-1-4"
+  },
+  {
+    "text": "Ignoring individual expertise in favor of collective agreement.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3b7de238-b174-4c40-936f-f4b0f02f849e-1-1-5"
+  },
+  {
+    "text": "Allowing dominant voices to suppress differing opinions.",
+    "type": "contentBlock",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051#search-3b7de238-b174-4c40-936f-f4b0f02f849e-1-1-6"
+  },
+  {
+    "text": "Types of Decisions",
+    "type": "pageTitle",
+    "pageName": "Types of Decisions",
+    "category": "Coordination / Types of Decisions",
+    "keywords": "Coordination / Types of Decisions",
+    "url": "../html/types-of-decisions-fIMYR051-fIMYR051"
   },
   {
     "text": "Note: This is demo content for a fictional SaaS company.",

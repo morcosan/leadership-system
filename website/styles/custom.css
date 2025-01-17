@@ -136,6 +136,9 @@
             }
         }
 
+        & .tabs-as-columns {
+            row-gap: calc(var(--contentBlockGap) / 1.5);
+        }
     }
 
     & blockquote {
