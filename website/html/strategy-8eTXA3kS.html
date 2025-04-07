@@ -1065,6 +1065,18 @@
 									</div>
 								</div>
 
+								<!-- 100% privacy-first analytics -->
+								<script
+									data-collect-dnt="true"
+									async
+									src="https://scripts.simpleanalyticscdn.com/latest.js"
+								></script>
+								<noscript
+									><img
+										src="https://queue.simpleanalyticscdn.com/noscript.gif?collect-dnt=true"
+										alt=""
+										referrerpolicy="no-referrer-when-downgrade"
+								/></noscript>
 								<div class="container-footer small">
 									<div class="slider">
 										<p class="text-muted">© 2025 Leadership System. Page last updated on Jan 4, 2025, 17:00</p>
@@ -1155,41 +1167,7 @@
 				$("input[data-toggle='list-search']").on('keyup', function () {
 					searchInList($(this), $(this).attr('data-list-id'))
 				})
-
-				if (window.CookieConsent !== undefined && typeof window.CookieConsent === 'function') {
-					const cookieConsent = new CookieConsent({
-						content: {
-							title: '🍪 Cookie settings',
-							body: 'We use cookies to personalize content and analyze traffic to our documentation.',
-						},
-						postSelectionCallback: () => {
-							initGoogleAnalytics()
-						},
-					})
-				} else {
-					console.log('Showing Cookie Consent was blocked by browser')
-				}
 			})
 		</script>
-
-		<!-- Google Analytics -->
-		<script>
-			function initGoogleAnalytics() {
-				let gtagScript = document.createElement('script')
-				gtagScript.setAttribute('src', 'https://www.googletagmanager.com/gtag/js?id=G-8PB4EN34V6')
-				document.body.appendChild(gtagScript)
-				window.dataLayer = window.dataLayer || []
-				function gtag() {
-					dataLayer.push(arguments)
-				}
-				gtag('js', new Date())
-				gtag('config', 'G-8PB4EN34V6')
-			}
-
-			if (getCookieValue('cookie-consent-tracking-allowed') === 'true') {
-				initGoogleAnalytics()
-			}
-		</script>
-		<!-- End Google Analytics -->
 	</body>
 </html>

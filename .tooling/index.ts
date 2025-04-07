@@ -1,6 +1,9 @@
 import fs from 'fs'
 import { getFilePathsFromDir } from './_utils'
 
+const ANALYTICS_SCRIPT_1 = `https://scripts.simpleanalyticscdn.com/latest.js`
+const ANALYTICS_SCRIPT_2 = `https://queue.simpleanalyticscdn.com/noscript.gif?collect-dnt=true`
+
 const fixHtml = () => {
 	const filePaths = [...getFilePathsFromDir('./website/html'), './website/index.html']
 	let homePath = ''
@@ -14,7 +17,7 @@ const fixHtml = () => {
 
 		code = code // Fix Supernova code
 			.replace(/<div class="container-footer small" "="">/g, '<div class="container-footer small">')
-			.replace(/<script src="\.+\/scripts\/sandbox_v10.js"><\/script>/g, '')
+			.replace(/<script src="\.+\/scripts\/sandbox_v13.js"><\/script>/g, '')
 			.replace(/fuse.js@6.5.3/g, 'fuse.js')
 			.replace(/\sconst versionUrl =/g, `//const versionUrl =`)
 			.replace(/\sloadVersions\(versionUrl\)/g, `//loadVersions(versionUrl)`)
@@ -26,6 +29,8 @@ const fixHtml = () => {
 			.replace(/"og:url" content="\/latest\//g, `"og:url" content="../html/`)
 			.replace(/"twitter:url" content="\/latest\/.*\//g, `"twitter:url" content="../html/`)
 			.replace(/"twitter:url" content="\/latest\//g, `"twitter:url" content="../html/`)
+			.replace(/\.\.\/scripts\/latest\.js/g, ANALYTICS_SCRIPT_1)
+			.replace(/\.\.\/images\/noscript\.gif/g, ANALYTICS_SCRIPT_2)
 
 		code = code // Fix WebPageDownloader paths
 			.replace(/href="\/css2"/g, `href="../styles/css2.css"`)
@@ -70,6 +75,7 @@ const renameFiles = () => {
 
 const deleteFiles = () => {
 	fs.unlink('./website/scripts/.js', () => {})
+	fs.unlink('./website/scripts/latest.js', () => {})
 }
 
 const copyAssets = () => {
